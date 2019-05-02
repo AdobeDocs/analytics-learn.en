@@ -15,7 +15,6 @@ user-guide: null
 + [Using best practices when tracking SPA in Adobe Analytics](using/spa-analytics-best-practices-feature-video-use.md)
 + [Positive-Negative Map Theme in Analysis Workspace](using/positive-negative-map-theme-analysis-workspace-feature-video-use.md)
 + [Implementing Tracking Templates from Advertising Analytics into Search Engines](using/advertising-analytics-tracking-template-feature-video-implement.md)
-+ [index](index.md)
 + [Quick Intro to Analysis Workspace](using/quick-intro-analysis-workspace-feature-video-use.md)
 + [Configuring Easy Exit Link Tracking in Adobe Launch](using/ez-exit-link-tracking-launch-feature-video-use.md)
 + [Initializing and Viewing Lifecycle Metrics with the Experience Platform SDK](using/lifecycle-metrics-aep-sdk-technical-video-implement.md)
