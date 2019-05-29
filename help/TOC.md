@@ -19,14 +19,39 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 + Analysis Workspace {#analysis-workspace}
   + Basics {#basics}
     + [Analysis Workspace Overview](analysis-workspace/basics/analysis-workspace-overview.md)
+  + Panels {#panels}
+    + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+  + Building Freeform Tables {#building-freeform-tables}
+    + [Apply Multiple Components at Once](analysis-workspace/building-freeform-tables/apply-multiple-components-at-once.md)
+    + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
   + Applying Segments {#applying-segments}
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+    + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
   + Attribution IQ {#attribution-iq}
     + [Adding side-by-side comparisons of Attribution IQ Models](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
+    + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+    + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
+    + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+    + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
++ Implementation {#implementation}
+  + Via Adobe Launch {#via-adobe-launch}
+    + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
 + Components {#components}
+  + Calculated Metrics {#calculated-metrics}
+    + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+    + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
   + Classifications {#classifications}
     + [Using the Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)
+  + Activity Map {#activity-map}
+    + [Activity Map Overview](components/activity-map/activity-map-overview.md)
+    + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
++ Exporting {#exporting}
+  + Report Builder {#report-builder}
+    + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder)
+    + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
 + Integrations {#integrations}
+  + Audience Manager {#audience-manager}
+    + [Enable Server Side Forwarding in Adobe Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
   + Ad Cloud {#ad-cloud}
     + [Configuring Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
     + [Implementing Tracking Templates into Search Engines](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
@@ -34,6 +59,9 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using the Project Converter to move projects from Ad Hoc Analysis to Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
   + Power BI {#power-bi}
     + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
++ Data Science {#data-science}
+  + [Using Adobe Analytics machine learning and AI for the moments that matter](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
+  + [Anomaly Detection in Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
 + Mobile App Analytics {#mobile-app-analytics}
   + Implementation {#implementation}
     + [Admin Settings for Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
