@@ -17,13 +17,16 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Customizing the UI {#customizing-the-ui}
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
 + Analysis Workspace {#analysis-workspace}
-  + Basics {#basics}
-    + [Analysis Workspace Overview](analysis-workspace/basics/analysis-workspace-overview.md)
+  + Analysis Workspace Basics {#analysis-workspace-basics}
+    + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+    + [Component Management in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
+    + [Using Component Managers](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
   + Panels {#panels}
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
   + Visualizations {#visualizations}
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
     + [Using The Cumulative Average Function To Apply Metric Smoothing](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+    + [Changing the scale/axis on visualizations](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Apply Multiple Components at Once](analysis-workspace/building-freeform-tables/apply-multiple-components-at-once.md)
     + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -36,6 +39,13 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
+  + Cohort Analysis {#cohort-analysis}
+    + [Cohort Analysis in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
+    + [Overview of Cohort Tables](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
+    + [Churn Analysis with Cohort Tables](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
+    + [Cohort Analysis Using Any Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
+  + Analyzing Customer Journeys {#analyzing-customer-journeys}
+    + [Comparing segments in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
 + Implementation {#implementation}
   + Via Adobe Launch {#via-adobe-launch}
     + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
@@ -51,7 +61,11 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Calculated Metrics - Segmented Metrics](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
     + [Calculated Metrics - Metric Selector](components/calculated-metrics/calculated-metrics-metric-selector.md)
   + Classifications {#classifications}
+    + [Overview of Classifications](components/classifications/overview-of-classifications.md)
     + [Using the Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)
+  + Virtual Report Suites {#virtual-report-suites}
+    + [Component Curation in Virtual Report Suites](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+    + [Context-Aware Sessions in Virtual Report Suites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
   + Activity Map {#activity-map}
     + [Activity Map Overview](components/activity-map/activity-map-overview.md)
     + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
