@@ -17,11 +17,13 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Customizing the UI {#customizing-the-ui}
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
+    + [Customizing the Menu in Reports & Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
 + Analysis Workspace {#analysis-workspace}
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
     + [Creating New Analysis Workspace Projects](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
     + [Create and Manage Custom Templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
+    + [Using Custom Templates to Enable Novice Analysis Workspace Users](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
     + [Component Management in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
     + [Using Component Managers](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
@@ -31,6 +33,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Panels {#panels}
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
   + Visualizations {#visualizations}
+    + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
     + [Using The Cumulative Average Function To Apply Metric Smoothing](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
     + [Changing the scale/axis on visualizations](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
@@ -45,6 +48,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Creating Custom Date Ranges](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
+    + [Date Aligning](analysis-workspace/calendar-and-date-ranges/date-aligning.md)
   + Curate and Share Projects {#curate-and-share-projects}
     + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
   + Attribution IQ {#attribution-iq}
@@ -60,9 +64,15 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Cohort Analysis Using Any Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
     + [Comparing segments in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
++ Administration {#administration}
+  + Data Governance and GDPR {data-governance-and-gdpr}
+    + [Data Governance and GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
 + Implementation {#implementation}
   + Via Adobe Launch {#via-adobe-launch}
+    + [Using a Data Layer to set Page Name and Other Variables via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
     + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
+  + Using JavaScript {#using-javascript}
+    + [Custom Link Tracking without a Tag Manager](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
 + Components {#components}
   + Segmentation {#segmentation}
     + [Before/After Sequences in Sequential Segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -84,6 +94,8 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Activity Map Overview](components/activity-map/activity-map-overview.md)
     + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Exporting {#exporting}
+  + Data Feeds {#data-feeds}
+    + [Data Feeds Management UI](exporting/data-feeds/data-feeds-management-ui.md)
   + Report Builder {#report-builder}
     + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
     + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
