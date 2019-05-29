@@ -27,13 +27,13 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Classifications {#classifications}
     + [Using the Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)
 + Integrations {#integrations}
-  + Advertising Analytics {#advertising-analytics}
-    + [Configuring Advertising Analytics](integrations/advertising-analytics/configuring-advertising-analytics.md)
-    + [Implementing Tracking Templates into Search Engines](integrations/advertising-analytics/implementing-tracking-templates-into-search-engines.md)
+  + Ad Cloud {#ad-cloud}
+    + [Configuring Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
+    + [Implementing Tracking Templates into Search Engines](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
   + Ad Hoc Analytics {#ad-hoc-analytics}
     + [Using the Project Converter to move projects from Ad Hoc Analysis to Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
   + Power BI {#power-bi}
     + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
 + Mobile App Analytics {#mobile-app-analytics}
   + Implementation {#implementation}
-    + [Admin Settings for Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobil-aApps.md)
+    + [Admin Settings for Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
