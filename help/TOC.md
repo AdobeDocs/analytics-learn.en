@@ -21,6 +21,9 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Analysis Workspace Overview](analysis-workspace/basics/analysis-workspace-overview.md)
   + Panels {#panels}
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+  + Visualizations {#visualizations}
+    + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
+    + [Using The Cumulative Average Function To Apply Metric Smoothing](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Apply Multiple Components at Once](analysis-workspace/building-freeform-tables/apply-multiple-components-at-once.md)
     + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -37,9 +40,16 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Via Adobe Launch {#via-adobe-launch}
     + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
 + Components {#components}
+  + Segmentation {#segmentation}
+    + [Before/After Sequences in Sequential Segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+    + [Calculated Metrics - Metric Builder](components/calculated-metrics/calculated-metrics-metric-builder.md)
+    + [Calculated Metrics - Functions](components/calculated-metrics/calculated-metrics-functions.md)
+    + [Calculated Metrics - Implementation-less Metrics](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+    + [Calculated Metrics - Segmented Metrics](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+    + [Calculated Metrics - Metric Selector](components/calculated-metrics/calculated-metrics-metric-selector)
   + Classifications {#classifications}
     + [Using the Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)
   + Activity Map {#activity-map}
@@ -52,6 +62,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 + Integrations {#integrations}
   + Audience Manager {#audience-manager}
     + [Enable Server Side Forwarding in Adobe Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
+    + [Audience Analytics - Integrate AAM Segments into Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
   + Ad Cloud {#ad-cloud}
     + [Configuring Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
     + [Implementing Tracking Templates into Search Engines](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
@@ -62,6 +73,11 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 + Data Science {#data-science}
   + [Using Adobe Analytics machine learning and AI for the moments that matter](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
   + [Anomaly Detection in Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
++ Media Analytics {#media-analytics}
+  + Measuring Voice or Audio {#measuring-voice-or-audio}
+    + [Using the Audio Consumption Template in Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Mobile App Analytics {#mobile-app-analytics}
   + Implementation {#implementation}
     + [Admin Settings for Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
++ APIs {#apis}
+  + [Using Analysis Workspace to Build API 2.0 Requests](apis/using-analysis-workspace-to-build-api-2-requests.md)
