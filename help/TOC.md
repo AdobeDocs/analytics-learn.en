@@ -49,7 +49,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Calculated Metrics - Functions](components/calculated-metrics/calculated-metrics-functions.md)
     + [Calculated Metrics - Implementation-less Metrics](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
     + [Calculated Metrics - Segmented Metrics](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-    + [Calculated Metrics - Metric Selector](components/calculated-metrics/calculated-metrics-metric-selector)
+    + [Calculated Metrics - Metric Selector](components/calculated-metrics/calculated-metrics-metric-selector.md)
   + Classifications {#classifications}
     + [Using the Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)
   + Activity Map {#activity-map}
@@ -57,7 +57,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Exporting {#exporting}
   + Report Builder {#report-builder}
-    + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder)
+    + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
     + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
 + Integrations {#integrations}
   + Audience Manager {#audience-manager}
