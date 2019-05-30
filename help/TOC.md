@@ -18,6 +18,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
     + [Customizing the Menu in Reports & Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+    + [Enhancing Security in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
 + Analysis Workspace {#analysis-workspace}
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
@@ -32,25 +33,37 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
   + Panels {#panels}
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+    + [Using Drop-Down Filters](analysis-workspace/panels/using-drop-down-filters.md)
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
     + [Using The Cumulative Average Function To Apply Metric Smoothing](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
     + [Changing the scale/axis on visualizations](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
+    + [Dimension-Graph Live Linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Apply Multiple Components at Once](analysis-workspace/building-freeform-tables/apply-multiple-components-at-once.md)
     + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
     + [Using the Right-Click Menu in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
     + [Continued Right-click Menu in Analysis Workspace](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
     + [Cross Sell Analysis in Analysis Workspace](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
+    + [Dimensions in Analysis Workspace](analysis-workspace/building-freeform-tables/dimensions-in-analysis-workspace.md)
+    + [Dimension Breakdowns](analysis-workspace/building-freeform-tables/dimension-breakdowns.md)
+    + [Dimension Breakdown by Position](analysis-workspace/building-freeform-tables/dimension-breakdown-by-position.md)
+    + [Using Drop Zone Guides](analysis-workspace/building-freeform-tables/using-drop-zone-guides.md)
+    + [Dynamic Columns](analysis-workspace/building-freeform-tables/dynamic-columns.md)
   + Applying Segments {#applying-segments}
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
+    + [Using Drop-Down Filters](analysis-workspace/panels/using-drop-down-filters.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
+    + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+    + [Using Date Ranges & Calendar in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
     + [Creating Custom Date Ranges](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
     + [Date Aligning](analysis-workspace/calendar-and-date-ranges/date-aligning.md)
+    + [Date Comparisons in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
   + Curate and Share Projects {#curate-and-share-projects}
     + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+    + [Direct Link to a project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
   + Attribution IQ {#attribution-iq}
     + [Adding side-by-side comparisons of Attribution IQ Models](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
@@ -64,6 +77,8 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Cohort Analysis Using Any Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
     + [Comparing segments in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+  + Voice Analytics {#voice-analytics}
+    + [Understand Differences Across Voice-Enabled Devices](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
 + Administration {#administration}
   + Data Governance and GDPR {data-governance-and-gdpr}
     + [Data Governance and GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
@@ -99,6 +114,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Report Builder {#report-builder}
     + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
     + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
+    + [Edit Metrics across Requests](exporting/report-builder/edit-metrics-across-requests.md)
 + Integrations {#integrations}
   + Audience Manager {#audience-manager}
     + [Enable Server Side Forwarding in Adobe Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
