@@ -37,10 +37,12 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
+    + [Histogram Visualization](analysis-workspace/visualizations/histogram-visualizatione.md)
     + [Using The Cumulative Average Function To Apply Metric Smoothing](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
     + [Flexible Layouts](analysis-workspace/visualizations/flexible-layouts.md)
     + [Changing the scale/axis on visualizations](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
     + [Dimension-Graph Live Linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+    + [Granularity Toggle](analysis-workspace/visualizations/granularity-toggle.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Apply Multiple Components at Once](analysis-workspace/building-freeform-tables/apply-multiple-components-at-once.md)
     + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -53,6 +55,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using Drop Zone Guides](analysis-workspace/building-freeform-tables/using-drop-zone-guides.md)
     + [Dynamic Columns](analysis-workspace/building-freeform-tables/dynamic-columns.md)
     + [Filtering the Component Menu](analysis-workspace/building-freeform-tables/filtering-the-component-menu.md)
+    + [Freeform Table Filters](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
   + Applying Segments {#applying-segments}
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
@@ -82,6 +85,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
     + [Enhancements to Fallout Visualization](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
     + [Comparing segments in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+    + [Flow Visualization](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
     + [Expanding on Flow visualization](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
   + Voice Analytics {#voice-analytics}
     + [Understand Differences Across Voice-Enabled Devices](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
@@ -99,6 +103,8 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Configuring Easy Exit Link Tracking](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
   + Using JavaScript {#using-javascript}
     + [Custom Link Tracking without a Tag Manager](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
+  + Validating and Troubleshooting {#validating-and-troubleshooting}
+    + [Inspecting Implementations with the Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
 + Components {#components}
   + Segmentation {#segmentation}
     + [Before/After Sequences in Sequential Segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -151,3 +157,5 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Admin Settings for Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
 + APIs {#apis}
   + [Using Analysis Workspace to Build API 2.0 Requests](apis/using-analysis-workspace-to-build-api-2-requests.md)
++ Analysis Use Cases {#analysis-use-cases}
+  + [Setting Up In-Market Zip Code Analysis](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
