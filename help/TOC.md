@@ -61,7 +61,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Applying Segments {#applying-segments}
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
-    + [Using Drop-Down Filters](analysis-workspace/panels/using-drop-down-filters.md)
+    + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
     + [Using Date Ranges & Calendar in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
@@ -101,6 +101,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
   + Via Adobe Launch {#via-adobe-launch}
     + [Configuring General Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+    + [Configuring Global Variables in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
     + [Configuring Cookie Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
     + [Using a Data Layer to set Page Name and Other Variables via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
     + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
