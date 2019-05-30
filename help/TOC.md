@@ -38,6 +38,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
     + [Using The Cumulative Average Function To Apply Metric Smoothing](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+    + [Flexible Layouts](analysis-workspace/visualizations/flexible-layouts.md)
     + [Changing the scale/axis on visualizations](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
     + [Dimension-Graph Live Linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
   + Building Freeform Tables {#building-freeform-tables}
@@ -51,6 +52,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Dimension Breakdown by Position](analysis-workspace/building-freeform-tables/dimension-breakdown-by-position.md)
     + [Using Drop Zone Guides](analysis-workspace/building-freeform-tables/using-drop-zone-guides.md)
     + [Dynamic Columns](analysis-workspace/building-freeform-tables/dynamic-columns.md)
+    + [Filtering the Component Menu](analysis-workspace/building-freeform-tables/filtering-the-component-menu.md)
   + Applying Segments {#applying-segments}
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
@@ -64,6 +66,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Curate and Share Projects {#curate-and-share-projects}
     + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
     + [Direct Link to a project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
+    + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
   + Attribution IQ {#attribution-iq}
     + [Adding side-by-side comparisons of Attribution IQ Models](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
@@ -76,16 +79,24 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Churn Analysis with Cohort Tables](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
     + [Cohort Analysis Using Any Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
+    + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+    + [Enhancements to Fallout Visualization](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
     + [Comparing segments in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+    + [Expanding on Flow visualization](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
   + Voice Analytics {#voice-analytics}
     + [Understand Differences Across Voice-Enabled Devices](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
+    + [Finding Opportunities To Increase Engagement for Voice Apps](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
 + Administration {#administration}
   + Data Governance and GDPR {data-governance-and-gdpr}
     + [Data Governance and GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
 + Implementation {#implementation}
+  + Implementation Basics {#implementation-basics}
+    + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
   + Via Adobe Launch {#via-adobe-launch}
     + [Using a Data Layer to set Page Name and Other Variables via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
     + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
+    + [Configuring Easy Download Link Tracking](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
+    + [Configuring Easy Exit Link Tracking](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
   + Using JavaScript {#using-javascript}
     + [Custom Link Tracking without a Tag Manager](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
 + Components {#components}
@@ -109,6 +120,8 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Activity Map Overview](components/activity-map/activity-map-overview.md)
     + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Exporting {#exporting}
+  + From the UI {#from-the-ui}
+    + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
   + Data Feeds {#data-feeds}
     + [Data Feeds Management UI](exporting/data-feeds/data-feeds-management-ui.md)
   + Report Builder {#report-builder}
