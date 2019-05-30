@@ -31,9 +31,10 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Copy and Insert in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-  + Panels {#panels}
+    + [Keyboard Shortcuts](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+  + Using Panels {#using-panels}
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
-    + [Using Drop-Down Filters](analysis-workspace/panels/using-drop-down-filters.md)
+    + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
@@ -43,6 +44,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Changing the scale/axis on visualizations](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
     + [Dimension-Graph Live Linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
     + [Granularity Toggle](analysis-workspace/visualizations/granularity-toggle.md)
+    + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Apply Multiple Components at Once](analysis-workspace/building-freeform-tables/apply-multiple-components-at-once.md)
     + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -81,6 +83,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Overview of Cohort Tables](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
     + [Churn Analysis with Cohort Tables](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
     + [Cohort Analysis Using Any Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
+    + [Latency Analysis with Cohort Tables](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
     + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
     + [Enhancements to Fallout Visualization](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -97,6 +100,8 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Implementation Basics {#implementation-basics}
     + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
   + Via Adobe Launch {#via-adobe-launch}
+    + [Configuring General Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+    + [Configuring Cookie Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
     + [Using a Data Layer to set Page Name and Other Variables via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
     + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
     + [Configuring Easy Download Link Tracking](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
@@ -149,6 +154,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + [Using Adobe Analytics machine learning and AI for the moments that matter](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
   + [Anomaly Detection in Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
   + [Contribution Analysis in Analysis Workspace](data-science/contribution-analysis-workspace.md)
+  + [Intelligent Alerts](data-science/intelligent-alerts.md)
 + Media Analytics {#media-analytics}
   + Measuring Voice or Audio {#measuring-voice-or-audio}
     + [Using the Audio Consumption Template in Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
