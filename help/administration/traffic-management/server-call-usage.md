@@ -12,7 +12,9 @@ internal: n
 snippet: y
 ---
 
-# Server Call Usage in Adobe Analytics{#server-call-usage-in-adobe-analytics}
+# Server Call Usage in Adobe Analytics {#server-call-usage-in-adobe-analytics}
+
+Server Call usage reporting will make it possible for you to track exactly how much of your server call commitment you’ve used at any point in time, and will also proactively alert you when you are approaching your total commitment.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
 
