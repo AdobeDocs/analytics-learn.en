@@ -44,6 +44,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
     + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
     + [Using Panels to Organize your Analysis Workspace Projects](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
+    + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
@@ -81,6 +82,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
     + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
     + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
+    + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
     + [Using Date Ranges & Calendar in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
@@ -143,6 +145,8 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Segment Builder Overview](components/segmentation/segment-builder-overview.md)
     + [Before/After Sequences in Sequential Segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
     + [Rolling Date Ranges in Segments](components/segmentation/rolling-date-ranges-in-segments.md)
+    + [Segment Comparison in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
+    + [Segment containers](components/segmentation/segment-containers.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
