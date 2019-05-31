@@ -119,7 +119,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Finding Opportunities To Increase Engagement for Voice Apps](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
     + [Reducing Error Rates and Improving Success Rates in Your Voice App](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
 + Reports & Analytics {#reports-and-analytics}
-  + [Real-time Reporting in Reports & Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
+  + [Real-time Reporting in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
   + Data Governance and GDPR {data-governance-and-gdpr}
     + [Data Governance and GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)

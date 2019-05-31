@@ -1,6 +1,6 @@
 ---
-title: Real-time Reporting in Reports & Analytics
-seo-title: Real-time Reporting in Reports & Analytics - Adobe Analytics
+title: Real-time Reporting in Reports and Analytics
+seo-title: Real-time Reporting in Reports and Analytics - Adobe Analytics
 description: This video shows a handful of updates that Adobe has made to the Real-Time Report in Reports & Analytics in Adobe Analytics.
 seo-description: This video shows a handful of updates that Adobe has made to the Real-Time Report in Reports & Analytics in Adobe Analytics.
 uuid: 951f2bf3-94f6-4dbc-84d2-ff0e6bc605f1
