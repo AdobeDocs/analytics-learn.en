@@ -60,6 +60,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Positive-Negative Map Theme](analysis-workspace/visualizations/positive-negative-map-theme.md)
     + [Rearranging and Resizing Visualizations](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
     + [Rich Text Editor in Analysis Workspace](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+    + [Series Label Editing](analysis-workspace/visualizations/series-label-editing.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Previewing and Using Components](analysis-workspace/building-freeform-tables/previewing-and-using-components.md)
     + [Apply Multiple Components at Once](analysis-workspace/building-freeform-tables/apply-multiple-components-at-once.md)
@@ -155,6 +156,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
     + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
     + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+    + [Sequential Segmentation](components/segmentation/sequential-segmentation.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
