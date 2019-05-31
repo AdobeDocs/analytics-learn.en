@@ -16,6 +16,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 + Introduction to Analytics {#intro-to-analytics}
   + Analytics Basics {#analytics-basics}
     + ["Try in Workspace" Button in Reports & Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+    + [People Metric](intro-to-analytics/analytics-basics/people-metric.md)
   + Customizing the UI {#customizing-the-ui}
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
@@ -34,9 +35,12 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
     + [Keyboard Shortcuts](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+    + [Menu Bar](analysis-workspace/navigating-workspace-projects/menu-bar.md)
   + Using Panels {#using-panels}
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
     + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
+    + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
+    + [Using Panels to Organize your Analysis Workspace Projects](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
@@ -48,6 +52,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Dimension-Graph Live Linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
     + [Granularity Toggle](analysis-workspace/visualizations/granularity-toggle.md)
     + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
+    + [Positive-Negative Map Theme](analysis-workspace/visualizations/positive-negative-map-theme.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Apply Multiple Components at Once](analysis-workspace/building-freeform-tables/apply-multiple-components-at-once.md)
     + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -61,10 +66,14 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Dynamic Columns](analysis-workspace/building-freeform-tables/dynamic-columns.md)
     + [Filtering the Component Menu](analysis-workspace/building-freeform-tables/filtering-the-component-menu.md)
     + [Freeform Table Filters](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
+    + [Creating Metrics, Segments, and Dates](analysis-workspace/building-freeform-tables/creating-metrics-segments-dates.md)
+    + [Pagination, Filtering, and Sorting Tables](analysis-workspace/building-freeform-tables/pagination-filtering-sorting-tables.md)
+    + [Percent of Row](analysis-workspace/building-freeform-tables/percent-of-row.md)
   + Applying Segments {#applying-segments}
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
     + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
+    + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
     + [Using Date Ranges & Calendar in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
@@ -90,6 +99,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
     + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
     + [Enhancements to Fallout Visualization](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+    + [Multidimensional Fallout](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
     + [Comparing segments in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
     + [Flow Visualization](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
     + [Expanding on Flow visualization](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
@@ -134,6 +144,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Virtual Report Suites {#virtual-report-suites}
     + [Component Curation in Virtual Report Suites](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
     + [Context-Aware Sessions in Virtual Report Suites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+    + [Start A New Visit On Any Event in Virtual Report Suites](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
   + Activity Map {#activity-map}
     + [Activity Map Overview](components/activity-map/activity-map-overview.md)
     + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
