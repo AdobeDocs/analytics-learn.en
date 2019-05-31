@@ -14,6 +14,8 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 
 + [Overview](overview.md)
 + Introduction to Analytics {#intro-to-analytics}
+  + Analytics Basics {#analytics-basics}
+    + ["Try in Workspace" Button in Reports & Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button)
   + Customizing the UI {#customizing-the-ui}
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
@@ -38,7 +40,8 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
-    + [Histogram Visualization](analysis-workspace/visualizations/histogram-visualizatione.md)
+    + [Histogram Visualization](analysis-workspace/visualizations/histogram-visualization.md)
+    + [Map Visualization](analysis-workspace/visualizations/map-visualization.md)
     + [Using The Cumulative Average Function To Apply Metric Smoothing](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
     + [Flexible Layouts](analysis-workspace/visualizations/flexible-layouts.md)
     + [Changing the scale/axis on visualizations](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
@@ -91,6 +94,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Flow Visualization](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
     + [Expanding on Flow visualization](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
   + Voice Analytics {#voice-analytics}
+    + [How to Manage and Track Your Voice Assistant App Data](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
     + [Understand Differences Across Voice-Enabled Devices](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
     + [Finding Opportunities To Increase Engagement for Voice Apps](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
 + Administration {#administration}
@@ -99,7 +103,9 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 + Implementation {#implementation}
   + Implementation Basics {#implementation-basics}
     + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
+    + [Map contextData Variables into Props and Evars with Processing Rules](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
   + Via Adobe Launch {#via-adobe-launch}
+    + [Configuring Library Management in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
     + [Configuring General Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
     + [Configuring Global Variables in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
     + [Configuring Cookie Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
@@ -140,6 +146,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
     + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
     + [Edit Metrics across Requests](exporting/report-builder/edit-metrics-across-requests.md)
+    + [Using Report Builder to learn the Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Integrations {#integrations}
   + Audience Manager {#audience-manager}
     + [Enable Server Side Forwarding in Adobe Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
@@ -162,7 +169,9 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 + Mobile App Analytics {#mobile-app-analytics}
   + Implementation {#implementation}
     + [Admin Settings for Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
+    + [Initializing and Viewing Lifecycle Metrics with the Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
 + APIs {#apis}
   + [Using Analysis Workspace to Build API 2.0 Requests](apis/using-analysis-workspace-to-build-api-2-requests.md)
+  + [Using Report Builder to learn the Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Analysis Use Cases {#analysis-use-cases}
   + [Setting Up In-Market Zip Code Analysis](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
