@@ -15,12 +15,12 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 + [Overview](overview.md)
 + Introduction to Analytics {#intro-to-analytics}
   + Analytics Basics {#analytics-basics}
-    + ["Try in Workspace" Button in Reports & Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+    + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
     + [People Metric](intro-to-analytics/analytics-basics/people-metric.md)
   + Customizing the UI {#customizing-the-ui}
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-    + [Customizing the Menu in Reports & Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+    + [Customizing the Menu in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
     + [Enhancing Security in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
   + Getting Help {#getting-help}
     + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
@@ -78,11 +78,13 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Percent of Row](analysis-workspace/building-freeform-tables/percent-of-row.md)
     + [Creating Ranked, Overtime and Trended Reports in Analysis Workspace](analysis-workspace/building-freeform-tables/creating-ranked-overtime-trended-reports-analysis-workspace.md)
   + Applying Segments {#applying-segments}
+    + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
     + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
     + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
     + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
+    + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
     + [Using Date Ranges & Calendar in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
@@ -147,6 +149,9 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Rolling Date Ranges in Segments](components/segmentation/rolling-date-ranges-in-segments.md)
     + [Segment Comparison in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
     + [Segment containers](components/segmentation/segment-containers.md)
+    + [Segment Management and Sharing](components/segmentation/segment-management-and-sharing.md)
+    + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
+    + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
