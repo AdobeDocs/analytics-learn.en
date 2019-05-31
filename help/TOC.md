@@ -23,7 +23,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Customizing the Menu in Reports & Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
     + [Enhancing Security in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
   + Getting Help {#getting-help}
-    + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/analysis-workspace-in-product-tips.md)
+    + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
 + Analysis Workspace {#analysis-workspace}
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
