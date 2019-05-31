@@ -23,7 +23,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Customizing the Menu in Reports & Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
     + [Enhancing Security in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
   + Getting Help {#getting-help}
-    + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/analysis-workspace-In-product-tips.md)
+    + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/analysis-workspace-in-product-tips.md)
 + Analysis Workspace {#analysis-workspace}
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
@@ -103,6 +103,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Churn Analysis with Cohort Tables](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
     + [Cohort Analysis Using Any Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
     + [Latency Analysis with Cohort Tables](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
+    + [Calculate Rolling Retention in Cohort Tables](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
     + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
     + [Enhancements to Fallout Visualization](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -139,6 +140,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Inspecting Implementations with the Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
 + Components {#components}
   + Segmentation {#segmentation}
+    + [Segment Builder Overview](components/segmentation/segment-builder-overview.md)
     + [Before/After Sequences in Sequential Segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
     + [Rolling Date Ranges in Segments](components/segmentation/rolling-date-ranges-in-segments.md)
   + Calculated Metrics {#calculated-metrics}
