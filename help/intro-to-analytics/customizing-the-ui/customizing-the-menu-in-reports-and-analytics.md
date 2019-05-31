@@ -1,6 +1,6 @@
 ---
-title: Customizing the Menu in Reports & Analytics
-seo-title: Customizing the Menu in Adobe Reports & Analytics
+title: Customizing the Menu in Reports and Analytics
+seo-title: Customizing the Menu in Adobe Reports and Analytics
 description: This video takes you through how to customize the menus in Analytics for your business.
 seo-description: This video takes you through how to customize the menus in Analytics for your business.
 uuid: a3fa7679-8a72-4f36-8795-de7805dead25

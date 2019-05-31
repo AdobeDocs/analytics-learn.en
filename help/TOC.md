@@ -32,6 +32,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using Custom Templates to Enable Novice Analysis Workspace Users](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
     + [Component Management in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
     + [Using Component Managers](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
+    + [Selecting a Report Suite in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
     + [Copy and Insert in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
@@ -85,9 +86,10 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
     + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
     + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+    + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
-    + [Using Date Ranges & Calendar in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
+    + [Using Date Ranges and Calendar in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
     + [Creating Custom Date Ranges](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
     + [Date Aligning](analysis-workspace/calendar-and-date-ranges/date-aligning.md)
     + [Date Comparisons in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
@@ -120,7 +122,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Understand Differences Across Voice-Enabled Devices](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
     + [Finding Opportunities To Increase Engagement for Voice Apps](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
     + [Reducing Error Rates and Improving Success Rates in Your Voice App](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
-+ Reports & Analytics {#reports-and-analytics}
++ Reports and Analytics {#reports-and-analytics}
   + [Real-time Reporting in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
   + Data Governance and GDPR {data-governance-and-gdpr}
@@ -152,6 +154,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Segment Management and Sharing](components/segmentation/segment-management-and-sharing.md)
     + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
     + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+    + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
@@ -197,6 +200,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + [Anomaly Detection in Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
   + [Contribution Analysis in Analysis Workspace](data-science/contribution-analysis-workspace.md)
   + [Intelligent Alerts](data-science/intelligent-alerts.md)
+  + [Adobe Analytics and Adobe Sensei - Democratizing data science for ALL](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Media Analytics {#media-analytics}
   + Measuring Voice or Audio {#measuring-voice-or-audio}
     + [Using the Audio Consumption Template in Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
