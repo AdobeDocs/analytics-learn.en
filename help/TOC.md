@@ -15,7 +15,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 + [Overview](overview.md)
 + Introduction to Analytics {#intro-to-analytics}
   + Analytics Basics {#analytics-basics}
-    + ["Try in Workspace" Button in Reports & Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button)
+    + ["Try in Workspace" Button in Reports & Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
   + Customizing the UI {#customizing-the-ui}
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
