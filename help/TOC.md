@@ -161,10 +161,12 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
     + [Map contextData Variables into Props and Evars with Processing Rules](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
   + Via Adobe Launch {#via-adobe-launch}
+    + [Implement in Websites with Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
     + [Configuring Library Management in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
     + [Configuring General Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
     + [Configuring Global Variables in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
     + [Configuring Cookie Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
+    + [Using Custom Code while Configuring the Launch Analytics Extension](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
     + [Using a Data Layer to set Page Name and Other Variables via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
     + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
     + [Configuring Easy Download Link Tracking](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
@@ -186,6 +188,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
     + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
     + [Sequential Segmentation](components/segmentation/sequential-segmentation.md)
+    + [Segmentation on Distinct Dimension Counts](components/segmentation/segmentation-on-distinct-dimension-counts.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
@@ -210,6 +213,8 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
 + Exporting {#exporting}
   + From the UI {#from-the-ui}
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
+  + Data Warehouse {#data-warehouse}
+    + [Introduction to Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
   + Data Feeds {#data-feeds}
     + [Data Feeds Management UI](exporting/data-feeds/data-feeds-management-ui.md)
   + Report Builder {#report-builder}
@@ -224,6 +229,7 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
   + Ad Cloud {#ad-cloud}
     + [Configuring Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
     + [Implementing Tracking Templates into Search Engines](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
+    + [Introduction to the Analytics for Advertising Cloud DSP Integration](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
   + Ad Hoc Analytics {#ad-hoc-analytics}
     + [Using the Project Converter to move projects from Ad Hoc Analysis to Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
   + Power BI {#power-bi}
@@ -243,6 +249,9 @@ tutorials-url: /content/help/en/analytics-learn/tutorials/overview.html
     + [Initializing and Viewing Lifecycle Metrics with the Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
     + [Tracking Actions (AKA Custom Links)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
     + [Tracking State (AKA Pages or Screens)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
+    + [Implement in iOS Swift Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+    + [Implement in iOS Objective-C Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+    + [Implement in Android Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
 + APIs {#apis}
   + [Using Analysis Workspace to Build API 2.0 Requests](apis/using-analysis-workspace-to-build-api-2-requests.md)
   + [Using Report Builder to learn the Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
