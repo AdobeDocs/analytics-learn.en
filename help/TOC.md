@@ -244,6 +244,11 @@ user-guide-title: Adobe Analytics Tutorials
     + [Implement in iOS Swift Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
     + [Implement in iOS Objective-C Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
     + [Implement in Android Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+  + Measuring Mobile Analytics {#measuring-mobile-analytics}
+    + [Getting Started with Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
+    + [Impact of Touchpoints Across Mobile Journey](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+    + [Analyzing User Behavior Across Channels](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
+    + [How To Increase Engagement and Retention Rates](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + APIs {#apis}
   + [Using Analysis Workspace to Build API 2.0 Requests](apis/using-analysis-workspace-to-build-api-2-requests.md)
   + [Using Report Builder to learn the Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
