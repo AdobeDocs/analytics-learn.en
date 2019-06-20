@@ -4,12 +4,15 @@ seo-title: Percent of Row In Analysis Workspace - Adobe Analytics
 description: In this video, you will learn how to customize your tables in Analysis Workspace to show individual item percentages compared to either the row or column totals.
 seo-description: In this video, you will learn how to customize your tables in Analysis Workspace to show individual item percentages compared to either the row or column totals. - Adobe Analytics
 uuid: a26cd5ae-3811-4983-bf49-d1cbdd648d11
-products: SG_ANALYTICS
 discoiquuid: b93d57dd-5eba-4239-9405-8d46b51a5cc3
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - building freeform tables
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1669
 ---
 
 # Percent of Row In Analysis Workspace {#percent-of-row-in-analysis-workspace}
