@@ -4,12 +4,15 @@ seo-title: Before/After Sequences in Sequential Segmentation - Adobe Analytics
 description: This video explains how to segment in Adobe Analytics so that you get only the data from before or after a specific user path.
 seo-description: This video explains how to segment in Adobe Analytics so that you get only the data from before or after a specific user path. - Adobe Analytics
 uuid: 803425c6-1e88-498f-abbc-89cbe3ec8d8a
-products: SG_ANALYTICS
 discoiquuid: 40047d03-d141-44f6-a043-658a7154f783
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: components - segmentation
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2303
 ---
 
 # Before/After Sequences in Sequential Segmentation {#before-after-sequences-in-sequential-segmentation}

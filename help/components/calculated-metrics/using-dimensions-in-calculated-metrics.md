@@ -4,12 +4,15 @@ seo-title: Using Dimensions in Calculated Metrics - Adobe Analytics
 description: Dimensions are now available in the Calculated Metric Builder. They can be added to any calculated metric formula to create an internal segment on the fly.
 seo-description: Dimensions are now available in the Calculated Metric Builder. They can be added to any calculated metric formula to create an internal segment on the fly. - Adobe Analytics
 uuid: c0897504-b36c-49ef-aa45-24ac81efd81a
-products: SG_ANALYTICS
 discoiquuid: a1bca47d-09a3-4bb7-bec1-ad064f80f71a
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: components - calculated metrics
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1904
 ---
 
 # Using Dimensions in Calculated Metrics {#using-dimensions-in-calculated-metrics}

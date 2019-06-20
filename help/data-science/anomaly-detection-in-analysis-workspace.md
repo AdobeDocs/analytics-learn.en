@@ -4,12 +4,15 @@ seo-title: Anomaly Detection in Analysis Workspace - Adobe Analytics
 description: Analysis Workspace automatically detects anomalies in your data for any time-series visualization or data table. Catch the "unknown unknowns" without any additional effort on your part!
 seo-description: Analysis Workspace automatically detects anomalies in your data for any time-series visualization or data table. Catch the "unknown unknowns" without any additional effort on your part! - Adobe Analytics
 uuid: c051a5aa-8d9d-4075-9259-62f4bf924d36
-products: SG_ANALYTICS
 discoiquuid: 7849d820-d6df-482b-9483-68dcfbe94862
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: data science - anomaly detection
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2336
 ---
 
 # Anomaly Detection in Analysis Workspace {#anomaly-detection-in-analysis-workspace}

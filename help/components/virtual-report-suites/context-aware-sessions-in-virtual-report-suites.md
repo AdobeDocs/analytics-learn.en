@@ -4,12 +4,15 @@ seo-title: Context-Aware Sessions in Virtual Report Suites
 description: It is now possible to change the definition of a visit in Adobe Analytics in a non-destructive way using a virtual report suite. We show you how to do that and the different options that are available.
 seo-description: It is now possible to change the definition of a visit in Adobe Analytics in a non-destructive way using a virtual report suite. We show you how to do that and the different options that are available.
 uuid: f58528a4-ec0e-484a-a2b9-ba761349adea
-products: SG_ANALYTICS
 discoiquuid: 4c8d70e3-f58a-43d5-8ff5-08a64c392ced
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: components - virtual report suites
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1775
 ---
 
 # Context-Aware Sessions in Virtual Report Suites{#context-aware-sessions-in-virtual-report-suites}

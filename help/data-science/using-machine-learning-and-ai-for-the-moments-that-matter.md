@@ -6,10 +6,14 @@ seo-description: Customer intelligence has never been more promising. But bringi
 uuid: 7997a039-be93-4d39-b602-8a21698db044
 products: SG_ANALYTICS
 discoiquuid: ded1c4d6-312c-48c4-afd6-b7dbb0f13f40
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: data science - sensei
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2340
 ---
 
 # Using Adobe Analytics machine learning and AI for the moments that matter {#using-adobe-analytics-machine-learning-and-ai-for-the-moments-that-matter}
