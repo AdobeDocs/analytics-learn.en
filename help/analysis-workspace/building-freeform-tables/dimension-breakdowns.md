@@ -6,10 +6,14 @@ seo-description: Freeform Analysis gives you the ability to do as many breakdown
 uuid: 5ae74515-4300-4bc7-a863-65f11771b8e9
 products: SG_ANALYTICS
 discoiquuid: 0092ade2-112c-4168-9fd2-733c272fb71f
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - building freeform tables
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1985
 ---
 
 # Dimension Breakdowns in Analysis Workspace {#dimension-breakdowns-in-analysis-workspace}

@@ -4,12 +4,15 @@ seo-title: Attribution IQ in Calculated Metrics - Adobe Analytics
 description: This video demonstrates how to use Attribution IQ in Calculated Metrics.
 seo-description: This video demonstrates how to use Attribution IQ in Calculated Metrics. - Adobe Analytics
 uuid: b47d9d6e-bc88-4eed-90ae-49c6c9527fac
-products: SG_ANALYTICS
 discoiquuid: e7968f35-e24d-4620-ae58-c17d03d71078
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - attribution iq
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1668
 ---
 
 # Attribution IQ in Calculated Metrics {#attribution-iq-in-calculated-metrics}

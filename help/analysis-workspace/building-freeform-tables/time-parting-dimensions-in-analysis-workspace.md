@@ -4,12 +4,15 @@ seo-title: Time-parting Dimensions in Analysis Workspace - Adobe Analytics
 description: Time-parting takes the timestamp of collected hits and breaks it into more meaningful dimensions, such as "Hour of Day" or "Day of Week". These dimensions are now out-of-the-box in Analysis Workspace.
 seo-description: Time-parting takes the timestamp of collected hits and breaks it into more meaningful dimensions, such as "Hour of Day" or "Day of Week". These dimensions are now out-of-the-box in Analysis Workspace. - Adobe Analytics
 uuid: 78aadc93-b0fc-4711-b6e2-63cf2a28695e
-products: SG_ANALYTICS
 discoiquuid: db06e487-bae1-4bd0-b592-897582083616
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - building freeform tables
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1903
 ---
 
 # Time-parting Dimensions in Analysis Workspace {#time-parting-dimensions-in-analysis-workspace}

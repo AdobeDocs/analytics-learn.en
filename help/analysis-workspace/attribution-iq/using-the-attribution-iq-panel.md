@@ -6,10 +6,14 @@ seo-description: In this video, you will see the Attribution IQ Panel, a great p
 uuid: 471cbc85-83c0-4498-813b-d7c03431230c
 products: SG_ANALYTICS
 discoiquuid: 751ca1c9-261b-437e-8a5c-d4c4bc865256
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - attribution iq
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1667
 ---
 
 # Using the Attribution IQ Panel in Analysis Workspace {#using-the-attribution-iq-panel-in-analysis-workspace}

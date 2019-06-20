@@ -4,12 +4,15 @@ seo-title: Dynamic Columns In Analysis Workspace Freeform Tables
 description: In this video you will learn how to use "top N items" as either a dynamic list or a static list, based on your analysis needs.
 seo-description: In this video you will learn how to use "top N items" as either a dynamic list or a static list, based on your analysis needs.
 uuid: d4b277b9-5e38-4498-9af0-766fca195f0c
-products: SG_ANALYTICS
 discoiquuid: 7452d587-9b09-4202-bd54-115aecb09733
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - building freeform tables
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1673
 ---
 
 # Dynamic Columns In Analysis Workspace Freeform Tables {#dynamic-columns-in-analysis-workspace-freeform-tables}

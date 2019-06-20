@@ -4,12 +4,15 @@ seo-title: Using Drop Zone Guides in Analysis Workspace - Adobe Analytics
 description: No matter your level of experience with Analysis Workspace, Drop Zone Guides aim to provide subtle, contextual guides to help you build analyses more efficiently, with less undo actions.
 seo-description: No matter your level of experience with Analysis Workspace, Drop Zone Guides aim to provide subtle, contextual guides to help you build analyses more efficiently, with less undo actions. - Adobe Analytics
 uuid: 7a98daa8-e228-4ab3-a867-e1767848e64f
-products: SG_ANALYTICS
 discoiquuid: cc483505-be3c-4b4d-9681-cc6dba10d637
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - building freeform tables
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1757
 ---
 
 # Using Drop Zone Guides in Analysis Workspace {#using-drop-zone-guides-in-analysis-workspace}

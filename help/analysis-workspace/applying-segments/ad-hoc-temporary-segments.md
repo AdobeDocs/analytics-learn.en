@@ -4,12 +4,15 @@ seo-title: Ad Hoc (Temporary) Segments in Analysis Workspace - Adobe Analytics
 description: Have you ever wanted to quickly create a simple segment to answer a specific question, then discard the segment so it doesn't fill up your list of saved segments? Now you can!
 seo-description: Have you ever wanted to quickly create a simple segment to answer a specific question, then discard the segment so it doesn't fill up your list of saved segments? Now you can! - Adobe Analytics
 uuid: 683b9a1c-545f-457c-bbd5-55e7766adfb7
-products: SG_ANALYTICS
 discoiquuid: a75cfbcd-596a-43af-887a-2c395690f6ae
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - applying segments
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2010
 ---
 
 # Ad Hoc (Temporary) Segments in Analysis Workspace {#ad-hoc-temporary-segments-in-analysis-workspace}

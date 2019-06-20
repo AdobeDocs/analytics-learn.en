@@ -4,12 +4,15 @@ seo-title: Using the Right-Click Menu in Analysis Workspace - Adobe Analytics
 description: Learn how to use the right-click menu in Analysis Workspace to do faster breakdowns and more.
 seo-description: Learn how to use the right-click menu in Analysis Workspace to do faster breakdowns and more. - Adobe Analytics
 uuid: 54209128-6bc3-44bf-9ad3-e37aea78136f
-products: SG_ANALYTICS
 discoiquuid: cd1a7c01-b6e3-4fe5-8d90-1d448755ee11
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - building freeform tables
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2029
 ---
 
 # Using the Right-Click Menu in Analysis Workspace {#using-the-right-click-menu-in-analysis-workspace}

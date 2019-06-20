@@ -4,12 +4,15 @@ seo-title: Using different Attribution IQ models with segments in Analysis Works
 description: In this video you will learn how to use Attribution IQ models in conjunction with Adobe Analytics segments on your site.
 seo-description: In this video you will learn how to use Attribution IQ models in conjunction with Adobe Analytics segments on your site.
 uuid: 173b09f6-038a-443e-aa8d-ce050ebfe715
-products: SG_ANALYTICS
 discoiquuid: a3ab8bce-5dba-4015-b120-22bf096bed2e
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - attribution iq
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1707
 ---
 
 # Using different Attribution IQ models with segments in Analysis Workspace {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
