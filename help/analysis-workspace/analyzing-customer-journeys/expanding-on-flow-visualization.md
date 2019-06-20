@@ -3,13 +3,14 @@ title: Expanding on Flow visualization in Analysis Workspace
 seo-title: Expanding on Flow visualization in Analysis Workspace - Adobe Analytics
 description: This video shows the various right-click options available in the Flow visualization in Analysis Workspace. Options include creating a segment from a path, collapsing columns, and more.
 seo-description: This video shows the various right-click options available in the Flow visualization in Analysis Workspace. Options include creating a segment from a path, collapsing columns, and more. - Adobe Analytics
-uuid: 7cf9e852-a8f8-4cde-a3ca-c2a0bb6b0b32
-products: SG_ANALYTICS
-discoiquuid: 4ae15f42-07e0-41e5-8413-cd851945a60d
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - analyzing customer journeys
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2280
 ---
 
 # Expanding on Flow visualization in Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}

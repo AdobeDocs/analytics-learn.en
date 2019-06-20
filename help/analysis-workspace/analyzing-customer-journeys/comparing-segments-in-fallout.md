@@ -3,13 +3,14 @@ title: Comparing segments in Fallout in Analysis Workspace
 seo-title: Comparing segments in Fallout in Analysis Workspace - Adobe Analytics
 description: This video shows how to compare key workflows across various segments in Analysis Workspace.
 seo-description: This video shows how to compare key workflows across various segments in Analysis Workspace. - Adobe Analytics
-uuid: e781e97a-c751-476d-85b8-0df26636b917
-products: SG_ANALYTICS
-discoiquuid: aa3959b0-c595-41c3-b38c-05da12121c7b
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - analyzing customer journeys
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2278
 ---
 
 # Comparing segments in Fallout in Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
