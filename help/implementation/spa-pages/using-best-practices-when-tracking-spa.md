@@ -6,10 +6,14 @@ seo-description: In this document, we will describe several best practices that 
 uuid: 13658531-432b-49ae-848a-33ddee8a83c4
 products: SG_ANALYTICS
 discoiquuid: b25e715a-b820-4d66-a5c4-47a74f1fd446
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementation - spa pages
+topics: spa
+audience: implementer
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 1389
 ---
 
 # Using best practices when tracking SPA in Adobe Analytics {#using-best-practices-when-tracking-spa-in-adobe-analytics}

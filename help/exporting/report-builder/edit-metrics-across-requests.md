@@ -4,12 +4,15 @@ seo-title: Edit Metrics across Requests in Report Builder - Adobe Analytics
 description: You can now edit metrics across multiple Report Builder data requests at once, with add, replace and remove options.
 seo-description: You can now edit metrics across multiple Report Builder data requests at once, with add, replace and remove options. - Adobe Analytics
 uuid: 8860a274-a53d-4d39-bc2c-9799dc0e0100
-products: SG_ANALYTICS
 discoiquuid: 808964a2-1eed-479a-a221-13d5e751dfe5
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: exporting - report builder
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1769
 ---
 
 # Edit Metrics across Requests in Report Builder {#edit-metrics-across-requests-in-report-builder}

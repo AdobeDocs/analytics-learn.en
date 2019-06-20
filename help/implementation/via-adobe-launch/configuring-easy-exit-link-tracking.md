@@ -4,12 +4,15 @@ seo-title: Configuring Easy Exit Link Tracking in Adobe Launch
 description: In just a few clicks in the Adobe Analytics Extension in Adobe Launch, you can start tracking exit links on your site (links that lead off of your site to another site). This video shows you how to set it up.
 seo-description: In just a few clicks in the Adobe Analytics Extension in Adobe Launch, you can start tracking exit links on your site (links that lead off of your site to another site). This video shows you how to set it up.
 uuid: f179926d-981c-4df6-8f6a-fb8cfaf851fe
-products: SG_ANALYTICS
 discoiquuid: a79997a8-27d7-4897-8080-720ca9d50bdd
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementation - launch
+topics: 
+audience: implementer
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 2273
 ---
 
 # Configuring Easy Exit Link Tracking in Adobe Launch {#configuring-easy-exit-link-tracking-in-adobe-launch}

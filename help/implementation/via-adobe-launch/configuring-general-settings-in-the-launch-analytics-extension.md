@@ -4,12 +4,15 @@ seo-title: Configuring General Settings in the Launch Analytics Extension
 description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you with the general settings portion of the configuration, including setting the tracking server.
 seo-description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you with the general settings portion of the configuration, including setting the tracking server.
 uuid: 3b80fcad-301e-494d-9b51-6494ab7e73c0
-products: SG_ANALYTICS
 discoiquuid: 9f238c0d-1c68-47b9-9098-2d0db66dafe6
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementation - launch
+topics: 
+audience: implementer
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 2837
 ---
 
 # Configuring General Settings in the Launch Analytics Extension {#configuring-general-settings-in-the-launch-analytics-extension}

@@ -4,12 +4,15 @@ seo-title: How to Identify Your Analytics Tracking Server and Report Suites
 description: When setting up Adobe Analytics, or when referencing it in other Experience Cloud solutions, it is often helpful or even necessary to know the Analytics “Tracking Server” that you are using, or also the “Report Suite” that you are sending data into. This video shows you how to locate both values, whether or not you have already implemented Adobe Analytics.
 seo-description: When setting up Adobe Analytics, or when referencing it in other Experience Cloud solutions, it is often helpful or even necessary to know the Analytics “Tracking Server” that you are using, or also the “Report Suite” that you are sending data into. This video shows you how to locate both values, whether or not you have already implemented Adobe Analytics.
 uuid: 1a7f7e49-3750-4608-baa6-f4b9eacde6d5
-products: SG_ANALYTICS
 discoiquuid: 58ce44a1-89e9-447a-baa9-4293a13380e4
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementation basics
+topics: 
+audience: implementer
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 2358
 ---
 
 # How to Identify Your Analytics Tracking Server and Report Suites {#how-to-identify-your-analytics-tracking-server-and-report-suites}

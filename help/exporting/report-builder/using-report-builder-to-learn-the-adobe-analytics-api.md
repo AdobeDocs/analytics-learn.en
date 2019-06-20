@@ -4,12 +4,15 @@ seo-title: Using Report Builder to learn the Adobe Analytics API
 description: Report Builder is something we all know & love. So what if I told you that you could use what you know about Report Builder to advance your Adobe Analytics skillset even further? In this video, we will walk through how to take debug Report Builder requests and use them to learn how to craft your own Analytics API queries.
 seo-description: Report Builder is something we all know & love. So what if I told you that you could use what you know about Report Builder to advance your Adobe Analytics skillset even further? In this video, we will walk through how to take debug Report Builder requests and use them to learn how to craft your own Analytics API queries. 
 uuid: a917045c-22ce-4bdb-98cf-7a3a81f05cd2
-products: SG_ANALYTICS
 discoiquuid: f45ee301-6b9d-441a-a961-29795572da71
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: exporting - report builder
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2345
 ---
 
 # Using Report Builder to learn the Adobe Analytics API {#using-report-builder-to-learn-the-adobe-analytics-api}

@@ -4,12 +4,15 @@ seo-title: Anomaly Detection in Report Builder
 description: Learn how to add anomaly detection metrics to your data requests, as well as creatively graph the data.
 seo-description: Learn how to add anomaly detection metrics to your data requests, as well as creatively graph the data.
 uuid: 8e9a0740-120e-4a1a-8759-24bf32da5375
-products: SG_ANALYTICS
 discoiquuid: bf4cce5b-6c40-40ce-8007-f15c624f78a9
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: exporting - report builder
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1768
 ---
 
 # Anomaly Detection in Report Builder {#anomaly-detection-in-report-builder}

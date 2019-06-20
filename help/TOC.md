@@ -147,11 +147,10 @@ user-guide-title: Adobe Analytics Tutorials
   + Traffic Management {#traffic-management}
     + [Server Call Usage](administration/traffic-management/server-call-usage.md)
 + Implementation {#implementation}
-  + [Using best practices when tracking SPA](implementation/using-best-practices-when-tracking-spa.md)
-  + [How to Identify Your Analytics Tracking Server and Report Suites](implementation/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
   + Implementation Basics {#implementation-basics}
     + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
     + [Map contextData Variables into Props and Evars with Processing Rules](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+    + [How to Identify Your Analytics Tracking Server and Report Suites](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
   + Via Adobe Launch {#via-adobe-launch}
     + [Implement in Websites with Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
     + [Configuring Library Management in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
@@ -168,6 +167,8 @@ user-guide-title: Adobe Analytics Tutorials
     + [Updating AppMeasurement When Not Using Adobe Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
   + Validating and Troubleshooting {#validating-and-troubleshooting}
     + [Inspecting Implementations with the Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
+  + SPA Pages {#spa-pages}
+    + [Using best practices when tracking SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Components {#components}
   + Segmentation {#segmentation}
     + [Segment Builder Overview](components/segmentation/segment-builder-overview.md)

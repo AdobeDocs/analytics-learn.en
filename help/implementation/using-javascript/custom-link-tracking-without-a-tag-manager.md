@@ -4,12 +4,15 @@ seo-title: Custom Link Tracking without a Tag Manager - Adobe Analytics
 description: For many actions on the page, tracking should not be treated like a page view. In this video, you will learn how to code a link tracking beacon to Analytics, if you are not using a tag manager (like Adobe Launch). See the code, as well as learning an important tip.
 seo-description: For many actions on the page, tracking should not be treated like a page view. In this video, you will learn how to code a link tracking beacon to Analytics, if you are not using a tag manager (like Adobe Launch). See the code, as well as learning an important tip. - Adobe Analytics
 uuid: 5c28a488-6e8b-439a-86cf-dc1035a17dbd
-products: SG_ANALYTICS
 discoiquuid: 7c947643-0861-4827-95ad-65f0cb7c53af
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementation - using javascript
+topics: 
+audience: implementer
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 1845
 ---
 
 # Custom Link Tracking without a Tag Manager {#custom-link-tracking-without-a-tag-manager}

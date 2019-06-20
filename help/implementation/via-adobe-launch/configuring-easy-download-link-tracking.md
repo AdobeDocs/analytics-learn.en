@@ -4,12 +4,15 @@ seo-title: Configuring Easy Download Link Tracking in Adobe Launch
 description: In just a few clicks in the Adobe Analytics Extension in Adobe Launch, you can start tracking download links on your site (links that download non-browser files on your machine). This video shows you how to set it up.
 seo-description: In just a few clicks in the Adobe Analytics Extension in Adobe Launch, you can start tracking download links on your site (links that download non-browser files on your machine). This video shows you how to set it up.
 uuid: 4debe62d-fe13-4239-87b1-89af53ff7ab2
-products: SG_ANALYTICS
 discoiquuid: 7bc02c42-84fe-4157-a0e7-14ad076d6df4
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementation - launch
+topics: 
+audience: implementer
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 1844
 ---
 
 # Configuring Easy Download Link Tracking in Adobe Launch {#configuring-easy-download-link-tracking-in-adobe-launch}

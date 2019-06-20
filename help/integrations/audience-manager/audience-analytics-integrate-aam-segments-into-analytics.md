@@ -5,10 +5,14 @@ description: Audience Analytics is new integration that allows you to share segm
 seo-description: Audience Analytics is new integration that allows you to share segments from Audience Manager (AAM) to Adobe Analytics (AA) in real-time to inform audience discovery, segmentation, and optimization.
 uuid: 83acf8e8-b532-4092-8b82-a0d6705521f3
 discoiquuid: 1e177f5e-1854-4b2b-9456-61f628051a0a
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: integrations - aam
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2354
 ---
 
 # Audience Analytics: Integrate AAM Segments into Analytics {#audience-analytics-integrate-aam-segments-into-analytics}
