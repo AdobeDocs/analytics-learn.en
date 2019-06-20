@@ -5,12 +5,15 @@ description: How to build a cohort analysis table in Analysis Workspace.
 seo-description: How to build a cohort analysis table in Analysis Workspace. - Adobe Analytics
 page-status-flag: never-activated
 uuid: 46d716aa-6908-4ced-a3a0-f86bba13fc08
-products: SG_ANALYTICS
 discoiquuid: cd5dfdeb-c39c-4855-953b-07d1f9a2c4c4
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - cohort analysis
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2135
 ---
 
 # Cohort Analysis in Analysis Workspace {#cohort-analysis-in-analysis-workspace}

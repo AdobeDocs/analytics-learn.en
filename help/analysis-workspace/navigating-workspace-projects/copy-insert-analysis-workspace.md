@@ -6,10 +6,14 @@ seo-description: Copy + Insert lets you copy visualizations from one panel or pr
 uuid: 49f99c3a-0cdd-4e2a-bd5d-80238f972640
 products: SG_ANALYTICS
 discoiquuid: 80e78f2e-1ed4-47dc-bd0e-5bc67aa7dbb7
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - navigating workspace projects
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1698
 ---
 
 # Copy and Insert in Analysis Workspace {#copy-and-insert-in-analysis-workspace}

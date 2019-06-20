@@ -4,12 +4,15 @@ seo-title: Segment Drop Zone Improvements in Analysis Workspace - Adobe Analytic
 description: Segment drop zones have been improved so you can truly drop anything anywhere in a project.
 seo-description: Segment drop zones have been improved so you can truly drop anything anywhere in a project. - Adobe Analytics
 uuid: cec4e4b9-5950-4944-96e2-27cf7c94c593
-products: SG_ANALYTICS
 discoiquuid: 6097f006-8460-42af-8240-276080194378
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - using panels
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2008
 ---
 
 # Segment Drop Zone Improvements in Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}

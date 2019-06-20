@@ -6,10 +6,14 @@ seo-description: You can use custom date ranges as presets in the calendar in yo
 uuid: 88b61670-a46d-4114-9812-077337d4ab19
 products: SG_ANALYTICS
 discoiquuid: 7ba108ee-9295-44b0-95da-1342be3a6526
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - calendar and date ranges
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2013
 ---
 
 # Using Date Ranges & Calendar in Analysis Workspace {#using-date-ranges-calendar-in-analysis-workspace}

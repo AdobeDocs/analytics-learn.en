@@ -4,12 +4,15 @@ seo-title: Latency Analysis with Cohort Tables
 description: The Latency Table setting in Cohort Tables allows you to analyze behavior of your cohorts before and after the inclusion event (not just after like standard Cohort depicts). This setting is helpful for analyzing the impact of a new product or campaign launch, as an example.
 seo-description: The Latency Table setting in Cohort Tables allows you to analyze behavior of your cohorts before and after the inclusion event (not just after like standard Cohort depicts). This setting is helpful for analyzing the impact of a new product or campaign launch, as an example.
 uuid: 812e5589-ba36-48ef-a9b1-1c1ec36a00d0
-products: SG_ANALYTICS
 discoiquuid: 896068a1-6733-400e-9e78-dedee8a1ff6d
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - cohort analysis
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2480
 ---
 
 # Latency Analysis with Cohort Tables {#latency-analysis-with-cohort-tables}

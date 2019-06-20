@@ -6,10 +6,14 @@ seo-description: "This video explains three different ways to work with dates in
 uuid: 98d96a3e-7fe1-44ad-91b3-0e161ad7bb18
 products: SG_ANALYTICS
 discoiquuid: 3935c00d-e94b-4a21-bf8e-39fb66eeeb75
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - calendar and date ranges
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2014
 ---
 
 # Using Dates in Analysis Workspace {#using-dates-in-analysis-workspace}
