@@ -4,12 +4,15 @@ seo-title: Map Visualization in Analysis Workspace
 description: This video shows you how to use the new Map visualization in Analysis Workspace. The Map viz will allow you to view either mobile (lat/long) or web (IP address) data against a dynamic map, allowing you to get an idea of customer usage in the context of their location.
 seo-description: This video shows you how to use the new Map visualization in Analysis Workspace. The Map viz will allow you to view either mobile (lat/long) or web (IP address) data against a dynamic map, allowing you to get an idea of customer usage in the context of their location.
 uuid: 50d3f4f9-3376-4656-b082-40a692eb9c50
-products: SG_ANALYTICS
 discoiquuid: 63380e6f-79ca-4ef1-be1d-c2ec8f0d9e4c
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - visualizations
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1771
 ---
 
 # Map Visualization in Analysis Workspace {#map-visualization-in-analysis-workspace}

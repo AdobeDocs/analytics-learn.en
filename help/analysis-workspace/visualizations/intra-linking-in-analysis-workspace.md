@@ -4,12 +4,15 @@ seo-title: Intra-linking in Analysis Workspace - Adobe Analytics
 description: Intra-linking allows analysts building projects in Analysis Workspace to drive readers of the project to exact panels and visualizations within the project.
 seo-description: Intra-linking allows analysts building projects in Analysis Workspace to drive readers of the project to exact panels and visualizations within the project. - Adobe Analytics
 uuid: f8f39b3a-70c7-46ce-a668-703e6f08f68e
-products: SG_ANALYTICS
 discoiquuid: bdff4844-9d40-484d-9b3e-bef7ac346dbc
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - visualizations
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1908
 ---
 
 # Intra-linking in Analysis Workspace {#intra-linking-in-analysis-workspace}

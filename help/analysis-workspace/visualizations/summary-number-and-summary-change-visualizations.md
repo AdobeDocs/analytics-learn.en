@@ -4,12 +4,15 @@ seo-title: Summary Number and Summary Change Visualizations in Analysis Workspac
 description: This video shows how to use the Summary Number and Summary Change visualizations in the Analyst Workspace.
 seo-description: This video shows how to use the Summary Number and Summary Change visualizations in the Analyst Workspace. - Adobe Analytics
 uuid: a1d14177-451c-45f5-9c41-479d30c9c181
-products: SG_ANALYTICS
 discoiquuid: b60191c4-455f-4b58-b660-43ea912b9cbe
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace - visualizations
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2136
 ---
 
 # Summary Number and Summary Change Visualizations in Analysis Workspace {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
