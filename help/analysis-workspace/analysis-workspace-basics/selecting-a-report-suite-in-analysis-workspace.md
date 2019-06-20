@@ -3,13 +3,14 @@ title: Selecting a Report Suite in Analysis Workspace
 seo-title: Selecting a Report Suite in Analysis Workspace - Adobe Analytics
 description: This video takes you through the report suite selector.
 seo-description: This video takes you through the report suite selector. - Adobe Analytics
-uuid: f0b1c80d-a9b0-4a35-b0bd-b2bb5892577e
-products: SG_ANALYTICS
-discoiquuid: 9e813b57-93e5-4750-8b38-354327eae135
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analysis workspace basics
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2026
 ---
 
 # Selecting a Report Suite in Adobe Analytics {#selecting-a-report-suite-in-adobe-analytics}
