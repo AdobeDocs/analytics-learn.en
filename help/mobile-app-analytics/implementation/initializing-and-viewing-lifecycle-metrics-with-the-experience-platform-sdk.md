@@ -4,12 +4,15 @@ seo-title: Initializing and Viewing Lifecycle Metrics with the Experience Platfo
 description: Lifecycle metrics are valuable, out-of-the-box information about your app user. These metrics contain information on the app user's lifecycle such as device information, install or upgrade information, session start and pause times, etc. In this video, see how to set up lifecycle metrics in your app, and how to see the results in a debugger.
 seo-description: Lifecycle metrics are valuable, out-of-the-box information about your app user. These metrics contain information on the app user's lifecycle such as device information, install or upgrade information, session start and pause times, etc. In this video, see how to set up lifecycle metrics in your app, and how to see the results in a debugger. - Adobe Analytics
 uuid: 4dc0ef37-cd42-4d74-8709-a722b27b666d
-products: SG_ANALYTICS
 discoiquuid: dd7b369f-f0bd-44ae-a5b4-0743e3968eb1
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementing mobile analytics
+topics: 
+audience: administrator
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 2561
 ---
 
 # Initializing and Viewing Lifecycle Metrics with the Experience Platform SDK {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}

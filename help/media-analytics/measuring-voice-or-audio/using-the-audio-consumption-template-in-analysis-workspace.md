@@ -4,12 +4,15 @@ seo-title: Using the Audio Consumption Template in Analysis Workspace - Adobe An
 description: This video outlines the Audio Consumption template in Analysis Workspace, which is available out-of-the-box for Audio Analytics.
 seo-description: This video outlines the Audio Consumption template in Analysis Workspace, which is available out-of-the-box for Audio Analytics. - Adobe Analytics
 uuid: d6b6a325-cfe9-4cb8-a0b8-36c11c03b58b
-products: SG_ANALYTICS
 discoiquuid: 08eb7100-a643-44c4-a355-20a2a7d6fa1a
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: voice and audio analytics
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1950
 ---
 
 # Using the Audio Consumption Template in Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}

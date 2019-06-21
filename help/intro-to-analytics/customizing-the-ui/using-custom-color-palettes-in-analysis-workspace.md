@@ -4,12 +4,15 @@ seo-title: Using Custom Color Palettes in Analysis Workspace - Adobe Analytics
 description: You can change the color palette used in Analysis Workspace to better align with your brand, or that of your customers.
 seo-description: You can change the color palette used in Analysis Workspace to better align with your brand, or that of your customers. - Adobe Analytics
 uuid: 10cc2fc9-5f95-4960-9765-7c00eb787879
-products: SG_ANALYTICS
 discoiquuid: 04703ec6-17d2-48a8-9d3b-0dbc26b2c1c7
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: customizing the ui
+topics: 
+audience: analyst, marketer
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1943
 ---
 
 # Using Custom Color Palettes in Analysis Workspace {#using-custom-color-palettes-in-analysis-workspace}

@@ -4,13 +4,15 @@ seo-title: Tracking Actions (AKA Custom Links) in a Mobile App with the Experien
 description: Actions are events that occur in your mobile app. In this video, learn how to use the trackAction API to track and measure an action. 
 seo-description: Actions are events that occur in your mobile app. In this video, learn how to use the trackAction API to track and measure an action. 
 uuid: 0386ff9e-18f6-4487-937e-79ff193bcd4a
-products: SG_ANALYTICS
-products: SG_MOBILEAPPS
 discoiquuid: 7ac9cd8b-8dc3-4d53-9964-63b5aea47796
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementing mobile analytics
+topics: 
+audience: administrator
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 2563
 ---
 
 # Tracking Actions (AKA Custom Links) in a Mobile App with the Experience Platform SDK {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}

@@ -4,12 +4,15 @@ seo-title: People Metric in Adobe Analytics
 description: Adobe Analytics now offers a People metric to de-duplicate visitors based on the Adobe Experience Cloud Device Co-op! This video provides more information and shows you how to get started.
 seo-description: Adobe Analytics now offers a People metric to de-duplicate visitors based on the Adobe Experience Cloud Device Co-op! This video provides more information and shows you how to get started.
 uuid: 6234ceec-39fc-4db8-810b-83889ccff310
-products: SG_ANALYTICS
 discoiquuid: 18009c57-5e38-4c5d-900b-6aa1ef181af6
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: analytics basics
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1986
 ---
 
 # People Metric in Adobe Analytics {#people-metric-in-adobe-analytics}
