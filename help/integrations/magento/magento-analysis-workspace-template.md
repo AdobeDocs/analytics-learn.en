@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 3269
 ---
 
-# Analysis Workspace Introduction {#analysis-workspace-introduction}
+# Magento Analysis Workspace Template {#magento-analysis-workspace-template}
 
 Introduces the Magento Marketing and Commerce template for Analysis Workspace. This is targeted at users of Magento, but it can be leveraged by any online retailer. It includes pre-built insights for retailers on your commerce activities to help you improve sales.
 
