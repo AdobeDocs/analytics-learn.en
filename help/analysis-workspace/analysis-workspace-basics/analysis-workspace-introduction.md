@@ -11,8 +11,8 @@ team: Technical Marketing
 kt: 3286
 ---
 
-# Analysis Workspace Overview {#analysis-workspace-overview}
+# Analysis Workspace Introduction {#analysis-workspace-introduction}
 
-High-level overview of the Adobe Analytics Solution's Analysis Workspace, including project creation and templates, panels, visualizations, dimensions, metrics, segments, and high-value features and techniques.
+Quick overview of Analysis Workspace to learn how the product supports data novices and experts.
 
->[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12)
