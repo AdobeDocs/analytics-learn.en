@@ -8,7 +8,7 @@ activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
-kt: 3286
+kt: 3268
 ---
 
 # Analysis Workspace Introduction {#analysis-workspace-introduction}
