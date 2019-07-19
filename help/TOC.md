@@ -21,6 +21,7 @@ user-guide-title: Adobe Analytics Tutorials
     + [In-product Support Ticket Submission](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
   + Analysis Workspace Basics {#analysis-workspace-basics}
+    + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
     + [Creating New Analysis Workspace Projects](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
     + [Create and Manage Custom Templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -227,6 +228,8 @@ user-guide-title: Adobe Analytics Tutorials
     + [Using the Project Converter to move projects from Ad Hoc Analysis to Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
   + Power BI {#power-bi}
     + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
+  + Magento {#magento}
+    + [Magento Analysis Workspace Template](integrations/magento/magento-analysis-workspace-template.md)    
 + Data Science {#data-science}
   + [Using Adobe Analytics machine learning and AI for the moments that matter](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
   + [Anomaly Detection in Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
