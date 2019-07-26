@@ -39,12 +39,12 @@ Welcome to the Analytics Tutorials Site.  Using these tutorials along with the [
 <table>
 <tr>
   <td>
-    <a href="measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md">
+    <a href="mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md">
       <img alt="thumbnail image for the 'How To Increase Engagement and Retention Rates' video" src="assets/thumb_how-to-increase-engagement-and-retention-rates.png" />
     </a>
     <div>
-      <a href="measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md">
-    <strong>How To Increase Engagement and Retention Rates</strong>
+      <a href="mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md">
+    <strong>Increase Retention Rates</strong>
     </a>
     </div>
     <p>
