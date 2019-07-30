@@ -7,7 +7,7 @@ audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
-team: Technical Marketing
+team: TM
 kt: 3269
 ---
 
