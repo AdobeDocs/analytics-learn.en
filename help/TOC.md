@@ -110,6 +110,7 @@ user-guide-title: Adobe Analytics Tutorials
     + [Direct Link to a project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
     + [Share embedded components](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
+    + [Schedule and Downloadable Projects](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
   + Attribution IQ {#attribution-iq}
     + [Adding side-by-side comparisons of Attribution IQ Models](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
