@@ -50,6 +50,7 @@ user-guide-title: Adobe Analytics Tutorials
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Visualization Types](analysis-workspace/visualizations/visualization-types.md)
+    + [selecting-data-to-visualize](analysis-workspace/visualizations/selecting-data-to-visualize.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
     + [Histogram Visualization](analysis-workspace/visualizations/histogram-visualization.md)
     + [Map Visualization](analysis-workspace/visualizations/map-visualization.md)
