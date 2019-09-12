@@ -9,6 +9,11 @@ user-guide-title: Adobe Analytics Tutorials
   + Analytics Basics {#analytics-basics}
     + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
     + [People Metric](intro-to-analytics/analytics-basics/people-metric.md)
+    + [Understanding the Analytics Cycle](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+    + [How Analytics Data is Collected](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
+    + [Logging in to Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
+    + [Intro to the Analytics UI](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
+    + [Understanding and Creating Report Suites](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
   + Customizing the UI {#customizing-the-ui}
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
@@ -19,6 +24,7 @@ user-guide-title: Adobe Analytics Tutorials
   + Getting Help {#getting-help}
     + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
     + [In-product Support Ticket Submission](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
+    + [Getting Help in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
@@ -100,6 +106,11 @@ user-guide-title: Adobe Analytics Tutorials
     + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
     + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
     + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+  + Metrics {#metrics}
+    + [Understanding Basic Visitor Metrics](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+  + Dimensions {#dimensions}
+    + [Introduction to Traffic Variables (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+    + [Introduction to Conversion Variables (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
     + [Using Date Ranges and Calendar in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
@@ -147,6 +158,7 @@ user-guide-title: Adobe Analytics Tutorials
     + [Configuring Zip and Postal Code Settings](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
   + Data Governance and GDPR {data-governance-and-gdpr}
     + [Data Governance and GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
+    + [Getting the Right People on Your Analytics Team](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
   + Traffic Management {#traffic-management}
     + [Server Call Usage](administration/traffic-management/server-call-usage.md)
 + Implementation {#implementation}
@@ -231,7 +243,7 @@ user-guide-title: Adobe Analytics Tutorials
   + Power BI {#power-bi}
     + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
   + Magento {#magento}
-    + [Magento Analysis Workspace Template](integrations/magento/magento-analysis-workspace-template.md)    
+    + [Magento Analysis Workspace Template](integrations/magento/magento-analysis-workspace-template.md)
 + Data Science {#data-science}
   + [Using Adobe Analytics machine learning and AI for the moments that matter](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
   + [Anomaly Detection in Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
