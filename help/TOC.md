@@ -108,6 +108,7 @@ user-guide-title: Adobe Analytics Tutorials
     + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
   + Metrics {#metrics}
     + [Understanding Basic Visitor Metrics](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+    + [Introduction to Conversion Events](analysis-workspace/metrics/introduction-to-conversion-events.md)
   + Dimensions {#dimensions}
     + [Introduction to Traffic Variables (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
     + [Introduction to Conversion Variables (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
@@ -156,6 +157,7 @@ user-guide-title: Adobe Analytics Tutorials
 + Administration {#administration}
   + Manage Report Suites {#manage-report-suites}
     + [Configuring Zip and Postal Code Settings](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
+    + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
   + Data Governance and GDPR {data-governance-and-gdpr}
     + [Data Governance and GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
     + [Getting the Right People on Your Analytics Team](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
@@ -166,6 +168,9 @@ user-guide-title: Adobe Analytics Tutorials
     + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
     + [Map contextData Variables into Props and Evars with Processing Rules](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
     + [How to Identify Your Analytics Tracking Server and Report Suites](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+    + [Creating a Business Requirements Document](implementation/implementation-basics/creating-a-business-requirements-document.md)
+    + [Creating and Maintaining an SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+    + [Using a Data Layer on your Site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
   + Via Adobe Launch {#via-adobe-launch}
     + [Implement in Websites with Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
     + [Configuring Library Management in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
@@ -177,6 +182,13 @@ user-guide-title: Adobe Analytics Tutorials
     + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
     + [Configuring Easy Download Link Tracking](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
     + [Configuring Easy Exit Link Tracking](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
+    + [Preparing Adobe Launch for your Analytics Implementation](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
+    + [Creating Data Elements in Launch for the Analytics Implementation](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
+    + [Creating a Global Page Rule in Launch](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
+    + [Validating your Global Page Load Rule in Launch](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
+    + [Creating Launch Rules for Special Pages](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
+    + [Creating Launch Rules for Success Events](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
+    + [Publishing Launch Libraries to Stage and Production](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
   + Using JavaScript {#using-javascript}
     + [Custom Link Tracking without a Tag Manager](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
     + [Updating AppMeasurement When Not Using Adobe Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
@@ -250,6 +262,11 @@ user-guide-title: Adobe Analytics Tutorials
   + [Contribution Analysis in Analysis Workspace](data-science/contribution-analysis-workspace.md)
   + [Intelligent Alerts](data-science/intelligent-alerts.md)
   + [Adobe Analytics and Adobe Sensei - Democratizing data science for ALL](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
++ Vertical-Specific {#vertical-specific}
+  + Retail {#retail}
+    + [Intro to Retail Variables and Events](vertical-specific/retail/intro-to-retail-variables-and-events.md)
+    + [Adding Basic Retail Variables and Events to Launch Rules](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
+    + [Adding a Launch Rule for the Purchase Event](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
 + Media Analytics {#media-analytics}
   + Measuring Voice or Audio {#measuring-voice-or-audio}
     + [Using the Audio Consumption Template in Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
