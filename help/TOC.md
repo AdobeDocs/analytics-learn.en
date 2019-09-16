@@ -173,6 +173,7 @@ user-guide-title: Adobe Analytics Tutorials
     + [Using a Data Layer on your Site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
   + Via Adobe Launch {#via-adobe-launch}
     + [Implement in Websites with Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
+    + [Basic Configuration of the Analytics Launch extension](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
     + [Configuring Library Management in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
     + [Configuring General Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
     + [Configuring Global Variables in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
