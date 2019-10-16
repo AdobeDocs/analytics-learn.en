@@ -97,6 +97,7 @@ user-guide-title: Adobe Analytics Tutorials
     + [Creating Ranked, Overtime and Trended Reports in Analysis Workspace](analysis-workspace/building-freeform-tables/creating-ranked-overtime-trended-reports-analysis-workspace.md)
     + [Column Settings Updates In Analysis Workspace (E.g. Text Wrapping)](analysis-workspace/building-freeform-tables/column-settings-updates-in-analysis-workspace-text-wrapping.md)
     + [Time-parting Dimensions in Analysis Workspace](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
+    + [Freeform Table Totals in Analysis Workspace](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
   + Applying Segments {#applying-segments}
     + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
