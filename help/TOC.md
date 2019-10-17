@@ -26,7 +26,7 @@ user-guide-title: Adobe Analytics Tutorials
     + [In-product Support Ticket Submission](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
     + [Getting Help in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
-+ [7 Tips and Tricks That Make Creating Custom Analytics Projects Faster and Easier](analysis-workspace/seven-tips-and-tricks-in-analysis-workspace.md)
+  + [7 Tips and Tricks That Make Creating Custom Analytics Projects Faster and Easier](analysis-workspace/seven-tips-and-tricks-in-analysis-workspace.md)
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
