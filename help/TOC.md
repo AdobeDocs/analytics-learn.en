@@ -26,7 +26,6 @@ user-guide-title: Adobe Analytics Tutorials
     + [In-product Support Ticket Submission](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
     + [Getting Help in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
-  + [7 Tips and Tricks That Make Creating Custom Analytics Projects Faster and Easier](analysis-workspace/seven-tips-and-tricks-in-analysis-workspace.md)
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
@@ -38,6 +37,8 @@ user-guide-title: Adobe Analytics Tutorials
     + [Using Component Managers](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
     + [Selecting a Report Suite in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
     + [Using the Usage Log Tracking for Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-the-usage-log-tracking-for-analysis-workspace.md)
+  + Tips and Tricks {#tips-and-tricks}
+    + [7 Tips and Tricks for Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
     + [Copy and Insert in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
