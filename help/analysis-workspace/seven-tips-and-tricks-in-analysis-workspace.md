@@ -98,7 +98,7 @@ You can now easily turn any project into a custom template. Simply select “Sav
 
 <table>
   <tr>
-    <td width=222><b>About the Author</b></td>
+    <td><b>About the Author</b></td>
     <td></td>
   </tr>
   <tr>
