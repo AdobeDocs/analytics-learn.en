@@ -54,7 +54,7 @@ Easily copy visualizations and panels from one place, and add them to another, e
 
 ### ***Tip 4: Switch between time granularity visualizations in just one click***
 
-Easily change the time view when working with trended visualizations. In previous Analysis Workspace iterations, changing time meant unhiding a source table, dragging in a new dimension, and then re-hiding\ the table. Now, it’s as easy as selecting the time granularity you want to demonstrate right from the “Visualizations Settings” (top right gear) dropdown menu.
+Easily change the time view when working with trended visualizations. In previous Analysis Workspace iterations, changing time meant unhiding a source table, dragging in a new dimension, and then re-hiding the table. Now, it’s as easy as selecting the time granularity you want to demonstrate right from the “Visualizations Settings” (top right gear) dropdown menu.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
 
@@ -92,4 +92,4 @@ You can now easily turn any project into a custom template. Simply select “Sav
 
 |About the Author      |            |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser.jpeg) | Jen Lasser is a manager on the Adobe Analytics product management team. <br> In this role, she meets with customers to understand their business needs, <br>using what she learns to inform the Adobe Analytics product roadmap <br>and to prioritize new product features. Prior to her current position, <br>Jen was a principal consultant on the Adobe Consulting team, working as a <br>subject matter expert in data visualization, Analysis Workspace, and Report Builder. <br><br>With the benefit of her real-world insight, we’ve curated the following tips and tricks to <br>help make building, visualizing, and sharing your Analysis Workspace projects easier|
+| ![Jen Lasser](assets/jlasser-headshot.jpg) | Jen Lasser is a manager on the Adobe Analytics product management team. <br> In this role, she meets with customers to understand their business needs, <br>using what she learns to inform the Adobe Analytics product roadmap <br>and to prioritize new product features. Prior to her current position, <br>Jen was a principal consultant on the Adobe Consulting team, working as a <br>subject matter expert in data visualization, Analysis Workspace, and Report Builder. <br><br>With the benefit of her real-world insight, we’ve curated the following tips and tricks to <br>help make building, visualizing, and sharing your Analysis Workspace projects easier|
