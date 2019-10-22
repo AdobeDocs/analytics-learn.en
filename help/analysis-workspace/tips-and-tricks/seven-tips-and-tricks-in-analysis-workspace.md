@@ -18,8 +18,6 @@ kt: kt
 **Expand your Analysis Workspace skillset!**
 Analysis Workspace is a powerful tool within Adobe Analytics that can help you create more impactful analytics projects. It has a vast feature set that allows you to do any kind of freeform analysis, but a simple user experience that makes this power and scale accessible.
 
-![Jen Lasser](assets/jlasser-short-bio.png)
-
 ## Build: Drilling down to the right data points
 
 ### ***Tip 1: Drop any dimension, date range, segment, or event into any part of your project***
@@ -91,6 +89,8 @@ You can now easily turn any project into a custom template. Simply select “Sav
 >[!TIP]
 >
 >**Highly-Requested Capability:** Several customers asked us to make saving projects as custom templates possible. Now, this capability has become one of their favorites.
+
+[Click here to find more tips and tricks on Experience League](https://experienceleague.adobe.com/?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
 
 |About the Author      |            |
 |------------|------------|
