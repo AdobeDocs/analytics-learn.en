@@ -18,6 +18,8 @@ kt: kt
 **Expand your Analysis Workspace skillset!**
 Analysis Workspace is a powerful tool within Adobe Analytics that can help you create more impactful analytics projects. It has a vast feature set that allows you to do any kind of freeform analysis, but a simple user experience that makes this power and scale accessible.
 
+![Jen Lasser](assets/jlasser-short-bio.png)
+
 ## Build: Drilling down to the right data points
 
 ### ***Tip 1: Drop any dimension, date range, segment, or event into any part of your project***
@@ -92,4 +94,4 @@ You can now easily turn any project into a custom template. Simply select “Sav
 
 |About the Author      |            |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot.jpg) | Jen Lasser is a manager on the Adobe Analytics product management team. <br> In this role, she meets with customers to understand their business needs, <br>using what she learns to inform the Adobe Analytics product roadmap <br>and to prioritize new product features. Prior to her current position, <br>Jen was a principal consultant on the Adobe Consulting team, working as a <br>subject matter expert in data visualization, Analysis Workspace, and Report Builder. <br><br>With the benefit of her real-world insight, we’ve curated the following tips and tricks to <br>help make building, visualizing, and sharing your Analysis Workspace projects easier|
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser is a manager on the Adobe Analytics product management team. <br> In this role, she meets with customers to understand their business needs, <br>using what she learns to inform the Adobe Analytics product roadmap <br>and to prioritize new product features. Prior to her current position, <br>Jen was a principal consultant on the Adobe Consulting team, working as a <br>subject matter expert in data visualization, Analysis Workspace, and Report Builder. <br><br>With the benefit of her real-world insight, we’ve curated the following tips and tricks to <br>help make building, visualizing, and sharing your Analysis Workspace projects easier|
