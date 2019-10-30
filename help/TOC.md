@@ -136,6 +136,7 @@ user-guide-title: Adobe Analytics Tutorials
   + Cohort Analysis {#cohort-analysis}
     + [Cohort Analysis in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
     + [Overview of Cohort Tables](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
+    + [Cohort Table Settings](analysis-workspace/cohort-analysis/cohort-table-settings.md)
     + [Churn Analysis with Cohort Tables](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
     + [Cohort Analysis Using Any Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
     + [Latency Analysis with Cohort Tables](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
