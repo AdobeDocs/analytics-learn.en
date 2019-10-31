@@ -90,6 +90,8 @@ You can now easily turn any project into a custom template. Simply select “Sav
 >
 >**Highly-Requested Capability:** Several customers asked us to make saving projects as custom templates possible. Now, this capability has become one of their favorites.
 
+[Click here to find more tips and tricks on Experience League](https://experienceleague.adobe.com/?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
+
 |About the Author      |            |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot.jpg) | Jen Lasser is a manager on the Adobe Analytics product management team. <br> In this role, she meets with customers to understand their business needs, <br>using what she learns to inform the Adobe Analytics product roadmap <br>and to prioritize new product features. Prior to her current position, <br>Jen was a principal consultant on the Adobe Consulting team, working as a <br>subject matter expert in data visualization, Analysis Workspace, and Report Builder. <br><br>With the benefit of her real-world insight, we’ve curated the following tips and tricks to <br>help make building, visualizing, and sharing your Analysis Workspace projects easier|
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser is a manager on the Adobe Analytics product management team. <br> In this role, she meets with customers to understand their business needs, <br>using what she learns to inform the Adobe Analytics product roadmap <br>and to prioritize new product features. Prior to her current position, <br>Jen was a principal consultant on the Adobe Consulting team, working as a <br>subject matter expert in data visualization, Analysis Workspace, and Report Builder. <br><br>With the benefit of her real-world insight, we’ve curated the following tips and tricks to <br>help make building, visualizing, and sharing your Analysis Workspace projects easier|
