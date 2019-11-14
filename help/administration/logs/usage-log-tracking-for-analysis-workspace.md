@@ -15,6 +15,6 @@ kt: 4024
 
 Under Admin - Logs - Usage & Access, you can better understand your users' usage of Adobe Analytics. This video focuses specifically on measuring Workspace project usage. You can download the Excel file used in this video at https://adobe.ly/2ygP5ws
 
->[!VIDEO](https://video.tv.adobe.com/v/2529768889/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
 For more information, visit the [documentation](https://docs.adobe.com/help/en/analytics/admin/admin-tools/logs.html).
