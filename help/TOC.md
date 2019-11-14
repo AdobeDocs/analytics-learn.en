@@ -167,6 +167,8 @@ user-guide-title: Adobe Analytics Tutorials
     + [Getting the Right People on Your Analytics Team](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
   + Traffic Management {#traffic-management}
     + [Server Call Usage](administration/traffic-management/server-call-usage.md)
+  + Logs{#logs}
+    + [Usage Log Tracking for Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
 + Implementation {#implementation}
   + Implementation Basics {#implementation-basics}
     + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
