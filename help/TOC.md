@@ -1,5 +1,6 @@
 ---
 user-guide-title: Adobe Analytics Tutorials
+solution: Analytics
 ---
 
 # Analytics Tutorials {#tutorials}
