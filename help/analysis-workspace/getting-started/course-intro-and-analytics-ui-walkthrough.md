@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Analysis Workspace Basics: Course Intro and Analytics UI Walkthrough
+title: Getting Started with Analysis Workspace Basics - Course Intro and Analytics UI Walkthrough
 description: This video introduces you to an Experience League course focusing on getting you started with Analytics and Analysis Workspace. This course focuses on the business practitioner role. In this video, you will get your bearings in the Analytics UI and learn about the course topic.
 feature: analysis workspace
 topics: 
@@ -11,7 +11,7 @@ kt: 4098
 
 ---
 
-# Getting Started with Analysis Workspace Basics: Course Intro and Analytics UI Walkthrough
+# Getting Started with Analysis Workspace Basics - Course Intro and Analytics UI Walkthrough
 
 This video introduces you to an Experience League course focusing on getting you started with Analytics and Analysis Workspace. This course focuses on the business practitioner role. In this video, you will get your bearings in the Analytics UI and learn about the course topic.
 
