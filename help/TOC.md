@@ -1,5 +1,6 @@
 ---
 user-guide-title: Adobe Analytics Tutorials
+solution: Analytics
 ---
 
 # Analytics Tutorials {#tutorials}
@@ -26,6 +27,10 @@ user-guide-title: Adobe Analytics Tutorials
     + [In-product Support Ticket Submission](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
     + [Getting Help in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
+  + Getting Started with Analysis Workspace {#getting-started-with-analysis-workspace}
+    + [Course Intro and Analytics UI Walkthrough](analysis-workspace/getting-started/course-intro-and-analytics-ui-walkthrough.md)
+    + [Starting Your First Project](analysis-workspace/getting-started/starting-your-first-project-in-analysis-workspace.md)
+    + [Using Tables, Visualizations, and Panels](analysis-workspace/getting-started/using-tables-visualizations-and-panels.md)
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
