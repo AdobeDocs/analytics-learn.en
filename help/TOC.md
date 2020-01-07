@@ -126,6 +126,15 @@ solution: Analytics
     + [Creating Custom Date Ranges](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
     + [Date Aligning](analysis-workspace/calendar-and-date-ranges/date-aligning.md)
     + [Date Comparisons in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
+  + Analyzing Customer Journeys {#analyzing-customer-journeys}
+    + [Journey IQ - Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+    + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+    + [Enhancements to Fallout Visualization](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+    + [Multidimensional Fallout](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
+    + [Comparing segments in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+    + [Flow Visualization](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+    + [Expanding on Flow visualization](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+    + [Text-Wrapping and Multi-Dimensional Flow](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
   + Curate and Share Projects {#curate-and-share-projects}
     + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
     + [Direct Link to a project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
@@ -146,15 +155,6 @@ solution: Analytics
     + [Cohort Analysis Using Any Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
     + [Latency Analysis with Cohort Tables](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
     + [Calculate Rolling Retention in Cohort Tables](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-  + Analyzing Customer Journeys {#analyzing-customer-journeys}
-    + [Journey IQ - Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-    + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-    + [Enhancements to Fallout Visualization](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-    + [Multidimensional Fallout](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-    + [Comparing segments in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-    + [Flow Visualization](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-    + [Expanding on Flow visualization](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-    + [Text-Wrapping and Multi-Dimensional Flow](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
   + Voice Analytics {#voice-analytics}
     + [How to Manage and Track Your Voice Assistant App Data](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
     + [Understand Differences Across Voice-Enabled Devices](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)

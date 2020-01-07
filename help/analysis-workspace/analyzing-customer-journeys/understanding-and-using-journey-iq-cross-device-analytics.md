@@ -23,20 +23,20 @@ When users interact with your brand they do so in many ways and on multiple "sur
 
 Here's an example. Suppose Isabelle interacted with your brand in the following way:
 
-![Traditional Analytics Journey](assets/cda-isabelle-journey-traditional-analytics.png)
 *Isabelle is three visitors*
+![Traditional Analytics Journey](assets/cda-isabelle-journey-traditional-analytics.png)
 
 Using traditional analytics, Isabelle's journey is fractured into three pieces. She is represented as three unique visitors, each of whom used a different device to perform isolated tasks. What is needed is a unified, cross-device view of Isabelle's interactions. Journey IQ: Cross-Device Analytics provides this view.
 
-![Cross-Device Analytics Journey](assets/cda-isabelle-journey-cross-device-analytics.png)
 *Isabelle is one person*
+![Cross-Device Analytics Journey](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### A Cross-Device View Provides Better Analytics
 
 Having a person-centric, cross-device view of Isabelle's behavior can make a significant difference to your analysis. For example, the traditional visitor-based approach doesn't give you the complete picture of marketing channel effectiveness. Let's look at Isabelle's journey once again, focusing in on which channel receives credit for her product view and for her purchase. We'll use last-touch attribution for simplicity, but the same problem occurs using any attribution model when you divide Isabelle's behavior up into separate visitors. Using the traditional visitor-based view of the world gives very different, even misleading results:
 
-![channel attribution](assets/channel-attribution.png)
 *Traditional Analytics vs. Cross-Device Analytics*
+![channel attribution](assets/channel-attribution.png)
 
 Notice that with the cross-device view, the email channel receives credit for both the product view and the purchase, which more accurately represents Isabelle's real world experience.
 
@@ -57,18 +57,18 @@ CDA is presented through a special kind of cross-device [Virtual Report Suite](h
 
 In step one of the VRS builder, choose the report suite that has been configured by Adobe as CDA-enabled:
 
-![Virtual Report Suite Step One](assets/cda-vrs-step-one.png)
 *Choose a CDA-enabled base (source) report suite*
+![Virtual Report Suite Step One](assets/cda-vrs-step-one.png)
 
 Then turn on Report Time Processing and enable cross-device stitching:
 
-![Virtual Report Suite Step Two](assets/cda-vrs-step-two.png)
 *Enable report-time processing and cross-device stitching*
+![Virtual Report Suite Step Two](assets/cda-vrs-step-two.png)
 
 Finish the VRS setup and save it. The CDA VRS will show up in Analysis Workspace with a special icon next to it as shown below:
 
-![Virtual Report Suite Step Three](assets/cda-vrs-step-three.png)
 *Select the CDA VRS in Analysis Workspace*
+![Virtual Report Suite Step Three](assets/cda-vrs-step-three.png)
 
 >[!TIP]
 >
@@ -105,8 +105,8 @@ CDA is included with [Analytics Ultimate](https://helpx.adobe.com/legal/product-
 
 Within the CDA Virtual Report Suite, you'll see a few changes. For example, the Unique Visitors metric is replaced by two new metrics: People and Unique Devices. These new metrics give you far better insight into audience size.
 
-![CDA People Metric](assets/cda-people-metric.png)
 *People and Unique Devices*
+![CDA People Metric](assets/cda-people-metric.png)
 
 In the [Segment Builder](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html), the Visitor segment container has been replaced by a Person segment container. Using a CDA VRS, you can create cross-device segments such as:
 
@@ -114,8 +114,8 @@ In the [Segment Builder](https://docs.adobe.com/content/help/en/analytics/compon
 * People who begin their journey on a mobile device and then later purchase on a desktop device
 * Visits where people use more than one device to accomplish a task
 
-![Segment Builder Person Container](assets/cda-segment-builder-person-container.png)
 *Person-level segments*
+![Segment Builder Person Container](assets/cda-segment-builder-person-container.png)
 
 ### Dimension Persistence
 
@@ -132,15 +132,15 @@ will now automatically persist from one device to another until the Purchase eve
 
 Have you ever wondered how many people are interacting with your brand? Have you wanted to understand how many and what type of devices they use? How does their usage overlap? Using a CDA VRS, you can create cross-device [Venn diagrams](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/venn.html) and devices-per-person [histograms](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/histogram.html).
 
-![Venn and Histogram](assets/cda-venn-and-histogram.png)
 *Person-based audience analysis*
+![Venn and Histogram](assets/cda-venn-and-histogram.png)
 
 ### Cross-Device Flow
 
 With CDA and Analysis Workspace, you can visualize how people are moving from one device to another over time in the [Flow visualization](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/flow/flow.html). You can see where they drop out in their journey, and where they carry on.
 
-![Flow Visualization](assets/cda-flow-viz.png)
 *Flow with CDA*
+![Flow Visualization](assets/cda-flow-viz.png)
 
 ### Cross-Device Fallout
 
@@ -148,8 +148,8 @@ You likely use several [Fallout visualizations](https://docs.adobe.com/content/h
 
 Not to worry, CDA has you covered. CDA creates the cross-device view that makes Fallout visualizations much, much more useful. After all, what really matters is whether the person ultimately succeeded in their task somewhere.
 
-![Fallout Visualization](assets/cda-fallout-viz.png)
 *Fallout with CDA*
+![Fallout Visualization](assets/cda-fallout-viz.png)
 
 ### Cross-Device Attribution IQ
 
@@ -157,7 +157,7 @@ Because CDA creates a layer of cross-device data underneath Analysis Workspace, 
 
 For example, suppose you want to understand how often a mobile phone is the first device used in an interaction that ultimately leads to success. This represents the "acquisition rate" of the mobile phone. CDA + Attribution IQ allows you to do this analysis:
 
-![Attribution IQ](assets/cda-attribution-iq.png)
 *Attribution IQ with CDA*
+![Attribution IQ](assets/cda-attribution-iq.png)
 
 For more information, see the [Cross-Device Analytics help documentation](https://docs.adobe.com/content/help/en/analytics/components/cda/cda-home.html).
