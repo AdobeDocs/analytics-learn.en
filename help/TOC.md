@@ -147,6 +147,7 @@ solution: Analytics
     + [Latency Analysis with Cohort Tables](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
     + [Calculate Rolling Retention in Cohort Tables](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
+    + [Journey IQ - Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
     + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
     + [Enhancements to Fallout Visualization](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
     + [Multidimensional Fallout](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
