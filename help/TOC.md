@@ -30,17 +30,21 @@ solution: Analytics
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+    + [Starting Your First Project in Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
     + [Creating New Analysis Workspace Projects](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
     + [Create and Manage Custom Templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
     + [Standard Templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
     + [Using Custom Templates to Enable Novice Analysis Workspace Users](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
+    + [Understanding How Data Gets Into Your Analysis Workspace Project](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
     + [Component Management in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
     + [Using Component Managers](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
     + [Selecting a Report Suite in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
     + [Using the Usage Log Tracking for Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-the-usage-log-tracking-for-analysis-workspace.md)
   + Tips and Tricks {#tips-and-tricks}
     + [7 Tips and Tricks for Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
+    + [Tips to Increase Productivity in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
+    + [Starting Your First Project in Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
     + [Copy and Insert in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
@@ -51,6 +55,7 @@ solution: Analytics
     + [View Density in Analysis Workspace](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
     + [Zero State Improvements](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
   + Using Panels {#using-panels}
+    + [Using Tables, Visualizations, and Panels in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
     + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
     + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
@@ -59,6 +64,7 @@ solution: Analytics
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Visualization Types](analysis-workspace/visualizations/visualization-types.md)
+    + [Using Tables, Visualizations, and Panels in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
     + [Selecting Data to Visualize](analysis-workspace/visualizations/selecting-data-to-visualize.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
     + [Histogram Visualization](analysis-workspace/visualizations/histogram-visualization.md)
@@ -83,6 +89,8 @@ solution: Analytics
   + Building Freeform Tables {#building-freeform-tables}
     + [Previewing and Using Components](analysis-workspace/building-freeform-tables/previewing-and-using-components.md)
     + [Apply Multiple Components at Once](analysis-workspace/building-freeform-tables/apply-multiple-components-at-once.md)
+    + [Using the Freeform Table Builder](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+    + [Reordering Static Rows in Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
     + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
     + [Using the Right-Click Menu in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
     + [Continued Right-click Menu in Analysis Workspace](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
@@ -102,6 +110,7 @@ solution: Analytics
     + [Time-parting Dimensions in Analysis Workspace](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
     + [Freeform Table Totals in Analysis Workspace](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
   + Applying Segments {#applying-segments}
+    + [Applying Segments to your Analysis Workspace project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
     + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
@@ -112,12 +121,15 @@ solution: Analytics
     + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
   + Metrics {#metrics}
     + [Understanding Basic Visitor Metrics](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+    + [Adding Dimensions and Metrics to your Project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
     + [Introduction to Conversion Events](analysis-workspace/metrics/introduction-to-conversion-events.md)
   + Dimensions {#dimensions}
+    + [Adding Dimensions and Metrics to your Project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
     + [Introduction to Traffic Variables (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
     + [Introduction to Conversion Variables (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+    + [Using Date Ranges and Comparisons in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
     + [Using Date Ranges and Calendar in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
     + [Creating Custom Date Ranges](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
     + [Date Aligning](analysis-workspace/calendar-and-date-ranges/date-aligning.md)
@@ -132,6 +144,7 @@ solution: Analytics
     + [Expanding on Flow visualization](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
     + [Text-Wrapping and Multi-Dimensional Flow](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
   + Curate and Share Projects {#curate-and-share-projects}
+    + [Saving, Sharing, and Collaborating on Projects in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
     + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
     + [Direct Link to a project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)

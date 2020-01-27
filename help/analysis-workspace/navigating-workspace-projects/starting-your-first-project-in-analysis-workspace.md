@@ -1,7 +1,7 @@
 ---
 title: Starting Your First Project in Analysis Workspace
 description: In this video you will learn how to create a project in Analysis Workspace using default and custom templates, and how to copy elements between projects.
-feature: analysis workspace
+feature: analysis workspace - navigating workspace projects
 topics: 
 audience: analyst, marketer
 activity: use
@@ -17,5 +17,4 @@ In this video you will learn how to create a project in Analysis Workspace using
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
-Previous video: [Course Intro and Analytics UI Walkthrough](course-intro-and-analytics-ui-walkthrough.md)
-Continue the learning path with: [Using Tables, Visualizations and Panels](using-tables-visualizations-and-panels.md)
+For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html).
