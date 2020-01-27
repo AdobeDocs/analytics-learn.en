@@ -15,6 +15,6 @@ kt: 4107
 
 In this video, learn how to limit the data in your tables and visualizations by applying segments to your data.
 
->[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
 For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html).
