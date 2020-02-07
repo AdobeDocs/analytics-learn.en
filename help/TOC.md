@@ -297,7 +297,7 @@ solution: Analytics
 + Vertical-Specific {#vertical-specific}
   + High Tech {#high-tech}
     + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-  + Travel & Hospitality {#travel-and-hospitality}
+  + Travel and Hospitality {#travel-and-hospitality}
     + [Summit 2019 Super Session - Travel & Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
   + Retail {#retail}
     + [Intro to Retail Variables and Events](vertical-specific/retail/intro-to-retail-variables-and-events.md)
