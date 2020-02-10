@@ -7,6 +7,16 @@ solution: Analytics
 
 + [Overview](overview.md)
 + Introduction to Analytics {#intro-to-analytics}
+  + What Can Adobe Analytics Do For Me? {#what-can-aa-do-for-me}
+    + [How Adobe Analysis Workspace Can Change Your Business](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+    + [It's More Than Data. It's Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+    + [Adobe Sensei and Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+    + [Customer Use Case - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+    + [Customer Use Case - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+    + [Customer Use Case - The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+    + [Summit 2019 Super Session - Travel and Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+    + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+    + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
   + Analytics Basics {#analytics-basics}
     + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
     + [People Metric](intro-to-analytics/analytics-basics/people-metric.md)
@@ -285,10 +295,15 @@ solution: Analytics
   + [Intelligent Alerts](data-science/intelligent-alerts.md)
   + [Adobe Analytics and Adobe Sensei - Democratizing data science for ALL](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Vertical-Specific {#vertical-specific}
+  + High Tech {#high-tech}
+    + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+  + Travel and Hospitality {#travel-and-hospitality}
+    + [Summit 2019 Super Session - Travel and Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
   + Retail {#retail}
     + [Intro to Retail Variables and Events](vertical-specific/retail/intro-to-retail-variables-and-events.md)
     + [Adding Basic Retail Variables and Events to Launch Rules](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
     + [Adding a Launch Rule for the Purchase Event](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
+    + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
 + Media Analytics {#media-analytics}
   + Measuring Voice or Audio {#measuring-voice-or-audio}
     + [Using the Audio Consumption Template in Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
