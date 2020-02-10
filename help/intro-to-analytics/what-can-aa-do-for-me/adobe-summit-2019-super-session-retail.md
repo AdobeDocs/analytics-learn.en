@@ -15,4 +15,4 @@ kt: 4389
 
 See curated clips from the retail "super session" at Summit 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12)

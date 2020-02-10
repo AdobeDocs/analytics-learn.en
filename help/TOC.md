@@ -14,7 +14,7 @@ solution: Analytics
     + [Customer Use Case - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
     + [Customer Use Case - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
     + [Customer Use Case - The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-    + [Summit 2019 Super Session - Travel & Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+    + [Summit 2019 Super Session - Travel and Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
     + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
     + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
   + Analytics Basics {#analytics-basics}
@@ -298,7 +298,7 @@ solution: Analytics
   + High Tech {#high-tech}
     + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
   + Travel and Hospitality {#travel-and-hospitality}
-    + [Summit 2019 Super Session - Travel & Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+    + [Summit 2019 Super Session - Travel and Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
   + Retail {#retail}
     + [Intro to Retail Variables and Events](vertical-specific/retail/intro-to-retail-variables-and-events.md)
     + [Adding Basic Retail Variables and Events to Launch Rules](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
