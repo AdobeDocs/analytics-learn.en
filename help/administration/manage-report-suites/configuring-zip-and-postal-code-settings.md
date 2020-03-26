@@ -13,10 +13,10 @@ team: Technical Marketing
 kt: 2679
 ---
 
-# Configuring Zip and Postal Code Settings in Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
+# Configuring [!UICONTROL Zip] and Postal Code Settings in Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
-In this video you will learn how to configure zip and postal code settings, so that you can do analysis based on this region data.
+In this video you will learn how to configure [!UICONTROL zip] and postal code settings, so that you can do analysis based on this region data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
-For more information about zip code settings, see the [documentation](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html).
+For more information about [!UICONTROL zip code] settings, see the [documentation](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html).

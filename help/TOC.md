@@ -49,7 +49,6 @@ solution: Analytics
     + [Component Management in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
     + [Using Component Managers](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
     + [Selecting a Report Suite in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
-    + [Using the Usage Log Tracking for Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-the-usage-log-tracking-for-analysis-workspace.md)
   + Tips and Tricks {#tips-and-tricks}
     + [7 Tips and Tricks for Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
     + [Tips to Increase Productivity in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)

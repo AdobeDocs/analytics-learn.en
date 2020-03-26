@@ -1,23 +1,18 @@
 ---
 title: Freeform Table Filters in Analysis Workspace
-seo-title: Freeform Table Filters in Analysis Workspace
 description: Filters provide more control over what rows of data are shared in a freeform table.
-seo-description: Filters provide more control over what rows of data are shared in a freeform table.
-uuid: 5e32dda7-f04d-44eb-a136-4fd9b89072f1
-discoiquuid: 63f243d9-3c42-4603-a3ba-1d47a5599563
 feature: analysis workspace - building freeform tables
 topics: 
 audience: analyst, marketer
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 1699
 ---
 
-# Freeform Table Filters in Analysis Workspace {#freeform-table-filters-in-analysis-workspace}
+# [!DNL Freeform Table] Filters in Analysis Workspace {#freeform-table-filters-in-analysis-workspace}
 
-Filters provide more control over what rows of data are shared in a freeform table.
+Filters provide more control over what rows of data are shared in a [!DNL freeform table].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12)
 

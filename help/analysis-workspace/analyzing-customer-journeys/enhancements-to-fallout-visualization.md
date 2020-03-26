@@ -1,8 +1,6 @@
 ---
 title: Enhancements to Fallout Visualization in Analysis Workspace
-seo-title: Enhancements to Fallout Visualization in Analysis Workspace - Adobe Analytics
 description: This video shows updates to the Fallout Visualization that have been highly requested by customers, including direct vs eventual steps, renaming touchpoints, comparing unlimited segments, and trending touchpoint conversion percentages over time.
-seo-description: This video shows updates to the Fallout Visualization that have been highly requested by customers, including direct vs eventual steps, renaming touchpoints, comparing unlimited segments, and trending touchpoint conversion percentages over time. - Adobe Analytics
 feature: analysis workspace - analyzing customer journeys
 topics: 
 audience: analyst, marketer
@@ -13,9 +11,9 @@ team: Technical Marketing
 kt: 2276
 ---
 
-# Enhancements to Fallout Visualization in Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
+# Enhancements to [!DNL Fallout Visualization] in Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-This video shows updates to the Fallout Visualization that have been highly requested by customers, including direct vs eventual steps, renaming touchpoints, comparing unlimited segments, and trending touchpoint conversion percentages over time.
+This video shows updates to the [!DNL Fallout Visualization] that have been highly requested by customers, including direct vs eventual steps, renaming touchpoints, comparing unlimited segments, and trending touchpoint conversion percentages over time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 

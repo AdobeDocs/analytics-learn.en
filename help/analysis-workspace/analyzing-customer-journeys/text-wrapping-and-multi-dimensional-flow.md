@@ -1,9 +1,6 @@
 ---
 title: Text-Wrapping and Multi-Dimensional Flow in Analysis Workspace
-seo-title: Text-Wrapping and Multi-Dimensional Flow in Analysis Workspace
 description: This video shows how to turn on and off label truncation in your flow visualization. Also, learn to drag and drop dimensions on to your flow for multi-dimensional flow analysis.
-seo-description: This video shows how to turn on and off label truncation in your flow visualization. Also, learn to drag and drop dimensions on to your flow for multi-dimensional flow analysis.
-uuid: cfa45999-9704-483a-a363-2717e4cbbfb3
 feature: analysis workspace - analyzing customer journeys
 topics: 
 audience: analyst, marketer
@@ -14,9 +11,9 @@ team: Technical Marketing
 kt: 2281
 ---
 
-# Text-Wrapping & Multi-Dimensional Flow in Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
+# Text Wrapping & [!DNL Multi-Dimensional Flow] in Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
 
-This video shows how to turn on and off label truncation in your flow visualization. Also, learn to drag and drop dimensions on to your flow for multi-dimensional flow analysis.
+This video shows how to turn on and off label truncation in your [!DNL flow visualization]. Also, learn to drag and drop dimensions on to your [!DNL flow] for multi-dimensional [!DNL flow] analysis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
