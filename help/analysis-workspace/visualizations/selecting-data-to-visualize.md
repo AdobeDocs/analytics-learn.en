@@ -1,8 +1,6 @@
 ---
 title: Selecting data to visualize in Analysis Workspace
-seo-title: Selecting data to visualize in Analysis Workspace - Adobe Analytics
 description: Learn how to precisely control what gets visualized when in Freeform Analysis
-seo-description: Learn how to precisely control what gets visualized when in Freeform Analysis - Adobe Analytics
 feature: analysis workspace - visualizations
 topics: 
 audience: analyst, marketer

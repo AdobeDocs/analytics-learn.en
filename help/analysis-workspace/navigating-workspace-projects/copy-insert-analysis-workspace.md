@@ -1,17 +1,11 @@
 ---
 title: Copy and Insert in Analysis Workspace
-seo-title: Copy and Insert in Analysis Workspace - Adobe Analytics
 description: Copy + Insert lets you copy visualizations from one panel or project to another, and copy full panels across projects as well.
-seo-description: Copy + Insert lets you copy visualizations from one panel or project to another, and copy full panels across projects as well. - Adobe Analytics
-uuid: 49f99c3a-0cdd-4e2a-bd5d-80238f972640
-products: SG_ANALYTICS
-discoiquuid: 80e78f2e-1ed4-47dc-bd0e-5bc67aa7dbb7
 feature: analysis workspace - navigating workspace projects
 topics: 
 audience: analyst, marketer
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 1698
 ---

@@ -1,24 +1,19 @@
 ---
 title: Approximate Count Distinct Function in Calculated Metrics
-seo-title: Approximate Count Distinct Function in Calculated Metrics
 description: An Approximate Count Distinct function has been added to the Calculated Metric Builder. It is a long awaited function that will return the approximated distinct count of dimension items for a selected dimension.
-seo-description: An Approximate Count Distinct function has been added to the Calculated Metric Builder. It is a long awaited function that will return the approximated distinct count of dimension items for a selected dimension.
-uuid: 8c3df01d-9ccb-45af-bb7a-5d516747c1f1
-discoiquuid: b3b6f192-8ee9-4069-90ac-751d03eb18a8
 feature: components - calculated metrics
 topics: 
 audience: analyst, marketer
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 1910
 ---
 
-# Approximate Count Distinct Function in Calculated Metrics{#approximate-count-distinct-function-in-calculated-metrics}
+# [!UICONTROL Approximate Count Distinct] [!UICONTROL Function] in [!UICONTROL Calculated Metrics]{#approximate-count-distinct-function-in-calculated-metrics}
 
-An Approximate Count Distinct function has been added to the Calculated Metric Builder. It is a long awaited function that will return the approximated distinct count of dimension items for a selected dimension.
+An [!UICONTROL Approximate Count Distinct] [!UICONTROL function] has been added to the [!UICONTROL Calculated Metric Builder]. It is a long awaited [!UICONTROL function] that will return the [!UICONTROL approximate distinct count] of [!UICONTROL dimension] items for a selected [!UICONTROL dimension].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12)
 
-You can use the metric in any report to understand the count of one dimension against values of other. For example, the count of unique customers by Marketing Channel.
+You can use the [!UICONTROL metric] in any report to understand the count of one [!UICONTROL dimension] against values of other. For example, the count of unique customers by Marketing Channel.
