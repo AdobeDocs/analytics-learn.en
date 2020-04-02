@@ -11,8 +11,8 @@ kt: 4388
 
 ---
 
-# Adobe Summit 2019 Super Session - Travel & Hospitality
+# [!DNL Adobe Summit] 2019 Super Session - Travel & Hospitality
 
-See curated clips from the travel & hospitality "super session" at Summit 2019
+See curated clips from the travel & hospitality "super session" at [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12)

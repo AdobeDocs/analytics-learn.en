@@ -1,8 +1,6 @@
 ---
 title: Preparing Adobe Launch for your Analytics Implementation
-seo-title: Preparing Adobe Launch for your Adobe Analytics Implementation
 description: Before you implement Analytics in Launch, you will need to have some documents standing by, and you will have wanted to set up a few things in the system, both in Analytics and in Launch. This video goes over those things.
-seo-description: Before you implement Adobe Analytics in Launch, you will need to have some documents standing by, and you will have wanted to set up a few things in the system, both in Analytics and in Launch. This video goes over those things.
 feature: analytics extension
 topics: 
 audience: implementer, architect
@@ -13,8 +11,8 @@ kt: 3584
 
 ---
 
-# Preparing Adobe Launch for your Analytics Implementation
+# Preparing Adobe [!DNL Launch] for your [!DNL Analytics] Implementation
 
-Before you implement Analytics in Launch, you will need to have some documents standing by, and you will have wanted to set up a few things in the system, both in Analytics and in Launch. This video goes over those things.
+Before you implement [!DNL Analytics] in [!DNL Launch], you will need to have some documents standing by, and you will have wanted to set up a few things in the system, both in [!DNL Analytics] and in [!DNL Launch]. This video goes over those things.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12)

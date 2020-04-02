@@ -1,8 +1,6 @@
 ---
 title: Intro to Retail Variables and Events
-seo-title: Intro to Retail Variables and Events for Adobe Analytics
 description: If you have a retail site, there are some variables and events that were created just for you (aren't you special)! This video will give you a quick intro to understanding those retail-specific variables and events.
-seo-description: If you have a retail site, there are some variables and events that were created just for you (aren't you special)! This video will give you a quick intro to understanding those retail-specific variables and events in Adobe Analytics.
 feature: retail variables
 topics: 
 audience: analyst, marketer, implementer

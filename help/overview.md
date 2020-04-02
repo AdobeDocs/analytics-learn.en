@@ -1,20 +1,17 @@
 ---
 title: Analytics Videos and Tutorials
-seo-title: Analytics Videos and Tutorials
 description: A collection of videos and tutorials for Adobe Analytics.
-seo-description: A collection of videos and tutorials for Adobe Analytics.
 feature: overview
 topics: 
 audience: all
 activity: use
 doc-type: overview
-author: Doug Moore
 team: Technical Marketing
 ---
 
 # Overview
 
-Welcome to the Analytics Tutorials Site.  Using these tutorials along with the [documentation](https://docs.adobe.com/content/help/en/analytics/landing/home.html) will give you a better understanding how to use Adobe Analytics to gain customer insights faster than ever.  To get started, 
+Welcome to the [!DNL Analytics] Tutorials Site.  Using these tutorials along with the [documentation](https://docs.adobe.com/content/help/en/analytics/landing/home.html) will give you a better understanding how to use Adobe Analytics to gain customer insights faster than ever.  To get started, 
 * See the **"What's New"** section below for the latest goodies
 * **Staff Picks** highlights some of our favorite content 
 * Explore the content by topic and subtopic in the **left navigation**
@@ -26,9 +23,9 @@ Welcome to the Analytics Tutorials Site.  Using these tutorials along with the [
     <br>
     *Learn how to get started with Adobe Analytics for mobile apps using templates.*
 
-* **[Impact of Touchpoints Across Mobile Journey (Video)](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)**
+* **[Impact of Touch points Across Mobile Journey (Video)](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)**
     <br>
-    *Learn how mobile app users are influenced by touch-points.*
+    *Learn how mobile app users are influenced by touch points.*
 
 * **[Analyzing User Behavior Across Channels (Video)](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)**
     <br>
@@ -57,11 +54,11 @@ Welcome to the Analytics Tutorials Site.  Using these tutorials along with the [
     </a>
     <div>
       <a href="exporting/data-warehouse/introduction-to-data-warehouse.md">
-    <strong>Introduction to Data Warehouse</strong>
+    <strong>Introduction to [!DNL Data Warehouse]</strong>
     </a>
     </div>
     <p>
-    <em>Learn to query raw data with the Data Warehouse tool.</em>
+    <em>Learn to query raw data with the [!DNL Data Warehouse] tool.</em>
     <p>
   </td>
   <td>

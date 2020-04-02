@@ -1,8 +1,6 @@
 ---
 title: Basic Configuration of the Analytics Launch extension
-seo-title: Basic Configuration of the Adobe Analytics Launch extension
 description: This video shows a quick way to configure the Analytics extension in Launch for a basic site.
-seo-description: This video shows a quick way to configure the Adobe Analytics extension in Launch for a basic site.
 feature: Launch Analytics Extension
 topics: 
 audience: implementer
@@ -13,8 +11,8 @@ kt: 3586
 
 ---
 
-# Basic Configuration of the Analytics Launch extension
+# Basic Configuration of the [!DNL Analytics] [!DNL Launch] extension
 
-This video shows a quick way to configure the Analytics extension in Launch for a basic site.
+This video shows a quick way to configure the [!DNL Analytics] extension in [!DNL Launch] for a basic site.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12)
