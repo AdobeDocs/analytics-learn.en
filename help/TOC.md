@@ -25,6 +25,7 @@ solution: Analytics
     + [Logging in to Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
     + [Intro to the Analytics UI](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
     + [Understanding and Creating Report Suites](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+    + [Adobe Labs (Technology Previews)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
   + Customizing the UI {#customizing-the-ui}
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
@@ -71,6 +72,7 @@ solution: Analytics
     + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
     + [Using Panels to Organize your Analysis Workspace Projects](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
     + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
+    + [Multiple Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Visualization Types](analysis-workspace/visualizations/visualization-types.md)
@@ -275,6 +277,8 @@ solution: Analytics
     + [Edit Metrics across Requests](exporting/report-builder/edit-metrics-across-requests.md)
     + [Using Report Builder to learn the Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Integrations {#integrations}
+  + Experience Cloud {experience-cloud}
+    + [Improved Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
   + Audience Manager {#audience-manager}
     + [Enable Server Side Forwarding in Adobe Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
     + [Audience Analytics - Integrate AAM Segments into Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
