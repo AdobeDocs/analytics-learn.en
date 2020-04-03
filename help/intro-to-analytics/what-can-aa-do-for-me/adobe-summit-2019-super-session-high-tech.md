@@ -11,8 +11,8 @@ kt: 4404
 
 ---
 
-# Adobe Summit 2019 Super Session - High Tech
+# [!DNL Adobe Summit] 2019 Super Session - High Tech
 
-See curated clips from the high tech "super session" at Summit 2019
+See curated clips from the high tech "super session" at [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12)

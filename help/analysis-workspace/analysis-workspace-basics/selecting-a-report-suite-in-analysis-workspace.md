@@ -13,8 +13,8 @@ team: Technical Marketing
 kt: 2026
 ---
 
-# Selecting a Report Suite in Adobe Analytics {#selecting-a-report-suite-in-adobe-analytics}
+# Selecting a [!UICONTROL Report Suite] in Adobe Analytics {#selecting-a-report-suite-in-adobe-analytics}
 
-This video takes you through the report suite selector.
+This video takes you through the [!UICONTROL report suite] selector.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12)

@@ -1,8 +1,6 @@
 ---
 title: Intro to the Analytics UI
-seo-title: Intro to the Adobe Analytics UI
 description: This video orients you to the Adobe Analytics interface, and shows you where you will find the tools you will need as you implement and as you do analysis.
-seo-description: This video orients you to the Adobe Analytics interface, and shows you where you will find the tools you will need as you implement and as you do analysis.
 feature: user interface
 topics: 
 audience: administrator, analyst, marketer
@@ -13,7 +11,7 @@ kt: 3567
 
 ---
 
-# Intro to the Analytics UI
+# Intro to the [!DNL Analytics] UI
 
 This video orients you to the Adobe Analytics interface, and shows you where you will find the tools you will need as you implement and as you do analysis.
 

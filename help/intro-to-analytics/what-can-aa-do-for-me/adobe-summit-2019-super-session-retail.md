@@ -11,8 +11,8 @@ kt: 4389
 
 ---
 
-# Adobe Summit 2019 Super Session - Retail
+# [!DNL Adobe Summit] 2019 Super Session - Retail
 
-See curated clips from the retail "super session" at Summit 2019
+See curated clips from the retail "super session" at [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12)

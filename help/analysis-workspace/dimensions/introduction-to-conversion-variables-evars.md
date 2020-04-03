@@ -1,8 +1,6 @@
 ---
 title: Introduction to Conversion Variables (eVars)
-seo-title: Introduction to Conversion Variables (eVars) - Adobe Analytics
 description: In this video, get an introduction to conversion variables, also known as "eVars". Also learn the difference between traffic and conversion variables and how they relate to conversion events.
-seo-description: In this video, get an introduction to conversion variables, also known as "eVars". Also learn the difference between traffic and conversion variables and how they relate to conversion events. - Adobe Analytics
 feature: conversion variables
 topics: 
 audience: analyst, marketer
@@ -13,8 +11,8 @@ kt: 3577
 
 ---
 
-# Introduction to  Conversion Variables (eVars)
+# Introduction to  Conversion Variables ([!DNL eVars])
 
-In this video, get an introduction to conversion variables, also known as "eVars". Also learn the difference between traffic and conversion variables and how they relate to conversion events.
+In this video, get an introduction to conversion variables, also known as "[!DNL eVars]". Also learn the difference between traffic and conversion variables and how they relate to conversion [!DNL events].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12)

@@ -11,9 +11,9 @@ kt: 4385
 
 ---
 
-# Customer Use Case: ServiceNow Gets the Right Insights to Connect with Prospects
+# Customer Use Case: [!DNL ServiceNow] Gets the Right Insights to Connect with Prospects
 
-Find out how ServiceNow gets actionable data from its marketing channels and boosts ROI on paid search advertising with Adobe Advertising Cloud and Adobe Analytics.
+Find out how [!DNL ServiceNow] gets actionable data from its marketing channels and boosts ROI on paid search advertising with Adobe Advertising Cloud and Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12)
 

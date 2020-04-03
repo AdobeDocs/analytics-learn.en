@@ -19,6 +19,6 @@ In this video you will learn how to create custom templates in Analysis Workspac
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
-While it is great to have Adobe Standard Templates, sometimes you just want your own template. Now you can create any project into your own custom template. It’s even easier to help new users get up to speed, find your favorite dashboards / projects, or share your dashboard across teams.
+While it is great to have [!UICONTROL Adobe Standard Templates], sometimes you just want your own template. Now you can create any project into your own custom template. It’s even easier to help new users get up to speed, find your favorite dashboards / projects, or share your dashboard across teams.
 
 For more information on standard + custom templates, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/starter_projects.html).

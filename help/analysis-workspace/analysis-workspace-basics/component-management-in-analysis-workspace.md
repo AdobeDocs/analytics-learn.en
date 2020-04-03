@@ -15,6 +15,6 @@ kt: 1988
 
 # Component Management in Analysis Workspace {#component-management-in-analysis-workspace}
 
-You can manage your dimensions, segments, metrics, and date ranges directly in Analysis Workspace. No need to leave your project while you go find a segment to share.
+You can manage your [!UICONTROL dimensions], [!UICONTROL segments], [!UICONTROL metrics], and [!UICONTROL date ranges] directly in Analysis Workspace. No need to leave your project while you go find a segment to share.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12)

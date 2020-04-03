@@ -1,23 +1,18 @@
 ---
 title: Inspecting Implementations with the Adobe Experience Cloud Debugger
-seo-title: Inspecting Implementations with the Adobe Experience Cloud Debugger - Adobe Analytics
 description: The Experience Cloud debugger is a tool that allows users to inspect and debug Experience Cloud Tags. This video covers how to use the Experience Cloud Debugger to inspect Analytics implementations.
-seo-description: The Experience Cloud debugger is a tool that allows users to inspect and debug Experience Cloud Tags. This video covers how to use the Experience Cloud Debugger to inspect Analytics implementations. - Adobe Analytics
-uuid: e17c07e1-3fb1-49a6-8cb9-cadae810ec8d
-discoiquuid: 101f6746-78df-459a-89e9-e7c6c5c7d893
 feature: implementation - validating and troubleshooting
 topics: 
 audience: implementer
 activity: implement
 doc-type: technical video
-author: Doug Moore
 team: Technical Marketing
 kt: 1942
 ---
 
-# Inspecting Implementations with the Adobe Experience Cloud Debugger {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
+# Inspecting Implementations with the [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
 
-The Experience Cloud debugger is a tool that allows users to inspect and debug Experience Cloud Tags. This video covers how to use the Experience Cloud Debugger to inspect Analytics implementations.
+The [!DNL Experience Cloud debugger] is a tool that allows users to inspect and debug Experience Cloud Tags. This video covers how to use the [!DNL Experience Cloud Debugger] to inspect [!DNL Analytics] implementations.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
 

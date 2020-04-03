@@ -14,9 +14,9 @@ team: Technical Marketing
 kt: 2277
 ---
 
-# Multidimensional Fallout in Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
+# [!DNL Multidimensional Fallout] in Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
 
-Fallout in Analysis Workspace allows you to mix and match dimensions and metrics as touchpoints in funnels and workflows.
+[!DNL Fallout] in Analysis Workspace allows you to mix and match dimensions and metrics as touchpoints in funnels and workflows.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12)
 

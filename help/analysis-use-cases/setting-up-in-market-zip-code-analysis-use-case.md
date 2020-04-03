@@ -23,6 +23,6 @@ For additional information related to the aspects of this use case, see the foll
 
 [Zip and Postal Codes](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html)
 
-[Classifications](https://marketing.adobe.com/resources/help/en_US/reference/classifications.html)
+[[!UICONTROL Classifications]](https://marketing.adobe.com/resources/help/en_US/reference/classifications.html)
 
 [Analysis Workspace](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/analysis-workspace-features.html)

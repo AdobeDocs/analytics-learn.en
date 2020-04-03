@@ -13,7 +13,7 @@ team: Technical Marketing
 kt: 2278
 ---
 
-# Comparing segments in Fallout in Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
+# Comparing segments in [!UICONTROL Fallout] in Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
 
 This video shows how to compare key workflows across various segments in Analysis Workspace.
 
