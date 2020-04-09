@@ -65,6 +65,7 @@ solution: Analytics
     + [Undoing actions in Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
     + [View Density in Analysis Workspace](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
     + [Zero State Improvements](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
+    + [Using Filters (Tags) in the Left Rail](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
   + Using Panels {#using-panels}
     + [Using Tables, Visualizations, and Panels in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
@@ -228,6 +229,7 @@ solution: Analytics
     + [Updating AppMeasurement When Not Using Adobe Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
   + Validating and Troubleshooting {#validating-and-troubleshooting}
     + [Inspecting Implementations with the Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
+    + [View Post-Processed Hits with the Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
   + SPA Pages {#spa-pages}
     + [Using best practices when tracking SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Components {#components}
@@ -243,6 +245,8 @@ solution: Analytics
     + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
     + [Sequential Segmentation](components/segmentation/sequential-segmentation.md)
     + [Segmentation on Distinct Dimension Counts](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+    + [Dimension Models in Segmentation](components/segmentation/dimension-models-in-segmentation.md)
+    + [Equals Any Of Operator in Segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
