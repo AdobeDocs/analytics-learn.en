@@ -229,6 +229,7 @@ solution: Analytics
     + [Updating AppMeasurement When Not Using Adobe Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
   + Validating and Troubleshooting {#validating-and-troubleshooting}
     + [Inspecting Implementations with the Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
+    + [View Post-Processed Hits with the Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
   + SPA Pages {#spa-pages}
     + [Using best practices when tracking SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Components {#components}
@@ -245,7 +246,7 @@ solution: Analytics
     + [Sequential Segmentation](components/segmentation/sequential-segmentation.md)
     + [Segmentation on Distinct Dimension Counts](components/segmentation/segmentation-on-distinct-dimension-counts.md)
     + [Dimension Models in Segmentation](components/segmentation/dimension-models-in-segmentation.md)
-    + ['Equals Any Of' Operator in Segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
+    + [Equals Any Of Operator in Segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
