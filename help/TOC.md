@@ -29,10 +29,12 @@ solution: Analytics
   + Customizing the UI {#customizing-the-ui}
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
+    + [Color Eyedropper Extension for Defining Custom Palettes](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
     + [Customizing the Menu in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
     + [Enhancing Security in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
     + [Set Analysis Workspace as your landing page](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
     + [Setting an Analysis Workspace Project as your Landing Page](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
+    + [Dark Mode Extension for Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
   + Getting Help {#getting-help}
     + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
     + [In-product Support Ticket Submission](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -56,6 +58,7 @@ solution: Analytics
     + [Customer Tips for Continuing your Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
     + [Starting Your First Project in Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+    + [Training Tutorial Template in Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
     + [Copy and Insert in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
@@ -147,6 +150,7 @@ solution: Analytics
     + [Creating Custom Date Ranges](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
     + [Date Aligning](analysis-workspace/calendar-and-date-ranges/date-aligning.md)
     + [Date Comparisons in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
+    + [Adding Prior Month and Year Comparisons to Trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
     + [Journey IQ - Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
     + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
