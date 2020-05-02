@@ -15,6 +15,6 @@ kt: 5034
 
 Enable the Dark Reader Chrome extension to turn Analysis Workspace dark.
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33774/?quality=12)
 
 **Note:** This is a public Chrome extension and is not affiliated with Adobe products.
