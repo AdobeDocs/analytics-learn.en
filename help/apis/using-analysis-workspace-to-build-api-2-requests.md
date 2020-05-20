@@ -12,7 +12,7 @@ kt: 2386
 
 # Using Analysis Workspace to Build Adobe Analytics API 2.0 Requests {#using-analysis-workspace-to-build-adobe-analytics-api-requests}
 
-In this video, we show you how to leverage Analysis Workspace to build API 2.0 requests automatically. By debugging the UI, you can copy & paste JSON requests directly into any API client to return [!DNL Analytics] data.
+In this video, we show you how to leverage Analysis Workspace to build API 2.0 requests automatically. By debugging the UI, you can copy & paste JSON requests directly into any API client to return [!DNL Analytics] data. You can now enable the debugger more easily by going to Workspace Help > Enable Debugger.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12)
 
