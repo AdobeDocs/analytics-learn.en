@@ -272,6 +272,10 @@ solution: Analytics
   + Activity Map {#activity-map}
     + [Activity Map Overview](components/activity-map/activity-map-overview.md)
     + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
++ Additional Tools {#additional-tools}
+  + Analytics dashboards {#analytics-dashboards}
+    + [Adobe Analytics dashboards Scorecard Builder](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+    + [Analytics dashboards In-App Experience](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exporting {#exporting}
   + From the UI {#from-the-ui}
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
