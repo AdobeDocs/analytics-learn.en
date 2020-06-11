@@ -298,6 +298,14 @@ solution: Analytics
     + [Configuring Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
     + [Implementing Tracking Templates into Search Engines](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
     + [Introduction to the Analytics for Advertising Cloud DSP Integration](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+    + [Create a Pre-launch Campaign Analysis](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+    + [Reporting with Advertising Cloud Marketing Channels](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+    + [Create Analytics Site Journey Profiles](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
+    + [Create Analytics Segments for Activation and Reporting](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
+    + [Create Advertising Cloud Alerts with Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+    + [Create Analytics Custom Metrics with Advertising Cloud Data](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+    + [Create Advertising Cloud Site Entry Reports](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+    + [Create Advertising Cloud Dashboards](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
   + Ad Hoc Analytics {#ad-hoc-analytics}
     + [Using the Project Converter to move projects from Ad Hoc Analysis to Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
   + Power BI {#power-bi}
