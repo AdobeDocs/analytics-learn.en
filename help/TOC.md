@@ -167,12 +167,16 @@ solution: Analytics
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
     + [Share embedded components](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
     + [Schedule and Downloadable Projects](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
+    + [Project Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
+    + [View-only Projects in Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
   + Attribution IQ {#attribution-iq}
     + [Adding side-by-side comparisons of Attribution IQ Models](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
     + [Attribution IQ in Calculated Metrics](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
     + [Using Attribution IQ in Freeform Tables](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
     + [Using different Attribution IQ models with segments](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
+    + [Algorithmic Model in Attribution IQ](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
+    + [Custom Look-back Windows in Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
   + Cohort Analysis {#cohort-analysis}
     + [Cohort Analysis in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
     + [Overview of Cohort Tables](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
