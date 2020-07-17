@@ -71,6 +71,7 @@ solution: Analytics
     + [Using Filters (Tags) in the Left Rail](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
   + Using Panels {#using-panels}
     + [Using Tables, Visualizations, and Panels in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
+    + [Quick Insights Panel in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
     + [Using the Attribution IQ Panel](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
     + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
     + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
@@ -298,6 +299,8 @@ solution: Analytics
   + Audience Manager {#audience-manager}
     + [Enable Server Side Forwarding in Adobe Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
     + [Audience Analytics - Integrate AAM Segments into Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
+  + Target {#target}
+    + [Analytics for Target (A4T) Panel in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
   + Ad Cloud {#ad-cloud}
     + [Configuring Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
     + [Implementing Tracking Templates into Search Engines](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
