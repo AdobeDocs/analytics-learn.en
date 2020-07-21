@@ -16,15 +16,15 @@ Using a data layer for [!DNL Analytics] and other Experience Cloud solutions is 
 
 ## Data Layers {#data-layers}
 
-It is a best practice to use a data layer when working with data on your site and Adobe Experience Cloud solutions, especially with Adobe Analytics. A "data layer" is a framework of JavaScript objects that developers insert into pages. The data layers can be used by tracking tools (including tag management systems like Adobe [!DNL Launch]) to populate reports. Find additional information about data layers in the [Experience Cloud documentation](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) or on the [W3C site](https://www.w3.org/).
+It is a best practice to use a data layer when working with data on your site and Adobe Experience Cloud solutions, especially with Adobe Analytics. A "data layer" is a framework of JavaScript objects that developers insert into pages. The data layers can be used by tracking tools (including tag management systems like Adobe [!DNL Experience Platform Launch]) to populate reports. Find additional information about data layers in the [Experience Cloud documentation](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) or on the [W3C site](https://www.w3.org/).
 
 In addition, please reference the blog post [“Data Layers: From Buzzword to Best Practice,”](https://theblog.adobe.com/data-layers-buzzword-best-practice/) which will give you some great info about data layers, as well as a couple of examples.
 
 ## Data Layers, [!DNL Launch], and Adobe Analytics (oh my?) {#data-layers-launch-and-adobe-analytics-oh-my}
 
-1. Create a data layer standard to use on your site, which can be referenced by Adobe [!DNL Launch]
+1. Create a data layer standard to use on your site, which can be referenced by Adobe [!DNL Experience Platform Launch]
 
-    1. Put this data layer as high as possible in the head of the page, before the call to Adobe [!DNL Launch], so that the values can be used immediately by [!DNL Launch], and by Adobe solutions that need to be high on the page, like Adobe Target
+    1. Put this data layer as high as possible in the head of the page, before the call to Adobe [!DNL Experience Platform Launch], so that the values can be used immediately by [!DNL Launch], and by Adobe solutions that need to be high on the page, like Adobe Target
 
 1. Populate the data in the data layer
 1. In [!DNL Launch], create “[!UICONTROL data elements]” that reference the data points in the data layer, and which can be used throughout [!DNL Launch] in [!UICONTROL rules], [!UICONTROL extensions], etc.
