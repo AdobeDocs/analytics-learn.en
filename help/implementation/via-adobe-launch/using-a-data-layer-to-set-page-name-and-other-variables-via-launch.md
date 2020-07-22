@@ -22,9 +22,9 @@ In addition, please reference the blog post [“Data Layers: From Buzzword to Be
 
 ## Data Layers, [!DNL Launch], and Adobe Analytics (oh my?) {#data-layers-launch-and-adobe-analytics-oh-my}
 
-1. Create a data layer standard to use on your site, which can be referenced by Adobe [!DNL Experience Platform Launch]
+1. Create a data layer standard to use on your site, which can be referenced by [!DNL Experience Platform Launch]
 
-    1. Put this data layer as high as possible in the head of the page, before the call to Adobe [!DNL Experience Platform Launch], so that the values can be used immediately by [!DNL Launch], and by Adobe solutions that need to be high on the page, like Adobe Target
+    1. Put this data layer as high as possible in the head of the page, before the call to [!DNL Experience Platform Launch], so that the values can be used immediately by [!DNL Launch], and by Adobe solutions that need to be high on the page, like Adobe Target
 
 1. Populate the data in the data layer
 1. In [!DNL Launch], create “[!UICONTROL data elements]” that reference the data points in the data layer, and which can be used throughout [!DNL Launch] in [!UICONTROL rules], [!UICONTROL extensions], etc.
