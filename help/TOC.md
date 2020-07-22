@@ -196,6 +196,8 @@ solution: Analytics
 + Reports and Analytics {#reports-and-analytics}
   + [Real-time Reporting in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
+  + User Management {#user-management}
+    + [Adding an Administrator to Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
   + Manage Report Suites {#manage-report-suites}
     + [Configuring Zip and Postal Code Settings](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
     + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
