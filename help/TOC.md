@@ -198,6 +198,7 @@ solution: Analytics
 + Administration {#administration}
   + User Management {#user-management}
     + [Adding an Administrator to Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+    + [Limit Report Suite Access in the Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
   + Manage Report Suites {#manage-report-suites}
     + [Configuring Zip and Postal Code Settings](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
     + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
