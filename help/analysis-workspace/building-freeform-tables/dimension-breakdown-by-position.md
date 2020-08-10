@@ -1,9 +1,9 @@
 ---
 title: Dimension Breakdown by Position in Analysis Workspace
 description: Sometimes you want a breakdown to always stay with the position (e.g. the top five values) rather than staying with the values. Analysis Workspace now gives you this ability.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

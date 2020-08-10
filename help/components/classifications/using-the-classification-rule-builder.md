@@ -1,9 +1,9 @@
 ---
 title: Using the Classification Rule Builder in Adobe Analytics 
 description: Learn to use the Classification Rule Builder to automatically apply rule-based classifications in Adobe Analytics. 
-feature: components - classifications
+feature: classifications
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

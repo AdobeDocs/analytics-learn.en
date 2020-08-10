@@ -1,9 +1,9 @@
 ---
 title: Segment Builder Overview
 description: A quick overview and orientation for the segment builder in Adobe Analytics.
-feature: components - segmentation
+feature: segmentation
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

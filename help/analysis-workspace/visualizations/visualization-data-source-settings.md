@@ -1,9 +1,9 @@
 ---
 title: Visualization Data Source Settings in Analysis Workspace
 description: The data source modal has been simplified, as well as the underlying table architecture.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

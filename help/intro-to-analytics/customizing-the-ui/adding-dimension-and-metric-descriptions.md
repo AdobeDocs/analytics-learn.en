@@ -1,9 +1,9 @@
 ---
 title: Adding Dimension and Metric Descriptions in Adobe Analytics
 description: This video takes you through how to add context to your reports, metrics and dimensions in Adobe Analytics.
-feature: customizing the ui
+feature: workspace basics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

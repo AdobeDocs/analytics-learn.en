@@ -1,11 +1,9 @@
 ---
 title: Getting the Right People on Your Analytics Team
-seo-title: Getting the Right People on Your Analytics Team - Adobe Analytics
 description: It's very important to get the right people on your team as you implement Adobe Analytics and as you analyze the activity on your site. This video will give you a quick run-down of the different roles you'll want to fill.
-seo-description: It's very important to get the right people on your team as you implement Adobe Analytics and as you analyze the activity on your site. This video will give you a quick run-down of the different roles you'll want to fill.
-feature: governance, team
+feature: analytics basics
 topics: 
-audience: administrator, architect
+audience: administrator
 activity: understand
 doc-type: feature video
 team: Technical Marketing

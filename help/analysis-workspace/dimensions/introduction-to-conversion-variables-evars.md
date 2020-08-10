@@ -1,9 +1,9 @@
 ---
 title: Introduction to Conversion Variables (eVars)
 description: In this video, get an introduction to conversion variables, also known as "eVars". Also learn the difference between traffic and conversion variables and how they relate to conversion events.
-feature: conversion variables
+feature: dimensions
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

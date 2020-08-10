@@ -1,9 +1,9 @@
 ---
 title: Introduction to Data Warehouse
 description: The Data Warehouse request tool in Adobe Analytics gives you access to query the raw data. Data Warehouse can process an unlimited number of rows in a single request for individual scheduled and downloaded reports. This video is an introduction to the tool, including a walkthrough of creating a Data Warehouse report.
-feature: exporting - data warehouse
+feature: data warehouse
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

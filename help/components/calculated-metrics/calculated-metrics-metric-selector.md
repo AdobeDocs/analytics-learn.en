@@ -1,9 +1,9 @@
 ---
 title: Calculated Metrics - Metric Selector
 description: Overview of the Metric Selector in Adobe Analytics
-feature: components - calculated metrics
+feature: calculated metrics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

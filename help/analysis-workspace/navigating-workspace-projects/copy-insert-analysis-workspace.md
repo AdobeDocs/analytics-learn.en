@@ -1,9 +1,9 @@
 ---
 title: Copy and Insert in Analysis Workspace
 description: Copy + Insert lets you copy visualizations from one panel or project to another, and copy full panels across projects as well.
-feature: analysis workspace - navigating workspace projects
+feature: projects
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

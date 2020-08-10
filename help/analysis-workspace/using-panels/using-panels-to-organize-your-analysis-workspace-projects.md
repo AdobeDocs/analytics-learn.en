@@ -1,9 +1,9 @@
 ---
 title: Using Panels to Organize your Analysis Workspace Projects
 description: Panels are a collection of visualizations in Analysis Workspace. Blank panels and freeform panels are places to start your analysis, while Attribution IQ and Segment Comparison do a lot of the heavy lifting for more advanced analyses. We've also now added a "+" panel button so you can add blank panels on-the-fly.
-feature: analysis workspace - using panels
+feature: panels
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,7 +1,7 @@
 ---
 title: Getting Help in Adobe Analytics
 description: At some point, we are all going to need help with Adobe Analytics. This videos shows you some of the great resources that are at your fingertips as you hit a snag and need some help.
-feature: help
+feature: analytics basics
 topics: 
 audience: all
 activity: use

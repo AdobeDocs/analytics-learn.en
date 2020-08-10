@@ -1,9 +1,9 @@
 ---
 title: Tips to Increase Productivity in Analysis Workspace
 description: In this video, we'll run through 4 tips for increasing your productivity and saving time in Analysis Workspace.
-feature: analysis workspace - tips and tricks
+feature: workspace basics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

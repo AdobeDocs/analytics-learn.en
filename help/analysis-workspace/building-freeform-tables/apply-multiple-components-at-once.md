@@ -1,7 +1,7 @@
 ---
 title: Apply Multiple Components at Once in Analysis Workspace
 description: This video shows how to quickly apply multiple metrics, segments and dimensions to a report in Analysis Workspace.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
 audience: analyst, marketer
 activity: use

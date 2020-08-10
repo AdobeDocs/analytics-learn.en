@@ -1,7 +1,7 @@
 ---
 title: Dark Mode Extension for Analysis Workspace
 description: Enable the Dark Reader Chrome extension to turn Analysis Workspace dark.
-feature: analytics basics
+feature: workspace basics
 topics: 
 audience: analyst
 activity: use

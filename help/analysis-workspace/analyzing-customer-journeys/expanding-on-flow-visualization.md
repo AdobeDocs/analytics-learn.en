@@ -1,12 +1,11 @@
 ---
 title: Expanding on Flow visualization in Analysis Workspace
 description: This video shows the various right-click options available in the Flow visualization in Analysis Workspace. Options include creating a segment from a path, collapsing columns, and more.
-feature: analysis workspace - analyzing customer journeys
+feature: visualizations
 topics: 
 audience: analyst, marketer
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 2280
 ---

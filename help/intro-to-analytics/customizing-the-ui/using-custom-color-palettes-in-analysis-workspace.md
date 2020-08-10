@@ -1,9 +1,9 @@
 ---
 title: Using Custom Color Palettes in Analysis Workspace
 description: You can change the color palette used in Analysis Workspace to better align with your brand, or that of your customers.
-feature: customizing the ui
+feature: workspace basics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

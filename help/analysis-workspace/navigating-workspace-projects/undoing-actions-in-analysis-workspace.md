@@ -1,9 +1,9 @@
 ---
 title: Undoing actions in Analysis Workspace
 description: Analysis Workspace in Adobe Analytics now allows you to "undo" actions such as dragging an item onto the canvas or performing a breakdown. This video shows how you can use undo to be more efficient in your analysis.
-feature: analysis workspace - navigating workspace projects
+feature: workspace basics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

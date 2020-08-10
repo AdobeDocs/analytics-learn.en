@@ -1,9 +1,9 @@
 ---
 title: Real-time Reporting in Reports and Analytics
 description: This video shows a handful of updates that Adobe has made to the Real-Time Report in Reports & Analytics in Adobe Analytics.
-feature: reports and analytics
+feature: analytics basics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

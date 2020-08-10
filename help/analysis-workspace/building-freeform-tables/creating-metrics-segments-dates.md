@@ -1,9 +1,9 @@
 ---
 title: Creating Metrics, Segments, and Dates in Analysis Workspace
 description: Analysis Workspace allows you to create calculated metrics, segments, and date ranges for comparison/breakdown directly in the tool. This video walks you through how to get started.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

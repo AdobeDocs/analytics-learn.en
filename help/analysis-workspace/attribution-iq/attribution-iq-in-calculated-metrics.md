@@ -1,7 +1,7 @@
 ---
 title: Attribution IQ in Calculated Metrics
 description: This video demonstrates how to use Attribution IQ in Calculated Metrics.
-feature: analysis workspace - attribution iq
+feature: attribution
 topics: 
 audience: analyst, marketer
 activity: use

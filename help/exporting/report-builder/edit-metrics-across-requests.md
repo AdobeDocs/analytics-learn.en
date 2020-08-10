@@ -1,9 +1,9 @@
 ---
 title: Edit Metrics across Requests in Report Builder
 description: You can now edit metrics across multiple Report Builder data requests at once, with add, replace and remove options.
-feature: exporting - report builder
+feature: report builder
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

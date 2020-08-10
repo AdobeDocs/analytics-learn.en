@@ -1,7 +1,7 @@
 ---
 title: Using the Right-Click Menu in Analysis Workspace
 description: Learn how to use the right-click menu in Analysis Workspace to do faster breakdowns and more.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
 audience: analyst, marketer
 activity: use

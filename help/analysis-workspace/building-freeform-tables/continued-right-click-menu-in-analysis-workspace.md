@@ -1,9 +1,9 @@
 ---
 title: Continued Right-click Menu in Analysis Workspace
 description: Analysis Workspace includes powerful right-click menus which include a number of powerful features. This video explains how to work with right-click menus inside of Analysis Workspace.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

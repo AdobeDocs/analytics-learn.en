@@ -1,9 +1,9 @@
 ---
 title: Quick Calculated Metrics in Analysis Workspace
 description: Now you can build calculated metrics on the fly within Analysis Workspace.  If you’re looking to do a quick percent change or division with a few metrics in your freeform table, just select the metrics from the header, right click and pick the operator you want.  The new calculated metric will appear on the right.
-feature: components - calculated metrics
+feature: calculated metrics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

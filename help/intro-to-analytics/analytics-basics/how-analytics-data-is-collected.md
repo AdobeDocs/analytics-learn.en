@@ -1,9 +1,9 @@
 ---
 title: How Analytics Data is Collected
 description: How does data get from your page into the reports in Adobe Analytics? This video shows you how.
-feature: data collection
+feature: analytics basics
 topics: 
-audience: analyst, marketer, architect
+audience: analyst
 activity: understand
 doc-type: feature video
 team: Technical Marketing

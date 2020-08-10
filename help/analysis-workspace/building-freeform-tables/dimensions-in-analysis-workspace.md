@@ -1,9 +1,9 @@
 ---
 title: Dimensions in Analysis Workspace
 description: This video shares various ways to use dimensions in the Analysis Workspace interface of Adobe Analytics.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

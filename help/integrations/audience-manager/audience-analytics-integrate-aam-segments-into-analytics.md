@@ -1,7 +1,7 @@
 ---
 title: Audience Analytics - Integrate AAM Segments into Analytics
 description: Audience Analytics is new integration that allows you to share segments from Audience Manager (AAM) to Analytics (AA) in real-time to inform audience discovery, segmentation, and optimization.
-feature: integrations - aam
+feature: integration with experience cloud
 topics: 
 audience: all
 activity: use

@@ -1,9 +1,9 @@
 ---
 title: Summary Number and Summary Change Visualizations in Analysis Workspace
 description: This video shows how to use the Summary Number and Summary Change visualizations in the Analyst Workspace.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

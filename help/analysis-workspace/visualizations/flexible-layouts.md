@@ -1,9 +1,9 @@
 ---
 title: Flexible Layouts in Analysis Workspace
 description: Freeform Analysis includes the ability to change location, width, and height of graphs and tables so that you can build a richer project. This video shows how you can change your layout.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

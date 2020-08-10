@@ -1,9 +1,9 @@
 ---
 title: Column Settings Updates In Analysis Workspace (E.g. Text Wrapping)
 description: Wrapping your column header text is now available! Take a look at all the improvements made to column settings recently, and learn a few ways that you can make your data tables stand out.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,9 +1,9 @@
 ---
 title: Start A New Visit On Any Event in Virtual Report Suites
 description: This video shows how to use events to trigger the beginning of a new visit in Adobe Analytics by using a Virtual Report Suite's visit settings.
-feature: components - virtual report suites
+feature: vrs
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

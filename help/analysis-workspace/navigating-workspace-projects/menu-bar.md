@@ -1,9 +1,9 @@
 ---
 title: Menu Bar in Analysis Workspace
 description: Analysis Workspace just got even easier to control and navigate with updated menus that organize the various options for managing projects and analysis into familiar categories.
-feature: analysis workspace - navigating workspace projects
+feature: projects
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

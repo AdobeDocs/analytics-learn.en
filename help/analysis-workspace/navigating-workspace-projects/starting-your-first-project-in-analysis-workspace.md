@@ -1,9 +1,9 @@
 ---
 title: Starting Your First Project in Analysis Workspace
 description: In this video you will learn how to create a project in Analysis Workspace using default and custom templates, and how to copy elements between projects.
-feature: analysis workspace - navigating workspace projects
+feature: projects
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
