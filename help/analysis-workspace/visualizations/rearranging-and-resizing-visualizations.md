@@ -1,9 +1,9 @@
 ---
 title: Rearranging and Resizing Visualizations in Analysis Workspace
 description: This video shows how to create a customized layout by resizing, rearranging, and reorganizing visualizations and tables in Analysis Workspace.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

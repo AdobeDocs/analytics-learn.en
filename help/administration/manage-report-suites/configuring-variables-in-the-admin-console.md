@@ -3,7 +3,7 @@ title: Configuring Variables in the Admin Console
 seo-title: Configuring Variables in the Admin Console in Adobe Analytics
 description: After you define the variables and events that you are going to use in your Analytics implementation, you will need to go in and configure them in the Admin Console, so that the reports/dimensions/metrics all have the right names and behavior. This video shows you where and how to do just that.
 seo-description: After you define the variables and events that you are going to use in your Analytics implementation, you will need to go in and configure them in the Admin Console, so that the reports/dimensions/metrics all have the right names and behavior. This video shows you where and how to do just that. Adobe Analytics
-feature: admin console
+feature: report suite settings
 topics: 
 audience: administrator, implementer, architect
 activity: setup

@@ -1,10 +1,9 @@
 ---
 title: Bullet Graph Visualization in Analysis Workspace
 description: Bullet graphs are a useful way to show progress toward (or in excess of) a goal in your analysis. They provide you with another way to visualize your organization's success.
-discoiquuid: c6514d20-623a-425a-b93d-a127965bc04e
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

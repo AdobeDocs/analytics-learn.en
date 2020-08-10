@@ -1,9 +1,9 @@
 ---
 title: Pagination, Filtering, and Sorting Tables in Analysis Workspace
 description: This video shows how you can move through your results and organize your data through pagination, filtering, and sorting in Analysis Workspace.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

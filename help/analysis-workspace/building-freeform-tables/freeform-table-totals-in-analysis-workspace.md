@@ -3,7 +3,7 @@ title: Freeform Table Totals in Analysis Workspace
 description: In this video you will see some updates to Freeform Table totals, including the ability to remove totals.
 feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

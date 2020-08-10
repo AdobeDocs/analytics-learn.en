@@ -1,7 +1,7 @@
 ---
 title: Using a Data Layer to set Page Name and Other Variables in Adobe Analytics via Launch
 description: Using a data layer for Analytics and other Experience Cloud solutions is considered a best practice. In this video, you’ll see how to pull your values out of the data layer and use them in Launch to populate variables in Adobe Analytics.
-feature: implementation - launch
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

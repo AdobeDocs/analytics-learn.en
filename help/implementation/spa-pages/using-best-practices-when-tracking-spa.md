@@ -1,7 +1,7 @@
 ---
 title: Using Best Practices when Tracking Single Page Applications (SPA) in Adobe Analytics 
 description: In this document, we will describe several best practices that you should follow and be aware of as you are using Adobe Analytics to track Single Page Applications (SPA). This doc will focus on using Launch by Adobe, which is the recommended implementation method.
-feature: implementation - spa pages
+feature: implementation basics
 topics: spa
 audience: implementer
 activity: implement

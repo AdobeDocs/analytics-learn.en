@@ -3,7 +3,7 @@ title: Using the Usage Log Tracking for Analysis Workspace
 seo-title: Using the Usage Log Tracking for Analysis Workspace
 description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
 seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
-feature: analysis workspace basics
+feature: data configuration and collection
 topics: 
 audience: analyst, marketer
 activity: use

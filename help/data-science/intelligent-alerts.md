@@ -1,7 +1,7 @@
 ---
 title: Intelligent Alerts in Adobe Analytics
 description: Intelligent alerts put the power of Anomaly Detection directly in your inbox or on your phone. Being immediately aware of significant changes in your key metrics and segments means no missed opportunities.
-feature: data science - intelligent alerts
+feature: data science
 topics: 
 audience: all
 activity: use

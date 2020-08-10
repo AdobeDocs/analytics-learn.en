@@ -1,7 +1,7 @@
 ---
 title: Admin Settings for Mobile Apps
 description: Learn how to setup Mobile App reporting in Adobe Analytics, including Lifecycle components, Location Tracking, and Background Hit reporting.
-feature: implementing mobile analytics
+feature: mobile sdk
 topics: 
 audience: administrator
 activity: setup

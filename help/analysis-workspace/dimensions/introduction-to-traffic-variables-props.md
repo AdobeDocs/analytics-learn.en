@@ -1,9 +1,9 @@
 ---
 title: Introduction to Traffic Variables (Props)
 description: In this video, get an introduction to traffic variables, including Page Name, Site Section, and "props".
-feature: traffic variables
+feature: dimensions
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

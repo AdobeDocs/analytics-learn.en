@@ -1,9 +1,9 @@
 ---
 title: Date Comparisons in Analysis Workspace
 description: In this video, we we will show you how to leverage two date comparison features in freeform tables - 'add time period column' and 'compare time periods.'
-feature: analysis workspace - calendar and date ranges
+feature: calendar
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

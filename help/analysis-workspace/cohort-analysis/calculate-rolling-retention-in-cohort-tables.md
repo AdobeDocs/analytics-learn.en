@@ -1,9 +1,9 @@
 ---
 title: Calculate Rolling Retention in Cohort Tables 
 description: The Rolling Calculation setting within Cohort Tables can be used to analyze cohorts period-over-period, to understand how the same users are retained (or churn) over time.
-feature: analysis workspace - cohort analysis
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

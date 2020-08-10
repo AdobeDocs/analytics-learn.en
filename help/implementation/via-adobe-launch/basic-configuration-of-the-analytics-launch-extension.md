@@ -1,7 +1,7 @@
 ---
 title: Basic Configuration of the Analytics Launch extension
 description: This video shows a quick way to configure the Analytics extension in Launch for a basic site.
-feature: Launch Analytics Extension
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

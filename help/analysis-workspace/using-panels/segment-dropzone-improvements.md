@@ -1,9 +1,9 @@
 ---
 title: Segment Drop Zone Improvements in Analysis Workspace
 description: Segment drop zones have been improved so you can truly drop anything anywhere in a project.
-feature: analysis workspace - using panels
+feature: panels
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,9 +1,9 @@
 ---
 title: Data Feeds Management UI
 description: The Adobe Analytics Data Feed allows you to export raw clickstream data to import and merge with other data sources in an EDW or data lake. You can create and manage your own Data Feeds within Adobe Analytics. This video will show you how.
-feature: exporting - data feeds
+feature: data feeds
 topics: 
-audience: all
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

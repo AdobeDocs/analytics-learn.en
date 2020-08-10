@@ -1,9 +1,9 @@
 ---
 title: Reducing Error Rates and Improving Success Rates in Your Voice App
 description: Learn how to find areas of improvement for your voice app with features such as churn, success and error rates and fallback intent.
-feature: analysis workspace - voice analytics
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

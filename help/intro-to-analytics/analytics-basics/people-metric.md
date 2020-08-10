@@ -1,7 +1,7 @@
 ---
 title: People Metric in Adobe Analytics
 description: Adobe Analytics now offers a People metric to de-duplicate visitors based on the Adobe Experience Cloud Device Co-op! This video provides more information and shows you how to get started.
-feature: analytics basics
+feature: metrics
 topics: 
 audience: all
 activity: use

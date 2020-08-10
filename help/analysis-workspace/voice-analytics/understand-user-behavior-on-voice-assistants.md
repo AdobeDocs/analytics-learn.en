@@ -1,9 +1,9 @@
 ---
 title: Understand User Behavior on Voice Assistants
 description: Learn how to understand user behavior and gain insights by looking at key metrics such as top intents, parameters and user authentication.
-feature: analysis workspace - voice analytics
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

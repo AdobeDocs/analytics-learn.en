@@ -1,7 +1,7 @@
 ---
 title: Adding side-by-side comparisons of Attribution IQ Models in Analysis Workspace
 description: In this video, learn how to quickly compare Attribution IQ models, including an auto-created column that shows the percent difference between the two models' numbers.
-feature: analysis workspace - attribution iq
+feature: attribution
 topics: 
 audience: analyst, marketer
 activity: use

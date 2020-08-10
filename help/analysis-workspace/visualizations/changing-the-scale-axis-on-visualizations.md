@@ -1,9 +1,9 @@
 ---
 title: Changing the scale/axis on visualizations in Analysis Workspace
 description: This video shows how you can easily change the scale (or axis limits) for the Y-axis on a line graph in the Analysis Workspace to make data harder for you and others to misinterpret.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,9 +1,9 @@
 ---
 title: Calculated Metrics - Functions
 description: Learn how to use functions in calculated metrics in Adobe Analytics
-feature: components - calculated metrics
+feature: calculated metrics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

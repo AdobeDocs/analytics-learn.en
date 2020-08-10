@@ -1,9 +1,9 @@
 ---
 title: Calculated Metrics - Segmented Metrics
 description: Learn how to create segmented metrics in Adobe Analytics
-feature: components - calculated metrics
+feature: calculated metrics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

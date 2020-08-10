@@ -1,14 +1,11 @@
 ---
 title: Component Management in Analysis Workspace
-seo-title: Component Management in Analysis Workspace - Adobe Analytics
 description: You can manage your dimensions, segments, metrics, and date ranges directly in Analysis Workspace. No need to leave your project while you go find a segment to share.
-seo-description: You can manage your dimensions, segments, metrics, and date ranges directly in Analysis Workspace. No need to leave your project while you go find a segment to share. - Adobe Analytics
-feature: analysis workspace basics
+feature: workspace basics
 topics: 
 audience: analyst, marketer
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 1988
 ---

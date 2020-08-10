@@ -1,9 +1,9 @@
 ---
 title: Panel Level Segments in Analysis Workspace
 description: A brief overview of how to apply segments at the panel level
-feature: analysis workspace - using panels
+feature: panels
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

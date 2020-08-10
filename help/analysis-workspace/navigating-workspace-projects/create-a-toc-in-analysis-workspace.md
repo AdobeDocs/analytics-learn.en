@@ -1,9 +1,9 @@
 ---
 title: Create a Table of Contents in Analysis Workspace
 description: Learn how to construct a table of contents Workspace project, and set it as your users' landing page so that they can quickly find the data & insights they need in Adobe Analytics.
-feature: analysis workspace - navigating workspace projects
+feature: projects
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,9 +1,9 @@
 ---
 title: Data Visualization in Analysis Workspace
 description: This session is all about visualizations within Analysis Workspace. You will learn skills and actions that will help you provide powerful insights to your organization in the most consumable format.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

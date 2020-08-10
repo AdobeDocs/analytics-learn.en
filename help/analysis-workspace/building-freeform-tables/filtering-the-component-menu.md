@@ -1,9 +1,9 @@
 ---
 title: Filtering the Component Menu in Analysis Workspace
 description: This videos shows you how to limit the component menu to just those items that you need for your analysis.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

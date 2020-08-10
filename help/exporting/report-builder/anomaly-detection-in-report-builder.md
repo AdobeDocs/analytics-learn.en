@@ -1,9 +1,9 @@
 ---
 title: Anomaly Detection in Report Builder
 description: Learn how to add anomaly detection metrics to your data requests, as well as creatively graph the data.
-feature: exporting - report builder
+feature: report builder
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

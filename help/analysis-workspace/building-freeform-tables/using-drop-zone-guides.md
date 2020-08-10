@@ -1,7 +1,7 @@
 ---
 title: Using Drop Zone Guides in Analysis Workspace
 description: No matter your level of experience with Analysis Workspace, Drop Zone Guides aim to provide subtle, contextual guides to help you build analyses more efficiently, with less undo actions.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
 audience: analyst, marketer
 activity: use

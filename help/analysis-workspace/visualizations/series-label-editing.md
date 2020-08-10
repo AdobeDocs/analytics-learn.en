@@ -1,9 +1,9 @@
 ---
 title: Series Label Editing in Analysis Workspace
 description: Walk-through of some new features that allow analysts and marketers to adjust the labels in charts to suit your visualization needs.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

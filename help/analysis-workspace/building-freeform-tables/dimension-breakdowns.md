@@ -1,9 +1,9 @@
 ---
 title: Dimension Breakdowns in Analysis Workspace
 description: Freeform Analysis gives you the ability to do as many breakdowns as you want by dragging and dropping once. Faster analysis FTW! This video shows you how to do it.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

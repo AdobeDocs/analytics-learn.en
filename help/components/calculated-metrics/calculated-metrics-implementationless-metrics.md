@@ -1,9 +1,9 @@
 ---
 title: Calculated Metrics - Implementation-less Metrics
 description: Learn how to create new Metrics in Adobe Analytics without changing your implementation.
-feature: components - calculated metrics
+feature: calculated metrics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

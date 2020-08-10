@@ -1,7 +1,7 @@
 ---
 title: Using Analysis Workspace to Build Adobe Analytics API 2.0 Requests
 description: In this video, we show you how to leverage Analysis Workspace to build API 2.0 requests automatically. By debugging the UI, you can copy & paste JSON requests directly into any API client to return Analytics data.
-feature: apis
+feature: api
 topics: 
 audience: implementer, developer
 activity: use

@@ -1,7 +1,7 @@
 ---
 title: Using the Attribution IQ Panel in Analysis Workspace
 description: In this video, you will see the Attribution IQ Panel, a great place to start as you build out your attribution Analysis Workspace project.
-feature: analysis workspace - attribution iq
+feature: attribution
 topics: 
 audience: analyst, marketer
 activity: use

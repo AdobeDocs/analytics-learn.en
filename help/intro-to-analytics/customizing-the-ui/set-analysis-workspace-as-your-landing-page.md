@@ -1,9 +1,9 @@
 ---
 title: Set Analysis Workspace as your landing page in Adobe Analytics
 description: This video shows how you can set various aspects of Analysis Workspace as your landing page in Adobe Analytics to streamline your workflows.
-feature: customizing the ui
+feature: workspace basics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

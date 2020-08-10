@@ -1,10 +1,10 @@
 ---
 title: Creating and Maintaining an SDR
 description: The Solution Design Reference (SDR) document is basically the blueprint for your site. This video shows how to create one, in conjunction with the Business Requirements Document, so that you can always have a source of truth that you can go back to as you implement Adobe Analytics, and as you refer back to it in the future.
-feature: SDR
+feature: implementation basics
 topics: 
-audience: implementer, architect
-activity: use
+audience: implementer
+activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581

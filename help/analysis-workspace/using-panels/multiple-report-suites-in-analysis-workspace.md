@@ -3,7 +3,7 @@ title: Multiple Report Suites in Analysis Workspace
 description: Multiple report suites can be analyzed in a single Workspace project by selecting suites at the panel level. This allows you to conduct side-by-side panel analysis across different sets of data.
 feature: panels
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

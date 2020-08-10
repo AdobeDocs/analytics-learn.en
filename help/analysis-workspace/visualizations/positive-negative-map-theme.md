@@ -1,9 +1,9 @@
 ---
 title: Positive-Negative Map Theme in Analysis Workspace
 description: The new positive/negative color theme allows you to clearly depict positive versus negative numbers on a map. This new theme will also respect any polarity changes you make when you set up the event (in Admin) or create it in calculated metrics.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

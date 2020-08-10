@@ -1,7 +1,7 @@
 ---
 title: Previewing and Using Components in Analysis Workspace
 description: This video shows how to work with the left rail containing dimensions, metrics, segments and dates in Analysis Workspace.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
 audience: analyst, marketer
 activity: use

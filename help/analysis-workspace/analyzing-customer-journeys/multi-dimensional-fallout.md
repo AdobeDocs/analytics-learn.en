@@ -1,15 +1,11 @@
 ---
 title: Multidimensional Fallout in Analysis Workspace
-seo-title: Multidimensional Fallout in Analysis Workspace - Adobe Analytics
 description: Fallout in Analysis Workspace allows you to mix and match dimensions and metrics as touchpoints in funnels and workflows.
-seo-description: Fallout in Analysis Workspace allows you to mix and match dimensions and metrics as touchpoints in funnels and workflows. - Adobe Analytics
-uuid: 0980e190-f59e-4a75-b291-517503b27e49
-feature: analysis workspace - analyzing customer journeys
+feature: visualizations
 topics: 
 audience: analyst, marketer
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 2277
 ---

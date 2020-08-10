@@ -1,9 +1,9 @@
 ---
 title: Approximate Count Distinct Function in Calculated Metrics
 description: An Approximate Count Distinct function has been added to the Calculated Metric Builder. It is a long awaited function that will return the approximated distinct count of dimension items for a selected dimension.
-feature: components - calculated metrics
+feature: calculated metrics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

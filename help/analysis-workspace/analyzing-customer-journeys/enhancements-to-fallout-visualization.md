@@ -1,12 +1,11 @@
 ---
 title: Enhancements to Fallout Visualization in Analysis Workspace
-description: This video shows updates to the Fallout Visualization that have been highly requested by customers, including direct vs eventual steps, renaming touchpoints, comparing unlimited segments, and trending touchpoint conversion percentages over time.
-feature: analysis workspace - analyzing customer journeys
+description: This video shows updates to the Fallout Visualization that have been highly requested by customers, including direct vs eventual steps, renaming touch points, comparing unlimited segments, and trending touchpoint conversion percentages over time.
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 2276
 ---

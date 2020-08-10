@@ -1,9 +1,9 @@
 ---
 title: Understand Differences Across Voice-Enabled Devices
 description: Learn how to understand the different performance and functionalities across various voice-assisted devices to help prioritize product roadmap.
-feature: analysis workspace - voice analytics
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -4,7 +4,7 @@ description: It's easier than ever to implement Adobe Analytics. If you're brand
 feature: implementation basics
 topics: 
 audience: implementer
-activity: use
+activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 2362

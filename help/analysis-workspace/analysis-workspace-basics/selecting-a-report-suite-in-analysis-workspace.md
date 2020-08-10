@@ -3,7 +3,7 @@ title: Selecting a Report Suite in Analysis Workspace
 seo-title: Selecting a Report Suite in Analysis Workspace - Adobe Analytics
 description: This video takes you through the report suite selector.
 seo-description: This video takes you through the report suite selector. - Adobe Analytics
-feature: analysis workspace basics
+feature: workspace basics
 topics: 
 audience: analyst, marketer
 activity: use

@@ -3,7 +3,7 @@ title: Configuring Zip and Postal Code Settings in Adobe Analytics
 seo-title: Configuring Zip and Postal Code Settings in Adobe Analytics
 description: In this video you will learn how to configure zip and postal code settings, so that you can do analysis based on this region data.
 seo-description: In this video you will learn how to configure zip and postal code settings, so that you can do analysis based on this region data.
-feature: admin console
+feature: data configuration and collection
 topics: 
 audience: administrator, architect
 activity: setup

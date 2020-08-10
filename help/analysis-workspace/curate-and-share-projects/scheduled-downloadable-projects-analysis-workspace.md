@@ -1,9 +1,9 @@
 ---
 title: Scheduled and Downloadable Projects in Analysis Workspace
 description: Analysis Workspace allows you to schedule and download projects to PDFs and CSVs. This video shows how you can schedule projects for future delivery to yourself or colleagues, as well as how you can download PDFs of projects you're working on.
-feature: analysis workspace - curate and share projects
+feature: curate and share
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

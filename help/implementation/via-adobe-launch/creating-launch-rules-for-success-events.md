@@ -1,7 +1,7 @@
 ---
 title: Creating Launch Rules for Success Events
 description: This video will show you how to use Launch to track conversion events (AKA success events) on your site. It will show this in the use case of tracking an application process on a sample site.
-feature: conversion events
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

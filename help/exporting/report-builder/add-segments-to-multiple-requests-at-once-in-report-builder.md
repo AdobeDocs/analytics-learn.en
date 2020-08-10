@@ -1,9 +1,9 @@
 ---
 title: Add Adobe Analytics segments to multiple requests at once in Report Builder
 description: This video shows you how you can use Report Builder to add segments to all of your requests at once, saving you time and hassle.
-feature: exporting - report builder
+feature: report builder
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

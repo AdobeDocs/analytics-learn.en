@@ -1,9 +1,9 @@
 ---
 title: Creating Custom Date Ranges in Analysis Workspace
 description: This video walks you through how to use date ranges in Analysis Workspace.
-feature: analysis workspace - calendar and date ranges
+feature: calendar
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

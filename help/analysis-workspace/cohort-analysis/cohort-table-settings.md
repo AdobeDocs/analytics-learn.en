@@ -1,10 +1,10 @@
 ---
 title: Cohort Table Settings
 description: There are several Cohort table settings that allow you to customize your view of retention or churn. See them highlighted in this video. 
-feature: feature
-topics: topics
-audience: all, administrator, analyst, marketer, implementer, developer, architect, author
-activity: use understand setup implement troubleshoot develop
+feature: visualizations
+topics: 
+audience: analyst
+activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3972
