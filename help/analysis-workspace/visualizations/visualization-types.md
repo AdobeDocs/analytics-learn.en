@@ -1,9 +1,9 @@
 ---
 title: Visualization Types in Analysis Workspace
 description: Analysis Workspace includes area graphs, donut graphs, horizontal bar graphs, and many other visualizations to help you with your analysis.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

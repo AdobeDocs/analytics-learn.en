@@ -1,7 +1,7 @@
 ---
-title: Basic Configuration of the Analytics Experience Platform Launch extension
-description: This video shows a quick way to configure the Analytics extension in Experience Platform Launch for a basic site.
-feature: Experience Platform Launch Analytics Extension
+title: Basic Configuration of the Analytics Launch extension
+description: This video shows a quick way to configure the Analytics extension in Launch for a basic site.
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

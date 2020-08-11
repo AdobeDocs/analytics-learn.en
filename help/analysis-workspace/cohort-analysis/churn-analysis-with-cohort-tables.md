@@ -1,9 +1,9 @@
 ---
 title: Churn Analysis with Cohort Tables
 description: Cohort Tables offer two analysis types - Retention and Churn. While Retention shows how many users are retained over time, the Churn option will depict how many users were lost (1 - Retention).
-feature: analysis workspace - cohort analysis
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

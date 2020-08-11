@@ -1,7 +1,7 @@
 ---
 title: Configuring Cookie Settings in the Launch Analytics Extension
 description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you understand if and how to set the cookie settings in the Analytics extension.
-feature: implementation - launch
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

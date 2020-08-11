@@ -1,9 +1,9 @@
 ---
 title: Using Dimensions in Calculated Metrics
 description: Dimensions are now available in the Calculated Metric Builder. They can be added to any calculated metric formula to create an internal segment on the fly.
-feature: components - calculated metrics
+feature: calculated metrics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,9 +1,9 @@
 ---
 title: Share embedded components in Analysis Workspace
 description: Sometimes you want to share an Analysis Workspace project, but you forget to also share the segments and metrics that you included with your colleagues. This video shows how you can now share segments and metrics in the process of sharing your projects so that colleagues see what you intended every time.
-feature: analysis workspace - curate and share projects
+feature: curate and share
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,9 +1,9 @@
 ---
 title: Direct Link to a project in Analysis Workspace
 description: This video shows how you can better democratize analytics by creating shortened links which will take your colleagues to your Analysis Workspace projects.
-feature: analysis workspace - curate and share projects
+feature: curate and share
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

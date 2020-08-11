@@ -1,9 +1,9 @@
 ---
 title: Cohort Analysis in Analysis Workspace
 description: How to build a cohort analysis table in Analysis Workspace.
-feature: analysis workspace - cohort analysis
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

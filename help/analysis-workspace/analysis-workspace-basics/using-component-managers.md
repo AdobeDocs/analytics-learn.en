@@ -3,7 +3,7 @@ title: Using Component Managers in Adobe Analytics
 seo-title: Using Component Managers in Adobe Analytics
 description: This video shows how to use the Alerts and Scheduled Projects component managers in Adobe Analytics, along with some additional features. Learn how to easily find the Alert or Scheduled Project you’re looking for as well as Enable/Disable Alerts. 
 seo-description: This video shows how to use the Alerts and Scheduled Projects component managers in Adobe Analytics, along with some additional features. Learn how to easily find the Alert or Scheduled Project you’re looking for as well as Enable/Disable Alerts. 
-feature: analysis workspace basics
+feature: workspace basics
 topics: 
 audience: analyst, marketer
 activity: use

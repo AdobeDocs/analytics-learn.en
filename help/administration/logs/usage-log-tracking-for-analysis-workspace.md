@@ -1,7 +1,7 @@
 ---
 title: Usage Log Tracking for Analysis Workspace
 description: Under Admin - Logs - Usage & Access, you can better understand your users' usage of Adobe Analytics. This video focuses specifically on measuring Workspace project usage.
-feature: logs
+feature: data configuration and collection
 topics: 
 audience: administrator
 activity: use

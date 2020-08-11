@@ -1,7 +1,7 @@
 ---
 title: Understanding How Data Gets into Your Analysis Workspace Project
 description: This video shows you how to see the flow of data from your page to the tables and visualizations in Analysis Workspace, using the Adobe Experience Cloud Debugger extension in Chrome.
-feature: analysis workspace - analysis workspace basics
+feature: workspace basics
 topics: 
 audience: analyst, marketer
 activity: use

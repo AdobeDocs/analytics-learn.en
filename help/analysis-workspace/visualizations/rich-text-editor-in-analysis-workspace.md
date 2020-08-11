@@ -1,9 +1,9 @@
 ---
 title: Rich Text Editor in Analysis Workspace
 description: Walk-through of some new features that allow analysts and marketers to apply editing to text visualizations (or descriptions) in Analysis Workspace - Bold, Italics, Headings, Hyper links, and more.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

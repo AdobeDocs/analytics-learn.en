@@ -1,9 +1,9 @@
 ---
 title: Percent of Row In Analysis Workspace
 description: In this video, you will learn how to customize your tables in Analysis Workspace to show individual item percentages compared to either the row or column totals.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

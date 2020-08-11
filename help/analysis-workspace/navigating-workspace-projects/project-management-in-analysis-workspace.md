@@ -1,9 +1,9 @@
 ---
 title: Project Management in Analysis Workspace
 description: This video shows how you can manage projects that you create in Analysis Workspace in Adobe Analytics.
-feature: analysis workspace - navigating workspace projects
+feature: projects
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

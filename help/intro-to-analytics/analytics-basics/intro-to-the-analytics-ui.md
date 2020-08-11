@@ -1,9 +1,9 @@
 ---
 title: Intro to the Analytics UI
 description: This video orients you to the Adobe Analytics interface, and shows you where you will find the tools you will need as you implement and as you do analysis.
-feature: user interface
+feature: analytics basics
 topics: 
-audience: administrator, analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

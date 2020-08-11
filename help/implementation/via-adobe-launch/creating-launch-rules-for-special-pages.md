@@ -1,7 +1,7 @@
 ---
 title: Creating Launch Rules for Special Pages
 description: In addition to the data that goes in on every page, you will have some data that just needs to go in on one page. This video shows you how to merge that data with the every-page data and send it into Adobe Analytics.
-feature: implementation
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

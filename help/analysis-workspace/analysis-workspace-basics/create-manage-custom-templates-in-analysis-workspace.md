@@ -1,14 +1,11 @@
 ---
 title: Create and Manage Custom Templates in Analysis Workspace
-seo-title: Create and Manage Custom Templates in Analysis Workspace - Adobe Analytics
 description: In this video you will learn how to create custom templates in Analysis Workspace, so that you and your team can start from a specific set of reports.
-seo-description: In this video you will learn how to create custom templates in Analysis Workspace, so that you and your team can start from a specific set of reports. - Adobe Analytics
-feature: analysis workspace basics
+feature: projects
 topics: 
 audience: analyst, marketer
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 1695
 ---

@@ -1,9 +1,9 @@
 ---
 title: Customizing the Menu in Reports and Analytics
 description: This video takes you through how to customize the menus in Analytics for your business.
-feature: customizing the ui
+feature: analytics basics
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

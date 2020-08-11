@@ -1,9 +1,9 @@
 ---
 title: Applying Segments to your Analysis Workspace project
 description: In this video, learn how to limit the data in your tables and visualizations by applying segments to your data.
-feature: analysis workspace - applying segments
+feature: segmentation
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

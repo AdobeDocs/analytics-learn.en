@@ -1,9 +1,9 @@
 ---
 title: Adding Dimensions and Metrics to your Project in Analysis Workspace
 description: In this video, learn about dimensions and metrics, the difference between them, and how to add them to your tables and visualizations in Analysis Workspace. Also learn how to add out-of-the-box Calculated Metrics.
-feature: analysis workspace - dimensions
+feature: dimensions
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

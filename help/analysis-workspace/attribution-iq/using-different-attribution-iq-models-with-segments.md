@@ -1,7 +1,7 @@
 ---
 title: Using different Attribution IQ models with segments in Analysis Workspace
 description: In this video you will learn how to use Attribution IQ models in conjunction with Adobe Analytics segments on your site.
-feature: analysis workspace - attribution iq
+feature: attribution
 topics: 
 audience: analyst, marketer
 activity: use

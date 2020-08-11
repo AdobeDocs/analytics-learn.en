@@ -1,9 +1,9 @@
 ---
 title: Histogram Visualization in Analysis Workspace
 description: Histograms allow you to visualize the distribution of a metric across your visitors, visits, and now hits, to find high- and low-value segments.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

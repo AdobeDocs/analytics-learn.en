@@ -1,9 +1,9 @@
 ---
 title: Date Aligning in Analysis Workspace
 description: If you've ever wanted to show different date range trends overlapped on the same chart, similar to Reports & Analytics 4 weeks ago & 52 weeks ago, you are in luck. In Adobe's most recent release, we've added the ability to align dates for easier range comparison in both tables & graphs.
-feature: analysis workspace - calendar and date ranges
+feature: calendar
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

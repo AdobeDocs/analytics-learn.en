@@ -1,9 +1,9 @@
 ---
 title: Using Segments in Analysis Workspace
 description: Learn how to apply segments to Analysis Workspace projects.
-feature: analysis workspace - applying segments
+feature: segmentation
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 author: Doug Moore

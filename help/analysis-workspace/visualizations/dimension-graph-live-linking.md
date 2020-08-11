@@ -1,9 +1,9 @@
 ---
 title: Dimension-Graph Live Linking in Analysis Workspace
 description: We don't quite know what to call this, but it's sneaky-cool. When you create a line graph from a dimension value, you can now select different dimension values and change the graph dynamically. Watch the video to learn more!
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

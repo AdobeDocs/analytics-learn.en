@@ -1,10 +1,10 @@
 ---
 title: Creating Data Elements in Launch for the Analytics Implementation
 description: This video shows how to create data elements for your Analytics implementation in Launch, based on the variables and events decided upon and documented in a Solution Design Reference (SDR) document.
-feature: data elements
+feature: launch implementation
 topics: 
 audience: implementer
-activity: use
+activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587

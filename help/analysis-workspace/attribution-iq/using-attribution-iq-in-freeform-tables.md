@@ -1,7 +1,7 @@
 ---
 title: Using Attribution IQ in Freeform Tables
 description: Attribution IQ allows you to change the attribution model to any of ten rules-based models on a Freeform column on the fly.
-feature: analysis workspace - attribution iq
+feature: attribution
 topics: 
 audience: analyst, marketer
 activity: use

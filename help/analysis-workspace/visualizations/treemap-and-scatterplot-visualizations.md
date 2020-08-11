@@ -1,9 +1,9 @@
 ---
 title: Treemap and Scatterplot Visualizations in Analysis Workspace
 description: Analysis Workspace in Adobe Analytics includes two popular visualization types - treemap and scatterplot. This video explains how to use both visualization types in your analysis.
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

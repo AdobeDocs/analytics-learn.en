@@ -1,7 +1,7 @@
 ---
 title: Using Custom Code while Configuring the Analytics Launch Extension
 description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you understand custom code window options, timing of code execution, etc.
-feature: implementation - launch
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

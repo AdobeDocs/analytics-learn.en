@@ -1,7 +1,7 @@
 ---
 title: Using segments to limit data in Analysis Workspace
 description: This video shows how you can limit users of a project in Analysis Workspace to a specific segment (or segments) as they are working with the tool.
-feature: analysis workspace - applying segments
+feature: segmentation
 topics: 
 audience: analyst, marketer
 activity: use

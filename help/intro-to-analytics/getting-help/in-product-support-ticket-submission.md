@@ -1,7 +1,7 @@
 ---
 title: In-product Support Ticket Submission
 description: You can now submit a Customer Care support ticket directly in the UI, streamlining the process toward resolution.
-feature: getting help
+feature: analytics basics
 topics: 
 audience: all
 activity: use

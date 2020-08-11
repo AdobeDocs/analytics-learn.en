@@ -1,9 +1,9 @@
 ---
 title: Using Dates in Analysis Workspace
 description: "This video explains three different ways to work with dates in Freeform Analysis: the calendar, the date range elements, and the granularity elements. Not shown, somewhat embarrassingly: how to use dates to enable line charts. "
-feature: analysis workspace - calendar and date ranges
+feature: calendar
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

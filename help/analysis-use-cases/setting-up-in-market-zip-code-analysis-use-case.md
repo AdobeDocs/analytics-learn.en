@@ -3,7 +3,7 @@ title: Setting Up In-Market Zip Code Analysis - a Use Case
 seo-title: Setting Up In-Market Zip Code Analysis - a Use Case
 description: In this use case, we will configure the system to bring in zip codes, classify them as in-market or out-of-market, and then use this data in Analysis Workspace so that we can see the effectiveness of our geo-targeted marketing campaigns.
 seo-description: In this use case, we will configure the system to bring in zip codes, classify them as in-market or out-of-market, and then use this data in Analysis Workspace so that we can see the effectiveness of our geo-targeted marketing campaigns.
-feature: geo
+feature: use cases
 topics: 
 audience: analyst, marketer
 activity: use

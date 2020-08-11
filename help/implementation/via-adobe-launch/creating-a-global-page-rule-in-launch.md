@@ -1,7 +1,7 @@
 ---
 title: Creating a Global Page Rule in Launch
 description: There are some data points that you will want to be sent into Adobe Analytics on every page. This video shows how to set up a global page load rule to send those data points in.
-feature: implementation
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

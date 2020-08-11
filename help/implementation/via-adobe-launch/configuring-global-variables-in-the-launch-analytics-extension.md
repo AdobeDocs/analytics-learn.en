@@ -1,7 +1,7 @@
 ---
 title: Configuring Global Variables in the Launch Analytics Extension
 description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you understand when and where to set global variables, I.e. values that you want to be set on every page or click.
-feature: implementation - launch
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

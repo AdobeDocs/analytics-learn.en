@@ -1,7 +1,7 @@
 ---
 title: Configuring Library Management in the Launch Analytics Extension
 description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you with the library management portion of the configuration, including selecting report suites to send the data into.
-feature: implementation - launch
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement

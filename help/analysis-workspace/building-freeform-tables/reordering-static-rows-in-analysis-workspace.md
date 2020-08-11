@@ -1,7 +1,7 @@
 ---
 title: Reordering Static Rows in Analysis Workspace
 description: You can manually reorder static rows within Freeform Table Builder. This allows you to arrange table static rows in the exact order you need them - for example, Visits, then Orders, then Conversion Rate.
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
 audience: analyst, marketer
 activity: use

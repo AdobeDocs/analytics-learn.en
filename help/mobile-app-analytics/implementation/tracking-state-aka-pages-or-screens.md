@@ -1,9 +1,9 @@
 ---
 title: Tracking State (AKA Pages or Screens) in a Mobile app with the Experience Platform SDK
 description: States represent screens or views in your app. Each time a new state is displayed in your application, for example, when a user navigates from the home page to the news feed, "trackState" can be called to send in the State Name (Page Name in Analytics), as well as addiitonal data. This video walks you through how to do it.
-feature: implementing mobile analytics
+feature: mobile sdk
 topics: 
-audience: administrator
+audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing

@@ -1,9 +1,9 @@
 ---
 title: Selecting data to visualize in Analysis Workspace
 description: Learn how to precisely control what gets visualized when in Freeform Analysis
-feature: analysis workspace - visualizations
+feature: visualizations
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

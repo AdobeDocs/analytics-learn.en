@@ -1,9 +1,9 @@
 ---
 title: Creating Ranked, Overtime and Trended Reports in Analysis Workspace
 description: Learn how to do ranked, "over time," and trended reports in Freeform Analysis in Analysis Workspace. - Adobe Analytics
-feature: analysis workspace - building freeform tables
+feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing

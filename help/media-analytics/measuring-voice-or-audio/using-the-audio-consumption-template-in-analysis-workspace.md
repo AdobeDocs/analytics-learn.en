@@ -1,7 +1,7 @@
 ---
 title: Using the Audio Consumption Template in Analysis Workspace
 description: This video outlines the Audio Consumption template in Analysis Workspace, which is available out-of-the-box for Audio Analytics.
-feature: voice and audio analytics
+feature: panels
 topics: 
 audience: all
 activity: use

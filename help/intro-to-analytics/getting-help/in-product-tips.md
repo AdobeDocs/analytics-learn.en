@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace In-Product Tips
 description: Workspace Tips provide a quick learning directly in Analysis Workspace, with links to related videos so you can see each tip in action.
-feature: getting help
+feature: workspace basics
 topics: 
 audience: all
 activity: use

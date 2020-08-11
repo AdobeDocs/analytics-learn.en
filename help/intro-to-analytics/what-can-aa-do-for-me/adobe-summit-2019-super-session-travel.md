@@ -1,7 +1,7 @@
 ---
 title: Adobe Summit 2019 Super Session - Travel & Hospitality
 description: See curated clips from the travel & hospitality "super session" at Summit 2019
-feature: adobe analytics value
+feature: use cases
 topics: 
 audience: all
 activity: understand

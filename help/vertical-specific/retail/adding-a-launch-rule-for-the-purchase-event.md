@@ -1,7 +1,7 @@
 ---
 title: Adding a Launch Rule for the Purchase Event
 description: This video shows how to use the product string extension in Launch to track purchases on your site, resulting in the Revenue, Orders, and Units metrics in your analysis.
-feature: retail variables
+feature: launch implementation
 topics: 
 audience: implementer
 activity: implement
