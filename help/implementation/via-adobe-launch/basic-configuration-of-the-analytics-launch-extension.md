@@ -11,8 +11,8 @@ kt: 3586
 
 ---
 
-# Basic Configuration of the [!DNL Analytics] [!DNL Launch] extension
+# Basic Configuration of the [!DNL Experience Platform Launch] extension for Analytics
 
-This video shows a quick way to configure the [!DNL Analytics] extension in [!DNL Launch] for a basic site.
+This video shows a quick way to configure the [!DNL Analytics] extension in [!DNL Experience Platform Launch] for a basic site.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12)
