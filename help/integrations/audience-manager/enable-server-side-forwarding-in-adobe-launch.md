@@ -1,6 +1,6 @@
 ---
-title: Enable Server Side Forwarding in Adobe Launch
-description: Learn how to use Adobe Launch to have your Adobe Analytics hits automatically sent to Adobe Audience Manager via server-side forwarding. 
+title: Enable Server Side Forwarding in Experience Platform Launch
+description: Learn how to use Experience Platform Launch to have your Adobe Analytics hits automatically sent to Adobe Audience Manager via server-side forwarding. 
 feature: integration with experience cloud
 topics: 
 audience: all

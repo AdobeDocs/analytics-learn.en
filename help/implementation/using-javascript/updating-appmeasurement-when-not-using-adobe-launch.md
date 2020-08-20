@@ -1,6 +1,6 @@
 ---
-title: Updating AppMeasurement When Not Using Adobe Launch
-description: This video shows you how to update your appMeasurement code when you are not using Adobe Launch. This includes where to get the code and where to update it.
+title: Updating AppMeasurement When Not Using Experience Platform Launch
+description: This video shows you how to update your appMeasurement code when you are not using Experience Platform Launch. This includes where to get the code and where to update it.
 feature: appmeasurement implementation
 topics: 
 audience: implementer

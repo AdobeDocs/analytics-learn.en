@@ -41,7 +41,7 @@ Following is a sample data layer, the elements of which could be changed on view
                 pageName: 'acs demo - product listing page'
             },
             attributes:{
-                project: "Adobe Launch Project"
+                project: "Experience Platform Launch Project"
             }
         },
         user : [ {

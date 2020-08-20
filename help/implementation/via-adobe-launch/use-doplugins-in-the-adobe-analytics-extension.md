@@ -1,6 +1,6 @@
 ---
 title: Use doPlugins in the Adobe Analytics Extension
-description: Learn to use Adobe Launch in order to have more control over your Adobe Analytics hits by leveraging the doPlugins capability.
+description: Learn to use Experience Platform Launch in order to have more control over your Adobe Analytics hits by leveraging the doPlugins capability.
 feature: launch implementation
 topics: 
 audience: implementer
