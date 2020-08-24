@@ -19,46 +19,46 @@ Welcome to the [!DNL Analytics] Tutorials Site.  Using these tutorials along wit
 
 ## What's New
 
-* **[Getting Started with Adobe Mobile Analytics (Video)](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)**
+* **[Right-click for Workspace Efficiency (Video)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
     <br>
-    *Learn how to get started with Adobe Analytics for mobile apps using templates.*
+    *Learn about all of our favorite Analysis Workspace right-clicks and how to use them. From [!UICONTROL Freeform Tables] to [!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in [!DNL Workspace].*
 
-* **[Impact of Touch points Across Mobile Journey (Video)](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)**
+* **[Quick Insights Panel in Analysis Workspace (Video)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
     <br>
-    *Learn how mobile app users are influenced by touch points.*
+    *Quick Insights provides guidance for non-analysts and new users of Analysis Workspace to learn how to answer business questions quickly and easily.*
 
-* **[Analyzing User Behavior Across Channels (Video)](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)**
+* **[Project Sharing in Analysis Workspace (Video)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
     <br>
-    *Define and measure conversion in multi-step processes to drive success to your mobile apps.*
+    *Project sharing is one way to democratize data and insights from Analysis Workspace to users in your organization. You can place recipients in one of three project roles, depending on the project experience you want them to have - Edit, Duplicate and View.*
 
 ## Staff Picks
 
 <table>
 <tr>
   <td>
-    <a href="mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md">
-      <img alt="thumbnail image for the 'How To Increase Engagement and Retention Rates' video" src="assets/thumb_how-to-increase-engagement-and-retention-rates.png" />
+    <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
+      <img alt="Algorithmic Model in Attribution IQ" src="assets/36205.jpg" />
     </a>
     <div>
-      <a href="mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md">
-    <strong>Increase Retention Rates</strong>
+      <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
+    <strong>Algorithmic Model in Attribution IQ</strong>
     </a>
     </div>
     <p>
-    <em>Identify engaged audiences by their behavior.</em>
+    <em>The Algorithmic Attribution model in Analysis Workspace uses statistical techniques to dynamically determine the optimal allocation of credit for the selected metric.</em>
     <p>
   </td>
    <td>
-    <a href="exporting/data-warehouse/introduction-to-data-warehouse.md">
-      <img alt="thumbnail image for the 'Introduction to Data Warehouse' video" src="assets/thumb_introduction-to-data-warehouse.png" />
+    <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
+      <img alt="Training Tutorial Template in Analysis Workspace" src="assets/33773.jpg" />
     </a>
     <div>
-      <a href="exporting/data-warehouse/introduction-to-data-warehouse.md">
-    <strong>Introduction to [!DNL Data Warehouse]</strong>
+      <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
+    <strong>Training Tutorial Template in Analysis Workspace</strong>
     </a>
     </div>
     <p>
-    <em>Learn to query raw data with the [!DNL Data Warehouse] tool.</em>
+    <em>The Analysis Workspace Training Tutorial walks users through common terminology and steps for building their first analysis in Workspace.</em>
     <p>
   </td>
   <td>

@@ -61,6 +61,7 @@ solution: Analytics
     + [Training Tutorial Template in Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
     + [Copy and Insert in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
+    + [Right-click for Workspace Efficiency](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
     + [Keyboard Shortcuts](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
     + [Menu Bar](analysis-workspace/navigating-workspace-projects/menu-bar.md)

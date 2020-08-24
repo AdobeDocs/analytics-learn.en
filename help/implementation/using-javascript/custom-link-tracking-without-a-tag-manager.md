@@ -21,7 +21,7 @@ There are two functions that send data into Adobe Analytics:
 1. s.t() - A “track” beacon, which is a page view hit, incrementing page views for the given page name, as well as setting other variables
 1. s.tl() - a “track link” beacon, which is often referred to as a “custom link” hit/beacon, which does not increment page views, and ignores the pageName variable. This is commonly used for tracking smaller actions on the page that don’t load a new page/screen, or other actions that don’t result in a new page load.
 
->[!Note]
+>[!NOTE]
 >
 >In this video, we show you how to code a custom link hit when you are NOT using a tag manager like Adobe [!DNL Experience Platform Launch]. We recommend that you use [!DNL Experience Platform Launch], our best-practice recommendation for implementation. However, if you need to code in an `s.tl()`, here’s how to do it.
 
