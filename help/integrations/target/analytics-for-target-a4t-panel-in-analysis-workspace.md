@@ -14,7 +14,7 @@ kt: 5837
 
 # [!DNL Analytics for Target] (A4T) Panel in Analysis Workspace
 
-The [!DNL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences, with lift and confidence, in Analysis Workspace.
+The [!DNL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences, with lift and confidence, in [!UICONTROL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 

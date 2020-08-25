@@ -12,6 +12,6 @@ kt: 1965
 
 # "Try in Workspace" Button in [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}
 
-Most reports in [!DNL Reports & Analytics] include a "[!UICONTROL Try in Workspace]" button to allow you to reproduce the current view in Analysis Workspace for further customization.
+Most reports in [!UICONTROL Reports & Analytics] include a **[!UICONTROL Try in Workspace]** button to allow you to reproduce the current view in [!UICONTROL Analysis Workspace] for further customization.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)

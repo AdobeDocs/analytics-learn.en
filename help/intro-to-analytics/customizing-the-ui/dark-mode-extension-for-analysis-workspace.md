@@ -13,7 +13,7 @@ kt: 5034
 
 # Dark Mode Extension for Analysis Workspace
 
-Enable the Dark Reader Chrome extension to turn Analysis Workspace dark.
+Enable the Dark Reader Chrome extension to turn [!UICONTROL Analysis Workspace] dark.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33774/?quality=12)
 

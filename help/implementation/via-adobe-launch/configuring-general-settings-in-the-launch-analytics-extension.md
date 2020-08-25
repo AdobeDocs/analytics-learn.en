@@ -12,7 +12,7 @@ kt: 2837
 
 # Configuring [!UICONTROL General] Settings in the [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
 
-If you are just getting started with Experience Platform Launch, and the Adobe Analytics [!UICONTROL extension], this video can help you with the [!UICONTROL general] settings portion of the configuration, including setting the tracking server.
+If you are just getting started with Experience Platform Launch, and the Adobe Analytics [!UICONTROL Extension], this video can help you with the [!UICONTROL General] settings portion of the configuration, including setting the tracking server.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 
