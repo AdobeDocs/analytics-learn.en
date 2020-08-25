@@ -18,4 +18,5 @@ kt: 4818
 >[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12)
 
 When using a [!DNL Labs] prototype, you get to evaluate the feature within the context of your own business use cases and data.
+
 For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/tech-previews/overview.html).

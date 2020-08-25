@@ -12,7 +12,7 @@ kt: 2354
 
 # Audience Analytics: Integrate AAM [!DNL Segments] into [!DNL Analytics] {#audience-analytics-integrate-aam-segments-into-analytics}
 
-Audience Analytics is new integration that allows you to share segments from Audience Manager (AAM) to [!DNL Analytics] (AA) in real-time to inform audience discovery, segmentation, and optimization.
+[!UICONTROL Audience Analytics] is new integration that allows you to share segments from Audience Manager to [!DNL Analytics] in real-time to inform audience discovery, segmentation, and optimization.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12)
 

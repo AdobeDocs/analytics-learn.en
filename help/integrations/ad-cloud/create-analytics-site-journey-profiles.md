@@ -14,6 +14,6 @@ kt: 5473
 
 # Create Analytics Site Journey Profiles
 
-How to use Adobe Analytics to create robust site retargeting pools for Advertising Cloud remarketing.
+How to use Adobe Analytics to create robust site re-targeting pools for Advertising Cloud remarketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)
