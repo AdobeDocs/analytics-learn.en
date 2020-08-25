@@ -8,6 +8,7 @@ activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
+thumbnail: 24041.jpg
 kt: 2281
 ---
 

@@ -7,6 +7,7 @@ audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 24044.jpg
 kt: 2280
 ---
 
