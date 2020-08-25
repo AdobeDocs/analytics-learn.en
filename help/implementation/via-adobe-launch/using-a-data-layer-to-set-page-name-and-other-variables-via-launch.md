@@ -20,7 +20,7 @@ It is a best practice to use a data layer when working with data on your site an
 
 In addition, see the blog [Data Layers: From Buzzword to Best Practice,](https://theblog.adobe.com/data-layers-buzzword-best-practice/), which gives you some great information about data layers, as well as a couple of examples.
 
-## Data Layers, [!DNL Experience Platform Launch], and Adobe Analytics {#data-layers-launch-and-adobe-analytics-oh-my}
+## Data Layers, [!DNL Experience Platform Launch], and Adobe Analytics (oh my?){#data-layers-launch-and-adobe-analytics-oh-my}
 
 1. Create a data layer standard to use on your site, which can be referenced by [!DNL Experience Platform Launch].
 
