@@ -85,6 +85,7 @@ solution: Analytics
   + Building Freeform Tables {#building-freeform-tables}
     + [Using the Left Rail to Build Freeform Tables in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
     + [Working with Dimensions in a Freeform Table](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+    + [Working with Metrics in a Freeform Table](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
     + [Row and Column Settings in Freeform Tables](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
     + [Using the Freeform Table Builder](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
     + [Reordering Static Rows in Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -135,10 +136,12 @@ solution: Analytics
     + [Understanding Basic Visitor Metrics](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
     + [Adding Dimensions and Metrics to your Project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
     + [Introduction to Conversion Events](analysis-workspace/metrics/introduction-to-conversion-events.md)
+    + [Working with Metrics in a Freeform Table](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
   + Dimensions {#dimensions}
     + [Adding Dimensions and Metrics to your Project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
     + [Introduction to Traffic Variables (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
     + [Introduction to Conversion Variables (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+    + [Working with Dimensions in a Freeform Table](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
     + [Using Date Ranges and Comparisons in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
