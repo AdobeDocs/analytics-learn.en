@@ -84,6 +84,7 @@ solution: Analytics
     + [Multiple Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Using the Left Rail to Build Freeform Tables in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+    + [Auto-Build Freeform Tables in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
     + [Working with Dimensions in a Freeform Table](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
     + [Working with Metrics in a Freeform Table](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
     + [Row and Column Settings in Freeform Tables](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
