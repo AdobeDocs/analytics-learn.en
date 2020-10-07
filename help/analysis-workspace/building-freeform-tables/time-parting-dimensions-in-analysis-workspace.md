@@ -3,11 +3,11 @@ title: Time-parting Dimensions in Analysis Workspace
 description: Time-parting takes the timestamp of collected hits and breaks it into more meaningful dimensions, such as "Hour of Day" or "Day of Week". These dimensions are now out-of-the-box in Analysis Workspace.
 feature: freeform tables
 topics: 
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
+thumbnail: 23727.jpg
 kt: 1903
 ---
 
