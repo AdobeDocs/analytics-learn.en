@@ -10,6 +10,7 @@ tutorials-url: https://guided.adobe.com/#recommended/solutions/analytics
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/analytics-learn.en
 index: yes
+type: Tutorial
 ---
 
 # Metadata for internal use
