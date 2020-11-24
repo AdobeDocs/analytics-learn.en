@@ -18,4 +18,5 @@ The Solution Design Reference (SDR) document is basically the blueprint for your
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
 
 [Download](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) a sample BRD/SDR that you can use to define your site.
+
 [Download](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) the BRD/SDR from this video (and the [BRD video](creating-a-business-requirements-document.md)).
