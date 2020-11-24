@@ -16,3 +16,6 @@ kt: 3581
 The Solution Design Reference (SDR) document is basically the blueprint for your site. This video shows how to create one in conjunction with the Business Requirements Document, so that you can always have a source of truth that you can go back to as you implement Adobe Analytics, and as you refer back to it in the future.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
+
+[Download](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) a sample BRD/SDR that you can use to define your site.
+[Download](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) the BRD/SDR from this video (and the [BRD video](creating-a-business-requirements-document.md)).
