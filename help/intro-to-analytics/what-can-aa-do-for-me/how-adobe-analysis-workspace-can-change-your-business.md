@@ -1,7 +1,7 @@
 ---
 title: How Adobe Analysis Workspace Can Change Your Business
-description: With Analysis Workspace, you can do Ad hoc Analysis, Flexible Analysis, Cohort Analysis, and Fallout Analysis.
-seo-description: Analysis Workspace is a new and easy-to-use interface in Adobe Analytics. Within Analysis Workspace, you can do Ad hoc Analysis, Flexible Analysis, Cohort Analysis, and Fallout Analysis. You can also share the analysis working environment with everyone in your company, and its drag and drop function allows everyone to analyze the data easily and get insights quickly.
+landing-page-description: With Analysis Workspace, you can do Ad hoc Analysis, Flexible Analysis, Cohort Analysis, and Fallout Analysis.
+description: Analysis Workspace is a new and easy-to-use interface in Adobe Analytics. Within Analysis Workspace, you can do Ad hoc Analysis, Flexible Analysis, Cohort Analysis, and Fallout Analysis. You can also share the analysis working environment with everyone in your company, and its drag and drop function allows everyone to analyze the data easily and get insights quickly.
 feature: workspace basics
 topics: 
 audience: all
@@ -9,7 +9,6 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4382
-
 ---
 
 # How Adobe Analysis Workspace Can Change Your Business
