@@ -13,6 +13,6 @@ kt: 3593
 
 # Adding a [!DNL Launch] [!UICONTROL Rule] for the [!DNL Purchase] Event
 
-This video shows how to use the product string [!UICONTROL extension] in [!DNL Launch] to track purchases on your site, resulting in the [!UICONTROL Revenue], [!UICONTROL Orders], and [!UICONTROL Units] [!UICONTROL metrics] in your analysis.
+This video shows how to use the product string [!UICONTROL extension] in [!DNL Experience Platform Launch] to track purchases on your site, resulting in the [!UICONTROL Revenue], [!UICONTROL Orders], and [!UICONTROL Units] [!UICONTROL metrics] in your analysis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12)

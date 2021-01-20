@@ -18,6 +18,6 @@ Actions are events that occur in your mobile app. In this video, learn how to us
 
 This is the API that you should use to track all non-screen-load actions on your site. If the screen is coming up, then use trackState, which triggers a page view hit. Otherwise, use trackAction to send in variables associated with the action that is taking place.
 
-This data comes in as [!DNL contextData], which also means that you will then need to use [!UICONTROL Processing Rules] to take the mobile data from those [!DNL contextData] variables and map it into [!DNL eVars], [!DNL Props], Events, etc. in Adobe Analytics.
+This data comes in as `contextData`, which also means that you will then need to use [!UICONTROL Processing Rules] to take the mobile data from those `contextData` variables and map it into [!DNL eVars], [!DNL Props], Events, etc. in Adobe Analytics.
 
 For more information about trackAction, please see the [documentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).

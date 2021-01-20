@@ -12,7 +12,7 @@ kt: 1642
 
 # Configuring [!DNL Advertising Analytics] in Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
 
-This video will walk you through a high-level review of how to configure your [!UICONTROL report suites] to utilize [!DNL Advertising Analytics], how to setup a paid search account, and reporting details for [!DNL Advertising Analytics].
+This video walks you through a high-level review of how to configure your [!UICONTROL report suites] to utilize [!DNL Advertising Analytics], how to setup a paid search account, and reporting details for [!DNL Advertising Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
 

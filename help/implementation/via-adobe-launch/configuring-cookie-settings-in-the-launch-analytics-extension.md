@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 2856
 ---
 
-# Configuring Cookie Settings in the [!DNL Launch] [!DNL Analytics] [!UICONTROL Extension] {#configuring-cookie-settings-in-the-launch-analytics-extension}
+# Configuring Cookie Settings in the [!DNL Launch] [!DNL Analytics] Extension {#configuring-cookie-settings-in-the-launch-analytics-extension}
 
-If you are just getting started with Experience Platform Launch, and the Adobe Analytics [!UICONTROL extension], this video can help you understand if and how to set the cookie settings in the [!DNL Analytics] [!UICONTROL extension].
+If you are just getting started with Experience Platform Launch, and the Adobe Analytics extension, this video can help you understand if and how to set the cookie settings in the [!DNL Analytics] extension.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=9)
 

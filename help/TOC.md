@@ -1,5 +1,8 @@
 ---
 user-guide-title: Adobe Analytics Tutorials
+user-guide-description: A collection of videos and tutorials for Adobe Analytics.
+breadcrumb-title: Analytics Tutorials
+breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 ---
 
@@ -203,7 +206,7 @@ solution: Analytics
   + Manage Report Suites {#manage-report-suites}
     + [Configuring Zip and Postal Code Settings](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
     + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-  + Data Governance and GDPR {data-governance-and-gdpr}
+  + Data Governance and GDPR {#data-governance-and-gdpr}
     + [Data Governance and GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
     + [Getting the Right People on Your Analytics Team](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
   + Traffic Management {#traffic-management}
@@ -218,10 +221,10 @@ solution: Analytics
     + [Creating a Business Requirements Document](implementation/implementation-basics/creating-a-business-requirements-document.md)
     + [Creating and Maintaining an SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
     + [Using a Data Layer on your Site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
-  + Via Adobe Launch {#via-adobe-launch}
-    + [Implement in Websites with Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
+  + Via Experience Platform Launch {#via-adobe-launch}
+    + [Implementing the Experience Cloud in Websites with Experience Platform Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
     + [Basic Configuration of the Analytics Launch extension](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-    + [Configuring Library Management in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+    + [Configuring Library Management for Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
     + [Configuring General Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
     + [Configuring Global Variables in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
     + [Configuring Cookie Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
@@ -231,16 +234,16 @@ solution: Analytics
     + [Use doPlugins in the Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
     + [Configuring Easy Download Link Tracking](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
     + [Configuring Easy Exit Link Tracking](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-    + [Preparing Adobe Launch for your Analytics Implementation](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-    + [Creating Data Elements in Launch for the Analytics Implementation](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-    + [Creating a Global Page Rule in Launch](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-    + [Validating your Global Page Load Rule in Launch](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-    + [Creating Launch Rules for Special Pages](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-    + [Creating Launch Rules for Success Events](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-    + [Publishing Launch Libraries to Stage and Production](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+    + [Preparing Experience Platform Launch for your Analytics Implementation](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
+    + [Creating Data Elements in Experience Platform Launch for the Analytics Implementation](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
+    + [Creating a Global Page Rule in Experience Platform Launch](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
+    + [Validating your Global Page Load Rule in Experience Platform Launch](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
+    + [Creating Experience Platform Launch Rules for Special Pages](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
+    + [Creating Experience Platform Launch Rules for Success Events](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
+    + [Publishing Experience Platform Launch Libraries to Stage and Production](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
   + Using JavaScript {#using-javascript}
     + [Custom Link Tracking without a Tag Manager](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
-    + [Updating AppMeasurement When Not Using Adobe Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
+    + [Updating AppMeasurement When Not Using Experience Platform Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
   + Validating and Troubleshooting {#validating-and-troubleshooting}
     + [Inspecting Implementations with the Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
     + [View Post-Processed Hits with the Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
@@ -302,7 +305,7 @@ solution: Analytics
   + Experience Cloud {experience-cloud}
     + [Improved Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
   + Audience Manager {#audience-manager}
-    + [Enable Server Side Forwarding in Adobe Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
+    + [Enable Server Side Forwarding in Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
     + [Audience Analytics - Integrate AAM Segments into Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
   + Target {#target}
     + [Analytics for Target (A4T) Panel in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)

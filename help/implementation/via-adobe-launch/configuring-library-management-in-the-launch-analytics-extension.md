@@ -1,6 +1,6 @@
 ---
-title: Configuring Library Management in the Launch Analytics Extension
-description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you with the library management portion of the configuration, including selecting report suites to send the data into.
+title: Configuring Library Management for Analytics
+description: If you are just getting started with Experience Platform Launch extension for Adobe Analytics, this video can help you with the library management portion of the configuration, including selecting report suites into which you want to send data.
 feature: launch implementation
 topics: 
 audience: implementer
@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 2836
 ---
 
-# Configuring [!UICONTROL Library Management] in the [!DNL Launch] [!DNL Analytics] [!UICONTROL Extension] {#configuring-library-management-in-the-launch-analytics-extension}
+# Configuring [!UICONTROL Library Management] for [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
-If you are just getting started with Experience Platform Launch, and the Adobe Analytics [!UICONTROL extension], this video can help you with the [!UICONTROL library management] portion of the configuration, including selecting [!UICONTROL report suites] to send the data into.
+If you are just getting started with Experience Platform Launch, and the Adobe Analytics [!UICONTROL Extension], this video can help you with [!UICONTROL Library Management], including selecting [!UICONTROL report suites] in which to send data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
 
