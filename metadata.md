@@ -1,6 +1,7 @@
 ---
 cloud: experience-cloud
 product: analytics
+feature-set: Analytics
 solution-title: Analytics
 solution-hub-url: https://helpx.adobe.com/support/analytics.html
 getting-started-title: Getting Started
