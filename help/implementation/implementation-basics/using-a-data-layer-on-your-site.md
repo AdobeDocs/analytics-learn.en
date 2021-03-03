@@ -1,14 +1,15 @@
 ---
 title: Using a Data Layer on your Site
 description: It is considered a best practice to use a data layer on your site as you are working with the Experience Cloud, including when you are working with Adobe Analytics. This video introduces the data layer and shows and example.
-feature: implementation basics
+feature: Implementation Basics
 topics: 
-audience: implementer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3585
 
+role: "Developer, Data Engineer"
+level: Beginner
 ---
 
 # Using a Data Layer on your Site

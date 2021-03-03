@@ -1,14 +1,15 @@
 ---
 title: Understanding and Using Journey IQ - Cross-Device Analytics
 description: When users interact with your brand they do so in many ways and on multiple devices. Cross-Device Analytics integrates with the Adobe Experience Platform Identity Service to identify how devices map to people. It then leverages this intelligence to create a cross-device view of user behavior. This results in being able to do analysis on people, not devices.
-feature: cda
+feature: CDA
 topics: 
-audience: all
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4138
 
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Understanding and Using [!DNL Journey IQ] - Cross-Device Analytics

@@ -1,15 +1,16 @@
 ---
 title: Working with Dimensions in a Freeform Table
 description: Learn all about working with dimensions in freeform tables, including adding them, sorting, filtering, breaking them down by other dimensions, etc.
-feature: dimensions
+feature: Dimensions
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Working with Dimensions in a Freeform Table

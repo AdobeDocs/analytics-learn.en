@@ -1,13 +1,14 @@
 ---
 title: Segment Management and Sharing in Adobe Analytics
 description: This video shows you how to share and manage segments in Adobe Analytics.
-feature: segmentation
+feature: Segmentation
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Segment] Management and Sharing in Adobe Analytics {#segment-management-and-sharing-in-adobe-analytics}

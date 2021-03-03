@@ -1,13 +1,14 @@
 ---
 title: Understanding the User's Voice Journey
 description: Learn how to understand the customer journey on voice app by looking at flow path and fall out to identify what the most common actions are, the sequence of those actions and when and where users fall out from the journey.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Understanding the User's Voice Journey {#understanding-the-user-s-voice-journey}

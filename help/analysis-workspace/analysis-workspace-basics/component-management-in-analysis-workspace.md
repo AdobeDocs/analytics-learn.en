@@ -1,13 +1,14 @@
 ---
 title: Component Management in Analysis Workspace
 description: You can manage your dimensions, segments, metrics, and date ranges directly in Analysis Workspace. No need to leave your project while you go find a segment to share.
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1988
+role: Business Practitioner
+level: Beginner
 ---
 
 # Component Management in Analysis Workspace {#component-management-in-analysis-workspace}

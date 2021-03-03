@@ -1,13 +1,14 @@
 ---
 title: Visualization Data Source Settings in Analysis Workspace
 description: The data source modal has been simplified, as well as the underlying table architecture.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1905
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Visualization] [!UICONTROL Data Source Settings] in Analysis Workspace {#visualization-data-source-settings-in-analysis-workspace}

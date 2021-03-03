@@ -3,13 +3,14 @@ title: Adding Trendlines to Line Visualizations
 description: Under Visualization Settings, you can choose to add a regression or moving average trendline to your line series which can help to depict a clearer pattern in the data. Options include Linear, Logarithmic, Exponential, Power, Quadratic, and Moving Averages.
 feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Adding Trendlines to Line Visualizations

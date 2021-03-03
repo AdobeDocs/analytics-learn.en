@@ -1,14 +1,15 @@
 ---
 title: Analyzing User Behavior Across Channels
 description:  Learn how to discover users' paths to conversion in mobile apps using Flow and compare it with other experiences such as web. Define and measure conversion in multi-step processes to drive success to your mobile apps.
-feature: workspace basics
+feature: Workspace Basics
 topics: mobile
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3053
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Analyzing User Behavior Across Channels {#analyzing-user-behavior-across-channels}

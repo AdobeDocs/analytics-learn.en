@@ -1,13 +1,14 @@
 ---
 title: Updating AppMeasurement When Not Using Experience Platform Launch
 description: This video shows you how to update your appMeasurement code when you are not using Experience Platform Launch. This includes where to get the code and where to update it.
-feature: appmeasurement implementation
+feature: Appmeasurement Implementation
 topics: 
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
+role: "Developer, Data Engineer"
+level: Intermediate
 ---
 
 # Updating AppMeasurement When Not Using [!DNL Experience Platform Launch] {#updating-appmeasurement-when-not-using-adobe-launch}

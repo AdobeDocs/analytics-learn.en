@@ -1,14 +1,15 @@
 ---
 title: Attribution IQ in Calculated Metrics
 description: This video demonstrates how to use Attribution IQ in Calculated Metrics.
-feature: attribution
+feature: Attribution
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
+role: Business Practitioner
+level: Intermediate
 ---
 
 # [!DNL Attribution IQ] in [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}

@@ -1,14 +1,15 @@
 ---
 title: Preparing Experience Platform Launch for your Analytics Implementation
 description: Before you implement Analytics in Launch, you will need to have some documents standing by, and you will have wanted to set up a few things in the system, both in Analytics and in Launch. This video goes over those things.
-feature: launch implementation
+feature: Launch Implementation
 topics: 
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3584
 
+role: "Developer, Data Engineer"
+level: Beginner
 ---
 
 # Preparing [!DNL Experience Platform Launch] for your [!DNL Analytics] Implementation

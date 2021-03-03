@@ -1,13 +1,14 @@
 ---
 title: Anomaly Detection in Report Builder
 description: Learn how to add anomaly detection metrics to your data requests, as well as creatively graph the data.
-feature: report builder
+feature: Report Builder
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1768
+role: Business Practitioner
+level: Intermediate
 ---
 
 # [!UICONTROL Anomaly Detection] in [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}

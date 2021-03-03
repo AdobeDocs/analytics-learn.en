@@ -1,14 +1,15 @@
 ---
 title: Overview of Cohort Tables in Analysis Workspace
 description: The Rolling Calculation setting within Cohort Tables can be used to analyze cohorts period-over-period, to understand how the same users are retained (or churn) over time.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Overview of [!UICONTROL Cohort Tables] in Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}

@@ -1,13 +1,14 @@
 ---
 title: Zero State Improvements in Analysis Workspace
 description: Zero State is the opening layout of Analysis Workspace. To help both novice and seasoned users get value out of Analysis Workspace, we've improved the left rail, blank panel, freeform table, and drop zones to be more intuitive to users.
-feature: projects
+feature: Projects
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!DNL Zero State] Improvements in Analysis Workspace {#zero-state-improvements-in-analysis-workspace}

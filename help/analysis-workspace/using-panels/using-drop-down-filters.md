@@ -1,13 +1,14 @@
 ---
 title: Using Drop-Down Filters in Analysis Workspace
 description: In this video you will learn how to use drop-down filters in Analysis Workspace to dynamically change the contents of a panel.
-feature: panels
+feature: Panels
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
+role: Business Practitioner
+level: Beginner
 ---
 
 # Using Drop-Down Filters in Analysis Workspace {#using-drop-down-filters-in-analysis-workspace}

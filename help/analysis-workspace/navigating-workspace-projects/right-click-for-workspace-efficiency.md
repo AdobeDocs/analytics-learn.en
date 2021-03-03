@@ -1,15 +1,16 @@
 ---
 title: Right-click for Workspace Efficiency
 description: Learn about all of our favorite Analysis Workspace right-clicks and how to use them. From Freeform Tables to Fallout Visualizations, right-clicking will make you more efficient and proficient in Workspace.
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Right-click for [!DNL Workspace] Efficiency

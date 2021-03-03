@@ -1,13 +1,14 @@
 ---
 title: Using Custom Color Palettes in Analysis Workspace
 description: You can change the color palette used in Analysis Workspace to better align with your brand, or that of your customers.
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
+role: Business Practitioner
+level: Beginner
 ---
 
 # Using Custom [!UICONTROL Color Palettes] in Analysis Workspace {#using-custom-color-palettes-in-analysis-workspace}

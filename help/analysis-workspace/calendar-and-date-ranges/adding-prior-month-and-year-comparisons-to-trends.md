@@ -1,14 +1,15 @@
 ---
 title: Adding Prior Month and Year Comparisons to Trends
 description: Learn how to apply custom date ranges to create monthly and yearly trend Comparisons for any metric in Analysis Workspace.
-feature: calendar
+feature: Calendar
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5031
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Adding Prior Month and Year Comparisons to Trends

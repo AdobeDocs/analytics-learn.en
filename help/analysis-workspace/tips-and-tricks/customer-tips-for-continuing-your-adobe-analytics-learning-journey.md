@@ -1,14 +1,15 @@
 ---
 title: Customer Tips for Continuing your Adobe Analytics Learning Journey
 description: In this article, meet three Adobe customers who have tips and tricks for you regarding how to get the most value from Adobe Analytics.
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Customer Tips for Continuing your Adobe Analytics Learning Journey

@@ -1,13 +1,14 @@
 ---
 title: Data Visualization in Analysis Workspace
 description: This session is all about visualizations within Analysis Workspace. You will learn skills and actions that will help you provide powerful insights to your organization in the most consumable format.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2114
+role: Business Practitioner
+level: Beginner
 ---
 
 # Data [!UICONTROL Visualization] in Analysis Workspace {#data-visualization-in-analysis-workspace}

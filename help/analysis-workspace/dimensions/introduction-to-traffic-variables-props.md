@@ -1,14 +1,15 @@
 ---
 title: Introduction to Traffic Variables (Props)
 description: In this video, get an introduction to traffic variables, including Page Name, Site Section, and "props".
-feature: dimensions
+feature: Dimensions
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3576
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Introduction to Traffic Variables ([!UICONTROL Props])

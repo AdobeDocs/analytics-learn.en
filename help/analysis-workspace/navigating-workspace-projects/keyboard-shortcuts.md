@@ -1,13 +1,14 @@
 ---
 title: Keyboard Shortcuts in Analysis Workspace
 description: This video goes through keyboard shortcut options in Analysis Workspace, to show you how to move more quickly and efficiently. 
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
+role: Business Practitioner
+level: Beginner
 ---
 
 # Keyboard Shortcuts in Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}

@@ -1,13 +1,14 @@
 ---
 title: Context-Aware Sessions in Virtual Report Suites
 description: It is now possible to change the definition of a visit in Adobe Analytics in a non-destructive way using a virtual report suite. We show you how to do that and the different options that are available.
-feature: vrs
+feature: VRS
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1775
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Context-Aware Sessions in [!UICONTROL Virtual Report Suites] {#context-aware-sessions-in-virtual-report-suites}

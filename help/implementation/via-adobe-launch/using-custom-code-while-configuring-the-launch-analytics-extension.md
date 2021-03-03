@@ -1,13 +1,14 @@
 ---
 title: Using Custom Code while Configuring the Analytics Launch Extension
 description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you understand custom code window options, timing of code execution, etc.
-feature: launch implementation
+feature: Launch Implementation
 topics: 
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
+role: "Developer, Data Engineer"
+level: Beginner
 ---
 
 # Using Custom Code while Configuring the [!DNL Analytics] [!DNL Launch] Extension {#using-custom-code-while-configuring-the-launch-analytics-extension}

@@ -1,14 +1,15 @@
 ---
 title: Freeform Table Filters in Analysis Workspace
 description: Filters provide more control over what rows of data are shared in a freeform table.
-feature: freeform tables
+feature: Freeform Tables
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23232.jpg
 kt: 1699
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!DNL Freeform Table] Filters in Analysis Workspace {#freeform-table-filters-in-analysis-workspace}

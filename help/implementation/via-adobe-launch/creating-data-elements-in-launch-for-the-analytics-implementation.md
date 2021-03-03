@@ -1,14 +1,15 @@
 ---
 title: Creating Data Elements in Launch for the Analytics Implementation
 description: This video shows how to create data elements for your Analytics implementation in Launch, based on the variables and events decided upon and documented in a Solution Design Reference (SDR) document.
-feature: launch implementation
+feature: Launch Implementation
 topics: 
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
 
+role: "Developer, Data Engineer"
+level: Beginner
 ---
 
 # Creating [!UICONTROL Data Elements] in [!DNL Launch] for the [!DNL Analytics] Implementation

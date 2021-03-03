@@ -1,13 +1,14 @@
 ---
 title: Curation and Sharing in Analysis Workspace
 description: Once you have built a project in Analysis Workspace, you can curate (simplify) it and share it with other teams and individuals in your organizations so that they can explore it and self-serve with data. This video shows you how to work with curation and sharing.
-feature: curate and share
+feature: Curate and Share
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Curation] and Sharing in Analysis Workspace {#curation-and-sharing-in-analysis-workspace}

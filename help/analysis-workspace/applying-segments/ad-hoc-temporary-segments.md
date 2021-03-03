@@ -1,14 +1,15 @@
 ---
 title: Ad Hoc (Temporary) Segments in Analysis Workspace
 description: Have you ever wanted to quickly create a simple segment to answer a specific question, then discard the segment so it doesn't fill up your list of saved segments? Now you can!
-feature: segmentation
+feature: Segmentation
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2010
+role: Business Practitioner
+level: Beginner
 ---
 
 # Ad Hoc (Temporary) Segments in Analysis Workspace {#ad-hoc-temporary-segments-in-analysis-workspace}

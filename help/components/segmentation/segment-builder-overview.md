@@ -1,13 +1,14 @@
 ---
 title: Segment Builder Overview
 description: A quick overview and orientation for the segment builder in Adobe Analytics.
-feature: segmentation
+feature: Segmentation
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2300
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Segment Builder] in Adobe Analytics {#segment-builder-in-adobe-analytics}

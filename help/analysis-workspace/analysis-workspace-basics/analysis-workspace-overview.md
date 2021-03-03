@@ -1,13 +1,14 @@
 ---
 title: Analysis Workspace Overview
 description: High-level overview of the Adobe Analytics Solution's Analysis Workspace, including project creation and templates, panels, visualizations, dimensions, metrics, segments, and high-value features and techniques.
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2474
+role: Business Practitioner
+level: Beginner
 ---
 
 # Analysis Workspace Overview {#analysis-workspace-overview}

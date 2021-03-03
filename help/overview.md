@@ -1,12 +1,13 @@
 ---
 title: Analytics Videos and Tutorials
 description: A collection of videos and tutorials for Adobe Analytics.
-feature: overview
+feature: Analytics Basics
 topics: 
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Overview

@@ -1,13 +1,14 @@
 ---
 title: Summary Number and Summary Change Visualizations in Analysis Workspace
 description: This video shows how to use the Summary Number and Summary Change visualizations in the Analyst Workspace.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2136
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Summary Number] and [!UICONTROL Summary Change] [!UICONTROL Visualizations] in Analysis Workspace {#summary-number-and-summary-change-visualizations-in-analysis-workspace}

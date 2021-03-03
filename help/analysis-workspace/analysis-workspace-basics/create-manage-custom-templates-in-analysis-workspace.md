@@ -1,13 +1,14 @@
 ---
 title: Create and Manage Custom Templates in Analysis Workspace
 description: In this video you will learn how to create custom templates in Analysis Workspace, so that you and your team can start from a specific set of reports.
-feature: projects
+feature: Projects
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1695
+role: Business Practitioner
+level: Beginner
 ---
 
 # Create and Manage Custom Templates in Analysis Workspace {#create-and-manage-custom-templates-in-analysis-workspace}

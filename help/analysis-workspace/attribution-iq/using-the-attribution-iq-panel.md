@@ -1,15 +1,16 @@
 ---
 title: Using the Attribution IQ Panel in Analysis Workspace
 description: In this video, you will see the Attribution IQ Panel, a great place to start as you build out your attribution Analysis Workspace project.
-feature: attribution
+feature: Attribution
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Using the [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace {#using-the-attribution-iq-panel-in-analysis-workspace}

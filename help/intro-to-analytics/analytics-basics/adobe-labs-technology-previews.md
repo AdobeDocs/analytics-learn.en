@@ -1,14 +1,15 @@
 ---
 title: Adobe Labs (Technology Previews) with Adobe Analytics
 description: Adobe Labs (Technology Previews) allows you to engage with emerging technologies, to discover valuable insights, and to influence future Analytics feature development & priorities.
-feature: analytics basics
+feature: Analytics Basics
 topics: 
-audience: architect
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4818
 
+role: Architect
+level: Beginner
 ---
 
 # [!DNL Adobe Labs] (Technology Previews) with Adobe Analytics

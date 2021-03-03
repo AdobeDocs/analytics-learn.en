@@ -1,14 +1,15 @@
 ---
 title: Cohort Analysis Using Any Dimension
 description: The Custom Cohort Dimension option allows you to analyze cohorts using dimensions other than time. Compare cohorts by Marketing Channel, campaign region, product page, etc. to better understand how retention (or churn) changes by dimension item.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
+role: Business Practitioner
+level: Intermediate
 ---
 
 # [!UICONTROL Cohort] Analysis Using Any [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}

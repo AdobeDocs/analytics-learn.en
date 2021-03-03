@@ -1,14 +1,15 @@
 ---
 title: Validating your Global Page Load Rule in Launch
 description: When you are implementing Adobe Analytics on your site, you will want to be able to validate what you are doing along the way. The Experience Cloud debugger to the rescue! This video shows how to validate your global page load rule with the debugger.
-feature: validation
+feature: Validation
 topics: 
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
 
+role: "Developer, Data Engineer"
+level: Beginner
 ---
 
 # Validating your Global Page Load [!UICONTROL Rule] in [!DNL Launch]

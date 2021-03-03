@@ -1,13 +1,14 @@
 ---
 title: In-product Support Ticket Submission
 description: You can now submit a Customer Care support ticket directly in the UI, streamlining the process toward resolution.
-feature: analytics basics
+feature: Analytics Basics
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # In-product Support Ticket Submission {#in-product-support-ticket-submission}

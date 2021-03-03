@@ -1,14 +1,15 @@
 ---
 title: Training Tutorial Template in Analysis Workspace
 description: The Analysis Workspace Training Tutorial walks users through common terminology and steps for building their first analysis in Workspace. 
-feature: projects
+feature: Panels
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Training Tutorial Template in Analysis Workspace

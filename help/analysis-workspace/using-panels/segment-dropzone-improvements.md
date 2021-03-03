@@ -1,13 +1,14 @@
 ---
 title: Segment Drop Zone Improvements in Analysis Workspace
 description: Segment drop zones have been improved so you can truly drop anything anywhere in a project.
-feature: panels
+feature: Panels
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Segment] Drop Zone Improvements in Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}

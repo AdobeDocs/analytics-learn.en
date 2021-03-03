@@ -1,14 +1,15 @@
 ---
 title: Basic Configuration of the Analytics Launch extension
 description: This video shows a quick way to configure the Analytics extension in Launch for a basic site.
-feature: launch implementation
+feature: Launch Implementation
 topics: 
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3586
 
+role: "Developer, Data Engineer"
+level: Beginner
 ---
 
 # Basic Configuration of the [!DNL Experience Platform Launch] extension for Analytics

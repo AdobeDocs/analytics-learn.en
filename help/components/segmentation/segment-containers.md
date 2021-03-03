@@ -1,13 +1,14 @@
 ---
 title: Segment containers in Adobe Analytics
 description: This video shows how to work with the three different segment container types in the Segment Builder of Adobe Analytics.
-feature: segmentation
+feature: Segmentation
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Segment] [!UICONTROL containers] in Adobe Analytics {#segment-containers-in-adobe-analytics}

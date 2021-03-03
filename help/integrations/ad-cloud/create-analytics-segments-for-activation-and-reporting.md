@@ -1,15 +1,17 @@
 ---
 title: Create Analytics Segments for Activation and Reporting
 description:  Using Advertising Cloud dimensions to create segments for cleaner reporting and analysis.
-feature: integration with ad cloud
+feature: Advertising Cloud Integration
 topics: 
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35117.jpg
 kt: 5474
 
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Create Analytics Segments for Activation and Reporting

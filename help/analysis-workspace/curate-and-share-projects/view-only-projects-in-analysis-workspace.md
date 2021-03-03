@@ -1,15 +1,16 @@
 ---
 title: View-only Projects in Analysis Workspace
 description: Workspace projects can be shared to users as “Can view” only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions.
-feature: curate and share
+feature: Curate and Share
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36206.jpg
 kt: 5556
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # View-only Projects in Analysis Workspace

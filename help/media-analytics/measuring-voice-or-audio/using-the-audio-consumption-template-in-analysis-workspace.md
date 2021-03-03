@@ -1,13 +1,14 @@
 ---
 title: Using the Audio Consumption Template in Analysis Workspace
 description: This video outlines the Audio Consumption template in Analysis Workspace, which is available out-of-the-box for Audio Analytics.
-feature: panels
+feature: Panels
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 ---
 
 # Using the [!UICONTROL Audio Consumption] Template in Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}

@@ -1,14 +1,15 @@
 ---
 title: Saving, sharing, and Collaborating on Projects in Analysis Workspace
 description: In this video, learn how to save and export projects for yourself, send projects to other recipients, and invite others to collaborate on your project.
-feature: curate and share
+feature: Curate and Share
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4108
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Saving, sharing, and Collaborating on Projects in Analysis Workspace

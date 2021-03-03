@@ -1,14 +1,15 @@
 ---
 title: Adobe Analytics dashboards Scorecard Builder
 description:  In this video, learn how to create and share “Scorecards” in Analysis Workspace to be viewed on Adobe Analytics dashboards (mobile app).
-feature: analytics dashboards
+feature: Analytics Dashboards
 topics: 
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5286
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Adobe Analytics dashboards Scorecard Builder

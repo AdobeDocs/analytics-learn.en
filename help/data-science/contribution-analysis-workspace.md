@@ -1,13 +1,14 @@
 ---
 title: Contribution Analysis in Analysis Workspace
 description: This video walks through Contribution Analysis and its ability to use machine learning to quickly and easily explain the factors that contributed to a trend in your data.
-feature: data science
+feature: Data Science
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # [!UICONTROL Contribution Analysis] in Analysis Workspace {#contribution-analysis-in-analysis-workspace}

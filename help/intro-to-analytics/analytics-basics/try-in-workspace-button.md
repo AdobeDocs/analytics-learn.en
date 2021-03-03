@@ -1,13 +1,14 @@
 ---
 title: Try in Workspace Button in Reports and Analytics
 description: Most reports in Reports and Analytics include a Try in Workspace button to allow you to reproduce the current view in Analysis Workspace for further customization.
-feature: analytics basics
+feature: Analytics Basics
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # "Try in Workspace" Button in [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}

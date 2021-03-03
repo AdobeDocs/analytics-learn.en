@@ -1,14 +1,15 @@
 ---
 title: Getting Help in Adobe Analytics
 description: At some point, we are all going to need help with Adobe Analytics. This videos shows you some of the great resources that are at your fingertips as you hit a snag and need some help.
-feature: analytics basics
+feature: Analytics Basics
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3568
 
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Getting Help in Adobe Analytics
