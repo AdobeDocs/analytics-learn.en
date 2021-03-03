@@ -302,7 +302,7 @@ solution: Analytics
     + [Edit Metrics across Requests](exporting/report-builder/edit-metrics-across-requests.md)
     + [Using Report Builder to learn the Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Integrations {#integrations}
-  + Experience Cloud {experience-cloud}
+  + Experience Cloud {#experience-cloud}
     + [Improved Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
   + Audience Manager {#audience-manager}
     + [Enable Server Side Forwarding in Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
