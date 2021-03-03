@@ -1,13 +1,14 @@
 ---
 title: Enabling, Debugging, and Customizing the Adobe Analytics Activity Map
 description: Learn to enable, debug, and customize the way that Activity Map is deployed in the Adobe Analytics extension.
-feature: activity map
+feature: Activity Map
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1995
+role: Business Practitioner
+level: Beginner
 ---
 
 # Enabling, Debugging, and Customizing the Adobe Analytics [!UICONTROL Activity Map] {#enabling-debugging-and-customizing-the-adobe-analytics-activity-map}

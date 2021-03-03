@@ -1,14 +1,15 @@
 ---
 title: Using Tables, Visualizations, and Panels in Analysis Workspace
 description: In this video you will learn how to use the building blocks of your Analysis Workspace project, namely panels, tables, and visualizations. These elements are the canvas upon which your data is painted.
-feature: panels
+feature: Panels
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Using Tables, Visualizations, and Panels in Analysis Workspace

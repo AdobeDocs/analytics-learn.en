@@ -3,14 +3,16 @@ title: Server Call Usage in Adobe Analytics
 seo-title: Server Call Usage in Adobe Analytics
 description: Server Call usage reporting will make it possible for you to track exactly how much of your server call commitment you’ve used at any point in time, and will also proactively alert you when you are approaching your total commitment.
 seo-description: Server Call usage reporting will make it possible for you to track exactly how much of your server call commitment you’ve used at any point in time, and will also proactively alert you when you are approaching your total commitment.
-feature: data configuration and collection
+feature: Data Configuration and Collection
 topics: 
-audience: administrator, architect
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 ---
 
 # [!UICONTROL Server Call Usage] in Adobe Analytics {#server-call-usage-in-adobe-analytics}

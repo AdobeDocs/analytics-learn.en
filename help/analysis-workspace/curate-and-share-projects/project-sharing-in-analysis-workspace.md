@@ -1,15 +1,16 @@
 ---
 title: Project Sharing in Analysis Workspace
 description: Project sharing is one way to democratize data and insights from Analysis Workspace to users in your organization. You can place recipients in one of three project roles, depending on the project experience you want them to have - Edit, Duplicate and View.
-feature: curate and share
+feature: Curate and Share
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Project Sharing in Analysis Workspace

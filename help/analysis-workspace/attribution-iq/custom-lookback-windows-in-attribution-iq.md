@@ -1,15 +1,16 @@
 ---
 title: Custom Look-back Windows in Attribution IQ
 description: Custom look-back windows let you to expand the attribution window beyond the reporting range (up to a maximum of 90 days), and applies to each conversion in the reporting range. This option will typically increase the attribution accuracy for events that happen early in the reporting period by accounting for interactions that occurred in the prior month(s).
-feature: attribution
+feature: Attribution
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36204.jpg
 kt: 5553
 
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Custom Look-back Windows in Attribution IQ

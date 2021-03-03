@@ -3,14 +3,15 @@ title: Using custom templates to enable novice Analysis Workspace users
 seo-title: Using custom templates to enable novice Analysis Workspace users
 description: This video demonstrates how to bring together custom templates with copy + paste/insert capabilities to better serve novice users in your organization.
 seo-description: This video demonstrates how to bring together custom templates with copy + paste/insert capabilities to better serve novice users in your organization.
-feature: projects
+feature: Projects
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Using custom templates to enable novice Analysis Workspace users {#using-custom-templates-to-enable-novice-analysis-workspace-users}

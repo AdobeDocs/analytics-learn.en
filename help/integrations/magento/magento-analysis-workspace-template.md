@@ -1,14 +1,16 @@
 ---
 title: Magento Analysis Workspace Template
 description: Introduces the Magento Marketing & Commerce template for Analysis Workspace.
-feature: integration with experience cloud
+feature: Experience Cloud Integration
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3269
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 ---
 
 # [!DNL Magento] Analysis Workspace Template {#magento-analysis-workspace-template}

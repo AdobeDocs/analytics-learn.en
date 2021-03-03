@@ -1,14 +1,15 @@
 ---
 title: Flow Visualization in Analysis Workspace
 description: This video walks you through the Flow visualization in Analysis Workspace. You can use Flow to show and explore user movement, to better understand your customer journey.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!DNL Flow Visualization] in Analysis Workspace {#flow-visualization-in-analysis-workspace}

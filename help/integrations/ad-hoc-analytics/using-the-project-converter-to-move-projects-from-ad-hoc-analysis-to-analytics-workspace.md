@@ -1,13 +1,15 @@
 ---
 title: Using the Project Converter to move projects from Ad Hoc Analysis to Analytics Workspace
 description: The Ad Hoc Analysis Project Converter will seamlessly convert Ad Hoc Analysis (AHA) projects to Analysis Workspace projects with the click of a button.
-feature: integration with experience cloud
+feature: Experience Cloud Integration
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Using the Project Converter to move projects from [!DNL Ad Hoc Analysis] to [!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}

@@ -1,14 +1,15 @@
 ---
 title: Color Eyedropper Extension for Defining Custom Palettes
 description: Learn how to use the ColorPick EyeDropper Chrome extension to easily find the hex values you need for a custom color palette in your Workspace projects.
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Color Eyedropper Extension for Defining Custom Palettes

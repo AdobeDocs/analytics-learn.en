@@ -1,13 +1,14 @@
 ---
 title: Configuring Easy Download Link Tracking in Experience Platform Launch
 description: In just a few clicks in the Adobe Analytics Extension in Experience Platform Launch, you can start tracking download links on your site (links that download non-browser files on your machine). This video shows you how to set it up.
-feature: launch implementation
+feature: Launch Implementation
 topics: 
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
+role: "Developer, Data Engineer"
+level: Beginner
 ---
 
 # Configuring Easy Download [!UICONTROL Link Tracking] in [!DNL Experience Platform Launch] {#configuring-easy-download-link-tracking-in-adobe-launch}

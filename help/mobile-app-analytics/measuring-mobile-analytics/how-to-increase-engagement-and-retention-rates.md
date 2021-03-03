@@ -1,14 +1,15 @@
 ---
 title: How To Increase Engagement and Retention Rates
 description:  Identify engaged audiences through their behavior using Cohorts and know the underlying causes driving stickiness in your mobile apps. Use data science algorithms in Segment IQ to know the differences and similarities between segments.
-feature: workspace basics
+feature: Workspace Basics
 topics: mobile
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3054
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # How To Increase Engagement and Retention Rates {#how-to-increase-engagement-and-retention-rates}

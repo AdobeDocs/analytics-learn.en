@@ -1,13 +1,14 @@
 ---
 title: Approximate Count Distinct Function in Calculated Metrics
 description: An Approximate Count Distinct function has been added to the Calculated Metric Builder. It is a long awaited function that will return the approximated distinct count of dimension items for a selected dimension.
-feature: calculated metrics
+feature: Calculated Metrics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Approximate Count Distinct] [!UICONTROL Function] in [!UICONTROL Calculated Metrics]{#approximate-count-distinct-function-in-calculated-metrics}

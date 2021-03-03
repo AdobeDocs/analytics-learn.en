@@ -1,13 +1,14 @@
 ---
 title: Using Report Builder to learn the Adobe Analytics API
 description: Report Builder is something we all know & love. So what if I told you that you could use what you know about Report Builder to advance your Adobe Analytics skillset even further? In this video, we will walk through how to take debug Report Builder requests and use them to learn how to craft your own Analytics API queries.
-feature: report builder
+feature: Report Builder
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2345
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Using [!UICONTROL Report Builder] to learn the Adobe Analytics API {#using-report-builder-to-learn-the-adobe-analytics-api}

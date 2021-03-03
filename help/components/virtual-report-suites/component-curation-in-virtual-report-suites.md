@@ -1,13 +1,14 @@
 ---
 title: Component Curation in Virtual Report Suites
 description: Virtual Report Suites can be curated to include and exclude dimensions, metrics, and segments in Analysis Workspace, which greatly helps if you're sharing it with other teams who only need a specific slice of the data or use a different data nomenclature.
-feature: vrs
+feature: VRS
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1774
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Component Curation in [!UICONTROL Virtual Report Suites] {#component-curation-in-virtual-report-suites}

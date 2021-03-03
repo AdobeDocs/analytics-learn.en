@@ -1,14 +1,15 @@
 ---
 title: Sign in to Adobe Analytics
 description: In this video, you'll learn how to sign in and administer Analytics and begin your analysis.
-feature: analytics basics
+feature: Analytics Basics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3566
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Logging in to Adobe Analytics

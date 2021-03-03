@@ -1,13 +1,14 @@
 ---
 title: Anomaly Detection in Analysis Workspace
 description: Analysis Workspace automatically detects anomalies in your data for any time-series visualization or data table. Catch the "unknown unknowns" without any additional effort on your part!
-feature: data science
+feature: Data Science
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2336
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # [!UICONTROL Anomaly Detection] in Analysis Workspace {#anomaly-detection-in-analysis-workspace}

@@ -1,13 +1,14 @@
 ---
 title: Export to CSV from Analysis Workspace
 description:  Learn how to export Freeform projects to CSV for Analysis in Excel and other BI tools.
-feature: curate and share
+feature: Curate and Share
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2297
+role: Business Practitioner
+level: Beginner
 ---
 
 # Export to CSV from Analysis Workspace {#export-to-csv-from-analysis-workspace}

@@ -1,15 +1,16 @@
 ---
 title: Using Filters (Tags) in the Left Rail
 description: Filters (or tags) are a quick and easy way to filter the left rail in Analysis Workspace to find the components you need. Leverage out-of-the-box tags provided by Adobe or add your own custom tags to organize related components.
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32959.jpg
 kt: 4845
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Using Filters (Tags) in the Left Rail

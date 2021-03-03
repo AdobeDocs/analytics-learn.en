@@ -1,13 +1,14 @@
 ---
 title: Customizing the Menu in Reports and Analytics
 description: This video takes you through how to customize the menus in Analytics for your business.
-feature: analytics basics
+feature: Analytics Basics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2365
+role: Business Practitioner
+level: Beginner
 ---
 
 # Customizing the Menu in [!DNL Reports & Analytics] {#customizing-the-menu-in-reports-analytics}

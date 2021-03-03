@@ -1,15 +1,17 @@
 ---
 title: Create a Pre-launch Campaign Analysis with Adobe Analytics
 description: How to use Adobe Analytics to set the foundation for launching an Advertising Cloud paid media campaign.
-feature: integration with ad cloud
+feature: Advertising Cloud Integration
 topics: 
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35114.jpg
 kt: 5471
 
+topic: Integrations
+role: Administrator
+level: Intermediate
 ---
 
 # Create a Pre-launch Campaign Analysis with Adobe Analytics

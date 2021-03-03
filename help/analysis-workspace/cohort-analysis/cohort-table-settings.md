@@ -1,15 +1,16 @@
 ---
 title: Cohort Table Settings
 description: There are several Cohort table settings that allow you to customize your view of retention or churn. See them highlighted in this video. 
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
 
+role: Business Practitioner
+level: Intermediate
 ---
 
 # [!UICONTROL Cohort Table] Settings

@@ -1,13 +1,14 @@
 ---
 title: Configuring Easy Exit Link Tracking in Experience Platform Launch
 description: In just a few clicks in the Adobe Analytics Extension in Experience Platform Launch, you can start tracking exit links on your site (links that lead off of your site to another site). This video shows you how to set it up.
-feature: launch implementation
+feature: Launch Implementation
 topics: 
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2273
+role: "Developer, Data Engineer"
+level: Beginner
 ---
 
 # Configuring Easy Exit Link Tracking in Adobe [!DNL Experience Platform Launch] {#configuring-easy-exit-link-tracking-in-adobe-launch}

@@ -3,14 +3,15 @@ title: Selecting a Report Suite in Analysis Workspace
 seo-title: Selecting a Report Suite in Analysis Workspace - Adobe Analytics
 description: This video takes you through the report suite selector.
 seo-description: This video takes you through the report suite selector. - Adobe Analytics
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2026
+role: Business Practitioner
+level: Beginner
 ---
 
 # Selecting a [!UICONTROL Report Suite] in Adobe Analytics {#selecting-a-report-suite-in-adobe-analytics}

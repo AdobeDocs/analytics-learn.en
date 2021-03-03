@@ -1,13 +1,14 @@
 ---
 title: Map contextData Variables into Props and Evars with Processing Rules
 description: When using contextData variables in your Adobe Analytics implementation, in order to have your data show up in actual reports, you need to map the contextData variables to props/eVars in the Processing Rules interface. This video shows you how to do this.
-feature: implementation basics
+feature: Implementation Basics
 topics: 
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1850
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Map [!DNL contextData] Variables into [!DNL Props] and [!DNL Evars] with [!UICONTROL Processing Rules] {#map-contextdata-variables-into-props-and-evars-with-processing-rules}

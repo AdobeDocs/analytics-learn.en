@@ -1,13 +1,14 @@
 ---
 title: Configuring General Settings in the Launch Analytics Extension
 description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you with the general settings portion of the configuration, including setting the tracking server.
-feature: launch implementation
+feature: Launch Implementation
 topics: 
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
+role: "Developer, Data Engineer"
+level: Beginner
 ---
 
 # Configuring [!UICONTROL General] Settings in the [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}

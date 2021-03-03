@@ -1,15 +1,16 @@
 ---
 title: Algorithmic Model in Attribution IQ
 description: The Algorithmic Attribution model in Analysis Workspace uses statistical techniques to dynamically determine the optimal allocation of credit for the selected metric.
-feature: attribution
+feature: Attribution
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36205.jpg
 kt: 5554
 
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Algorithmic Model in Attribution IQ

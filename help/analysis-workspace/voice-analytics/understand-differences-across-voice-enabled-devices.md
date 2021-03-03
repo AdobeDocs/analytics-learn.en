@@ -1,13 +1,14 @@
 ---
 title: Understand Differences Across Voice-Enabled Devices
 description: Learn how to understand the different performance and functionalities across various voice-assisted devices to help prioritize product roadmap.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2905
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Understand Differences Across Voice-Enabled Devices {#understand-differences-across-voice-enabled-devices}

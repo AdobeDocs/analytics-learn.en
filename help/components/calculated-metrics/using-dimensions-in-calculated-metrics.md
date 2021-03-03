@@ -1,13 +1,14 @@
 ---
 title: Using Dimensions in Calculated Metrics
 description: Dimensions are now available in the Calculated Metric Builder. They can be added to any calculated metric formula to create an internal segment on the fly.
-feature: calculated metrics
+feature: Calculated Metrics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
+role: Business Practitioner
+level: Beginner
 ---
 
 # Using [!UICONTROL Dimensions] in [!UICONTROL Calculated Metrics] {#using-dimensions-in-calculated-metrics}

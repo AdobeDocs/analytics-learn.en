@@ -3,14 +3,15 @@ title: Standard Templates in Analysis Workspace
 seo-title: Standard Templates in Analysis Workspace
 description: Analysis Workspace gives you a head start on your analysis with Standard Templates (formerly called Starter Projects)
 seo-description: Analysis Workspace gives you a head start on your analysis with Standard Templates (formerly called Starter Projects)
-feature: projects
+feature: Projects
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
+role: Business Practitioner
+level: Beginner
 ---
 
 # Standard Templates in Analysis Workspace {#standard-templates-in-analysis-workspace}

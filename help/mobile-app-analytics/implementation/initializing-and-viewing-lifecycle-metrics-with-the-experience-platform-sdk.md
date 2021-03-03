@@ -1,13 +1,15 @@
 ---
 title: Initializing and Viewing Lifecycle Metrics with the Experience Platform SDK
 description: Lifecycle metrics are valuable, out-of-the-box information about your app user. These metrics contain information on the app user's lifecycle such as device information, install or upgrade information, session start and pause times, etc. In this video, see how to set up lifecycle metrics in your app, and how to see the results in a debugger.
-feature: mobile sdk
+feature: Mobile SDK
 topics: 
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2561
+topic: Mobile
+role: "Developer, Data Engineer"
+level: Experienced
 ---
 
 # Initializing and Viewing [!UICONTROL Lifecycle] [!UICONTROL Metrics] with the Experience Platform SDK {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}

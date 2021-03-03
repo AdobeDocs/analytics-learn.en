@@ -2,13 +2,15 @@
 title: Improved Experience Cloud Audience Publishing
 landing-page-description: Learn publish audiences (segments) and make them available faster than ever.
 description: Improvements have been made to Experience Cloud Audience Publishing. You can now publish audiences (segments) and make them available six times faster, reducing the current latency time from 48 hours to approximately 8 hours, and possibly faster, depending on traffic and segment size.
-feature: integration with experience cloud
+feature: Experience Cloud Integration
 topics: 
-audience: analyst
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Improved Experience Cloud Audience Publishing

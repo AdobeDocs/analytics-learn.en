@@ -1,14 +1,15 @@
 ---
 title: Comparing segments in Fallout in Analysis Workspace
 description: This video shows how to compare key workflows across various segments in Analysis Workspace.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
+role: Business Practitioner
+level: Beginner
 ---
 
 # Comparing segments in [!UICONTROL Fallout] in Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}

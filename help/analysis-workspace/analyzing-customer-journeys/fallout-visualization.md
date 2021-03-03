@@ -1,14 +1,15 @@
 ---
 title: Fallout Visualization in Analysis Workspace
 description: This video walks you through the Fallout visualization available in Analysis Workspace in Adobe Analytics. Use Fallout to create funnels or show user flow-through on key app/site workflows.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24042.jpg
 kt: 2275
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!DNL Fallout Visualization] in Analysis Workspace {#fallout-visualization-in-analysis-workspace}

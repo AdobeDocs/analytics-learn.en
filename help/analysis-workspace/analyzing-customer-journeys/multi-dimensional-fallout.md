@@ -1,14 +1,15 @@
 ---
 title: Multidimensional Fallout in Analysis Workspace
 description: Fallout in Analysis Workspace allows you to mix and match dimensions and metrics as touchpoints in funnels and workflows.
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!DNL Multidimensional Fallout] in Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}

@@ -1,15 +1,17 @@
 ---
 title: Create Advertising Cloud Alerts with Adobe Analytics
 description:  How to tap into the power of Adobe Analytics Alerts to monitor your Advertising Cloud paid media campaigns.
-feature: integration with ad cloud
+feature: Advertising Cloud Integration
 topics: 
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35118.jpg
 kt: 5475
 
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Create Advertising Cloud Alerts with Adobe Analytics

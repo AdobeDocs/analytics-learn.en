@@ -1,15 +1,16 @@
 ---
 title: Quick Insights Panel in Analysis Workspace
 description: Quick Insights provides guidance for non-analysts and new users of Analysis Workspace to learn how to answer business questions quickly and easily.
-feature: panels
+feature: Panels
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37248.jpg
 kt: 5838
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Quick Insights] Panel in Analysis Workspace

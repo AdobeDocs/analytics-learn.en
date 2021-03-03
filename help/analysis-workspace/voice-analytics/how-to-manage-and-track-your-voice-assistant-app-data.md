@@ -1,13 +1,14 @@
 ---
 title: How to Manage and Track Your Voice Assistant App Data
 description: Learn how to build a customized dashboard to manage and track performance of your voice assistant app in an easy, flexible, intuitive and visual way. 
-feature: visualizations
+feature: Visualizations
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2902
+role: Business Practitioner
+level: Intermediate
 ---
 
 # How to Manage and Track Your Voice Assistant App Data {#how-to-manage-and-track-your-voice-assistant-app-data}

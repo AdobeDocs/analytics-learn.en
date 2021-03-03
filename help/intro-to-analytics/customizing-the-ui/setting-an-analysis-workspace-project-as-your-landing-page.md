@@ -1,13 +1,14 @@
 ---
 title: Setting an Analysis Workspace Project as your Landing Page
 description: This video takes you through how to set a project as the landing page.
-feature: workspace basics
+feature: Workspace Basics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2364
+role: Business Practitioner
+level: Beginner
 ---
 
 # Setting an Analysis Workspace Project as your Landing Page {#setting-an-analysis-workspace-project-as-your-landing-page}

@@ -1,13 +1,14 @@
 ---
 title: Calculated Metrics - Metric Builder
 description: Overview of the Metric Builder in Adobe Analytics
-feature: calculated metrics
+feature: Calculated Metrics
 topics: 
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2318
+role: Business Practitioner
+level: Beginner
 ---
 
 # [!UICONTROL Calculated metrics]: Metric Builder {#calculated-metrics-metric-builder}
