@@ -1,5 +1,5 @@
 ---
-title: How to Configuring General Account Settings
+title: How to Configure General Account Settings
 description: As you set up Adobe Analytics, configuring the settings can affect how your data is collected and stored. This video goes over some of the general settings. You can also change these after implementation, as it is never too late to make your data more correct.
 feature: Report Suite Settings
 topic: Administration
@@ -11,7 +11,7 @@ kt: 7399
 
 ---
 
-# How to Configuring General Account Settings
+# How to Configure General Account Settings
 
 As you set up Adobe Analytics, configuring the settings can affect how your data is collected and stored. This video goes over some of the general settings. You can also change these after implementation, as it is never too late to make your data more correct.
 
