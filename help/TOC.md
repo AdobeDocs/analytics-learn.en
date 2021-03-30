@@ -289,6 +289,7 @@ solution: Analytics
 + Additional Tools {#additional-tools}
   + Analytics dashboards {#analytics-dashboards}
     + [Adobe Analytics dashboards Scorecard Builder](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+    + [Apply Custom Date Ranges](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
     + [Analytics dashboards In-App Experience](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exporting {#exporting}
   + From the UI {#from-the-ui}
