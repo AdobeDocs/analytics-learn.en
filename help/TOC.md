@@ -104,6 +104,7 @@ solution: Analytics
     + [Visualization Types](analysis-workspace/visualizations/visualization-types.md)
     + [Using Tables, Visualizations, and Panels in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
     + [Selecting Data to Visualize](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+    + [Getting data into visualizations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [Line Visualization in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
     + [Adding Trendlines to Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
