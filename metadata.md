@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: analytics
 feature-set: Analytics
 solution-title: Analytics
