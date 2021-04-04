@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2902
 role: Business Practitioner
 level: Intermediate
+exl-id: 3fd55eac-e485-41b9-9178-c7add90fa292
 ---
-
 # How to Manage and Track Your Voice Assistant App Data {#how-to-manage-and-track-your-voice-assistant-app-data}
 
 Learn how to build a customized dashboard to manage and track performance of your voice assistant app in an easy, flexible, intuitive and visual way.

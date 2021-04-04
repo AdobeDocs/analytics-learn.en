@@ -10,8 +10,8 @@ kt: 3576
 
 role: Business Practitioner
 level: Beginner
+exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
 ---
-
 # Introduction to Traffic Variables ([!UICONTROL Props])
 
 In this video, get an introduction to traffic variables, including [!UICONTROL Page Name], [!UICONTROL Site Section], and "[!UICONTROL props]".

@@ -10,8 +10,9 @@ thumbnail: 23136.jpg
 kt: 1661
 role: Business Practitioner
 level: Intermediate
+exl-id: adf48696-d495-43a3-9421-993434f35962
+exl-id: 28b1dbc4-315b-47d5-82f7-4b394ed31ad8
 ---
-
 # Using [!DNL Attribution IQ] in [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
 
 [!DNL Attribution IQ] allows you to change the attribution [!UICONTROL model] to any of ten rules-based models on a [!UICONTROL Freeform] column on the fly.

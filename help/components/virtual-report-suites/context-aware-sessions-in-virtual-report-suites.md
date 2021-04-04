@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1775
 role: Business Practitioner
 level: Intermediate
+exl-id: eccd24d8-ed55-49db-894c-ef31de891728
 ---
-
 # Context-Aware Sessions in [!UICONTROL Virtual Report Suites] {#context-aware-sessions-in-virtual-report-suites}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12)

@@ -10,8 +10,8 @@ kt: 2563
 topic: Mobile
 role: "Developer, Data Engineer"
 level: Experienced
+exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 ---
-
 # Tracking Actions (AKA Custom Links) in a Mobile App with the Experience Platform SDK {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
 
 Actions are events that occur in your mobile app. In this video, learn how to use the trackAction API to track and measure an action.

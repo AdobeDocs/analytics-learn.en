@@ -11,8 +11,8 @@ kt: 5556
 
 role: Business Practitioner
 level: Beginner
+exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
 ---
-
 # View-only Projects in Analysis Workspace
 
 Workspace projects can be shared to users as “Can view” only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions.

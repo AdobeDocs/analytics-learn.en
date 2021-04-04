@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2013
 role: Business Practitioner
 level: Beginner
+exl-id: 2244005e-2a53-4d8b-852b-25383585d5a6
 ---
-
 # Using [!UICONTROL Date Ranges] & [!UICONTROL Calendar] in Analysis Workspace {#using-date-ranges-calendar-in-analysis-workspace}
 
 You can use custom [!UICONTROL date ranges] as presets in the [!UICONTROL calendar] in your Analysis Workspace projects. You can also drag and drop them onto the [!UICONTROL calendar] to quickly apply them as [!UICONTROL date ranges] in your projects. This video shows you how to do both of these things in Analysis Workspace in Adobe Analytics.

@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2136
 role: Business Practitioner
 level: Beginner
+exl-id: 82ded2b3-b032-40fe-8288-a759fd533d68
 ---
-
 # [!UICONTROL Summary Number] and [!UICONTROL Summary Change] [!UICONTROL Visualizations] in Analysis Workspace {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
 
 This video shows how to use the [!UICONTROL Summary Number] and [!UICONTROL Summary Change] [!UICONTROL visualizations] in the Analyst Workspace.

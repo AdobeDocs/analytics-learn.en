@@ -12,8 +12,8 @@ team: Technical Marketing
 kt: 1963
 role: Business Practitioner
 level: Beginner
+exl-id: 1234f64e-f5e5-4bb1-a553-da438bde46e0
 ---
-
 # Standard Templates in Analysis Workspace {#standard-templates-in-analysis-workspace}
 
 Analysis Workspace gives you a head start on your analysis with [!DNL Standard Templates] (formerly called [!DNL Starter Projects])

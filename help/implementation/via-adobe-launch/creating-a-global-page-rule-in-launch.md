@@ -10,8 +10,8 @@ kt: 3588
 
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: 7c72ec72-3de8-4472-a1de-c47f54d61d61
 ---
-
 # Creating a Global Page [!UICONTROL Rule] in [!DNL Launch]
 
 There are some data points that you will want to be sent into Adobe Analytics on every page. This video shows how to set up a global page load rule in which to send those data points.

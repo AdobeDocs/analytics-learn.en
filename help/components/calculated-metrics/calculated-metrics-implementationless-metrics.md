@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2320
 role: Business Practitioner
 level: Beginner
+exl-id: b0053a5b-cb95-4bad-a032-c6e810c38c56
 ---
-
 # [!UICONTROL Calculated Metrics]: Implementation-less Metrics {#calculated-metrics-implementation-less-metrics}
 
 Learn how to create new [!UICONTROL metrics] in Adobe Analytics without changing your implementation.

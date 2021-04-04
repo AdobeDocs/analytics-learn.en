@@ -12,8 +12,8 @@ kt: 5472
 topic: Integrations
 role: Business Practitioner
 level: Intermediate
+exl-id: e879f628-99e9-41ab-a711-d9e6e1b22d16
 ---
-
 # Reporting with Advertising Cloud Marketing Channels
 
 How the Advertising Cloud view-through and click-through entry data works with Adobe Analytics [!UICONTROL Marketing Channels].

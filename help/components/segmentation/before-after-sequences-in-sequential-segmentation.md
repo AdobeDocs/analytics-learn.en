@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2303
 role: Business Practitioner
 level: Beginner
+exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
 ---
-
 # Before/After Sequences in Sequential Segmentation {#before-after-sequences-in-sequential-segmentation}
 
 This video explains how to [!UICONTROL segment] in Adobe Analytics so that you get only the data from before or after a specific user path.

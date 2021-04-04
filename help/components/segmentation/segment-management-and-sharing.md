@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2305
 role: Business Practitioner
 level: Beginner
+exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
 ---
-
 # [!UICONTROL Segment] Management and Sharing in Adobe Analytics {#segment-management-and-sharing-in-adobe-analytics}
 
 This video shows you how to share and manage [!UICONTROL segments] in Adobe Analytics.

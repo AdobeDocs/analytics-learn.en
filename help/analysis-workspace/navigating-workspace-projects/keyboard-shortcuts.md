@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2031
 role: Business Practitioner
 level: Beginner
+exl-id: f344469b-b925-4978-918f-5204f6f10094
 ---
-
 # Keyboard Shortcuts in Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}
 
 This video goes through keyboard shortcut options in Analysis Workspace, to show you how to move more quickly and efficiently.

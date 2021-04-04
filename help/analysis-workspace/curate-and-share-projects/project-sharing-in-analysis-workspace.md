@@ -11,8 +11,8 @@ kt: 5555
 
 role: Business Practitioner
 level: Beginner
+exl-id: edba5887-bb72-49d5-a5b2-0065591e7c1b
 ---
-
 # Project Sharing in Analysis Workspace
 
 Project sharing is one way to democratize data and insights from Analysis Workspace to users in your organization. You can place recipients in one of three project roles, depending on the project experience you want them to have - Edit, Duplicate and View.

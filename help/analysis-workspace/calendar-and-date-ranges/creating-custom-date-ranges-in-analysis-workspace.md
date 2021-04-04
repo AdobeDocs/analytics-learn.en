@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2113
 role: Business Practitioner
 level: Beginner
+exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
 ---
-
 # Creating Custom [!UICONTROL Date Ranges] in Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
 
 This video walks you through how to use [!UICONTROL date ranges] in Analysis Workspace.

@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1852
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
 ---
-
 # Using a Data Layer to set Page Name and Other Variables via [!DNL Experience Platform Launch] {#using-a-data-layer-to-set-page-name-and-other-variables-in-adobe-analytics-via-launch}
 
 Using a data layer for [!DNL Analytics] and other Experience Cloud solutions is considered a best practice. In this video, you’ll see how to pull your values out of the data layer and use them in [!DNL Experience Platform Launch] to populate variables in Adobe Analytics.

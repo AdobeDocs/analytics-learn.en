@@ -12,8 +12,8 @@ kt: 5837
 topic: Integrations
 role: Business Practitioner
 level: Intermediate
+exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
 ---
-
 # [!DNL Analytics for Target] (A4T) Panel in Analysis Workspace
 
 The [!DNL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences, with lift and confidence, in [!UICONTROL Analysis Workspace].

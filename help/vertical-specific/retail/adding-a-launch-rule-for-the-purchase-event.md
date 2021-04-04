@@ -10,8 +10,8 @@ kt: 3593
 
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
 ---
-
 # Adding a [!DNL Launch] [!UICONTROL Rule] for the [!DNL Purchase] Event
 
 This video shows how to use the product string [!UICONTROL extension] in [!DNL Experience Platform Launch] to track purchases on your site, resulting in the [!UICONTROL Revenue], [!UICONTROL Orders], and [!UICONTROL Units] [!UICONTROL metrics] in your analysis.

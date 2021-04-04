@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2337
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
 ---
-
 # [!UICONTROL Contribution Analysis] in Analysis Workspace {#contribution-analysis-in-analysis-workspace}
 
 This video walks through [!UICONTROL Contribution Analysis] and its ability to use machine learning to quickly and easily explain the factors that contributed to a trend in your data.

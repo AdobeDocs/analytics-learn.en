@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2301
 role: Business Practitioner
 level: Beginner
+exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
 ---
-
 # [!UICONTROL Segment] [!UICONTROL containers] in Adobe Analytics {#segment-containers-in-adobe-analytics}
 
 This video shows how to work with the three different [!UICONTROL segment] [!UICONTROL container] types in the [!UICONTROL Segment Builder] of Adobe Analytics.

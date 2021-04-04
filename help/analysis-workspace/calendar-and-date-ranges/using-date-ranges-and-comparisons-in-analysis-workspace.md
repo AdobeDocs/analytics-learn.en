@@ -10,8 +10,8 @@ kt: 4105
 
 role: Business Practitioner
 level: Beginner
+exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
 ---
-
 # Using [!UICONTROL Date Ranges] and Comparisons in Analysis Workspace
 
 In this video, you will learn how to use dates, [!UICONTROL date ranges], and date comparisons to customize your tables and visualizations to the right time frame.

@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1672
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: ad2e2c1a-c87b-4ee2-8b8c-6cc796c22f85
 ---
-
 # Analysis Workspace In-Product Tips {#analysis-workspace-in-product-tips}
 
 [!UICONTROL Analysis Workspace] Tips provide a quick learning directly in [!UICONTROL Analysis Workspace], with links to related videos so you can see each tip in action.

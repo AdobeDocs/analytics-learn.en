@@ -10,8 +10,8 @@ kt: 4107
 
 role: Business Practitioner
 level: Beginner
+exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
 ---
-
 # Applying Segments to your Analysis Workspace project
 
 In this video, learn how to limit the data in your tables and visualizations by applying segments to your data.

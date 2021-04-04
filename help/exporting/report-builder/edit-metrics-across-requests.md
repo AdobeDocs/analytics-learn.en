@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1769
 role: Business Practitioner
 level: Intermediate
+exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 ---
-
 # Edit [!UICONTROL Metrics] across Requests in [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
 
 You can now edit [!UICONTROL metrics] across multiple [!UICONTROL Report Builder] data requests at once, with add, replace and remove options.

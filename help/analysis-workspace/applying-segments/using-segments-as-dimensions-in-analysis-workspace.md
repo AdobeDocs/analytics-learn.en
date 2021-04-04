@@ -10,8 +10,9 @@ team: Technical Marketing
 kt: 2009
 role: Business Practitioner
 level: Beginner
+exl-id: 36b564bd-30ae-4474-8b05-9607397e02b8
+exl-id: 69901e9c-42e6-423e-bb89-8b8b0763bac7
 ---
-
 # Using Segments as Dimensions in Analysis Workspace {#using-segments-as-dimensions-in-analysis-workspace}
 
 This video shows how you can compare and visualize segments by using them as a dimension in Analysis Workspace.

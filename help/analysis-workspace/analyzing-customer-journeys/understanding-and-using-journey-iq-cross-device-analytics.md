@@ -10,8 +10,8 @@ kt: 4138
 
 role: Business Practitioner
 level: Intermediate
+exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
 ---
-
 # Understanding and Using [!DNL Journey IQ] - Cross-Device Analytics
 
 When users interact with your brand they do so in many ways and on multiple devices. Cross-Device Analytics integrates with the [!DNL Adobe Experience Platform Identity Service] to identify how devices map to people. It then leverages this intelligence to create a cross-device view of user behavior. This results in being able to do analysis on people, not devices.

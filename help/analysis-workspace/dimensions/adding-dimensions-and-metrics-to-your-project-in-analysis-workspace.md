@@ -10,8 +10,9 @@ kt: 4104
 
 role: Business Practitioner
 level: Beginner
+exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725
+exl-id: 01466500-25ef-40d5-9ae1-ce1e0e92b0b5
 ---
-
 # Adding [!UICONTROL Dimensions] and [!UICONTROL Metrics] to your Project in Analysis Workspace
 
 In this video, learn about [!UICONTROL dimensions] and [!UICONTROL metrics], the difference between them, and how to add them to your tables and visualizations in Analysis Workspace. Also learn how to add out-of-the-box [!UICONTROL Calculated Metrics].

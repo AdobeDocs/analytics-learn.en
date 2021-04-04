@@ -10,8 +10,8 @@ thumbnail: 25965.jpg
 kt: 2477
 role: Business Practitioner
 level: Intermediate
+exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
 ---
-
 # Overview of [!UICONTROL Cohort Tables] in Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
 
 The [!UICONTROL Rolling Calculation] setting within [!UICONTROL Cohort Tables] can be used to analyze [!UICONTROL cohorts] period-over-period, to understand how the same users are retained (or [!UICONTROL churn]) over time.

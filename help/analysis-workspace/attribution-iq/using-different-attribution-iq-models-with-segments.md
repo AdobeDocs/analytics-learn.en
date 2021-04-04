@@ -11,8 +11,9 @@ thumbnail: 23743.jpg
 kt: 1707
 role: Business Practitioner
 level: Intermediate
+exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
+exl-id: 3e6fd830-dd89-4ae0-8505-ef407ccf3b84
 ---
-
 # Using different [!DNL Attribution IQ] [!UICONTROL models] with segments in Analysis Workspace {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
 
 In this video you will learn how to use [!DNL Attribution IQ] [!UICONTROL models] in conjunction with Adobe Analytics segments on your site.

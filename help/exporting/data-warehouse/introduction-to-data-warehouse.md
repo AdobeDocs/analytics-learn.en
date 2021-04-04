@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2916
 role: Business Practitioner
 level: Beginner
+exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
 ---
-
 # Introduction to [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
 
 The [!UICONTROL Data Warehouse] request tool in Adobe Analytics gives you access to query the raw data. [!UICONTROL Data Warehouse] can process an unlimited number of rows in a single request for individual scheduled and downloaded reports. This video is an introduction to the tool, including a walkthrough of creating a [!UICONTROL Data Warehouse] report.

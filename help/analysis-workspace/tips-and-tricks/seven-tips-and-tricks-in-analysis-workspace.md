@@ -10,8 +10,8 @@ kt: 3945
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
 ---
-
 # 7 Tips and Tricks That Make Creating Custom Analytics Projects Faster and Easier
 
 **Expand your Analysis Workspace skillset!**

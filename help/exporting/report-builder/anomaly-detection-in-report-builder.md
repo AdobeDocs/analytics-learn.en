@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1768
 role: Business Practitioner
 level: Intermediate
+exl-id: 80d85955-022f-4d79-aee8-c440592645f3
 ---
-
 # [!UICONTROL Anomaly Detection] in [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
 Learn how to add [!UICONTROL anomaly detection] [!UICONTROL metrics] to your data requests, as well as creatively graph the data.

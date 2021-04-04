@@ -10,8 +10,8 @@ kt: 1651
 topic: Integrations
 role: Administrator
 level: Intermediate
+exl-id: a6b3371f-eaf0-483b-8580-f3bb8d287573
 ---
-
 # Implementing Tracking Templates from [!DNL Advertising Analytics] into Search Engines {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
 
 This video walks you through the steps of implementing your tracking templates from [!DNL Advertising Analytics] into the supported search engines. Implementing the tracking template is the critical step to collect and pass your data to Adobe Analytics.

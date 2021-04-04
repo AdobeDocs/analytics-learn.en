@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1771
 role: Business Practitioner
 level: Beginner
+exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
 ---
-
 # [!UICONTROL Map] [!UICONTROL Visualization] in Analysis Workspace {#map-visualization-in-analysis-workspace}
 
 This video shows you how to use the [!UICONTROL Map] [!UICONTROL visualization] in Analysis Workspace. The [!UICONTROL Map] viz will allow you to view either [!UICONTROL mobile lat/long] or web (IP address) data against a dynamic [!UICONTROL map], allowing you to get an idea of customer usage in the context of their location.

@@ -10,8 +10,9 @@ kt: 4102
 
 role: Business Practitioner
 level: Beginner
+exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
+exl-id: 2a064aa3-cc44-4d98-b25a-1491819758bd
 ---
-
 # Starting Your First Project in Analysis Workspace
 
 In this video you will learn how to create a project in Analysis Workspace using default and custom templates, and how to copy elements between projects.

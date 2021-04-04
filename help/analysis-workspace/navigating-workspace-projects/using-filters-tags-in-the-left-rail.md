@@ -11,8 +11,8 @@ kt: 4845
 
 role: Business Practitioner
 level: Beginner
+exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
 ---
-
 # Using Filters (Tags) in the Left Rail
 
 Filters (or tags) are a quick and easy way to filter the left rail in Analysis Workspace to find the [!UICONTROL components] you need. Leverage out-of-the-box tags provided by Adobe or add your own custom tags to organize related [!UICONTROL components].

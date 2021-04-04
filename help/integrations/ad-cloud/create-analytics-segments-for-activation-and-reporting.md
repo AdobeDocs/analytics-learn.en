@@ -12,8 +12,8 @@ kt: 5474
 topic: Integrations
 role: Business Practitioner
 level: Intermediate
+exl-id: 0df46be9-bae9-4792-912a-7c95a7fce4ee
 ---
-
 # Create Analytics Segments for Activation and Reporting
 
  Using Advertising Cloud dimensions to create segments for cleaner reporting and analysis.

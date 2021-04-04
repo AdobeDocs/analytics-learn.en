@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2336
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
 ---
-
 # [!UICONTROL Anomaly Detection] in Analysis Workspace {#anomaly-detection-in-analysis-workspace}
 
 Analysis Workspace automatically detects anomalies in your data for any time-series [!UICONTROL visualization] or data table. Catch the "unknown unknowns" without any additional effort on your part!

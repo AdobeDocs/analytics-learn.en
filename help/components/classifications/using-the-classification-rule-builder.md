@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1936
 role: Business Practitioner
 level: Beginner
+exl-id: 066d0ebf-1921-48be-8531-bdd766330825
 ---
-
 # Using the [!UICONTROL Classification Rule Builder] in Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}
 
 Learn to use the [!UICONTROL Classification Rule Builder] to automatically apply rule-based [!UICONTROL classifications] in Adobe Analytics.

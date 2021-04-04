@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1910
 role: Business Practitioner
 level: Beginner
+exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
 ---
-
 # [!UICONTROL Approximate Count Distinct] [!UICONTROL Function] in [!UICONTROL Calculated Metrics]{#approximate-count-distinct-function-in-calculated-metrics}
 
 An [!UICONTROL Approximate Count Distinct] [!UICONTROL function] has been added to the [!UICONTROL Calculated Metric Builder]. It is a long awaited [!UICONTROL function] that will return the [!UICONTROL approximate distinct count] of [!UICONTROL dimension] items for a selected [!UICONTROL dimension].

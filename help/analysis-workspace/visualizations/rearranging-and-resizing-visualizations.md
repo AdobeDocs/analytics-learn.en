@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2138
 role: Business Practitioner
 level: Beginner
+exl-id: bdda9534-cae8-457a-a9c2-8167b8d0d09d
 ---
-
 # Rearranging and Resizing [!UICONTROL Visualizations] in Analysis Workspace {#rearranging-and-resizing-visualizations-in-analysis-workspace}
 
 This video shows how to create a customized layout by resizing, rearranging, and reorganizing [!UICONTROL visualizations] and tables in Analysis Workspace.

@@ -11,8 +11,8 @@ kt: 3972
 
 role: Business Practitioner
 level: Intermediate
+exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
 ---
-
 # [!UICONTROL Cohort Table] Settings
 
 There are several ¨ settings that allow you to customize your view of [!UICONTROL retention] or [!UICONTROL churn]. See them highlighted in this video.

@@ -13,8 +13,8 @@ kt: 1665
 topic: Administration
 role: "Administrator, Architect"
 level: Beginner
+exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
 ---
-
 # [!UICONTROL Server Call Usage] in Adobe Analytics {#server-call-usage-in-adobe-analytics}
 
 [!UICONTROL Server Call Usage] reporting will make it possible for you to track exactly how much of your server call commitment you’ve used at any point in time, and will also proactively alert you when you are approaching your total commitment.

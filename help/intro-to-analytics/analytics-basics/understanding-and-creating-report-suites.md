@@ -10,8 +10,8 @@ kt: 3574
 
 role: Business Practitioner
 level: Beginner
+exl-id: 7c7fc1f3-63b3-42cd-a9b8-bd300d8d1921
 ---
-
 # Understanding and Creating [!UICONTROL Report Suites]
 
 This video helps you understand what [!UICONTROL report suites] are, and shows you how to create them in the interface, so that you can track and optimize the traffic coming to your site.

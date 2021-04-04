@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2358
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 ---
-
 # How to Identify Your Analytics [!DNL Tracking Server] and [!UICONTROL Report Suites] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 When setting up Adobe Analytics, or when referencing it in other Experience Cloud solutions, it is often helpful or even necessary to know the [!DNL Analytics] “[!DNL Tracking Server]” that you are using, or also the “[!UICONTROL Report Suite]” that you are sending data into. This video shows you how to locate both values, whether or not you have already implemented Adobe Analytics.

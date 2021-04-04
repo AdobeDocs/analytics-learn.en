@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2300
 role: Business Practitioner
 level: Beginner
+exl-id: 763c9504-0692-4d56-ba5e-a3af7e2e607a
 ---
-
 # [!UICONTROL Segment Builder] in Adobe Analytics {#segment-builder-in-adobe-analytics}
 
 A quick overview and orientation for the [!UICONTROL segment builder] in Adobe Analytics.

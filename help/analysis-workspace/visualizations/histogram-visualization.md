@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1909
 role: Business Practitioner
 level: Beginner
+exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
 ---
-
 # [!UICONTROL Histogram] [!UICONTROL Visualization] in Analysis Workspace {#histogram-visualization-in-analysis-workspace}
 
 [!UICONTROL Histograms] allow you to visualize the distribution of a [!UICONTROL metric] across your visitors, visits, and now hits, to find high- and low-value [!UICONTROL segments].

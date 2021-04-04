@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2273
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 ---
-
 # Configuring Easy Exit Link Tracking in Adobe [!DNL Experience Platform Launch] {#configuring-easy-exit-link-tracking-in-adobe-launch}
 
 In just a few clicks in the Adobe Analytics [!UICONTROL Extension] in Adobe [!DNL Experience Platform Launch], you can start tracking exit links on your site (links that lead off of your site to another site). This video shows you how to set it up.

@@ -12,8 +12,8 @@ kt: 5471
 topic: Integrations
 role: Administrator
 level: Intermediate
+exl-id: dc363748-713e-4a68-a686-99a65076f1dc
 ---
-
 # Create a Pre-launch Campaign Analysis with Adobe Analytics
 
 How to use Adobe Analytics to set the foundation for launching an Advertising Cloud paid media campaign.

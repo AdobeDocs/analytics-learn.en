@@ -11,8 +11,8 @@ kt: 4024
 topic: Administration
 role: Administrator
 level: Beginner
+exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
 ---
-
 # Usage Log Tracking for Analysis Workspace
 
 Under [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access], you can better understand your users' usage of Adobe Analytics. This video focuses specifically on measuring [!DNL Workspace] project usage. You can download the Excel file used in this video at https://adobe.ly/2ygP5ws

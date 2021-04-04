@@ -11,8 +11,8 @@ kt: 6225
 
 role: Business Practitioner
 level: Beginner
+exl-id: 976119f0-16b7-4d36-8d0e-0a552c83a614
 ---
-
 # Row and Column Settings in Freeform Tables
 
 Learn about the settings in Freeform Tables in Analysis Workspace, and how they affect the data coming into those tables.

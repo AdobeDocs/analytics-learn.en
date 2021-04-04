@@ -10,8 +10,8 @@ kt: 4386
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
 ---
-
 # Customer Use Case: [!DNL Accent Group] Invests in Customer Experience to Drive Sales
 
 [!DNL Accent Group], the largest footwear retailer in Australia, grows their sales and conversions by delivering great customer experiences across physical and digital touch-points. Watch how the [!DNL Accent Group] uses the Adobe Experience Cloud to create seamless digital experiences.

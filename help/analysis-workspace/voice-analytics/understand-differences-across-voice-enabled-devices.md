@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2905
 role: Business Practitioner
 level: Intermediate
+exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
 ---
-
 # Understand Differences Across Voice-Enabled Devices {#understand-differences-across-voice-enabled-devices}
 
 Learn how to understand the different performance and functionalities across various voice-assisted devices to help prioritize product roadmap.

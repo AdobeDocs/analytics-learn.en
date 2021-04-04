@@ -10,8 +10,8 @@ thumbnail: 23985.jpg
 kt: 2011
 role: Business Practitioner
 level: Beginner
+exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
 ---
-
 # Date Comparisons in Analysis Workspace {#date-comparisons-in-analysis-workspace}
 
 In this video, we we will show you how to leverage two date comparison features in [!UICONTROL freeform tables] - '[!UICONTROL add time period column]' and '[!UICONTROL compare time periods].'

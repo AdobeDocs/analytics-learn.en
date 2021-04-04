@@ -10,8 +10,8 @@ kt: 3054
 
 role: Business Practitioner
 level: Beginner
+exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
 ---
-
 # How To Increase Engagement and Retention Rates {#how-to-increase-engagement-and-retention-rates}
 
  Identify engaged audiences through their behavior using [!UICONTROL Cohorts] and know the underlying causes driving stickiness in your mobile apps. Use data science algorithms in [!UICONTROL Segment IQ] to know the differences and similarities between segments.

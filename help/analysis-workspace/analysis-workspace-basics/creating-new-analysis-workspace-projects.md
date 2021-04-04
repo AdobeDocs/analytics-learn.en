@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1693
 role: Business Practitioner
 level: Beginner
+exl-id: 7d0bacb3-9b4d-4723-8a64-6e4fdf5d3c78
 ---
-
 # Creating New Analysis Workspace Projects {#creating-new-analysis-workspace-projects}
 
 In this video you will learn how to use the Analysis Workspace New Project modal to create a project from a blank canvas, from an [!DNL Adobe Standard Template] or from a custom template. You can even search and sort your templates in the modal to find one that fits your need.

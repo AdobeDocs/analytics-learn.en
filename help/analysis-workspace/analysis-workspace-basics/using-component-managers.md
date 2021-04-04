@@ -12,8 +12,8 @@ team: Technical Marketing
 kt: 2351
 role: Business Practitioner
 level: Beginner
+exl-id: 2230ca48-4b08-45cd-9674-fa3c4dd482d7
 ---
-
 # Using [!DNL Component Managers] in Adobe Analytics {#using-component-managers-in-adobe-analytics}
 
 This video shows how to use the [!UICONTROL Alerts] and [!UICONTROL Scheduled Projects] [!DNL component managers] in Adobe Analytics, along with some additional features. Learn how to easily find the [!UICONTROL Alert] or [!UICONTROL Scheduled Project] you’re looking for as well as Enable/Disable [!UICONTROL Alerts].

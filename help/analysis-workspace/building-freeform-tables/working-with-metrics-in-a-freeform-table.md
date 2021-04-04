@@ -11,8 +11,9 @@ kt: 6291
 
 role: Business Practitioner
 level: Beginner
+exl-id: f7d282f4-027d-4093-a0b5-8d2c0a053317
+exl-id: 0ec8b5ca-379e-45be-b077-514af318f42a
 ---
-
 # Working with Metrics in a Freeform Table
 
 Learn the various ways that you can use metrics in a Freeform Table in Analysis Workspace.

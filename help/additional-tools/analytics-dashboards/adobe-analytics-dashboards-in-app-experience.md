@@ -10,8 +10,8 @@ kt: 5287
 
 role: Business Practitioner
 level: Beginner
+exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
 ---
-
 # Adobe Analytics dashboards In-App Experience
 
 In this video, learn how to use Adobe Analytics dashboards (mobile app) to access and view “Scorecards” created by or shared with you.

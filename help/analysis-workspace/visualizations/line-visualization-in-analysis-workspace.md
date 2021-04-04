@@ -11,8 +11,8 @@ kt: 6277
 
 role: Business Practitioner
 level: Beginner
+exl-id: 7d638458-0e52-4824-8667-873045cfc372
 ---
-
 # Line Visualization in Analysis Workspace
 
 The Line visualization depicts metrics over a trended time period. Visualization settings enable you to customize how each line visual looks, and includes settings for Show X/Y-axis, Show min/max labels, and Show trend line.

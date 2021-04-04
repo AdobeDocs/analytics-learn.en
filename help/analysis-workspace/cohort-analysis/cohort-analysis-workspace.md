@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2135
 role: Business Practitioner
 level: Intermediate
+exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
 ---
-
 # [!UICONTROL Cohort] Analysis in Analysis Workspace {#cohort-analysis-in-analysis-workspace}
 
 How to build a [!UICONTROL cohort] analysis table in Analysis Workspace.

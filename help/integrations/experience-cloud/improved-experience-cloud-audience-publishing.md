@@ -11,8 +11,8 @@ kt: 4819
 topic: Integrations
 role: Business Practitioner
 level: Intermediate
+exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
 ---
-
 # Improved Experience Cloud Audience Publishing
 
 Improvements have been made to Experience Cloud Audience Publishing. You can now publish audiences ([!UICONTROL segments]) and make them available six times faster, reducing the current latency time from 48 hours to approximately 8 hours, and possibly faster, depending on traffic and [!UICONTROL segment] size.

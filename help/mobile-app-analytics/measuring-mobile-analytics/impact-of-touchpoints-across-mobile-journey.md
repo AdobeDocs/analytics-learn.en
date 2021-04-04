@@ -11,8 +11,8 @@ kt: 3052
 
 role: Business Practitioner
 level: Beginner
+exl-id: 6ed070ff-cd13-45be-968f-067f0436eab8
 ---
-
 # Impact of Touch Points Across Mobile Journey {#impact-of-touchpoints-across-mobile-journey}
 
  Learn how mobile app users are influenced by touch points and know which channels are moving the needle for your mobile app using [!DNL Attribution IQ]. Know which channels are working together to drive success events in your mobile app.

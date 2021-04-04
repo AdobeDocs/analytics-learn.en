@@ -9,8 +9,9 @@ team: Technical Marketing
 kt: 1943
 role: Business Practitioner
 level: Beginner
+exl-id: 03cb00ce-42c1-481b-8dc2-bf90d8a98acc
+exl-id: 58d44d40-16db-415c-9a25-2d43a4c6455f
 ---
-
 # Using Custom [!UICONTROL Color Palettes] in Analysis Workspace {#using-custom-color-palettes-in-analysis-workspace}
 
 You can change the [!UICONTROL color palette] used in [!UICONTROL Analysis Workspace] to better align with your brand, or that of your customers.

@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1670
 role: Business Practitioner
 level: Beginner
+exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
 ---
-
 # 100% Stacked [!UICONTROL Visualizations] In Analysis Workspace {#stacked-visualizations-in-analysis-workspace}
 
 In this video, you will learn how to set your stacked visualizations as percentages instead of only raw values.

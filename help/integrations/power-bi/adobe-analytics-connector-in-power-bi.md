@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1655
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
 ---
-
 # Adobe Analytics Connector in Power BI {#adobe-analytics-connector-in-power-bi}
 
 In this video we’ll walk through the Adobe Analytics Connector by creating and loading a request, changing the format of the data, building a [!UICONTROL visualization], and publishing to the online service.

@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1695
 role: Business Practitioner
 level: Beginner
+exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
 ---
-
 # Create and Manage Custom Templates in Analysis Workspace {#create-and-manage-custom-templates-in-analysis-workspace}
 
 In this video you will learn how to create custom templates in Analysis Workspace, so that you and your team can start from a specific set of reports.

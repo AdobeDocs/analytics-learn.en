@@ -11,8 +11,8 @@ kt: 3857
 
 role: Business Practitioner
 level: Beginner
+exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
 ---
-
 # Freeform Table Totals in Analysis Workspace
 
 In this video you will see some updates to [!UICONTROL Freeform Table] totals, including the ability to remove totals. It will also show you how to remove the "unspecified" or "none" rows as well.

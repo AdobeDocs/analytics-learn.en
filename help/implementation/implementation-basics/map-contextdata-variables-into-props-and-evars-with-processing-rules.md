@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1850
 role: Business Practitioner
 level: Intermediate
+exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
 ---
-
 # Map [!DNL contextData] Variables into [!DNL Props] and [!DNL Evars] with [!UICONTROL Processing Rules] {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
 When using [!DNL contextData] variables in your Adobe Analytics implementation, in order to have your data show up in actual reports, you need to map the [!DNL contextData] variables to [!DNL props/eVars] in the [!UICONTROL Processing Rules] interface. This video shows you how to do this.

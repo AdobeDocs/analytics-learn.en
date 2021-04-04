@@ -10,8 +10,9 @@ kt: 4103
 
 role: Business Practitioner
 level: Beginner
+exl-id: 38b360d2-ce4a-4442-8a19-366c090eb717
+exl-id: a273d1a8-3b58-4bf2-b683-638d26a1cc4e
 ---
-
 # Using Tables, Visualizations, and Panels in Analysis Workspace
 
 In this video you will learn how to use the building blocks of your Analysis Workspace project, namely panels, tables, and visualizations. These elements are the canvas upon which your data is painted.

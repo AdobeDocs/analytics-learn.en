@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2302
 role: Business Practitioner
 level: Beginner
+exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
 ---
-
 # Sequential Segmentation in Adobe Analytics {#sequential-segmentation-in-adobe-analytics}
 
 This video walks you through how to segment on sequences of behavior in Adobe Analytics and how to use that to compare [!UICONTROL marketing channels] and [!UICONTROL fallouts].

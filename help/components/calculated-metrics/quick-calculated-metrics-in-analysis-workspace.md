@@ -10,8 +10,8 @@ thumbnail: 23126.jpg
 kt: 1666
 role: Business Practitioner
 level: Beginner
+exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
 ---
-
 # Quick [!UICONTROL Calculated Metrics] in Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
 
 Now you can build [!UICONTROL calculated metrics] on the fly within Analysis Workspace.  If you’re looking to do a quick percent change or division with a few [!UICONTROL metrics] in your [!UICONTROL freeform table], just select the [!UICONTROL metrics] from the header, right click and pick the operator you want.  The new [!UICONTROL calculated metric] will appear on the right.

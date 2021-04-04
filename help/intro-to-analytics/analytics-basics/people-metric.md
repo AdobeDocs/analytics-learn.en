@@ -10,8 +10,8 @@ thumbnail: 24037.jpg
 kt: 1986
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
 ---
-
 # [!UICONTROL People] [!UICONTROL Metric] in Adobe Analytics {#people-metric-in-adobe-analytics}
 
 Adobe Analytics now offers a [!UICONTROL People] metric to de-duplicate visitors based on the Adobe Experience Cloud [!UICONTROL Device Co-op]! This video provides more information and shows you how to get started.

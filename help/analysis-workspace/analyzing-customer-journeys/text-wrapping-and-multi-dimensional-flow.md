@@ -11,8 +11,8 @@ thumbnail: 24041.jpg
 kt: 2281
 role: Business Practitioner
 level: Beginner
+exl-id: da173124-ce09-4be3-9418-8791acd16240
 ---
-
 # Text Wrapping & [!DNL Multi-Dimensional Flow] in Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
 
 This video shows how to turn on and off label truncation in your [!DNL flow visualization]. Also, learn to drag and drop dimensions on to your [!DNL flow] for multi-dimensional [!DNL flow] analysis.

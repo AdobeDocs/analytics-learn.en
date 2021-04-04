@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1845
 role: "Developer, Data Engineer"
 level: Intermediate
+exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
 ---
-
 # Custom Link Tracking without a Tag Manager {#custom-link-tracking-without-a-tag-manager}
 
 For many actions on the page, tracking should not be treated like a page view. In this video, you will learn how to code a link tracking beacon to Analytics, if you are not using a tag manager (like Adobe [!DNL Experience Platform Launch]). See the code, as well as learning an important tip.

@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1773
 role: Business Practitioner
 level: Beginner
+exl-id: dc37b2e5-bb00-40bc-a620-ef7d6a4e8fdf
 ---
-
 # [!DNL Zero State] Improvements in Analysis Workspace {#zero-state-improvements-in-analysis-workspace}
 
 "[!DNL Zero State]" is the opening layout of Analysis Workspace. To help both novice and seasoned users get value out of Analysis Workspace, we've improved the left rail, blank panel, [!UICONTROL freeform table], and drop zones to be more intuitive to users.

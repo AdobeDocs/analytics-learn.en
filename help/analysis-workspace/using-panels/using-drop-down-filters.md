@@ -9,8 +9,9 @@ team: Technical Marketing
 kt: 1944
 role: Business Practitioner
 level: Beginner
+exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
+exl-id: f7363489-5474-4725-8133-4d8d26c09c42
 ---
-
 # Using Drop-Down Filters in Analysis Workspace {#using-drop-down-filters-in-analysis-workspace}
 
 In this video you will learn how to use drop-down filters in Analysis Workspace to dynamically change the contents of a panel.

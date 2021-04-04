@@ -12,8 +12,8 @@ kt: 5476
 topic: Integrations
 role: Business Practitioner
 level: Intermediate
+exl-id: 9c50787d-ee08-437a-81ab-4e0da7861269
 ---
-
 # Create Analytics Custom Metrics with Advertising Cloud Data
 
 Useful custom metrics to create when using Advertising Cloud data within Adobe Analytics. 

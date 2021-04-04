@@ -12,8 +12,8 @@ kt: 5473
 topic: Integrations
 role: Business Practitioner
 level: Intermediate
+exl-id: c0c7c77e-ba24-48b3-a793-a519fbd45e12
 ---
-
 # Create Analytics Site Journey Profiles
 
 How to use Adobe Analytics to create robust site re-targeting pools for Advertising Cloud remarketing.

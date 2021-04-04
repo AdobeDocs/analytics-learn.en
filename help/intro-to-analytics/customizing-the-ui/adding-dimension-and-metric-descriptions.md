@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2352
 role: Business Practitioner
 level: Beginner
+exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
 ---
-
 # Adding [!UICONTROL Dimension] and [!UICONTROL Metric] Descriptions in Adobe Analytics {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
 
 This video takes you through how to add context to your reports, [!UICONTROL metrics] and [!UICONTROL dimensions] in Adobe Analytics.

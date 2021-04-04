@@ -10,8 +10,8 @@ thumbnail: 23232.jpg
 kt: 1699
 role: Business Practitioner
 level: Beginner
+exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 ---
-
 # [!DNL Freeform Table] Filters in Analysis Workspace {#freeform-table-filters-in-analysis-workspace}
 
 Filters provide more control over what rows of data are shared in a [!DNL freeform table].

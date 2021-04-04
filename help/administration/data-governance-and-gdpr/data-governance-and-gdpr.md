@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2361
 role: "Administrator, Architect"
 level: Intermediate
+exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
 ---
-
 # Data Governance and GDPR in Adobe Analytics {#data-governance-and-gdpr-in-adobe-analytics}
 
 This video will walk you through Data Governance and how data labeling fits into GDPR readiness. It provides a hands-on example of data labeling using Data Governance.

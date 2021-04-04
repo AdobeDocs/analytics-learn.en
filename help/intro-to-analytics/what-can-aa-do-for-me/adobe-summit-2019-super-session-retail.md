@@ -10,8 +10,9 @@ kt: 4389
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 64f4be39-9800-4700-bfce-29ab9ba1a338
+exl-id: a20179c5-3b45-4c1c-90d0-54f7fd6a3bd1
 ---
-
 # [!DNL Adobe Summit] 2019 Super Session - Retail
 
 See curated clips from the retail "super session" at [!DNL Summit] 2019

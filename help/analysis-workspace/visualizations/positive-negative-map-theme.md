@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1662
 role: Business Practitioner
 level: Beginner
+exl-id: d0494357-e439-46e2-a2a8-9feb33f728f7
 ---
-
 # Positive-Negative Map Theme in Analysis Workspace {#positive-negative-map-theme-in-analysis-workspace}
 
 The new positive/negative color theme allows you to clearly depict positive versus negative numbers on a [!UICONTROL map]. This new theme will also respect any polarity changes you make when you set up the event (in Admin) or create it in [!UICONTROL calculated metrics].

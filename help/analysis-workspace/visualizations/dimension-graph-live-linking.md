@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2115
 role: Business Practitioner
 level: Beginner
+exl-id: cb10bbb0-fb2c-4849-a4bb-a4d1c3f87254
 ---
-
 # [!UICONTROL Dimension]-Graph Live Linking in Analysis Workspace {#dimension-graph-live-linking-in-analysis-workspace}
 
 We don't quite know what to call this, but it's sneaky-cool. When you create a line graph from a [!UICONTROL dimension] value, you can now select different [!UICONTROL dimension] values and change the graph dynamically. Watch the video to learn more!

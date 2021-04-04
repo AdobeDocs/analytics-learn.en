@@ -10,8 +10,8 @@ kt: 5035
 
 role: Business Practitioner
 level: Beginner
+exl-id: 9f82e359-0470-48a5-9749-83685c73b65c
 ---
-
 # Color Eyedropper Extension for Defining Custom Palettes
 
 Learn how to use the ColorPick EyeDropper Chrome extension to easily find the hex values you need for a custom color palette in your [!UICONTROL Workspace] projects.

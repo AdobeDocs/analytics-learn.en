@@ -10,8 +10,8 @@ kt: 1389
 topic: SPA
 role: "Developer, Data Engineer"
 level: Intermediate
+exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 ---
-
 # Using Best Practices when Tracking Single Page Applications (SPA) in Adobe Analytics {#using-best-practices-when-tracking-spa-in-adobe-analytics}
 
 In this document, we will describe several best practices that you should follow and be aware of as you are using Adobe Analytics to track Single Page Applications (SPA). This doc will focus on using Adobe [!DNL Experience Platform Launch], which is the recommended implementation method.

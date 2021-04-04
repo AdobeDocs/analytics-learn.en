@@ -10,8 +10,8 @@ kt: 3586
 
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
 ---
-
 # Basic Configuration of the [!DNL Experience Platform Launch] extension for Analytics
 
 This video shows a quick way to configure the [!DNL Analytics] extension in [!DNL Experience Platform Launch] for a basic site.

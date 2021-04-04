@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1908
 role: Business Practitioner
 level: Beginner
+exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
 ---
-
 # Intra-linking in Analysis Workspace {#intra-linking-in-analysis-workspace}
 
 Intra-linking allows analysts building projects in Analysis Workspace to drive readers of the project to exact panels & [!UICONTROL visualizations] within the project.

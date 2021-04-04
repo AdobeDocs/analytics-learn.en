@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1950
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: 08131913-cb39-4c58-a322-da1e83442e84
 ---
-
 # Using the [!UICONTROL Audio Consumption] Template in Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
 
 This video outlines the [!UICONTROL Audio Consumption] template in Analysis Workspace, which is available out-of-the-box for [!DNL Audio Analytics].

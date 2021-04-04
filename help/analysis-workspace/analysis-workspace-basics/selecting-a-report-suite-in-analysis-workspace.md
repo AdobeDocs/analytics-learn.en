@@ -12,8 +12,8 @@ team: Technical Marketing
 kt: 2026
 role: Business Practitioner
 level: Beginner
+exl-id: a46c4392-739f-4366-b5ea-504519ce1a0f
 ---
-
 # Selecting a [!UICONTROL Report Suite] in Adobe Analytics {#selecting-a-report-suite-in-adobe-analytics}
 
 This video takes you through the [!UICONTROL report suite] selector.

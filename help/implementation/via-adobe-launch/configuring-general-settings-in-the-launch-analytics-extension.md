@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2837
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
 ---
-
 # Configuring [!UICONTROL General] Settings in the [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
 
 If you are just getting started with Experience Platform Launch, and the Adobe Analytics [!UICONTROL Extension], this video can help you with the [!UICONTROL General] settings portion of the configuration, including setting the tracking server.

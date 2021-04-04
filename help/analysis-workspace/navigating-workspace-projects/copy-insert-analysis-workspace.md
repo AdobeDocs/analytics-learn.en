@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1698
 role: Business Practitioner
 level: Beginner
+exl-id: 972d49a3-af5e-4f57-bb50-90b6b16bc7d8
 ---
-
 # Copy and Insert in Analysis Workspace {#copy-and-insert-in-analysis-workspace}
 
 Copy + Insert lets you copy visualizations from one panel or project to another, and copy full panels across projects as well.

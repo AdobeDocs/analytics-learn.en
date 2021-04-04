@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2319
 role: Business Practitioner
 level: Beginner
+exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
 ---
-
 # [!UICONTROL Calculated metrics]: Segmented Metrics {#calculated-metrics-segmented-metrics}
 
 Learn how to create segmented metrics in Adobe Analytics

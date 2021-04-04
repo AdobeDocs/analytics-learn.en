@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1848
 role: "Developer, Data Engineer"
 level: Intermediate
+exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
 ---
-
 # Updating AppMeasurement When Not Using [!DNL Experience Platform Launch] {#updating-appmeasurement-when-not-using-adobe-launch}
 
 This video shows you how to update your appMeasurement code when you are not using Adobe [!DNL Experience Platform Launch]. This includes where to get the code and where to update it.

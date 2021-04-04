@@ -10,8 +10,8 @@ kt: 3580
 
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 ---
-
 # Creating a Business Requirements Document
 
 This video discusses the all-important step of defining what you want to track with Adobe Analytics. What are the things that you want to know about your site? Let's write them down and start to decide how we are going to track them.

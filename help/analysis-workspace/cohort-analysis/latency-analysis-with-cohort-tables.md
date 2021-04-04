@@ -10,8 +10,8 @@ thumbnail: 25964.jpg
 kt: 2480
 role: Business Practitioner
 level: Intermediate
+exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
 ---
-
 # Latency Analysis with [!UICONTROL Cohort Tables] {#latency-analysis-with-cohort-tables}
 
 The [!UICONTROL Latency Table] setting in [!UICONTROL Cohort Tables] allows you to analyze behavior of your [!UICONTROL cohorts] before and after the inclusion event (not just after like standard [!UICONTROL Cohort] depicts). This setting is helpful for analyzing the impact of a new product or campaign launch, as an example.

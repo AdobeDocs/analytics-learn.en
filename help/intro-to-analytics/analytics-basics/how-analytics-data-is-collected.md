@@ -10,8 +10,8 @@ kt: 3565
 
 role: Business Practitioner
 level: Beginner
+exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
 ---
-
 # How [!DNL Analytics] Data is Collected
 
 How does data get from your page into the reports in Adobe Analytics? This video shows you how.

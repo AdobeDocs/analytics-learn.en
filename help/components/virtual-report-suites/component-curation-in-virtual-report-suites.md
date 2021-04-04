@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1774
 role: Business Practitioner
 level: Intermediate
+exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
 ---
-
 # Component Curation in [!UICONTROL Virtual Report Suites] {#component-curation-in-virtual-report-suites}
 
 [!UICONTROL Virtual Report Suites] can be curated to include and exclude [!UICONTROL dimensions], [!UICONTROL metrics], and [!UICONTROL segments] in Analysis Workspace, which greatly helps if you're sharing it with other teams who only need a specific slice of the data or use a different data nomenclature.

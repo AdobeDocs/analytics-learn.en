@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2118
 role: Business Practitioner
 level: Beginner
+exl-id: 655034a6-42b9-4437-961b-02ad3da57d83
 ---
-
 # [!UICONTROL Venn] Diagram [!UICONTROL Visualization] in Analysis Workspace {#venn-diagram-visualization-in-analysis-workspace}
 
 You can visually show overlap and intersection of [!UICONTROL segments] in Analysis Workspace using the [!UICONTROL Venn] diagram [!UICONTROL visualization]. It's easy to create stunning, insightful [!UICONTROL Venn] diagrams in a matter of seconds. This video will show you how.

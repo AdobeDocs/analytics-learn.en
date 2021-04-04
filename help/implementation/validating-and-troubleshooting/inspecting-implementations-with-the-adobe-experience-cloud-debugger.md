@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1942
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
 ---
-
 # Inspecting Implementations with the [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
 
 The [!DNL Experience Cloud debugger] is a tool that allows users to inspect and debug Experience Cloud Tags. This video covers how to use the [!DNL Experience Cloud Debugger] to inspect [!DNL Analytics] implementations.

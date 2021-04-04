@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2360
 role: Business Practitioner
 level: Beginner
+exl-id: 6e434bce-b7da-4ced-94bd-0ad30711fa2c
 ---
-
 # Real-time Reporting in [!DNL Reports & Analytics] {#real-time-reporting-in-reports-analytics}
 
 This video shows a handful of updates that Adobe has made to the [!UICONTROL Real-Time Report] in [!UICONTROL Reports & Analytics] in Adobe Analytics.

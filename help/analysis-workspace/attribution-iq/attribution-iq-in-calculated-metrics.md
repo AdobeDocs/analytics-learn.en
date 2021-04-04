@@ -10,8 +10,9 @@ thumbnail: 23140.jpg
 kt: 1668
 role: Business Practitioner
 level: Intermediate
+exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239
+exl-id: 1789789c-19aa-4e77-999f-15fa11b7f858
 ---
-
 # [!DNL Attribution IQ] in [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}
 
 This video demonstrates how to use [!DNL Attribution IQ] in [!DNL Calculated Metrics].

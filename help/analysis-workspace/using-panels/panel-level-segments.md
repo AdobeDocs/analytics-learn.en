@@ -9,8 +9,9 @@ team: Technical Marketing
 kt: 2106
 role: Business Practitioner
 level: Beginner
+exl-id: 57f9c276-efd8-45dd-8a0a-a5226e47bbbd
+exl-id: 58afeca3-2274-402f-ae0a-d781efbb84f5
 ---
-
 # Panel Level Segments in Analysis Workspace {#panel-level-segments-in-analysis-workspace}
 
 A brief overview of how to apply segments at the panel level

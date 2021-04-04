@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2365
 role: Business Practitioner
 level: Beginner
+exl-id: e07dd703-0e68-473c-a764-145019bf671f
 ---
-
 # Customizing the Menu in [!DNL Reports & Analytics] {#customizing-the-menu-in-reports-analytics}
 
 This video takes you through how to customize the menus in [!DNL Analytics] for your business.

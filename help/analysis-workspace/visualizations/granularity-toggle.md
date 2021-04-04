@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1770
 role: Business Practitioner
 level: Beginner
+exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
 ---
-
 # [!UICONTROL Granularity] Toggle in Analysis Workspace {#granularity-toggle-in-analysis-workspace}
 
 A [!UICONTROL granularity] selector has been added to trended [!UICONTROL visualization] settings to allow you to very easily adjust your data [!UICONTROL granularity] from minute all the way up to year. The setting will adjust both the graph & the source table, saving you the steps of unhiding & manipulating the table.

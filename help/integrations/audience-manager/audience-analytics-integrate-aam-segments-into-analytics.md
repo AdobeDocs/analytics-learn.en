@@ -11,8 +11,8 @@ kt: 2354
 topic: Integrations
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
 ---
-
 # Audience Analytics: Integrate AAM [!DNL Segments] into [!DNL Analytics] {#audience-analytics-integrate-aam-segments-into-analytics}
 
 [!UICONTROL Audience Analytics] is new integration that allows you to share segments from Audience Manager to [!DNL Analytics] in real-time to inform audience discovery, segmentation, and optimization.

@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1844
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
 ---
-
 # Configuring Easy Download [!UICONTROL Link Tracking] in [!DNL Experience Platform Launch] {#configuring-easy-download-link-tracking-in-adobe-launch}
 
 In just a few clicks in the Adobe Analytics [!UICONTROL Extension] in Adobe [!DNL Experience Platform Launch], you can start tracking download links on your site (links that download non-browser files on your machine). This video shows you how to set it up.

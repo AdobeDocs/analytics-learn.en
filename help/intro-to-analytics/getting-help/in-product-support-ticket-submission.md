@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1664
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: af75cd36-75ff-4892-b8ec-dd5704dabfe3
 ---
-
 # In-product Support Ticket Submission {#in-product-support-ticket-submission}
 
 You can now submit a [!DNL Customer Care] support ticket directly in the UI, streamlining the process toward resolution.

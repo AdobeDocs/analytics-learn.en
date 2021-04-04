@@ -11,8 +11,8 @@ kt: 6067
 
 role: Business Practitioner
 level: Intermediate
+exl-id: b5843678-6444-453b-a9c9-1e301ffca876
 ---
-
 # Using Cross-tab Analysis to Explore Basic Marketing Attribution in Analysis Workspace
 
 There are many ways you can take your attribution methodology to the next level with Adobe Analytics. In this video, we highlight how you can derive deeper insights from the Marketing Channels report using cross-tab analysis in Workspace.

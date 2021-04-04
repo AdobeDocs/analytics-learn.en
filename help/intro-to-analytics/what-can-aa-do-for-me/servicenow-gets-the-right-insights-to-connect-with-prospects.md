@@ -10,8 +10,8 @@ kt: 4385
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
 ---
-
 # Customer Use Case: [!DNL ServiceNow] Gets the Right Insights to Connect with Prospects
 
 Find out how [!DNL ServiceNow] gets actionable data from its marketing channels and boosts ROI on paid search advertising with Adobe Advertising Cloud and Adobe Analytics.

@@ -10,8 +10,8 @@ kt: 3579
 
 role: Business Practitioner
 level: Beginner
+exl-id: 3cf9d641-bb99-40b3-a76b-d9ea62ee7548
 ---
-
 # Intro to Retail Variables and Events
 
 If you have a retail site, there are some variables and events that were created just for you (aren't you special)! This video will give you a quick intro to understanding those retail-specific variables and events.

@@ -10,8 +10,8 @@ kt: 4111
 
 role: Business Practitioner
 level: Beginner
+exl-id: af24fd66-a4a9-439a-b722-226f4def861a
 ---
-
 # Customer Tips for Continuing your Adobe Analytics Learning Journey
 
 In this article, meet three Adobe customers who have tips and tricks for you regarding how to get the most value from Adobe Analytics.

@@ -10,8 +10,8 @@ kt: 4820
 
 role: Business Practitioner
 level: Beginner
+exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
 ---
-
 # Multiple [!UICONTROL Report Suites] in Analysis Workspace
 
 Multiple [!UICONTROL report suites] can be analyzed in a single [!DNL Workspace] project by selecting [!UICONTROL report suites] at the panel level. This allows you to conduct side-by-side panel analysis across different sets of data.

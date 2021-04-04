@@ -10,8 +10,8 @@ thumbnail: 25966.jpg
 kt: 2479
 role: Business Practitioner
 level: Intermediate
+exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
 ---
-
 # [!UICONTROL Churn] Analysis with [!UICONTROL Cohort Tables] {#churn-analysis-with-cohort-tables}
 
 [!UICONTROL Cohort Tables] offer two analysis types - [!UICONTROL Retention] and [!UICONTROL Churn]. While [!UICONTROL Retention] shows how many users are retained over time, the [!UICONTROL Churn] option will depict how many users were lost (1 - Retention).

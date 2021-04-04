@@ -11,8 +11,9 @@ kt: 6176
 
 role: Business Practitioner
 level: Beginner
+exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142
+exl-id: ac127eac-2752-424b-aa1b-18a9688d42db
 ---
-
 # Working with Dimensions in a Freeform Table
 
 Learn all about working with dimensions in freeform tables, including adding them, sorting, filtering, breaking them down by other dimensions, etc.

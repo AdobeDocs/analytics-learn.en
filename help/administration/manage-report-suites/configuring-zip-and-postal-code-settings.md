@@ -13,8 +13,8 @@ kt: 2679
 topic: Administration
 role: "Administrator, Architect"
 level: Beginner
+exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
 ---
-
 # Configuring [!UICONTROL Zip] and Postal Code Settings in Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
 In this video you will learn how to configure [!UICONTROL zip] and postal code settings, so that you can do analysis based on this region data.

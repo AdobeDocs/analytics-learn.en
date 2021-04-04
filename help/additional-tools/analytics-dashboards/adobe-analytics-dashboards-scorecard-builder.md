@@ -10,8 +10,8 @@ kt: 5286
 
 role: Business Practitioner
 level: Beginner
+exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
 ---
-
 # Adobe Analytics dashboards Scorecard Builder
 
  In this video, learn how to create and share “Scorecards” in Analysis Workspace to be viewed on Adobe Analytics dashboards (mobile app).

@@ -11,8 +11,8 @@ kt: 6833
 
 role: Business Practitioner
 level: Beginner
+exl-id: cef228e1-945f-44e2-80cd-d22842fd05a4
 ---
-
 # Adding Trendlines to Line Visualizations
 
 Under [!UICONTROL Visualization Settings], you can choose to add a regression or moving average trendline to your line series which can help to depict a clearer pattern in the data. Options include Linear, Logarithmic, Exponential, Power, Quadratic, and Moving Averages.

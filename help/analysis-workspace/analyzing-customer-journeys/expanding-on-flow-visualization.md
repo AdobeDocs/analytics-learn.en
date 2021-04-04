@@ -10,8 +10,8 @@ thumbnail: 24044.jpg
 kt: 2280
 role: Business Practitioner
 level: Beginner
+exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
 ---
-
 # Expanding on [!DNL Flow visualization] in Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}
 
 This video shows the various right-click options available in the [!DNL Flow visualization] in Analysis Workspace. Options include creating a segment from a path, collapsing columns, and more.

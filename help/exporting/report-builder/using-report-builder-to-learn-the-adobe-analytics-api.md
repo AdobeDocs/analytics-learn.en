@@ -9,8 +9,9 @@ team: Technical Marketing
 kt: 2345
 role: Business Practitioner
 level: Intermediate
+exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
+exl-id: 9f472016-f994-4914-8278-b9f60ed8e503
 ---
-
 # Using [!UICONTROL Report Builder] to learn the Adobe Analytics API {#using-report-builder-to-learn-the-adobe-analytics-api}
 
 [!UICONTROL Report Builder] is something we all know & love. So what if I told you that you could use what you know about [!UICONTROL Report Builder] to advance your Adobe Analytics skillset even further? In this video, we will walk through how to take debug [!UICONTROL Report Builder] requests and use them to learn how to craft your own [!DNL Analytics] API queries.

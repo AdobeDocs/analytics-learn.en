@@ -10,8 +10,8 @@ kt: 1642
 topic: Integrations
 role: Administrator
 level: Intermediate
+exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
 ---
-
 # Configuring [!DNL Advertising Analytics] in Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
 
 This video walks you through a high-level review of how to configure your [!UICONTROL report suites] to utilize [!DNL Advertising Analytics], how to setup a paid search account, and reporting details for [!DNL Advertising Analytics].

@@ -10,8 +10,8 @@ kt: 4108
 
 role: Business Practitioner
 level: Beginner
+exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
 ---
-
 # Saving, sharing, and Collaborating on Projects in Analysis Workspace
 
 In this video, learn how to save and export projects for yourself, send projects to other recipients, and invite others to collaborate on your project.

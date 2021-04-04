@@ -10,8 +10,8 @@ thumbnail: 24043.jpg
 kt: 2277
 role: Business Practitioner
 level: Beginner
+exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
 ---
-
 # [!DNL Multidimensional Fallout] in Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
 
 [!DNL Fallout] in Analysis Workspace allows you to mix and match dimensions and metrics as touchpoints in funnels and workflows.

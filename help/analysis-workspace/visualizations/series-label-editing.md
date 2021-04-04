@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1906
 role: Business Practitioner
 level: Beginner
+exl-id: 26daa836-a43b-43e7-bcd9-ebffff3aaa9b
 ---
-
 # Series Label Editing in Analysis Workspace {#series-label-editing-in-analysis-workspace}
 
 Walk-through of some new features that allow analysts and marketers to adjust the labels in charts to suit your [!UICONTROL visualization] needs.

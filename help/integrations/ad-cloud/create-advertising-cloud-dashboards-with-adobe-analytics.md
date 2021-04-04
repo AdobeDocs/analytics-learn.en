@@ -12,8 +12,8 @@ kt: 5478
 topic: Integrations
 role: Business Practitioner
 level: Intermediate
+exl-id: 9e53a8b4-a02f-41c4-97cc-ea50751d75c8
 ---
-
 # Create Advertising Cloud Dashboards with Adobe Analytics
 
 Techniques for creating an Advertising Cloud dashboard for live campaign monitoring. 

@@ -10,8 +10,8 @@ team: Technical Marketing
 kt: 4382
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 ---
-
 # How Adobe Analysis Workspace Can Change Your Business
 
 [!UICONTROL Analysis Workspace] is a new and easy-to-use interface in Adobe Analytics. Within [!UICONTROL Analysis Workspace], you can do [!UICONTROL Ad hoc Analysis], [!UICONTROL Flexible Analysis], [!UICONTROL Cohort Analysis], and [!UICONTROL Fallout Analysis]. You can also share the analysis working environment with everyone in your company, and its drag and drop function allows everyone to analyze the data easily and get insights quickly.

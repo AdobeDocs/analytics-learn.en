@@ -12,8 +12,8 @@ team: Technical Marketing
 kt: 1694
 role: Business Practitioner
 level: Intermediate
+exl-id: 9766aff9-1025-43a1-bdf3-3559d48060a1
 ---
-
 # Using custom templates to enable novice Analysis Workspace users {#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
 This video demonstrates how to bring together custom templates with copy + paste/insert capabilities to better serve novice users in your organization.
