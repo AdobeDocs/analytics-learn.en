@@ -9,8 +9,7 @@ team: Technical Marketing
 kt: 2008
 role: Business Practitioner
 level: Beginner
-exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
-exl-id: 708871bb-9b8c-4ec1-8e45-d4cd218562ef
+exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd,708871bb-9b8c-4ec1-8e45-d4cd218562ef,708871bb-9b8c-4ec1-8e45-d4cd218562ef,d07ba0a5-735b-43f2-ad67-31520ac897bd
 ---
 # [!UICONTROL Segment] Drop Zone Improvements in Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}
 

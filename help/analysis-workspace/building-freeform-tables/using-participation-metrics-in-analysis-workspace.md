@@ -8,11 +8,9 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 41266.jpg
 kt: 6355
-
 role: Business Practitioner
 level: Beginner
-exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
-exl-id: 1d8ee92d-6f76-4d59-b2ef-8829b03c2027
+exl-id: 336853ad-c273-4627-919b-3c86f97b60e3,1d8ee92d-6f76-4d59-b2ef-8829b03c2027,1d8ee92d-6f76-4d59-b2ef-8829b03c2027,336853ad-c273-4627-919b-3c86f97b60e3
 ---
 # Using Participation Metrics in Analysis Workspace
 

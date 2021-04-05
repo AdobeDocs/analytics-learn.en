@@ -8,11 +8,9 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-
 role: Business Practitioner
 level: Beginner
-exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142
-exl-id: ac127eac-2752-424b-aa1b-18a9688d42db
+exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db,ac127eac-2752-424b-aa1b-18a9688d42db,73791a22-a4f1-4fc9-a192-b7aa1d8b9142
 ---
 # Working with Dimensions in a Freeform Table
 

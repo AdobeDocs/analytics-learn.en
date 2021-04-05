@@ -10,8 +10,7 @@ thumbnail: 23140.jpg
 kt: 1668
 role: Business Practitioner
 level: Intermediate
-exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239
-exl-id: 1789789c-19aa-4e77-999f-15fa11b7f858
+exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858,1789789c-19aa-4e77-999f-15fa11b7f858,47016dae-2694-4bbe-a23f-ebff9799c239
 ---
 # [!DNL Attribution IQ] in [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}
 

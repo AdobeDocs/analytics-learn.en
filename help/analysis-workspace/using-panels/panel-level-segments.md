@@ -9,8 +9,7 @@ team: Technical Marketing
 kt: 2106
 role: Business Practitioner
 level: Beginner
-exl-id: 57f9c276-efd8-45dd-8a0a-a5226e47bbbd
-exl-id: 58afeca3-2274-402f-ae0a-d781efbb84f5
+exl-id: 57f9c276-efd8-45dd-8a0a-a5226e47bbbd,58afeca3-2274-402f-ae0a-d781efbb84f5,58afeca3-2274-402f-ae0a-d781efbb84f5,57f9c276-efd8-45dd-8a0a-a5226e47bbbd
 ---
 # Panel Level Segments in Analysis Workspace {#panel-level-segments-in-analysis-workspace}
 
