@@ -30,6 +30,7 @@ solution: Analytics
     + [Understanding and Creating Report Suites](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
     + [Adobe Labs (Technology Previews)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
   + Customizing the UI {#customizing-the-ui}
+    + [User Preferences in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
     + [Color Eyedropper Extension for Defining Custom Palettes](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
@@ -100,6 +101,7 @@ solution: Analytics
     + [Visualization Types](analysis-workspace/visualizations/visualization-types.md)
     + [Selecting Data to Visualize](analysis-workspace/visualizations/selecting-data-to-visualize.md)
     + [Getting data into visualizations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+    + [Using Component dropdowns in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
     + [Line Visualization in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
     + [Adding Trendlines to Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
