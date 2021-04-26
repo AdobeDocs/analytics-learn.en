@@ -9,7 +9,7 @@ team: Technical Marketing
 kt: 4102
 role: Business Practitioner
 level: Beginner
-exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069,2a064aa3-cc44-4d98-b25a-1491819758bd,2a064aa3-cc44-4d98-b25a-1491819758bd,f13b349a-3f36-4b48-ae5a-5c045c58b069
+exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
 ---
 # Starting Your First Project in Analysis Workspace
 

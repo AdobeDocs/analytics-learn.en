@@ -9,7 +9,7 @@ team: Technical Marketing
 kt: 1944
 role: Business Practitioner
 level: Beginner
-exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe,f7363489-5474-4725-8133-4d8d26c09c42,f7363489-5474-4725-8133-4d8d26c09c42,8abd1788-6c65-400a-94d9-42e71f0dfbbe
+exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
 ---
 # Using Drop-Down Filters in Analysis Workspace {#using-drop-down-filters-in-analysis-workspace}
 
