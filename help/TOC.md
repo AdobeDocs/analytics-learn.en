@@ -201,6 +201,7 @@ solution: Analytics
     + [Limit Report Suite Access in the Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
   + Manage Report Suites {#manage-report-suites}
     + [How to Configure General Account Settings](administration/manage-report-suites/configuring-general-account-settings.md)
+    + [Customize Calendar Settings](administration/manage-report-suites/customize-calendar-settings.md)
     + [Configuring Zip and Postal Code Settings](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
     + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
   + Data Governance and GDPR {#data-governance-and-gdpr}
@@ -364,3 +365,4 @@ solution: Analytics
   + [Using Postman to Make Adobe Analytics 2.0 API Requests](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis Use Cases {#analysis-use-cases}
   + [Setting Up In-Market Zip Code Analysis](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
++ [Analytics University Curriculum](analytics-university/curriculum.md)
