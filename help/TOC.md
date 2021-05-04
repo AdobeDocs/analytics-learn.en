@@ -202,6 +202,9 @@ solution: Analytics
   + Manage Report Suites {#manage-report-suites}
     + [How to Configure General Account Settings](administration/manage-report-suites/configuring-general-account-settings.md)
     + [Customize Calendar Settings](administration/manage-report-suites/customize-calendar-settings.md)
+    + [Customize Menus in Reports & Analytics](administration/manage-report-suites/customize-menus.md)
+    + [Configure Finding Methods](administration/manage-report-suites/configure-finding-methods.md)
+    + [Set Internal URL Filters](administration/manage-report-suites/set-internal-url-filters.md)
     + [Configuring Zip and Postal Code Settings](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
     + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
   + Data Governance and GDPR {#data-governance-and-gdpr}
