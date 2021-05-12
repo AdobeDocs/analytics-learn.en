@@ -311,6 +311,7 @@ solution: Analytics
     + [Audience Analytics - Integrate AAM Segments into Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
   + Target {#target}
     + [Analytics for Target (A4T) Panel in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+    + [Analyze an Auto-Target Activity using the A4T Panel](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
   + Ad Cloud {#ad-cloud}
     + [Configuring Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
     + [Implementing Tracking Templates into Search Engines](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
