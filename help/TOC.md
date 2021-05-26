@@ -368,5 +368,7 @@ solution: Analytics
   + [Using Report Builder to learn the Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
   + [Using Postman to Make Adobe Analytics 2.0 API Requests](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis Use Cases {#analysis-use-cases}
+  + Internal Site Search {#internal-site-search}
+    + [Defining your internal site search business requirements](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
   + [Setting Up In-Market Zip Code Analysis](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University Curriculum](analytics-university/curriculum.md)
