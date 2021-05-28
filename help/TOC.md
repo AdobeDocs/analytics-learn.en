@@ -370,5 +370,9 @@ solution: Analytics
 + Analysis Use Cases {#analysis-use-cases}
   + Internal Site Search {#internal-site-search}
     + [Defining your internal site search business requirements](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+    + [Implement internal search variables using AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+    + [Implement internal search variables using Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+    + [Map Web SDK variables into Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+    + [Configure internal site search reports](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
   + [Setting Up In-Market Zip Code Analysis](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University Curriculum](analytics-university/curriculum.md)
