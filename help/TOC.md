@@ -48,6 +48,7 @@ solution: Analytics
     + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
     + [Creating New Analysis Workspace Projects](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
+    + [Building a Workspace project from scratch](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
     + [Create and Manage Custom Templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
     + [Standard Templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
     + [Using Custom Templates to Enable Novice Analysis Workspace Users](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -82,6 +83,7 @@ solution: Analytics
     + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
     + [Multiple Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
   + Building Freeform Tables {#building-freeform-tables}
+    + [Understand your data--Freeform Tables](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
     + [Using the Left Rail to Build Freeform Tables in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
     + [Auto-Build Freeform Tables in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
     + [Working with Dimensions in a Freeform Table](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -99,6 +101,7 @@ solution: Analytics
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Visualization Types](analysis-workspace/visualizations/visualization-types.md)
+    + [Visualization Use Cases](analysis-workspace/visualizations/visualization-use-cases.md)
     + [Selecting Data to Visualize](analysis-workspace/visualizations/selecting-data-to-visualize.md)
     + [Getting data into visualizations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [Using Component dropdowns in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
@@ -151,6 +154,7 @@ solution: Analytics
     + [Date Comparisons in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
     + [Adding Prior Month and Year Comparisons to Trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
+    + [Understand your data--Fallout & Flow](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
     + [Journey IQ - Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
     + [Fallout Visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
     + [Enhancements to Fallout Visualization](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -180,6 +184,7 @@ solution: Analytics
     + [Custom Look-back Windows in Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
   + Cohort Analysis {#cohort-analysis}
     + [Cohort Analysis in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
+    + [Understand your data--Cohort Tables](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
     + [Overview of Cohort Tables](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
     + [Cohort Table Settings](analysis-workspace/cohort-analysis/cohort-table-settings.md)
     + [Churn Analysis with Cohort Tables](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
@@ -253,6 +258,7 @@ solution: Analytics
 + Components {#components}
   + Segmentation {#segmentation}
     + [Segment Builder Overview](components/segmentation/segment-builder-overview.md)
+    + [Finding and creating segments](components/segmentation/finding-and-creating-segments.md)
     + [Before/After Sequences in Sequential Segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
     + [Rolling Date Ranges in Segments](components/segmentation/rolling-date-ranges-in-segments.md)
     + [Segment Comparison in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
