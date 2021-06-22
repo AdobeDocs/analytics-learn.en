@@ -3,9 +3,8 @@ title: Adobe Analytics University Curriculum
 description: Adobe is proud to present this Analytics foundational content to your university. Within the curriculum, you will find 4 distinct modules meant to introduce you to Adobe Analytics collection and reporting, which can be divided and folded into digital analytics or marketing courses. This introductory manual will enable professors and students to gain the knowledge needed to participate in the Adobe Analytics global challenge each Fall.
 hide: yes
 hidefromtoc: yes
+exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 ---
-
-
 # Adobe Analytics University
 
 ## Analytics Course Content

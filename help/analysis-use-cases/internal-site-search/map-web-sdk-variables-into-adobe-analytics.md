@@ -7,9 +7,8 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 333606.jpg
 kt: 7998
-
+exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 ---
-
 # Map Web SDK variables into Adobe Analytics
 
 Learn how to map analytics variables from the Web SDK through to Adobe Analytics using Processing Rules.

@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 334076.jpg
 kt: 8056
-
+exl-id: 8bbc1632-e5da-4cba-9852-e7c63521c345
 ---
-
 # Building a Workspace project from scratch
 
 Ready to start building your own projects? Learn how to build an Analytics Workspace project from scratch, including how to construct a table, attach a visualization and more.
