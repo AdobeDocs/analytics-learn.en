@@ -107,6 +107,7 @@ solution: Analytics
     + [Using Component dropdowns in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
     + [Line Visualization in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
     + [Adding Trendlines to Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+    + [Area and Area Stacked](analysis-workspace/visualizations/area-and-area-stacked.md)
     + [Bullet Graph Visualization](analysis-workspace/visualizations/bullet-graph-visualization.md)
     + [Histogram Visualization](analysis-workspace/visualizations/histogram-visualization.md)
     + [Map Visualization](analysis-workspace/visualizations/map-visualization.md)
