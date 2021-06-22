@@ -8,9 +8,8 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 333270.jpg
 kt: 7861
-
+exl-id: abbe0c31-dadc-44ee-a859-328a128b77be
 ---
-
 # Analyze an Auto-Target Activity using the A4T Panel
 
 The [!DNL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences. In this video, you will learn how to use the [!DNL Analytics for Target] panel to visualize results of an Auto-Target test.

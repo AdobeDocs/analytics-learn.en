@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 334095.jpg
 kt: 8061
-
+exl-id: 238a5bff-6547-4b9f-8739-e2c1ce0b8eb9
 ---
-
 # Understand your data--Fallout & Flow
 
 Learn how our pathing and funnel tools work together to better understand insights from user journeys.

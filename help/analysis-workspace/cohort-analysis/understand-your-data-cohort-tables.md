@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 334094.jpg
 kt: 8060
-
+exl-id: 55c47805-578e-46a9-8d8c-90a9a109630e
 ---
-
 # Understand your data--Cohort Tables
 
 Learn how to analyze a cohort table to better understand user retention over time.
