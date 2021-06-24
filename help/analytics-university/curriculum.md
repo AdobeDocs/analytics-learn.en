@@ -25,7 +25,7 @@ Adobe is proud to present this Analytics foundational content to your university
 
 This curriculum with purpose-built activities at the end of each section can be combined with the Adobe Analytics University sandbox environment. 
 
-Register here for access: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
+Register here for access: [https://experienceleague.adobe.com/landing/analytics-university/](https://experienceleague.adobe.com/landing/analytics-university/)
 
 
 [Download the curriculum PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
