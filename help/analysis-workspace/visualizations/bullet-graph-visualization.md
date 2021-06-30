@@ -8,6 +8,7 @@ kt: 2116
 role: Business Practitioner
 level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
+thumbnail: 23989.jpg
 ---
 # [!UICONTROL Bullet] Graph [!UICONTROL Visualization] in Analysis Workspace {#bullet-graph-visualization-in-analysis-workspace}
 
