@@ -2,7 +2,7 @@
 title: Finding and creating segments
 description: Learn how to create and find segments throughout your analysis across the various tools in Analysis Workspace including cohort, fallout, and flow.
 feature: Segmentation
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334092.jpg

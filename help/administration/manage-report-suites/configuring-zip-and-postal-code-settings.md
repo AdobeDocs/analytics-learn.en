@@ -11,7 +11,7 @@ author: Doug Moore
 team: Technical Marketing
 kt: 2679
 topic: Administration
-role: "Administrator, Architect"
+role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
 ---

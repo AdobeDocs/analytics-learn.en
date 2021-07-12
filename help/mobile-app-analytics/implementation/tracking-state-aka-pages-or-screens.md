@@ -8,7 +8,7 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2562
 topic: Mobile
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
 ---

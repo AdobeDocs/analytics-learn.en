@@ -8,7 +8,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: 1651
 topic: Integrations
-role: Administrator
+role: Admin
 level: Intermediate
 exl-id: a6b3371f-eaf0-483b-8580-f3bb8d287573
 ---

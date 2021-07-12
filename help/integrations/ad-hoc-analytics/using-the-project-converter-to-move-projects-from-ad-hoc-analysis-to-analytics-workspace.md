@@ -8,7 +8,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: 1641
 topic: Integrations
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: 04dfc59e-d7a8-4477-bc98-2bd63debf81f
 ---

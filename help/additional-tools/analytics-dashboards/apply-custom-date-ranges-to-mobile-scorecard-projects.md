@@ -3,7 +3,7 @@ title: Apply Custom Date Ranges to Mobile Scorecard Projects
 description: This video shows how to manage your different options for date ranges when you are setting up your analytics projects for mobile devices, including choosing which out-of-the-box ranges you wish to show, as well as creating your own custom date ranges.
 feature: Analytics Dashboards
 topic: Mobile
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 332454.jpg

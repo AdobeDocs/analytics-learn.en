@@ -10,7 +10,7 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
 ---

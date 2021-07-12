@@ -7,7 +7,7 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1850
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
 ---

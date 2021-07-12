@@ -10,7 +10,7 @@ thumbnail: 35115.jpg
 kt: 5472
 
 topic: Integrations
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: e879f628-99e9-41ab-a711-d9e6e1b22d16
 ---

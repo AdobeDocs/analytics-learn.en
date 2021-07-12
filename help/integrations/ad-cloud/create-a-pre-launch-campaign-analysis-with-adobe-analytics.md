@@ -10,7 +10,7 @@ thumbnail: 35114.jpg
 kt: 5471
 
 topic: Integrations
-role: Administrator
+role: Admin
 level: Intermediate
 exl-id: dc363748-713e-4a68-a686-99a65076f1dc
 ---

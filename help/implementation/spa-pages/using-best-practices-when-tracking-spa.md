@@ -8,7 +8,7 @@ doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 ---

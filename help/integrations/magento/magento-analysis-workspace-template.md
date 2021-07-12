@@ -9,7 +9,7 @@ author: Doug Moore
 team: TM
 kt: 3269
 topic: Integrations
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: 4487a376-90fe-4952-92e1-c2333ae88a75
 ---

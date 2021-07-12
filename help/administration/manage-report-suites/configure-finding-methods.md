@@ -3,7 +3,7 @@ title: Configure Finding Methods
 description: In this video, learn how to configure the settings which control how search engines, search keywords, and other finding method reports and components treat attribution of conversion events.
 feature: Report Suite Settings
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 333042.jpg

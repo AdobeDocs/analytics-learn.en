@@ -2,7 +2,7 @@
 title: Understand your data--Fallout & Flow
 description: Learn how our pathing and funnel tools work together to better understand insights from user journeys.
 feature: Visualizations
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334095.jpg

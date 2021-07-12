@@ -2,7 +2,7 @@
 title: Attribution IQ in Calculated Metrics
 description: This video demonstrates how to use Attribution IQ in Calculated Metrics.
 feature: Attribution
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 team: Technical Marketing

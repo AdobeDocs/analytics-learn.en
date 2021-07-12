@@ -2,7 +2,7 @@
 title: Implement internal search variables using AppMeasurement
 description: In this video, we go through the steps of implementing internal site search variables for Adobe Analytics using Experience Platform Launch, including search term, number of results, and others.
 feature: Use Cases
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333604.jpg

@@ -8,7 +8,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: 3585
 
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
 exl-id: a357b5a9-b1f3-449c-9f6e-31613211c009
 ---

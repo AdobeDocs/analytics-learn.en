@@ -9,7 +9,7 @@ author: Doug Moore
 team: Technical Marketing
 kt: 3052
 
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 6ed070ff-cd13-45be-968f-067f0436eab8
 ---

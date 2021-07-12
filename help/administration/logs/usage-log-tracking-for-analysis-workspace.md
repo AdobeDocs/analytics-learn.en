@@ -9,7 +9,7 @@ team: Technical Marketing
 kt: 4024
 
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
 ---

@@ -3,7 +3,7 @@ title: Set Internal URL Filters
 description: In this video, learn about the settings regarding referrers, setting them as either internal referrers (to power the pathing reports) or external referrers (to power the referrer/referring domain reports).
 feature: Report Suite Settings
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 333043.jpg

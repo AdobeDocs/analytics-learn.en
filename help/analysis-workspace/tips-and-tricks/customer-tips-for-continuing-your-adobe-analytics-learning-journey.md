@@ -8,7 +8,7 @@ doc-type: article
 team: Technical Marketing
 kt: 4111
 
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
 ---

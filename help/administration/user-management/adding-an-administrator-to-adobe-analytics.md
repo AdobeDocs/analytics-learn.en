@@ -10,7 +10,7 @@ thumbnail: 37648.jpg
 kt: 5520
 
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 2d8692e0-a2f9-4edc-9a26-421aeac4a85a
 ---

@@ -2,7 +2,7 @@
 title: Building a Workspace project from scratch
 description: Ready to start building your own projects? Learn how to build an Analytics Workspace project from scratch, including how to construct a table, attach a visualization and more.
 feature: Workspace Basics
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334076.jpg

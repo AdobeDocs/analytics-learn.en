@@ -8,7 +8,7 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23232.jpg
 kt: 1699
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 ---

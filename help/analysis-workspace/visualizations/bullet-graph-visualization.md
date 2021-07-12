@@ -5,7 +5,7 @@ feature: Visualizations
 activity: use
 doc-type: feature video
 kt: 2116
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg

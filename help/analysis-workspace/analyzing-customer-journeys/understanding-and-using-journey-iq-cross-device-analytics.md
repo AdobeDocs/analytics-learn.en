@@ -8,7 +8,7 @@ doc-type: article
 team: Technical Marketing
 kt: 4138
 
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
 ---

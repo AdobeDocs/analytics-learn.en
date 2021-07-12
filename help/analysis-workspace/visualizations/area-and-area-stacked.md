@@ -2,7 +2,7 @@
 title: Area and Area Stacked
 description: In this video, see how to add Area and Area Stacked visualizations to your project in Analysis Workspace, and learn a few tips to help customize the visualizations for your needs.
 feature: Visualizations
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334261.jpg

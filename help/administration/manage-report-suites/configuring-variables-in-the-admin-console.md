@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 3582
 
 topic: Administration
-role: "Administrator, Architect"
+role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
 ---

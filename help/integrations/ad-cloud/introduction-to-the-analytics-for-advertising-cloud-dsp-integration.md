@@ -8,7 +8,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: 2913
 topic: Integrations
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 66fb50e7-6500-4b16-beab-7ceac17f9245
 ---

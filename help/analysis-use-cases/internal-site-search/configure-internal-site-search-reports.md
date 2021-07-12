@@ -2,7 +2,7 @@
 title: Configure internal site search reports
 description: Create and configure freeform tables in Analysis Workspace in order to analyze internal search functionality on your site.
 feature: Use Cases
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333607.jpg

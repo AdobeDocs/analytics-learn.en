@@ -2,7 +2,7 @@
 title: Scatterplot visualization
 description: With this visualization, you can see the relationship between multiple metrics for your dimensions, graphing the items out on a X/Y plot. Discover outliers and insights to help you make business decisions.
 feature: Visualizations
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334459.jpg

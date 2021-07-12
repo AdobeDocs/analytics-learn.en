@@ -7,7 +7,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1905
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: f99a92a0-868b-476e-8cba-cb610b050435
 ---

@@ -9,7 +9,7 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 24041.jpg
 kt: 2281
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
 ---

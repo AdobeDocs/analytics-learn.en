@@ -2,7 +2,7 @@
 title: Using the Donut visualization
 description: In this video, learn how to add and configure the Donut visualization in your Analysis Workspace project.
 feature: Visualizations
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334309.jpg

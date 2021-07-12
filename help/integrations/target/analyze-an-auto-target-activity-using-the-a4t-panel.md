@@ -3,7 +3,7 @@ title: Analyze an Auto-Target Activity using the A4T Panel
 description: The Analytics for Target (A4T) panel lets you analyze your Adobe Target activities and experiences. In this video, you will learn how to use the Analytics for Target panel to visualize results of an Auto-Target test.
 feature: Experience Cloud Integration
 topic: Integrations
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333270.jpg

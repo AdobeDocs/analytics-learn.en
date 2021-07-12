@@ -2,7 +2,7 @@
 title: Map Web SDK variables into Adobe Analytics
 description: Learn how to map analytics variables from the Web SDK through to Adobe Analytics using Processing Rules.
 feature: Use Cases
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333606.jpg

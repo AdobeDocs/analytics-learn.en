@@ -2,7 +2,7 @@
 title: Treemap visualization
 description: Learn how to add and configure the Treemap visualization in your Analysis Workspace project. This visualization can help you visually analyze a lot of data points at once.
 feature: Visualizations
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334458.jpg

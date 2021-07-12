@@ -2,7 +2,7 @@
 title: Implement internal search variables using Web SDK
 description: Learn how to use the Web SDK to implement analytics variables for an internal search term tracking use case. See the flow of data from the page to the Experience Edge, and then to Adobe Analytics.
 feature: Use Cases
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333605.jpg

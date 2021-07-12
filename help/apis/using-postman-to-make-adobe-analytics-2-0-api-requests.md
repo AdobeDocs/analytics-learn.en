@@ -7,7 +7,7 @@ activity: use
 doc-type: technical video
 team: Technical Marketing
 kt: 2387
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
 exl-id: 0b0e73f8-921d-40ad-b93d-98a1cbc020c8
 ---

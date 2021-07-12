@@ -8,7 +8,7 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4382
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 ---

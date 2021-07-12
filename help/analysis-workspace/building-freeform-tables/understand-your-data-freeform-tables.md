@@ -2,7 +2,7 @@
 title: Understand your data--Freeform Tables
 description: Use a freeform table (pivot table) to understand and interpret your data to find valuable insights.
 feature: Freeform Tables
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334093.jpg
