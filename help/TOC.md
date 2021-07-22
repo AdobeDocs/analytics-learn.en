@@ -113,7 +113,7 @@ solution: Analytics
     + [Line Visualization](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
     + [Adding Trend Lines to Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
     + [Map Visualization](analysis-workspace/visualizations/map-visualization.md)
-    + [Summary Number and Summary Change Visualizations](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+    + [Summary Number and Summary Change Visualizations](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
     + [Text Visualization](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
     + [Scatterplot Visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
     + [Treemap Visualization](analysis-workspace/visualizations/treemap-visualization.md)
