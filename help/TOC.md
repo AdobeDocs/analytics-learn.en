@@ -126,7 +126,7 @@ solution: Analytics
     + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
     + [Positive-Negative Map Theme](analysis-workspace/visualizations/positive-negative-map-theme.md)
     + [Rearranging and Resizing Visualizations](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-    + [Series Label Editing](analysis-workspace/visualizations/series-label-editing.md)
+    + [Customize visualization legends](analysis-workspace/visualizations/customize-visualization-legends.md)
     + [100% Stacked Visualizations](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
     + [Table Data Source Settings](analysis-workspace/visualizations/table-data-source-settings.md)
     + [Build a Time-Parting Heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
