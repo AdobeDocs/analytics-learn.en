@@ -2,19 +2,17 @@
 title: Venn Diagram Visualization in Analysis Workspace
 description: You can visually show overlap and intersection of segments in Analysis Workspace using the Venn diagram visualization. It's easy to create stunning, insightful Venn diagrams in a matter of seconds. This video will show you how.
 feature: Visualizations
-topics: 
-activity: use
 doc-type: feature video
-team: Technical Marketing
 kt: 2118
 role: User
 level: Beginner
+thumbnail: 335798.jpg
 exl-id: 655034a6-42b9-4437-961b-02ad3da57d83
 ---
-# [!UICONTROL Venn] Diagram [!UICONTROL Visualization] in Analysis Workspace {#venn-diagram-visualization-in-analysis-workspace}
+# Venn Diagram Visualization in Analysis Workspace
 
-You can visually show overlap and intersection of [!UICONTROL segments] in Analysis Workspace using the [!UICONTROL Venn] diagram [!UICONTROL visualization]. It's easy to create stunning, insightful [!UICONTROL Venn] diagrams in a matter of seconds. This video will show you how.
+You can visually show overlap and intersection of segments in Analysis Workspace using the Venn diagram visualization. It's easy to create stunning, insightful Venn diagrams in a matter of seconds. This video will show you how.
 
->[!VIDEO](https://video.tv.adobe.com/v/23987/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12)
 
 For more information on this feature, go to the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/venn.html).
