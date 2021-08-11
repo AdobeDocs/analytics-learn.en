@@ -15,4 +15,4 @@ kt: KT-8466
 Incorrect or missing Linked IMS ID in Adobe Analytics can lead to login issues for the users. Users can check the Linked IMS ID themselves and contact customer support for any issues, thus saving the hassle of performing common troubleshooting steps.
 
 
->[!VIDEO](https://publish.tv.adobe.com/bucket/1/category/5571/video/335749/)
+>[!VIDEO](https://video.tv.adobe.com/v/335749/?quality=12&learn=on)

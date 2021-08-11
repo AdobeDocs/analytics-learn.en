@@ -15,4 +15,4 @@ kt: KT-8436
 Creating a data feed allows Adobe to know where to send raw data files, and what you would like to include in each file. SFTP support for data feeds is available in Analytics. It requires an SFTP host, username, and the destination site to contain a valid RSA or DSA public key. You can download the appropriate public key when creating the feed.
 
 
->[!VIDEO](https://publish.tv.adobe.com/bucket/1/category/5561/video/335739/)
+>[!VIDEO](https://video.tv.adobe.com/v/335739/?quality=12&learn=on)

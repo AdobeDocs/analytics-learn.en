@@ -15,4 +15,4 @@ kt: KT-8464
 At times, you may need to contact Adobe in case of a failed data feed delivery or with a request to resend a data feed file. It becomes convenient for customer support team to handle such requests if the Data feed ID is provided by the customer.
 
 
->[!VIDEO](https://publish.tv.adobe.com/bucket/1/category/5568/video/335747/)
+>[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)

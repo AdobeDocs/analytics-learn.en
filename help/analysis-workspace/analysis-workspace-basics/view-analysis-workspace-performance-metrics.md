@@ -15,4 +15,4 @@ kt: KT-8456
 Various factors can influence the performance of a project within Analysis Workspace. Using the Performance option, you can see factors that impact your project’s performance, including network, browser, and project factors.
 
 
->[!VIDEO](https://publish.tv.adobe.com/bucket/1/category/5559/video/335737/)
+>[!VIDEO](https://video.tv.adobe.com/v/335737/?quality=12&learn=on)

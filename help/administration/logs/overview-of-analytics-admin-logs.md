@@ -15,4 +15,4 @@ kt: KT-8457
 Log files to help you see when users log in, their usage, access, report suites, and Admin changes. The admin log reports all changes made by administrators in admin tools. The log provides a gateway to user-defined reports from any of the three logs. 
 
 
->[!VIDEO](https://publish.tv.adobe.com/bucket/1/category/5558/video/335735/)
+>[!VIDEO](https://video.tv.adobe.com/v/335735/?quality=12&learn=on)

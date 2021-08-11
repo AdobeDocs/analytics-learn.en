@@ -15,4 +15,4 @@ kt: KT-8465
 Data feed UI in Adobe Analytics makes data feed management much easier. If you have the access to manage data feed, you can rerun a data feed job on your own using the data feed UI, without having the customer support team to resend the recent data feed files.
 
 
->[!VIDEO](https://publish.tv.adobe.com/bucket/1/category/5570/video/335748/)
+>[!VIDEO](https://video.tv.adobe.com/v/335748/?quality=12&learn=on)

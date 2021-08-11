@@ -15,4 +15,4 @@ kt: KT-8462
 Adobe attempts to partner with clients to ensure that a high-traffic event is successful. Scheduling traffic spikes is the starting point in that partnering process. The Schedule Spike section lets you alert Adobe of temporary traffic spikes so that appropriate resources can be allocated to handle them.
 
 
->[!VIDEO](https://publish.tv.adobe.com/bucket/1/category/5566/video/335744/)
+>[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)

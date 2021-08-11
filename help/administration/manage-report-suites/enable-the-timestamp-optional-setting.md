@@ -15,4 +15,4 @@ kt: KT-8455
 Timestamps Optional allows us to mix timestamped and non-timestamped data in the same global report suite, send timestamped data from a mobile app to a global report suite and upgrade apps to use offline tracking without having to create a new report suite.
 
 
->[!VIDEO](https://publish.tv.adobe.com/bucket/1/category/5562/video/335740/)
+>[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)
