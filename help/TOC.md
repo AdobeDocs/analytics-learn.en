@@ -56,6 +56,7 @@ solution: Analytics
     + [Component Management in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
     + [Using Component Managers](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
     + [Selecting a Report Suite in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+    + [View Analysis Workspace performance metrics](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
   + Tips and Tricks {#tips-and-tricks}
     + [7 Tips and Tricks for Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
     + [Tips to Increase Productivity in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -205,9 +206,14 @@ solution: Analytics
 + Reports and Analytics {#reports-and-analytics}
   + [Real-time Reporting in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
+  + Company Settings {#company-settings}
+    + [Enforce Email Domain Restrictions](administration/company-settings/enforce-email-domain-restrictions.md)
+    + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
   + User Management {#user-management}
     + [Adding an Administrator to Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
     + [Limit Report Suite Access in the Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+    + [Transfer user assets to a different user](administration/user-management/transfer-user-assets-to-a-different-user.md)
+    + [Check Linked IMS ID to prevent login issues](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
   + Manage Report Suites {#manage-report-suites}
     + [How to Configure General Account Settings](administration/manage-report-suites/configuring-general-account-settings.md)
     + [Customize Calendar Settings](administration/manage-report-suites/customize-calendar-settings.md)
@@ -216,13 +222,17 @@ solution: Analytics
     + [Set Internal URL Filters](administration/manage-report-suites/set-internal-url-filters.md)
     + [Configuring Zip and Postal Code Settings](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
     + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+    + [Enable the Timestamp Optional setting](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+    + [Configure bot rules in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
   + Data Governance and GDPR {#data-governance-and-gdpr}
     + [Data Governance and GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
     + [Getting the Right People on Your Analytics Team](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
   + Traffic Management {#traffic-management}
     + [Server Call Usage](administration/traffic-management/server-call-usage.md)
+    + [Manage an upcoming traffic spike](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
   + Logs{#logs}
     + [Usage Log Tracking for Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+    + [Overview of Analytics admin logs](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementation {#implementation}
   + Implementation Basics {#implementation-basics}
     + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
@@ -305,8 +315,13 @@ solution: Analytics
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
   + Data Warehouse {#data-warehouse}
     + [Introduction to Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
+    + [Send Data Warehouse request via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
   + Data Feeds {#data-feeds}
     + [Data Feeds Management UI](exporting/data-feeds/data-feeds-management-ui.md)
+    + [Download the Data feed authentication key](exporting/data-feeds/download-the-data-feed-authentication-key.md)
+    + [Find your Data Feed ID](exporting/data-feeds/find-your-data-feed-id.md)
+    + [Rerun a Data Feed job](exporting/data-feeds/rerun-a-data-feed-job.md)
+   
   + Report Builder {#report-builder}
     + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
     + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
