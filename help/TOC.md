@@ -315,12 +315,13 @@ solution: Analytics
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
   + Data Warehouse {#data-warehouse}
     + [Introduction to Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
+    + [Send Data Warehouse request via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
   + Data Feeds {#data-feeds}
     + [Data Feeds Management UI](exporting/data-feeds/data-feeds-management-ui.md)
     + [Download the Data feed authentication key](exporting/data-feeds/download-the-data-feed-authentication-key.md)
     + [Find your Data Feed ID](exporting/data-feeds/find-your-data-feed-id.md)
     + [Rerun a Data Feed job](exporting/data-feeds/rerun-a-data-feed-job.md)
-    + [Send Data Warehouse request via SFTP](exporting/data-feeds/send-data-warehouse-request-via-sftp.md)
+   
   + Report Builder {#report-builder}
     + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
     + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
