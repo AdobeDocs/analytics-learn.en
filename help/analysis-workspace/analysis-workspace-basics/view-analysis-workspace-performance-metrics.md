@@ -3,7 +3,7 @@ title: View Analysis Workspace performance metrics
 description: Various factors can influence the performance of a project within Analysis Workspace. Using the Performance option, you can see factors that impact your project’s performance, including network, browser, and project factors.
 feature: Analysis Workspace
 topic: Administration 
-role: Business User, Admin
+role: User, Admin
 level: Intermediate
 doc-type: feature video
 thumbnail: 335737.jpg

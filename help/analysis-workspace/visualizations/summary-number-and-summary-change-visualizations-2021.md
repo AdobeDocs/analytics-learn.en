@@ -2,7 +2,7 @@
 title: Summary number and Summary change visualizations
 description: This video walks through how to add and configure the Summary number and Summary change visualizations in Analysis Workspace. These visualizations provide you with a big number so that you can display your most important metrics right where everyone can see them.
 feature: Visualizations
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 335564.jpg
