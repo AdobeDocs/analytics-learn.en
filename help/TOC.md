@@ -129,9 +129,8 @@ solution: Analytics
     + [Rearranging and Resizing Visualizations](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
     + [Customize visualization legends](analysis-workspace/visualizations/customize-visualization-legends.md)
     + [100% Stacked Visualizations](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-    + [Table Data Source Settings](analysis-workspace/visualizations/table-data-source-settings.md)
+    + [Table and Visualization Data Source Settings](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
     + [Build a Time-Parting Heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-    + [Visualization Data Source Settings](analysis-workspace/visualizations/visualization-data-source-settings.md)
   + Applying Segments {#applying-segments}
     + [Applying Segments to your Analysis Workspace project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
     + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
