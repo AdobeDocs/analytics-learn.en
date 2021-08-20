@@ -10,70 +10,79 @@ hidefromtoc: yes
 
 # Experience League LIVE
 
-Experience League LIVE is a live streaming show produced by the Experience League team, and provides you with actionable tips, tricks, and strategies you can apply in Experience Cloud applications, application services, and Adobe Experience Platform.
+## Join us for the next episode !
 
-## Next episode: Experience Platform and Real-time CDP!
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="clicking will direct you to the YouTube lobby for Experience League Live" src="assets/1440x492.png" /></a>
 
-![next episode](assets/exl-live-ep2-after-2.jpg)
-*Guests:* Aaron Shields, Yaya Wang, Andres Monroy
-***MARK THE DATE!*** Coming on Thursday, **August 26th** at **9am** Pacific Time
+Experience League LIVE is a live streaming show produced by the Experience League team.  It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
-## Upcoming episodes
 
-Get excited about the following upcoming episodes of Experience League LIVE!
+## Upcoming Experience League LIVE events!
 
 <table>
 <tr>
   <td>
-    <img height=113 width=200 alt="Adobe Campaign Logo" src="assets/AdobeCampaignLogo.jpg" />
+      <img alt="Content Services" src="./assets/journeys.png" />
+     <div>
+          <strong>Customer Journeys</strong>
+     </div>
+     <div>
+          <em>September 2021</em>
+     </div>
+    <p>
+    <em>Learn from product experts about building experiences that adapt to customers in real time</em>
+    <p>
   </td>
   <td>
-    <strong><img height=113 width=200 alt="Adobe AEM Logo" src="assets/aem-logo.png" /></strong>
+      <img alt="Content Services" src="./assets/content.png" />
+     <div>
+          <strong>Content and Commerce</strong>
+     <div>
+          <em>October 2021</em>
+     </div>
+     </div>
+    <p>
+    <em>Learn how to create and manage content at scale and build personalized commerce experiences</em>
+    <p>
   </td>
   <td>
-    <strong><img height=113 width=200 alt="Adobe Campaign Logo" src="assets/platform-logo.jpeg" /></strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    <strong>Application:</strong> Adobe Campaign<br/>
-    <strong>Date:</strong> Sept 2021<br/>
-    <strong>Topic:</strong> TBD<br/>
-    <strong>Guests:</strong> TBD
-  </td>
-  <td>
-    <strong>Application:</strong> Adobe Experience Manager<br/>
-    <strong>Date:</strong> Oct 2021<br/>
-    <strong>Topic:</strong> TBD<br/>
-    <strong>Guests:</strong> TBD
-  </td>
-  <td>
-    <strong>Application:</strong> Adobe Experience Platform<br/>
-    <strong>Date:</strong> Nov 2021<br/>
-    <strong>Topic:</strong> TBD<br/>
-    <strong>Guests:</strong> TBD
+      <img alt="Content Services" src="./assets/platform.png" />
+     <div>
+          <strong>Experience Platform</strong>
+     </div>
+     <div>
+          <em>December 2021</em>
+     </div>    
+    <p>
+    <em>Learn from product experts about building experiences that adapt to customers in real time</em>
+    <p>
   </td>
 </tr>
 </table>
 
-## Replays of past episodes
 
-Did you miss an episode of Experience League LIVE? We forgive you. Here are links so that you can watch past episodes.
+## Past episodes
+
+Did you miss an episode of Experience League LIVE? We forgive you. Check out any of our past episodes!
 
 <table>
 <tr>
+  
   <td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
       <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
-    </a><br/>
-    <b>Host:</b> <i>Doug</i><br/>
-    <b>Guests:</b> <i>Eric Matisoff and Dasha Fitzpatrick</i><br/>
-    <b>Aired:</b> <i>July 29,2021</i>
-
+    </a>
+     <div>
+          <strong>Guests</strong> : <i>Eric Matisoff and Dasha Fitzpatrick</i>
+     </div>
+     <div>
+          <em>July 29, 2021</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
   </td>
-  
 </tr>
-
 </table>
 
 >[!TIP]
