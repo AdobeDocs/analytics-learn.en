@@ -18,4 +18,4 @@ In this video, learn how to use Adobe Analytics dashboards (mobile app) to acces
 
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12)
 
-For more information, please see the [documentation](https://docs.adobe.com/help/en/analytics/analyze/mobapp/home.html).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).

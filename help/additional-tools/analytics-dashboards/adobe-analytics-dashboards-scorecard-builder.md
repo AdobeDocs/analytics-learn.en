@@ -18,4 +18,4 @@ exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
 
 >[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12)
 
-For more information, please see the [documentation](https://docs.adobe.com/help/en/analytics/analyze/mobapp/home.html).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).

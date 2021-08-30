@@ -19,4 +19,4 @@ Under [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access], you 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/help/en/analytics/admin/admin-tools/logs.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en).
