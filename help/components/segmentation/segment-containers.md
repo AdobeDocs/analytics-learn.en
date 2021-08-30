@@ -17,4 +17,3 @@ This video shows how to work with the three different [!UICONTROL segment] [!UIC
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).

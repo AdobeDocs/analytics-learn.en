@@ -20,4 +20,4 @@ Analysis Workspace gives you a head start on your analysis with [!DNL Standard T
 
 >[!VIDEO](https://video.tv.adobe.com/v/23960/?quality=12)
 
-[!DNL Standard Templates] are fully customizable and sharable templates, designed around common business topics with beautiful, intuitive visualizations to make insights a whole lot easier to find. For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/starter_projects.html).
+[!DNL Standard Templates] are fully customizable and sharable templates, designed around common business topics with beautiful, intuitive visualizations to make insights a whole lot easier to find. For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=en).

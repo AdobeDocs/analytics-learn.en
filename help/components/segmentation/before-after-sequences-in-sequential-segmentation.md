@@ -17,4 +17,3 @@ This video explains how to [!UICONTROL segment] in Adobe Analytics so that you g
 
 >[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).

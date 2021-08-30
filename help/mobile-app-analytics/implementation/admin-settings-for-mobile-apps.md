@@ -18,4 +18,4 @@ Learn how to setup Mobile App reporting in Adobe Analytics, including [!UICONTRO
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/mobile/gs.html).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en).

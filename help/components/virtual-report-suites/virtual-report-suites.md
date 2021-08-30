@@ -17,4 +17,4 @@ Adobe Analytics allows you to create "[!UICONTROL Virtual Report Suites]" for yo
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/reference/vrs-about.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=en).

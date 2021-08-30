@@ -19,4 +19,4 @@ You can change the [!UICONTROL color palette] used in [!UICONTROL Analysis Works
 
 We offer 5 OOTB palettes, as well as the ability to specify your own unique color string. Colors will affect all categorical visualizations in [!UICONTROL Analysis Workspace]. The only excluded [!UICONTROL visualizations] are [!UICONTROL Summary Change], conditional formatting in [!UICONTROL freeform tables], entries/exits in [!UICONTROL Flow], and [!UICONTROL Map].
 
-For more information, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/color_palettes.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/color-palettes.html?lang=en).

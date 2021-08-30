@@ -18,4 +18,4 @@ In this video, you will learn how to use dates, [!UICONTROL date ranges], and da
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).

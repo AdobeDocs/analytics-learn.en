@@ -15,4 +15,4 @@ You can visually show overlap and intersection of segments in Analysis Workspace
 
 >[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12)
 
-For more information on this feature, go to the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/venn.html).
+For more information on this feature, go to the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en).

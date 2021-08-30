@@ -17,4 +17,4 @@ This video shows you how you can use [!UICONTROL Report Builder] to add segments
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/arb/index.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=en).

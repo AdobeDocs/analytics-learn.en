@@ -32,7 +32,7 @@ Project views will be the best indication of whether or not your users are using
 
 ## Additional resources {#additional-resources}
 
-* [More information on logs](https://marketing.adobe.com/resources/help/en_US/reference/logs.html)
+* [More information on logs](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [Download demo dashboard](https://adobe.ly/2ygP5ws)
 
 WHAT'S NEXT: We are working toward presenting this information in a friendly UI (and with more detail) within [!DNL Analytics] soon.

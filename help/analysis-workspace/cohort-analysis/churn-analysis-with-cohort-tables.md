@@ -18,4 +18,4 @@ exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
 
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/cohort_analysis.html).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

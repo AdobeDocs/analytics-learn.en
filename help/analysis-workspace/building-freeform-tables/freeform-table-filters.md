@@ -20,6 +20,6 @@ Filters provide more control over what rows of data are shared in a [!DNL freefo
 
 In Analysis Workspace, we now offer more filtering control, with 11 filter criteria & AND/OR operators.
 
-For more information on the filters available, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/pagination_filtering_sorting.html).
+For more information on the filters available, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en).
 
 **Note:** Advanced special characters are not available in Analysis Workspace.

@@ -25,4 +25,4 @@ Sections in this video:
 
 4:05 - Using VRS in Analysis Workspace
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/reference/vrs-components.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=en).

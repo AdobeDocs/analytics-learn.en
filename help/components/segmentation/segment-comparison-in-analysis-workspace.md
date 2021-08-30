@@ -17,4 +17,4 @@ Understanding the true differences between marketing segments has always been a 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12)
 
-For more information on this feature, see the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/segment-comparison.html).
+For more information on this feature, see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=en).

@@ -19,4 +19,4 @@ This video walks through [!UICONTROL Contribution Analysis] and its ability to u
 
 [!UICONTROL Contribution Analysis] is available in Analysis Workspace for customers of Adobe Analytics Premium.
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/anomaly_detection.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

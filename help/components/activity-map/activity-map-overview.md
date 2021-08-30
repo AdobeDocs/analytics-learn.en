@@ -17,4 +17,4 @@ exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/activitymap/).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=en).

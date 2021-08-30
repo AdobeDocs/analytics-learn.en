@@ -17,4 +17,4 @@ This video will walk you through Data Governance and how data labeling fits into
 
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/gdpr/).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=en).

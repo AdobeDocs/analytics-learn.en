@@ -17,4 +17,4 @@ exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
 
-For more information on this feature, visit [the documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/histogram.html).
+For more information on this feature, visit [the documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=en).

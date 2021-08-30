@@ -18,4 +18,4 @@ exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html)

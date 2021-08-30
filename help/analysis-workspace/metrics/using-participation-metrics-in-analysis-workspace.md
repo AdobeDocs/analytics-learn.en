@@ -18,4 +18,4 @@ Use this simple trick to get any participation metric in Analysis Workspace anyt
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-For more information, please see the [documentation](https://docs.adobe.com/content/help/en/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html).

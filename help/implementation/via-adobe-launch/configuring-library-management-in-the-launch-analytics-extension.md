@@ -21,6 +21,6 @@ For additional information related to the aspects of this use case, see the foll
 
 [Zip and Postal Codes](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
 
-[Classifications](https://docs.adobe.com/content/help/en/analytics/components/classifications/c-classifications.html)
+[Classifications](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

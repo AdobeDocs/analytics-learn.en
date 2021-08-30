@@ -43,5 +43,3 @@ Here is the sample code used on the custom link in the video:
     Click here to share on FaceBook
 </a>
 ```
-
-For more information on custom links, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/sc/implement/function_tl.html).

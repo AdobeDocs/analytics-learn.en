@@ -17,4 +17,4 @@ In this video, learn about [!UICONTROL dimensions] and [!UICONTROL metrics], the
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).

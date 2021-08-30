@@ -18,4 +18,4 @@ In this video, learn how to save and export projects for yourself, send projects
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).

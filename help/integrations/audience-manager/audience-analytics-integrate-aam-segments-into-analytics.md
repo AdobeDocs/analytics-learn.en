@@ -21,4 +21,4 @@ exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
 
 Example [!UICONTROL segment] data that can be shared includes: demographic data from 3rd-party data providers, campaign data from ad servers (such as offsite impressions), and onboarded CRM data. This is the 1st productized integration between a DMP and an analytics engine on the market.
 
-For more information on this feature, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
+For more information on this feature, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=en).

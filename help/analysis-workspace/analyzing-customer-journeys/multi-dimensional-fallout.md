@@ -20,4 +20,4 @@ exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
 
 This powerful capability allows you more flexibility in defining the user steps you want to investigate.
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/configuring-interdimensional-fallout.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=en).

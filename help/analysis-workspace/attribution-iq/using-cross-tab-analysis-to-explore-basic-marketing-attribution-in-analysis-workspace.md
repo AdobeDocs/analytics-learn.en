@@ -34,4 +34,4 @@ There are many ways you can take your attribution methodology to the next level 
 * 4:30 - Column settings can be updated in bulk now, instead of 1-by-1. Learn more at 8:45 of the video: [Row and Column Settings in Freeform Tables](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
  
 
-For more information on this topic, please visit the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/attribution/models.html).
+For more information on this topic, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).

@@ -18,4 +18,4 @@ exl-id: 4d754c86-92cd-49cd-91b4-6711fbb61bf7
 
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/time-parting-dimensions.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=en).

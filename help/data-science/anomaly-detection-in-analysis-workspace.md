@@ -17,4 +17,4 @@ Analysis Workspace automatically detects anomalies in your data for any time-ser
 
 >[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
 
-For more information on this feature, visit [the documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/anomaly_detection.html).
+For more information on this feature, visit [the documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

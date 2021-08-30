@@ -19,4 +19,4 @@ exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
 
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
-For more information, see the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html).
+For more information, see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html).

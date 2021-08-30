@@ -17,4 +17,4 @@ This video goes through keyboard shortcut options in Analysis Workspace, to show
 
 >[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12)
 
-For more information on this feature, go to the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/fa_shortcut_keys.html).
+For more information on this feature, go to the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html?lang=en).

@@ -19,4 +19,4 @@ Filters (or tags) are a quick and easy way to filter the left rail in Analysis W
 
 >[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

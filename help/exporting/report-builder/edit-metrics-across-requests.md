@@ -19,4 +19,4 @@ You can now edit [!UICONTROL metrics] across multiple [!UICONTROL Report Builder
 
 This functionality is in addition to existing capabilities for editing [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity], and [!UICONTROL segments] across requests. Editing requests in bulk can be done from the right-click menu or “[!UICONTROL Edit Multiple]” in the Manage window.
 
-For more information on this feature, visit [the documentation](https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html).
+For more information on this feature, visit [the documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=en).

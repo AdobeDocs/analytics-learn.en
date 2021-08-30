@@ -26,7 +26,3 @@ Each attribution [!UICONTROL model] fully supports segmentation and breakdowns, 
 * [!DNL Adobe Analytics Select]
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
-
-## Additional Resources {#additional-resources}
-
-* [Feature Documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/attribution.html)

@@ -18,4 +18,4 @@ This video shows updates to the [!DNL Fallout Visualization] that have been high
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/fallout_flow.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

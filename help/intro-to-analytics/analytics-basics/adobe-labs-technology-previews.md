@@ -20,4 +20,4 @@ exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
 
 When using a [!DNL Labs] prototype, you get to evaluate the feature within the context of your own business use cases and data.
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/tech-previews/overview.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html).

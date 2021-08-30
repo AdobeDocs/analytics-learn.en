@@ -24,4 +24,4 @@ Multiple [!UICONTROL report suites] can be analyzed in a single [!DNL Workspace]
 
 Data from multiple [!UICONTROL report suites] cannot be combined in tables, [!UICONTROL segments] or [!UICONTROL calculated metrics] (summed, divided, etc). The best practice for a holistic data approach continues to be sending all hits to a 'global suite'.
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).

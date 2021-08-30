@@ -19,4 +19,4 @@ exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
 
 This feature streamlines the workflow for creating & using [!UICONTROL segments] within [!UICONTROL calculated metrics].
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/calcmetrics/cm_build_metrics.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=en).
