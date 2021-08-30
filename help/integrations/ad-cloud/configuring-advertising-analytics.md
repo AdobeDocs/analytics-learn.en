@@ -20,4 +20,4 @@ This video walks you through a high-level review of how to configure your [!UICO
 
 ## Additional Resources {#additional-resources}
 
-For more information, see the [feature documentation](https://docs.adobe.com/content/help/en/analytics/integration/advertising-analytics/overview.html)
+For more information, see the [feature documentation](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html)

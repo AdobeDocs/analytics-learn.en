@@ -21,4 +21,4 @@ Sections in this video:
 
 2:45 - Using VRS in Analysis Workspace
 
-For more information on this feature, visit [the documentation](https://marketing.adobe.com/resources/help/en_US/reference/vrs-mobile-visit-processing.html).
+For more information on this feature, visit [the documentation](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=en).

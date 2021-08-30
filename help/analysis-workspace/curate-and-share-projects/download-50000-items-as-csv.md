@@ -19,4 +19,4 @@ The Download items as CSV option allows you download up to 50,000 items for a di
 
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
-Learn more in the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+Learn more in the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)

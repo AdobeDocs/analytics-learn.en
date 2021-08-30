@@ -19,4 +19,4 @@ The new [!UICONTROL Distinct Count] operators in the [!UICONTROL Segment builder
 
 Could this feature be any cooler? :)
 
-For more information, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en).

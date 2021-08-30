@@ -17,7 +17,7 @@ Using a data layer for [!DNL Analytics] and other Experience Cloud solutions is 
 
 ## Data Layers {#data-layers}
 
-It is a best practice to use a data layer when working with data on your site and Adobe Experience Cloud solutions, especially with Adobe Analytics. A _data layer_ is a framework of JavaScript objects that developers insert into pages. The data layers can be used by tracking tools (including tag management systems like [!DNL Experience Platform Launch]) to populate reports. Find additional information about data layers in the [Experience Cloud documentation](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) or on the [W3C site](https://www.w3.org/).
+It is a best practice to use a data layer when working with data on your site and Adobe Experience Cloud solutions, especially with Adobe Analytics. A _data layer_ is a framework of JavaScript objects that developers insert into pages. The data layers can be used by tracking tools (including tag management systems like [!DNL Experience Platform Launch]) to populate reports. Find additional information about data layers in the [Experience Cloud documentation](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) or on the [W3C site](https://www.w3.org/).
 
 In addition, see the blog [Data Layers: From Buzzword to Best Practice,](https://theblog.adobe.com/data-layers-buzzword-best-practice/), which gives you some great information about data layers, as well as a couple of examples.
 

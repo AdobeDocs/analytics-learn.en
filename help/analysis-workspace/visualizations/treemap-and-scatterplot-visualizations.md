@@ -17,6 +17,6 @@ Analysis Workspace in Adobe Analytics includes two popular [!UICONTROL visualiza
 
 >[!VIDEO](https://video.tv.adobe.com/v/23988/?quality=12)
 
-For more information on these [!UICONTROL visualizations], go to the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/treemap.html).
+For more information on these [!UICONTROL visualizations], go to the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=en).
 
-For another great [!UICONTROL visualization] you can use in Analysis Workspace, try the [[!UICONTROL Bullet] Graph](https://helpx.adobe.com/analytics/kt/using/bullet-graph-viz-analysis-workspace-feature-video-use.html).
+For another great [!UICONTROL visualization] you can use in Analysis Workspace, try the [[!UICONTROL Bullet] Graph](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bullet-graph-visualization.html?lang=en).

@@ -17,4 +17,4 @@ exl-id: 04af0dc3-3cf3-446d-924c-82f21ee6974c
 
 >[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/intellligent_alerts.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en).

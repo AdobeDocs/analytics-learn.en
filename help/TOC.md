@@ -241,7 +241,7 @@ solution: Analytics
     + [Creating and Maintaining an SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
     + [Using a Data Layer on your Site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
   + Via Experience Platform Launch {#via-adobe-launch}
-    + [Implementing the Experience Cloud in Websites with Experience Platform Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
+    + [Implementing the Experience Cloud in Websites with Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-websites-with-launch/index.html)
     + [Basic Configuration of the Analytics Launch extension](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
     + [Configuring Library Management for Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
     + [Configuring General Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
@@ -378,9 +378,9 @@ solution: Analytics
     + [Initializing and Viewing Lifecycle Metrics with the Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
     + [Tracking Actions (AKA Custom Links)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
     + [Tracking State (AKA Pages or Screens)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-    + [Implement in iOS Swift Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-    + [Implement in iOS Objective-C Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-    + [Implement in Android Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+    + [Implement in iOS Swift Apps](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+    + [Implement in iOS Objective-C Apps](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+    + [Implement in Android Apps](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
   + Measuring Mobile Analytics {#measuring-mobile-analytics}
     + [Getting Started with Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
     + [Impact of Touchpoints Across Mobile Journey](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)

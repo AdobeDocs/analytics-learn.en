@@ -17,4 +17,4 @@ Once you have built a project in Analysis Workspace, you can [!UICONTROL curate]
 
 >[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
 
-For more information on this feature, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/curate.html).
+For more information on this feature, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).

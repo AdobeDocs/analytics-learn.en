@@ -20,6 +20,6 @@ Adobe Analytics now offers a [!UICONTROL People] metric to de-duplicate visitors
 
 If you are a part of [!UICONTROL Device Co-op], you can calculate metrics based on people, not just visitors.
 
-For more information on [!UICONTROL Device Co-op], go to [this documentation](https://marketing.adobe.com/resources/help/en_US/mcdc/).
+For more information on [!UICONTROL Device Co-op], go to [this documentation](https://experienceleague.adobe.com/docs/device-co-op/using/about/overview.html?lang=en).
 
-For more information on [!UICONTROL People] metric, go to [this documentation](https://marketing.adobe.com/resources/help/en_US/mcdc/mcdc-people.html).
+For more information on [!UICONTROL People] metric, go to [this documentation](https://experienceleague.adobe.com/docs/device-co-op/using/data/people.html?lang=en).

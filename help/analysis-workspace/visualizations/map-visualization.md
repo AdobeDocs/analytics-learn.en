@@ -27,4 +27,4 @@ Sections in this video:
 
 7:00 - Heatmap View
 
-For more information on this [!UICONTROL visualization], visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html).
+For more information on this [!UICONTROL visualization], visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).

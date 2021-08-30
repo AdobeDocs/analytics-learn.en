@@ -18,6 +18,3 @@ The [!UICONTROL Ad Hoc Analysis] Project Converter seamlessly converts [!UICONTR
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 
-## Additional Resources {#additional-resources}
-
-* [Feature Documentation](https://marketing.adobe.com/resources/help/en_US/analytics/aha2aw/)

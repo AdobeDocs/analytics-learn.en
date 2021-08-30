@@ -12,7 +12,7 @@ exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 ---
 # Overview
 
-Welcome to the [!DNL Analytics] Tutorials Site.  Using these tutorials along with the [documentation](https://docs.adobe.com/content/help/en/analytics/landing/home.html) will give you a better understanding how to use Adobe Analytics to gain customer insights faster than ever.  To get started, 
+Welcome to the [!DNL Analytics] Tutorials Site.  Using these tutorials along with the [documentation](https://experienceleague.adobe.com/docs/analytics/landing/home.html) will give you a better understanding how to use Adobe Analytics to gain customer insights faster than ever.  To get started, 
 * See the **"What's New"** section below for the latest goodies
 * **Staff Picks** highlights some of our favorite content 
 * Explore the content by topic and subtopic in the **left navigation**

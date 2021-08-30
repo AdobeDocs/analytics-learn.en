@@ -22,8 +22,8 @@ In this use case, we will configure the system to bring in zip codes, classify t
 
 For additional information related to the aspects of this use case, see the following documentation topics:
 
-[Zip and Postal Codes](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html)
+[Zip and Postal Codes](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
-[[!UICONTROL Classifications]](https://marketing.adobe.com/resources/help/en_US/reference/classifications.html)
+[[!UICONTROL Classifications]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)
 
-[Analysis Workspace](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en)

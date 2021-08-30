@@ -17,4 +17,4 @@ This video shows how to use the [!UICONTROL Summary Number] and [!UICONTROL Summ
 
 >[!VIDEO](https://video.tv.adobe.com/v/23992/?quality=12)
 
-For more information on this feature, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/summary-number-change.html).
+For more information on this feature, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=en).

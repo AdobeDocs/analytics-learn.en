@@ -18,4 +18,4 @@ The [!UICONTROL Rolling Calculation] setting within [!UICONTROL Cohort Tables] c
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/cohort_analysis.html).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

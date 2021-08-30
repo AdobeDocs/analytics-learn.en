@@ -19,4 +19,3 @@ The [!DNL Experience Cloud debugger] is a tool that allows users to inspect and 
 
 You will learn how to see what is firing on different pages, load friendly names of variables, and export results for advanced use cases.
 
-For more information, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/experience-cloud-debugger.html).

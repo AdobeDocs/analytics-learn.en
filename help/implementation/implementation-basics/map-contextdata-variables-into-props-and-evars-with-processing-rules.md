@@ -17,4 +17,4 @@ When using [!DNL contextData] variables in your Adobe Analytics implementation, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/reference/processing_rules.html).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en).

@@ -19,4 +19,4 @@ The Line visualization depicts metrics over a trended time period. Visualization
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-Learn more in the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html).
+Learn more in the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html).

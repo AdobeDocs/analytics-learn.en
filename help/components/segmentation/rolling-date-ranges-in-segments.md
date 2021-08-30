@@ -17,4 +17,3 @@ Adobe Analytics allows you to answer questions like "What was my 60-day rolling 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12)
 
-For more information on this feature, visit [the documentation](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).

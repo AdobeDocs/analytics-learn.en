@@ -21,4 +21,4 @@ In this video you will learn how to configure [!UICONTROL zip] and postal code s
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
-For more information about [!UICONTROL zip code] settings, see the [documentation](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html).
+For more information about [!UICONTROL zip code] settings, see the [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).

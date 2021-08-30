@@ -17,4 +17,3 @@ A quick overview and orientation for the [!UICONTROL segment builder] in Adobe A
 
 >[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).

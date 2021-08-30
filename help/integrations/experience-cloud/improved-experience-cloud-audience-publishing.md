@@ -20,6 +20,6 @@ Improvements have been made to Experience Cloud Audience Publishing. You can now
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
 Additionally, the number of [!UICONTROL segments] that can be published at one time has been increased from 20 to 75 per [!UICONTROL report suite].
-For more information, see [Publish segments to the Experience Cloud](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html) in Analytics help. 
+For more information, see [Publish segments to the Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html) in Analytics help. 
 
-Also, read about [Audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html) in Experience Cloud help for information about the [!UICONTROL Audience Library].
+Also, read about [Audiences](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) in Experience Cloud help for information about the [!UICONTROL Audience Library].

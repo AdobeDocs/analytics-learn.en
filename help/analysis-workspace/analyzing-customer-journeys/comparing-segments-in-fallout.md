@@ -18,4 +18,4 @@ This video shows how to compare key workflows across various segments in Analysi
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/compare-segments-fallout.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en).

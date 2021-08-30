@@ -19,4 +19,4 @@ This video shows how to turn on and off label truncation in your [!DNL flow visu
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/flow.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

@@ -19,4 +19,4 @@ exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
 
 You can now drop full [!UICONTROL dimensions] and [!UICONTROL metrics], in addition to the existing support for [!UICONTROL dimension] items, [!UICONTROL date ranges] and [!UICONTROL segments]. Additionally, we've improved how [!UICONTROL dimension] items of "unspecified" and "none" are handled when dropped in the [!UICONTROL segment] drop zone.
 
-For more information on this feature, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).

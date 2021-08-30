@@ -18,4 +18,4 @@ The [!UICONTROL Latency Table] setting in [!UICONTROL Cohort Tables] allows you 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/cohort_analysis.html).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

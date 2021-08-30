@@ -19,4 +19,4 @@ The Algorithmic Attribution model in Analysis Workspace uses statistical techniq
 
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
-For more information, see the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/attribution/algorithmic.html)
+For more information, see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html)

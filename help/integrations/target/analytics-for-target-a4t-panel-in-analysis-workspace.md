@@ -20,4 +20,4 @@ The [!DNL Analytics for Target] (A4T) panel lets you analyze your Adobe Target a
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-Learn more in the [documentation](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html).
+Learn more in the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html).

@@ -21,4 +21,4 @@ The panel drop zone now has drop-down filtering capabilities. Drop-down filters 
 
 Drop-downs are a helpful way for consolidating projects & panels as well. For example, if you have several versions of a project that provides country-specific reporting, you can now collapse those projects into a single project, and add in a country drop-down that users can toggle between.
 
-For more information, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en).

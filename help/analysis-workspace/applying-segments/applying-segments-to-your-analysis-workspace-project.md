@@ -18,4 +18,4 @@ In this video, learn how to limit the data in your tables and visualizations by 
 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html).
