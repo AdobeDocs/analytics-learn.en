@@ -19,7 +19,7 @@ If you are just getting started with Experience Platform Launch, and the Adobe A
 
 For additional information related to the aspects of this use case, see the following documentation topics:
 
-[Zip and Postal Codes](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
+[Zip and Postal Codes](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
 [Classifications](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 
