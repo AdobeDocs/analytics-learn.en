@@ -2,10 +2,8 @@
 title: Granularity Toggle in Analysis Workspace
 description: A granularity selector has been added to trended visualization settings to allow you to very easily adjust your data granularity from minute all the way up to year. The setting will adjust both the graph and the source table, saving you the steps of unhiding and manipulating the table.
 feature: Visualizations
-topics: 
-activity: use
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23548.jpg
 kt: 1770
 role: User
 level: Beginner

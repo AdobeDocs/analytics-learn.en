@@ -2,10 +2,8 @@
 title: Build a Time-Parting Heatmap In Analysis Workspace
 description: Learn how to take your time-parting analysis to the next level by creating a heatmap visualization of behaviors.
 feature: Visualizations
-topics: 
-activity: use
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 26991.jpg
 kt: 2813
 role: User
 level: Beginner

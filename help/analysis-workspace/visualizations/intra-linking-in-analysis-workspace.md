@@ -2,10 +2,8 @@
 title: Intra-linking in Analysis Workspace
 description: Intra-linking allows analysts building projects in Analysis Workspace to drive readers of the project to exact panels and visualizations within the project.
 feature: Visualizations
-topics: 
-activity: use
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23724.jpg
 kt: 1908
 role: User
 level: Beginner

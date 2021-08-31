@@ -2,10 +2,8 @@
 title: 100% Stacked Visualizations In Analysis Workspace
 description: In this video, you will learn how to set your stacked visualizations as percentages instead of only raw values.
 feature: Visualizations
-topics: 
-activity: use
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23131.jpg
 kt: 1670
 role: User
 level: Beginner

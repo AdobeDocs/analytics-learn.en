@@ -2,10 +2,8 @@
 title: Map Visualization in Analysis Workspace
 description: This video shows you how to use the new Map visualization in Analysis Workspace. The Map viz will allow you to view either mobile (lat/long) or web (IP address) data against a dynamic map, allowing you to get an idea of customer usage in the context of their location.
 feature: Visualizations
-topics: 
-activity: use
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23559.jpg
 kt: 1771
 role: User
 level: Beginner
