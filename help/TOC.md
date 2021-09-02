@@ -55,6 +55,7 @@ solution: Analytics
     + [Standard Templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
     + [Using Custom Templates to Enable Novice Analysis Workspace Users](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
     + [Understanding How Data Gets Into Your Analysis Workspace Project](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+    + [Foundational Metrics in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
     + [Component Management in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
     + [Using Component Managers](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
     + [Selecting a Report Suite in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
