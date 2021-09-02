@@ -22,13 +22,15 @@ solution: Analytics
     + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
   + Analytics Basics {#analytics-basics}
     + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-    + [People Metric](intro-to-analytics/analytics-basics/people-metric.md)
     + [Understanding the Analytics Cycle](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
     + [How Analytics Data is Collected](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
     + [Logging in to Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
     + [Intro to the Analytics UI](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
     + [Understanding and Creating Report Suites](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-    + [Adobe Labs (Technology Previews)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+    + [Understanding Basic Visitor Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+    + [Introduction to Traffic Variables (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+    + [Introduction to Conversion Variables (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+    + [Introduction to Conversion Events](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
   + Customizing the UI {#customizing-the-ui}
     + [User Preferences in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
     + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -235,6 +237,7 @@ solution: Analytics
 + Implementation {#implementation}
   + Implementation Basics {#implementation-basics}
     + [First-time Implementation](implementation/implementation-basics/first-time-implementation.md)
+    + [Understanding and Creating Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
     + [Map contextData Variables into Props and Evars with Processing Rules](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
     + [How to Identify Your Analytics Tracking Server and Report Suites](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
     + [Creating a Business Requirements Document](implementation/implementation-basics/creating-a-business-requirements-document.md)
@@ -305,6 +308,7 @@ solution: Analytics
     + [Activity Map Overview](components/activity-map/activity-map-overview.md)
     + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Additional Tools {#additional-tools}
+  + [Adobe Labs (Technology Previews)](additional-tools/adobe-labs-technology-previews.md)
   + Analytics dashboards {#analytics-dashboards}
     + [Adobe Analytics dashboards Scorecard Builder](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
     + [Apply Custom Date Ranges](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
