@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 334309.jpg
 kt: 8130
-
+exl-id: 24f6db24-f8b3-4506-964c-da23e0e0b505
 ---
-
 # Using the Donut visualization
 
 In this video, learn how to add and configure the Donut visualization in your Analysis Workspace project.

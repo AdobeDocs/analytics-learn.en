@@ -6,8 +6,8 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: yes
 hidefromtoc: yes
+exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
 ---
-
 # Experience League LIVE
 
 ## Join us for the next episode !
@@ -87,4 +87,4 @@ Did you miss an episode of Experience League LIVE? We forgive you. Check out any
 
 >[!TIP]
 >
->For additional methods of learning, check out our free [courses](https://experienceleague.adobe.com/#dashboard/learning) as well as individual [tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html). 
+>For additional methods of learning, check out our free [courses](https://experienceleague.adobe.com/#dashboard/learning) as well as individual [tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html).

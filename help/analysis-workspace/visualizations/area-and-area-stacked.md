@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 334261.jpg
 kt: 8113
-
+exl-id: d2d1ff79-0fcc-4de5-872d-8547ed48cf98
 ---
-
 # Area and Area Stacked
 
 In this video, see how to add Area and Area Stacked visualizations to your project in Analysis Workspace, and learn a few tips to help customize the visualizations for your needs.
