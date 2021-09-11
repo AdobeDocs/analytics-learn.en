@@ -1,5 +1,5 @@
 ---
-title: Analytics Videos and Tutorials
+title: Analytics videos and tutorials
 description: A collection of videos and tutorials for Adobe Analytics.
 feature: Analytics Basics
 topics: 
