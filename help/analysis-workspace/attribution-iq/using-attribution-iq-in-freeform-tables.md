@@ -10,7 +10,7 @@ thumbnail: 23136.jpg
 kt: 1661
 role: User
 level: Intermediate
-exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,adf48696-d495-43a3-9421-993434f35962
+exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
 ---
 # Using [!DNL Attribution IQ] in [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
 

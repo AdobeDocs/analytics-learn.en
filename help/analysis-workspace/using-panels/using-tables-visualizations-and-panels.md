@@ -9,7 +9,7 @@ team: Technical Marketing
 kt: 4103
 role: User
 level: Beginner
-exl-id: 38b360d2-ce4a-4442-8a19-366c090eb717,a273d1a8-3b58-4bf2-b683-638d26a1cc4e,a273d1a8-3b58-4bf2-b683-638d26a1cc4e,38b360d2-ce4a-4442-8a19-366c090eb717
+exl-id: 38b360d2-ce4a-4442-8a19-366c090eb717,a273d1a8-3b58-4bf2-b683-638d26a1cc4e
 ---
 # Using Tables, Visualizations, and Panels in Analysis Workspace
 

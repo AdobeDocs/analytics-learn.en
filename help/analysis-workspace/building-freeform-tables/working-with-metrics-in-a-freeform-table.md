@@ -10,7 +10,7 @@ thumbnail: 40817.jpg
 kt: 6291
 role: User
 level: Beginner
-exl-id: f7d282f4-027d-4093-a0b5-8d2c0a053317,0ec8b5ca-379e-45be-b077-514af318f42a,0ec8b5ca-379e-45be-b077-514af318f42a,f7d282f4-027d-4093-a0b5-8d2c0a053317
+exl-id: f7d282f4-027d-4093-a0b5-8d2c0a053317,0ec8b5ca-379e-45be-b077-514af318f42a
 ---
 # Working with Metrics in a Freeform Table
 

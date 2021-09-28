@@ -9,7 +9,7 @@ team: Technical Marketing
 kt: 4388
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-exl-id: c1b8b9de-d47a-44b6-bc3b-d92716d673bb,be2cdcad-01e5-41c2-b91b-3feec9d17d50,be2cdcad-01e5-41c2-b91b-3feec9d17d50,c1b8b9de-d47a-44b6-bc3b-d92716d673bb
+exl-id: c1b8b9de-d47a-44b6-bc3b-d92716d673bb,be2cdcad-01e5-41c2-b91b-3feec9d17d50,
 ---
 # [!DNL Adobe Summit] 2019 Super Session - Travel & Hospitality
 
