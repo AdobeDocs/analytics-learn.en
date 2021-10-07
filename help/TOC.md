@@ -311,6 +311,7 @@ solution: Analytics
   + [Adobe Labs (Technology Previews)](additional-tools/adobe-labs-technology-previews.md)
   + Analytics dashboards {#analytics-dashboards}
     + [Adobe Analytics dashboards Scorecard Builder](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+    + [Visualizations for Mobile Scorecards](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
     + [Apply Custom Date Ranges](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
     + [Analytics dashboards In-App Experience](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exporting {#exporting}

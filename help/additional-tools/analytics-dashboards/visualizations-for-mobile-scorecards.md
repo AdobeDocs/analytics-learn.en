@@ -1,0 +1,18 @@
+---
+title: Visualizations for Mobile Scorecards
+description: When viewing analytics on your mobile device, using the right visualizations is more important than ever. In this video, learn how to add visualizations to mobile scorecard projects.
+feature: Analytics Dashboards
+topic: Mobile
+role: User
+level: Beginner
+doc-type: feature video
+thumbnail: 337570.jpg
+kt: 9126
+
+---
+
+# Visualizations for Mobile Scorecards
+
+When viewing analytics on your mobile device, using the right visualizations is more important than ever. In this video, learn how to add visualizations to mobile scorecard projects.
+
+>[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)
