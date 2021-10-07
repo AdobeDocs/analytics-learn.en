@@ -8,9 +8,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 337570.jpg
 kt: 9126
-
+exl-id: cf9c1f6a-ac07-42f2-be57-305006de86cd
 ---
-
 # Visualizations for Mobile Scorecards
 
 When viewing analytics on your mobile device, using the right visualizations is more important than ever. In this video, learn how to add visualizations to mobile scorecard projects.
