@@ -405,3 +405,4 @@ solution: Analytics
   + [Setting Up In-Market Zip Code Analysis](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University Curriculum](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
++ [Analytics Fundamentals for Business Users has been retired](retired-courses/retire-fundamentals-for-business-users-course.md)
