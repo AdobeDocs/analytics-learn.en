@@ -274,7 +274,6 @@ solution: Analytics
   + Segmentation {#segmentation}
     + [Segment Builder Overview](components/segmentation/segment-builder-overview.md)
     + [Finding and creating segments](components/segmentation/finding-and-creating-segments.md)
-    + [Before/After Sequences in Sequential Segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
     + [Rolling Date Ranges in Segments](components/segmentation/rolling-date-ranges-in-segments.md)
     + [Segment Comparison in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
     + [Segment containers](components/segmentation/segment-containers.md)
@@ -283,6 +282,7 @@ solution: Analytics
     + [Using Segments as Dimensions in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
     + [Using segments to limit data in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
     + [Sequential Segmentation](components/segmentation/sequential-segmentation.md)
+    + [Before/After Sequences in Sequential Segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
     + [Segmentation on Distinct Dimension Counts](components/segmentation/segmentation-on-distinct-dimension-counts.md)
     + [Dimension Models in Segmentation](components/segmentation/dimension-models-in-segmentation.md)
     + [Equals Any Of Operator in Segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
