@@ -1,11 +1,7 @@
 ---
 title: Flow Visualization in Analysis Workspace
-description: This video walks you through the Flow visualization in Analysis Workspace. You can use Flow to show and explore user movement, to better understand your customer journey.
+description: Flow visualizations are used to explore the exact journeys customers have with your brand. Flow can be applied to Pages, Marketing channels, and any other dimension or mix of dimensions that you collect.
 feature: Visualizations
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
 role: User
@@ -14,8 +10,8 @@ exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
 ---
 # [!DNL Flow Visualization] in Analysis Workspace {#flow-visualization-in-analysis-workspace}
 
-This video walks you through the [!DNL Flow visualization] in Analysis Workspace. You can use [!DNL Flow] to show and explore user movement, to better understand your [!DNL customer journey].
+Flow visualizations are used to explore the exact journeys customers have with your brand. Flow can be applied to Pages, Marketing channels, and any other dimension or mix of dimensions that you collect.
 
->[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12&learn=on)
 
-For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en).
