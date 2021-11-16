@@ -376,7 +376,7 @@ solution: Analytics
     + [Adding a Launch Rule for the Purchase Event](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
     + [Summit 2019 Super Session - Retail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
 + Media Analytics {#media-analytics}
-  + Measuring Media Analytics {measuring-media-analytics}
+  + Measuring Media Analytics {#measuring-media-analytics}
     + [Media Playback Time Spent Panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
     + [Using the Audio Consumption Template in Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Mobile App Analytics {#mobile-app-analytics}
