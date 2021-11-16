@@ -81,6 +81,7 @@ solution: Analytics
     + [Quick Insights Panel in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
     + [Using the Attribution IQ Panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
     + [Media Concurrent Viewers Panel in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
+    + [Media Playback Time Spent Panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
     + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
     + [Using Panels to Organize your Analysis Workspace Projects](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
     + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -375,8 +376,9 @@ solution: Analytics
     + [Adding a Launch Rule for the Purchase Event](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
     + [Summit 2019 Super Session - Retail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
 + Media Analytics {#media-analytics}
-  + Measuring Voice or Audio {#measuring-voice-or-audio}
-    + [Using the Audio Consumption Template in Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
+  + Measuring Media Analytics {measuring-media-analytics}
+    + [Media Playback Time Spent Panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+    + [Using the Audio Consumption Template in Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Mobile App Analytics {#mobile-app-analytics}
   + Implementation {#implementation}
     + [Admin Settings for Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
