@@ -1,11 +1,7 @@
 ---
 title: Segment Management and Sharing in Adobe Analytics
-description: This video shows you how to share and manage segments in Adobe Analytics.
+description: You can create great segments, but why keep them to yourself? In this video, you'll learn some tips for sharing and managing your segments, so that you and others can enjoy the goodness.
 feature: Segmentation
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2305
 role: User
 level: Beginner
@@ -13,7 +9,7 @@ exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
 ---
 # [!UICONTROL Segment] Management and Sharing in Adobe Analytics {#segment-management-and-sharing-in-adobe-analytics}
 
-This video shows you how to share and manage [!UICONTROL segments] in Adobe Analytics.
+You can create great segments, but why keep them to yourself? In this video, you'll learn some tips for sharing and managing your segments, so that you and others can enjoy the goodness.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12)
 
