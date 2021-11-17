@@ -11,6 +11,6 @@ exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
 
 You can create great segments, but why keep them to yourself? In this video, you'll learn some tips for sharing and managing your segments, so that you and others can enjoy the goodness.
 
->[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=en).
