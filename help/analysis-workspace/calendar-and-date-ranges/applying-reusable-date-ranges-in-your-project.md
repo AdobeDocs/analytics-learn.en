@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 338293.jpg
 kt: 9293
-
+exl-id: a49b4bf3-a28e-4125-a8f9-d46f5531affa
 ---
-
 # Applying reusable date ranges in your project
 
 Using custom dates and date ranges in your product can help you hone in on just information that tells your data story. In this video we explore a few places where you can use date ranges in your Analysis Workspace project.

@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 338699.jpg
 kt: 9379
-
+exl-id: 100f33bb-9a2f-4181-835b-16537e02cd80
 ---
-
 # Media Playback Time Spent Panel
 
 The Media Playback Time Spent Panel enables media users to understand their viewership by the amount of time viewed during the day over a chosen granularity. You can also "zoom in" on a period of the day or create sequential time segments to clearly show the lead in and out of portions through the day.
