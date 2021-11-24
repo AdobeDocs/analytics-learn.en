@@ -287,6 +287,7 @@ solution: Analytics
     + [Segmentation on Distinct Dimension Counts](components/segmentation/segmentation-on-distinct-dimension-counts.md)
     + [Dimension Models in Segmentation](components/segmentation/dimension-models-in-segmentation.md)
     + [Equals Any Of Operator in Segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
+    + [Analytics Insider Webinar - Customer Segmentation Strategies](components/segmentation/customer-segmentation-strategies.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
