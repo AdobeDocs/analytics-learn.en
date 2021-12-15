@@ -3,7 +3,7 @@ title: Configure Paid Search Detection
 description: Learn how to walk through the configuration of the Paid Search Detection section in the Adobe Analytics admin console, including some recommendations.
 feature: Admin Tools
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 339302.jpg
