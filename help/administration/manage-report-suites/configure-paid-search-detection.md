@@ -8,9 +8,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 339302.jpg
 kt: 9493
-
+exl-id: 21a12c5e-0313-4169-bf0b-f0d21202dd64
 ---
-
 # Configure Paid Search Detection
 
 Learn how to walk through the configuration of the Paid Search Detection section in the Adobe Analytics admin console, including some recommendations.
