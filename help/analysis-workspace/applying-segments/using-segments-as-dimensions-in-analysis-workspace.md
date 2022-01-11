@@ -7,6 +7,7 @@ activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
+thumbnail: 23974.jpg
 kt: 2009
 role: User
 level: Beginner

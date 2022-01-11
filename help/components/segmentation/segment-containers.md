@@ -3,7 +3,7 @@ title: Segment containers in Adobe Analytics
 description: When building segments, the hit, visit, and visitor containers control how much data your segment will contain. In this video, learn how to use the containers and hear some examples of each.
 feature: Segmentation
 kt: 2301
-thumbnail: 2301.jpg
+thumbnail: 25401.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914

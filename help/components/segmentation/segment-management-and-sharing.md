@@ -2,6 +2,7 @@
 title: Segment Management and Sharing in Adobe Analytics
 description: You can create great segments, but why keep them to yourself? In this video, you'll learn some tips for sharing and managing your segments, so that you and others can enjoy the goodness.
 feature: Segmentation
+thumbnail: 25402.jpg
 kt: 2305
 role: User
 level: Beginner

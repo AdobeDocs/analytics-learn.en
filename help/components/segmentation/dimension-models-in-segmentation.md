@@ -2,9 +2,7 @@
 title: Dimension Models in Segmentation
 description: Dimension models are available through the gear for any dimension in segmentation. These models are primarily helpful for sequential segmentation, and allow you to segment for persisted values of a dimension (default), instances, or non-repeating instances of a dimension.
 feature: Segmentation
-topics: 
-activity: use
-doc-type: feature video
+thumbnail: 32958.jpg
 team: Technical Marketing
 kt: 4846
 

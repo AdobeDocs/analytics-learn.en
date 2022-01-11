@@ -6,6 +6,7 @@ topics:
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23976.jpg
 kt: 2103
 role: User
 level: Beginner

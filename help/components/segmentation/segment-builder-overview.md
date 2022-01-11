@@ -4,6 +4,7 @@ description: Slice and dice your data with segmentation in Adobe Analytics. This
 feature: Segmentation
 activity: use
 doc-type: feature video
+thumbnail: 25404.jpg
 kt: 2300
 role: User
 level: Beginner
