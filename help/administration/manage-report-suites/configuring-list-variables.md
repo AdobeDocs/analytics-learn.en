@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 339450.jpg
 kt: 9527
-
+exl-id: cb073b69-cf1b-4602-82d0-7fcc180a6e5d
 ---
-
 # Configuring List Variables
 
 When you need to put more than one value into an eVar (a conversion variable) at one time, what are you going to do? List variables to the rescue! In this video, learn how and why to configure and use list variables in Adobe Analytics.

@@ -7,9 +7,8 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 339440.jpg
 kt: 9529
-
+exl-id: 630864be-b60e-4ed0-b675-77bd20567ec1
 ---
-
 # Manipulating incoming data with Processing Rules
 
 It can be very useful to be able to manipulate the data that is coming into your report suites, to add or change the data based on what is already flowing in. This video gives an overview of Processing Rules in Adobe Analytics and discusses what they are used for. It also includes some tips, examples, and even a warning.
