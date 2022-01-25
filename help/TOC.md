@@ -223,6 +223,7 @@ solution: Analytics
     + [Customize Menus in Reports & Analytics](administration/manage-report-suites/customize-menus.md)
     + [Manipulating incoming data with Processing Rules](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
     + [Configuring Traffic Variables (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+    + [Configure traffic classifications](administration/manage-report-suites/configure-traffic-classifications.md)
     + [Configuring List Variables](administration/manage-report-suites/configuring-list-variables.md)
     + [Configure Finding Methods](administration/manage-report-suites/configure-finding-methods.md)
     + [Set Internal URL Filters](administration/manage-report-suites/set-internal-url-filters.md)
