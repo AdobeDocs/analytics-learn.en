@@ -5,9 +5,8 @@ feature: Company Settings
 topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
 thumbnail: 335742.jpg
-kt: KT-8463
+kt: 8463
 exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
 ---
 # View your account's available features

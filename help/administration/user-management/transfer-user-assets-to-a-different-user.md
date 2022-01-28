@@ -5,9 +5,8 @@ feature: Admin Tools, User Management
 topic: Administration, Migration
 role: User, Admin
 level: Intermediate, Experienced
-doc-type: feature video
 thumbnail: 335745.jpg
-kt: KT-8459
+kt: 8459
 exl-id: 0949cb1f-9ea2-4682-8ca5-62b74434e722
 ---
 # Transfer user assets to a different user

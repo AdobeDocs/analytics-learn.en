@@ -5,9 +5,8 @@ feature: Admin Tools, User Management
 topic: Administration
 role: Admin
 level: Beginner
-doc-type: feature video
 thumbnail: 335749.jpg
-kt: KT-8466
+kt: 8466
 exl-id: ce096b45-a7bf-4ebd-96e9-b2e10c2c175b
 ---
 # Check Linked IMS ID to prevent login issues

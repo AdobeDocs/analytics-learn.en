@@ -5,9 +5,8 @@ feature: Admin Tools, Company Settings
 topic: Security
 role: User, Admin
 level: Intermediate
-doc-type: feature video
 thumbnail: 335741.jpg
-kt: KT-8461
+kt: 8461
 exl-id: fc5f251b-120b-487c-a415-1949df62d32f
 ---
 # Enforce Email Domain Restrictions
