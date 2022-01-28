@@ -224,11 +224,12 @@ solution: Analytics
     + [Manipulating incoming data with Processing Rules](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
     + [Configuring Traffic Variables (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
     + [Configure traffic classifications](administration/manage-report-suites/configure-traffic-classifications.md)
+    + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+    + [Configure conversion classifications](administration/manage-report-suites/configure-conversion-classifications.md)
     + [Configuring List Variables](administration/manage-report-suites/configuring-list-variables.md)
     + [Configure Finding Methods](administration/manage-report-suites/configure-finding-methods.md)
     + [Set Internal URL Filters](administration/manage-report-suites/set-internal-url-filters.md)
     + [Configuring Zip and Postal Code Settings](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-    + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
     + [Enable the Timestamp Optional setting](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
     + [Configure bot rules in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
   + Data Governance and GDPR {#data-governance-and-gdpr}
