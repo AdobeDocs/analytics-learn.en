@@ -8,9 +8,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340078.jpg
 kt: 9576
-
+exl-id: ae7760e6-5ec3-4e2a-a717-cf63b760bba0
 ---
-
 # Configure conversion classifications
 
 In this video, we walk through the configuration of classifications for conversion variables, often known as "eVars". This also applies to products and list variables.
