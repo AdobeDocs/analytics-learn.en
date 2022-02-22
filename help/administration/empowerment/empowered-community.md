@@ -16,7 +16,7 @@ An empowered community is one that has a few notable characteristics. First, it 
 
 You can create an empowered community within your organization. Here's how:
 
-**1. Build a solid infrastructure, the foundation for your empowered community**
+## 1. Build a solid infrastructure, the foundation for your empowered community
 
 * Create a new user onboarding process:
     
@@ -34,7 +34,7 @@ You can create an empowered community within your organization. Here's how:
 
     Adobe Analytics Report Templates and Projects are key resources for enabling tool users on your business' implementation, reporting use cases, and best practices. These resources should address common business questions, and how they can be best answered within the tool.
 
-**2. Create a plan for who will run it, and who should be involved**
+## 2. Create a plan for who will run it, and who should be involved
 
 * Decide who will run the community:
 
@@ -52,7 +52,7 @@ You can create an empowered community within your organization. Here's how:
 
 * Remember – “What’s in it for them?” Keeping your community focused on business use cases and priorities helps ensure engagement and success! 
 
-**3. Leverage tools to start building your community**
+## 3. Leverage tools to start building your community
 
 * [Create a project charter](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (template download):
 
@@ -80,7 +80,7 @@ You can create an empowered community within your organization. Here's how:
 
 * Use your community vehicle to go live! Depending upon your business' tech stack, you will also want to choose a tool or vehicle for your community. This will be custom to your organization, but many often find Microsoft Teams to work well.
 
-**4. Maintain your community, ensuring its sustained success**
+## 4. Maintain your community, ensuring its sustained success
 
 * Reserve time – Add Community meetings to calendars to block time in advance, recurring meetings are a great idea where possible, and will help bring your content plan to life. Here are some agenda ideas to help get you started:
 
@@ -102,3 +102,24 @@ Setting up and maintaining an empowered community is a lot of work. It is import
 * Career development - An empowered community shifts the focus of many analyst teams from being reactive and tactical to being prescriptive and strategic. This opens career development opportunities for your community's administration project team. 
 
 If you have an internal Adobe Analytics user group or more formal "community," or are working to form one, we'd love to hear your story within the [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)! 
+
+## Why build and maintain and empowered community?
+
+Setting up and maintaining an empowered community is a lot of work. It is important to step back and realize the benefits that your organization will reap by doing this. Here are some of the benefits I have personally seen:
+
+* Data-driven decision making - An empowered community can change your business, as Adobe Analytics enables data storytelling, predicts outcomes, and prescribes outcomes-in a way that is accessible across the organization to support customer intelligence and data-driven decision making.
+
+* Increased expertise & efficiency - Direct correlations can be made between enablement engagement and return on marketing investment! An empowered community will up-level everyone's expertise, facilitating the sharing of insights, best practices, projects, and product updates, encouraging collaboration, while enabling self-sufficiency and greater optimization via Adobe Analytics. This supports marketing channel, page, geolocation, audience, etc. experience optimizations, allowing for teams to focus on where they can drive the greatest impact.
+
+* Value realization - If your business has invested in a tool as powerful as Adobe Analytics, it is in everyone's best interest that you are realizing the full value of its potential. 
+
+* Career development - An empowered community shifts the focus of many analyst teams from being reactive and tactical to being prescriptive and strategic. This opens career development opportunities for your community's administration project team. 
+
+If you have an internal Adobe Analytics user group or more formal "community," or are working to form one, we'd love to hear your story within the [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)! 
+
+Kelsey
+https://video.tv.adobe.com/v/340457
+
+https://publish.tv.adobe.com/bucket/1/category/1183/video/340457/
+
+https://publish.tv.adobe.com/bucket/1/category/1183/video/340458/
