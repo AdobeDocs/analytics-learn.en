@@ -120,6 +120,8 @@ If you have an internal Adobe Analytics user group or more formal "community," o
 Kelsey
 https://video.tv.adobe.com/v/340457
 
+https://video.tv.adobe.com/v/340458
+
 https://publish.tv.adobe.com/bucket/1/category/1183/video/340457/
 
 https://publish.tv.adobe.com/bucket/1/category/1183/video/340458/
