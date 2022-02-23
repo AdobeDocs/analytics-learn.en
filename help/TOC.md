@@ -208,6 +208,9 @@ solution: Analytics
 + Reports and Analytics {#reports-and-analytics}
   + [Real-time Reporting in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
+  + Key Admin Skills {#key-admin-skills}
+    + [Creating an empowered community](administration/key-admin-skills/empowered-community.md)
+    + [Simplify and spend less time training users](administration/key-admin-skills/simplify-training-users.md)
   + Company Settings {#company-settings}
     + [Enforce Email Domain Restrictions](administration/company-settings/enforce-email-domain-restrictions.md)
     + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
