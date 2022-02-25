@@ -15,4 +15,4 @@ The Media Playback Time Spent Panel enables media users to understand their view
 
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html).

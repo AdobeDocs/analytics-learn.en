@@ -211,6 +211,7 @@ solution: Analytics
   + Key Admin Skills {#key-admin-skills}
     + [Creating an empowered community](administration/key-admin-skills/empowered-community.md)
     + [Simplify and spend less time training users](administration/key-admin-skills/simplify-training-users.md)
+    + [Getting the Right People on Your Analytics Team](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
   + Company Settings {#company-settings}
     + [Enforce Email Domain Restrictions](administration/company-settings/enforce-email-domain-restrictions.md)
     + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
@@ -237,7 +238,6 @@ solution: Analytics
     + [Configure bot rules in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
   + Data Governance and GDPR {#data-governance-and-gdpr}
     + [Data Governance and GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
-    + [Getting the Right People on Your Analytics Team](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
   + Traffic Management {#traffic-management}
     + [Server Call Usage](administration/traffic-management/server-call-usage.md)
     + [Manage an upcoming traffic spike](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
