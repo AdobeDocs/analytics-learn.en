@@ -1,18 +1,20 @@
 ---
-title: 
-description: 
-feature: [Acceptable features](https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/feature.yml)
-topic: [Acceptable topics](https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/topic.yml)
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
-level: Beginner Intermediate Experienced
+title: Set up marketing channels in your report suite
+description: In this video, we demonstrate how to configure marketing channels reporting in your Analytics report suite.
+feature: Marketing Channels
+topic: Administration
+role: Admin
+level: Beginner 
 doc-type: feature video
-thumbnail: 34749.jpg
-kt: 
+thumbnail: 340789.jpg
+kt: 9623
 
 ---
 
-# title
+# Set up marketing channels in your report suite
 
-Description
+In this video, we demonstrate how to configure marketing channels reporting in your Analytics report suite.
 
->[!VIDEO](https://video.tv.adobe.com/v/331788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
+
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=en).

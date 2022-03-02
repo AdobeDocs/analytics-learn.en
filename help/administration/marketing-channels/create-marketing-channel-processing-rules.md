@@ -17,4 +17,4 @@ In this video, we walk through how to configure processing rules for marketing c
 
 >[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=en)
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=en).
