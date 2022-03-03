@@ -19,6 +19,8 @@ solution: Analytics
     + [Summit 2019 Super Session - Travel and Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
     + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
     + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+  + Transitioning from other platforms {transitioning-from-other-platforms}
+    + [Transitioning from Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
   + Analytics Basics {#analytics-basics}
     + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
     + [Understanding the Analytics Cycle](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
