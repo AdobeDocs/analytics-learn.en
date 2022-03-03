@@ -14,7 +14,7 @@ kt: 9830
 
 ## 1. Introduction
 
-One of the biggest challenges in transition between any tool is learning where to find equivalent functionality and learning how to use it efficiently. This discussion is part of a larger guide to help users transition to Adobe Analytics (either as a new user, or one coming from Google Analytics) easier. An in-depth comparison to GA; as the most likely comparative tool that most users will have familiarity with; is provided to help users correlate existing knowledge to the new toolset. While there is no substitute for practice; this will help get you started and hopefully reduce the frustrations you may encounter during this time (or even as a refresher after you start to get into the swing of things).
+One of the largest challenges in transitioning between any tool is learning where to find equivalent functionality and learning how to use it efficiently. This discussion is part of a larger guide to help users transition to Adobe Analytics (either as a new user, or one coming from Google Analytics) easier. An in-depth comparison to GA; as the most likely comparative tool that most users will have familiarity with; is provided to help users correlate existing knowledge to the new toolset. While there is no substitute for practice; this will help get you started and hopefully reduce the frustrations you may encounter during this time (or even as a refresher after you start to get into the swing of things).
 
 We should also just have a quick terminology comparison:
 
