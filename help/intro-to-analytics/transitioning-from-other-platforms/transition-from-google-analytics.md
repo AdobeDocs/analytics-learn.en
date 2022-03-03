@@ -276,5 +276,5 @@ There are many resources available to you beyond this guide that can help improv
 This document was written by:
 
 ![Jennifer Dugan](assets/Jennifer_Dungan_Headshot150.png)
-Jennifer Dugan 
-Optimization Manager Analytics at Torstar
+
+Jennifer Dugan, Optimization Manager Analytics at Torstar
