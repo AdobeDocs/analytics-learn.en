@@ -8,9 +8,8 @@ role: Admin
 level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
-
+exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
 ---
-
 # Tips and tricks on how to simplify and spend less time training users
 
 >[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
@@ -59,4 +58,4 @@ In every department, there is generally one user who is more advanced and knowle
 
 >[!IMPORTANT]
 >
->Remember, empowering your users with your knowledge helps ease the burden of answering the same simple questions over and over, allowing you time to focus on big picture analysis and strengthening the quality of your implementation. 
+>Remember, empowering your users with your knowledge helps ease the burden of answering the same simple questions over and over, allowing you time to focus on big picture analysis and strengthening the quality of your implementation.

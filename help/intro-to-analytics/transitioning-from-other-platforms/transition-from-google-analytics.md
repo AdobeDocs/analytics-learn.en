@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 34749.jpg
 kt: 9830
-
+exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 ---
-
 # A Comprehensive Guide for Transitioning to Adobe Analytics from Google Analytics
 
 ## 1. Introduction

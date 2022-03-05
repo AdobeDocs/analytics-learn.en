@@ -1,6 +1,6 @@
 ---
-title: How to create an empowered community 
-description: Learn about creating an empowered community. An empowered community is supported by its Adobe Analytics administrators, is knowledgeable on how business requirements are represented within their implementation, and has the means to confidently use analysis for data-driven decision making. 
+title: How to create an empowered community
+description: Learn about creating an empowered community. An empowered community is supported by its Adobe Analytics administrators, is knowledgeable on how business requirements are represented within their implementation, and has the means to confidently use analysis for data-driven decision making.
 feature: Admin Tools
 topic: Administration
 type: Documentation
@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
-
+exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 ---
 # Creating an empowered community
 
@@ -107,4 +107,4 @@ Setting up and maintaining an empowered community is a lot of work. It is import
 
 * Career development - An empowered community shifts the focus of many analyst teams from being reactive and tactical to being prescriptive and strategic. This opens career development opportunities for your community's administration project team. 
 
-If you have an internal Adobe Analytics user group or more formal "community," or are working to form one, we'd love to hear your story within the [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)! 
+If you have an internal Adobe Analytics user group or more formal "community," or are working to form one, we'd love to hear your story within the [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)!

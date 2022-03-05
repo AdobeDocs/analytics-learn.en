@@ -8,9 +8,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340792.jpg
 kt: 9624
-
+exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
 ---
-
 # Create marketing channel processing rules 
 
 In this video, we walk through how to configure processing rules for marketing channels.
