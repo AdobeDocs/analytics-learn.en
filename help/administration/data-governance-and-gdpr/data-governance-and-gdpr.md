@@ -2,10 +2,7 @@
 title: Data Governance and GDPR in Adobe Analytics
 description: This video will walk you through Data Governance and how data labeling fits into GDPR readiness. It provides a hands-on example of data labeling using Data Governance.
 feature: Privacy
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
+thumbnail: 25455.jpg
 kt: 2361
 role: Admin, Architect
 level: Intermediate
