@@ -10,7 +10,7 @@ thumbnail: 341021.jpg
 kt: 2294
 
 ---
-# title Curate and share in Analysis Workspace
+# Curate and share in Analysis Workspace
 
 Once you have built a project in Analysis Workspace, you can [!UICONTROL curate] (simplify) it and share it with other teams and individuals in your organizations so that they can explore it and self-serve with data. This video shows you how to work with [!UICONTROL curation] and sharing.
 
