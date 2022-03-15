@@ -8,7 +8,7 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341027.jpg
 kt: 2296
-
+exl-id: 105c7767-4ca1-45d0-a1ca-7b99b4cfae6e
 ---
 # Direct link to a project in Analysis Workspace
 

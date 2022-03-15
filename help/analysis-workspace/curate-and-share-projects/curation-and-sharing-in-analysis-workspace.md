@@ -8,7 +8,7 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341021.jpg
 kt: 2294
-
+exl-id: 892b7f9d-9351-4c68-a54f-85803a67c072
 ---
 # Curate and share in Analysis Workspace
 
