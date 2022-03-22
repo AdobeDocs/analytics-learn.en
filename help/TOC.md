@@ -72,6 +72,7 @@ solution: Analytics
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
     + [Right-click for Workspace Efficiency](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
     + [Keyboard Shortcuts](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+    + [Annotations in Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
     + [Menu Bar](analysis-workspace/navigating-workspace-projects/menu-bar.md)
     + [Project Management](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
     + [Undoing actions in Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
