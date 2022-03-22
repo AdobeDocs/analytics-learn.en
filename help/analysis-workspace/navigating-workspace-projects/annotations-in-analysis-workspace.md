@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341266.jpg
 kt: 9978
-
+exl-id: 9b67b953-80c0-4a0c-bc57-8183338691c5
 ---
-
 # Annotations in Analysis Workspace
 
 Annotations in Workspace enable you to effectively communicate contextual data nuances and insights to your users across your organization. You can annotate a date or date range with known data issues, public holidays, campaign launches, etc. to better inform users why they are seeing what they see in line charts, tables and more.
