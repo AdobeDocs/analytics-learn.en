@@ -263,18 +263,16 @@ I will, however, stress that I would recommend using both Adobe Analytics and Go
 
 There are many resources available to you beyond this guide that can help improve your strategy:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) (which contains tutorials, videos, documentation, and community forums
-* [Adobe User Groups](https://analytics-augs.adobe.com/) (this is a hub of community run events to help users connect with each other and improve their implementations - just because these are based in certain time zone, it's best to check what other regions are running as well)
-* YouTube Channel
-  * [Adobe Analytics User Groups](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)
-* Slack Channels
-  * [Measure Chat](https://www.measure.chat/)
-* and more
+* [Adobe Experience League](https://experienceleague.adobe.com/#home) - Contains tutorials, videos, documentation, and community forums
+* [Adobe User Groups](https://analytics-augs.adobe.com/) - A hub of community-run events to help users connect with each other and improve their implementations - because these are based in a specific time zone, it's best to check what other regions are running as well.
+* [Adobe Analytics User Groups YouTube Channel](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Couldn’t make an Adobe Analytics user group session? Rewatch previous user group sessions across the globe to learn more about how your peers are using the tool.
+* [Measure Chat Slack channel](https://www.measure.chat/) - Connect with Adobe Analytics users across the world and share industry learnings, ask questions of your peers, and join measurement focused interest groups.
+* and more!
 
 ## Author
 
 This document was written by:
 
-![Jennifer Dugan](assets/Jennifer_Dungan_Headshot150.png)
+![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
 
-Jennifer Dugan, Optimization Manager Analytics at Torstar
+Jennifer Dungan, Optimization Manager Analytics at Torstar
