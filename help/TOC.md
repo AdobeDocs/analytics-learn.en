@@ -178,7 +178,7 @@ solution: Analytics
     + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
     + [Direct Link to a project](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
     + [Download 50,000 Items as CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-    + [Export to CSV from Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html)
+    + [Export to CSV and PDF from Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
     + [Share embedded components](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
     + [Schedule and Downloadable Projects](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
     + [Project Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
