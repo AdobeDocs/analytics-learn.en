@@ -19,7 +19,7 @@ solution: Analytics
     + [Summit 2019 Super Session - Travel and Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
     + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
     + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-  + Transitioning from other platforms {transitioning-from-other-platforms}
+  + Transitioning from other platforms {#transitioning-from-other-platforms}
     + [Transitioning from Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
   + Analytics Basics {#analytics-basics}
     + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
@@ -72,6 +72,7 @@ solution: Analytics
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
     + [Right-click for Workspace Efficiency](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
     + [Keyboard Shortcuts](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+    + [Annotations in Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
     + [Menu Bar](analysis-workspace/navigating-workspace-projects/menu-bar.md)
     + [Project Management](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
     + [Undoing actions in Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
@@ -226,10 +227,13 @@ solution: Analytics
     + [How to Configure General Account Settings](administration/manage-report-suites/configuring-general-account-settings.md)
     + [Customize Calendar Settings](administration/manage-report-suites/customize-calendar-settings.md)
     + [Configure Paid Search Detection](administration/manage-report-suites/configure-paid-search-detection.md)
+    + [Set up marketing channels](administration/manage-report-suites/set-up-marketing-channels.md)
+    + [Create marketing channel processing rules](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
     + [Customize Menus in Reports & Analytics](administration/manage-report-suites/customize-menus.md)
     + [Manipulating incoming data with Processing Rules](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
     + [Configuring Traffic Variables (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
     + [Configure traffic classifications](administration/manage-report-suites/configure-traffic-classifications.md)
+    + [Configure hierarchy variables](administration/manage-report-suites/configure-hierarchy-variables.md)
     + [Configuring Variables in the Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
     + [Configure conversion classifications](administration/manage-report-suites/configure-conversion-classifications.md)
     + [Configuring List Variables](administration/manage-report-suites/configuring-list-variables.md)
