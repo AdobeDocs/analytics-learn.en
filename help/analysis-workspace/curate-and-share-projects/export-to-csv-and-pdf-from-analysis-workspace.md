@@ -2,13 +2,13 @@
 title: Export to CSV and PDF from Analysis Workspace
 description: Learn how to export Workspace Analysis projects to CSV and PDF for extended flexibility.
 feature: Curate and Share
-topic: Collaboration 
+topic: Collaboration
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 341276.jpg
 kt: 2297
-
+exl-id: 862bdb87-d317-4f49-81bb-58a278569aca
 ---
 # Export to CSV and PDF from Analysis Workspace 
 
