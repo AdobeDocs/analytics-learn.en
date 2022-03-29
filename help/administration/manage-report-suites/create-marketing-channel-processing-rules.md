@@ -16,4 +16,8 @@ In this video, we walk through how to configure processing rules for marketing c
 
 >[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
 
+>[!NOTE]
+>
+>To maximize effectiveness of Marketing Channels for Attribution IQ and Customer Journey Analytics, we published some [revised best practices](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=en).
+
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=en).
