@@ -145,6 +145,7 @@ solution: Analytics
     + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
     + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
     + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+    + [Quick segments in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
   + Metrics {#metrics}
     + [Understanding Basic Visitor Metrics](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
     + [Adding Dimensions and Metrics to your Project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
