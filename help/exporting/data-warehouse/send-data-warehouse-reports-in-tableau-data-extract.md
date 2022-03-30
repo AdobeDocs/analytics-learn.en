@@ -1,14 +1,14 @@
 ---
 title: Send Data Warehouse reports in Tableau Data Extract
-description: Data Warehouse can deliver reports in Tableau Data Extract (TDE) file format that let you democratize and combine data from outside Adobe Analytics. 
+description: Data Warehouse can deliver reports in Tableau Data Extract (TDE) file format that let you democratize and combine data from outside Adobe Analytics.
 feature: Data Warehouse
-topic: Collaboration 
+topic: Collaboration
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 341449.jpg
 kt: 9860
-
+exl-id: ebe9e66f-30a3-40b8-bd29-1572620a4fdb
 ---
 # Send Data Warehouse reports in Tableau Data Extract 
 
