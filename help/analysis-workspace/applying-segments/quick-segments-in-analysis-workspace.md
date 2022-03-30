@@ -1,5 +1,5 @@
 ---
-title: Quick Segments in Analysis Workspace
+title: Quick segments in Analysis Workspace
 description: Quick Segments is a simplified segmentation experience directly in the Workspace canvas. Quick Segments allows users to build on-the-fly segments with up to three rules without having to leave your analysis workflow.
 feature: Segmentation
 role: User
@@ -10,9 +10,9 @@ kt: 10029
 
 ---
 
-# Quick Segments in Analysis Workspace
+# Quick segments in Analysis Workspace
 
-Quick Segments is a simplified segmentation experience directly in the Workspace canvas. Quick Segments allows users to build on-the-fly segments with up to three rules without having to leave your analysis workflow.
+"Quick segments" is a simplified segmentation experience directly in the Workspace canvas. Quick segments allows users to build on-the-fly segments with up to three rules without having to leave your analysis workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341466/?quality=12&learn=on)
 
