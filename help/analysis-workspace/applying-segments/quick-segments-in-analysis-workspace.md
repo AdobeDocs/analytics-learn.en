@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341466.jpg
 kt: 10029
-
+exl-id: 9ee37819-f3b2-4436-ac41-b68b23a807f2
 ---
-
 # Quick segments in Analysis Workspace
 
 "Quick segments" is a simplified segmentation experience directly in the Workspace canvas. Quick segments allows users to build on-the-fly segments with up to three rules without having to leave your analysis workflow.
