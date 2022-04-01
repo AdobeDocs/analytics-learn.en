@@ -215,6 +215,10 @@ solution: Analytics
     + [Creating an empowered community](administration/key-admin-skills/empowered-community.md)
     + [Simplify and spend less time training users](administration/key-admin-skills/simplify-training-users.md)
     + [Getting the Right People on Your Analytics Team](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
+    + [Gaining a seat at the table](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+    + [Telling impactful stories with data](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+    + [Translating Adobe Analytics technical language in a non-technical way](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+    + [Working cross-functionally](administration/key-admin-skills/working-cross-functionally.md)
   + Company Settings {#company-settings}
     + [Enforce Email Domain Restrictions](administration/company-settings/enforce-email-domain-restrictions.md)
     + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
