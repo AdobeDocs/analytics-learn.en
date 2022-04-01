@@ -29,7 +29,7 @@ For example, here’s my favorite way to explain eVars and allocation methods to
 >[!TIP]
 >
 >**Clearly name components (i.e., dimensions, segments, and metrics) with descriptions**
-Sharing the data dictionary of eVars and props is always a good step in democratizing your organization’s data, but don’t expect a casual user to memorize all the custom variables and their intended usage by index/number. Instead, in Adobe Workspace, make sure the component names are descriptive with meaningful tags and descriptions. This will help your users quickly find the correct metric amongst your hundreds of eVars and infinite metrics/segments.
+>Sharing the data dictionary of eVars and props is always a good step in democratizing your organization’s data, but don’t expect a casual user to memorize all the custom variables and their intended usage by index/number. Instead, in Adobe Workspace, make sure the component names are descriptive with meaningful tags and descriptions. This will help your users quickly find the correct metric amongst your hundreds of eVars and infinite metrics/segments.
 
 ## Tip #2: Find a common language
 
@@ -40,7 +40,8 @@ At the Home Depot, a merchant or a store manager may not be familiar with a hit,
 >[!TIP]
 >
 >**Make your implementation reflect that common language**
-Just about everything in the Adobe Analytics UI is customizable. If your organization refers to shopping carts as shopping bags, you can rename the cart event to shopping bag.
+>Just about everything in the Adobe Analytics UI is customizable. If your organization refers to shopping carts as shopping bags, you can rename the cart event to shopping bag.
+>
 >Consider creating your own controlled vocabulary for your organization, if you find several synonymous terms floating around, or if there are terms that commonly trip up your users. Take the initiative to drive standardization of the preferred terminology. And review the most common confusing terms in your onboarding and enablement sessions to help users get acclimated.
  
 ## Tip #3: Form a group of rock stars
@@ -52,7 +53,8 @@ At the Home Depot, we hosted an Adobe Analytics challenge where we asked our use
 >[!TIP]
 >
 >**Create annotated solution specific workspace templates and guidance**
-Leverage Company Reports (Templates) and text visualizations in analysis workspace to create contextual guides that will help your rock stars stay on the right track.
+>Leverage Company Reports (Templates) and text visualizations in analysis workspace to create contextual guides that will help your rock stars stay on the right track.
+>
 >The flexibility of Analysis workspace allows you to create templates for faster analysis as well as enabling self-service and self-enablement. By combining the capabilities of features such as curated templates, annotations and inter/intra workspace linking, you have a great way to create efficient, accessible, and easy to disseminate guidance to non-technical users in the context of Adobe Analytics.
 
 ## Tip #4: Keep open communication channels
