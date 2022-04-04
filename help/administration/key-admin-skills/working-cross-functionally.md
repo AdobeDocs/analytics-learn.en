@@ -1,6 +1,6 @@
 ---
 title: Working cross-functionally
-description: The journey to Adobe Analytics starts with a good implementation. We all know the saying of “garbage in, garbage out”. To eliminate a “garbage out” implementation, admins must monitor every detail of the data put into the system. That said, the data collection strategy is influenced by many stakeholders in the organization whom an admin will have to work with day-in and day-out.
+description: The journey to Adobe Analytics starts with a good implementation. We all know the saying of “garbage in, garbage out”. To eliminate a “garbage out” implementation, Admins must monitor every detail of the data put into the system. That said, the data collection strategy is influenced by many stakeholders in the organization whom an admin will have to work with day-in and day-out.
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -14,9 +14,9 @@ kt: 10129
 
 >[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
 
-The journey to Adobe Analytics starts with a good implementation. We all know the saying of “garbage in, garbage out”. To eliminate a “garbage out” implementation, admins must monitor every detail of the data put into the system. That said, the data collection strategy is influenced by many stakeholders in the organization whom an admin will have to work with day-in and day-out.
+The journey to Adobe Analytics starts with a good implementation. We all know the saying of “garbage in, garbage out”. To eliminate a “garbage out” implementation, Admins must monitor every detail of the data put into the system. That said, the data collection strategy is influenced by many stakeholders in the organization whom an admin will have to work with day-in and day-out.
 
-As an owner of the tool, you must work with business teams to understand their requirements and KPIs, work with IT and design partners to understand the data flow, work with reporting stakeholders to help them understand implemented variables and values for reporting. Furthermore, we also must work with EDW teams to ingest data into their systems to be widely used across the company. To add on, there are other teams who are dependent on Analytics data like Adobe Target, media campaigns, and other vendor partners.
+As an owner of the tool, you must work with business teams to understand their requirements and KPIs, work with IT and design partners to understand the data flow and work with reporting stakeholders to help them understand implemented variables and values for reporting. Furthermore, we also must work with EDW teams to ingest data into their systems to be widely used across the company. To add on, there are other teams who are dependent on Analytics data like Adobe Target, media campaigns, and other vendor partners.
 
 As you can see (and already know), as an admin of Adobe Analytics, you are consistently working across organizations and teams. To maintain efficient cross-functional relationships, admins need to put on a “product manager” hat. Instead of only thinking about your own reporting/data collection needs, you must consider the product needs of the entire organization. Being an admin is not an easy role but can be made much easier with collaboration across teams.
 
