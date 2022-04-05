@@ -7,9 +7,8 @@ role: Admin
 level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
-
+exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
 ---
-
 # Translating Adobe Analytics technical language in a non-technical way
 
 >[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)

@@ -7,9 +7,8 @@ role: Admin
 level: Experienced
 thumbnail: 342071.jpg
 kt: 10129
-
+exl-id: 210548ff-5e4b-4b8d-9be7-1320e26a450c
 ---
-
 # Working cross-functionally
 
 >[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)

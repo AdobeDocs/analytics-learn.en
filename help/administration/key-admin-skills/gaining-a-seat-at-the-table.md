@@ -7,9 +7,8 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
 ---
-
 # Gaining a seat at the table
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
@@ -48,4 +47,4 @@ Show this person that you understand what is important to them and that you can 
 * **Tip 1: Focus on design.** One simple tip that is far too often ignored is to focus on design. Be thoughtful in the presentation of your work and follow best practices for information design. This will help ensure your message is easy to understand. When you deliver overly complex work without a clear message, you make your audience feel stupid. No one likes to feel stupid. And they don't want to work with someone who makes them feel stupid.
 * **Tip 2: Do the Impossible.** Have you ever gotten a request that sounded impossible? Usually, those come from people who don’t understand how the data works. It’s easy to react with amusement (“ha, they clearly have no idea what they’re talking about”) or even anger (“I can’t believe they want me to do that! That’s impossible!”). I’ve had both of those reactions more times than I can count. But when I step back and approach the problem with an open mind I’m almost always amazed at what I can come up with. If you stick with a problem long enough, something good usually comes from it. That’s because when something seems impossible, you have to think outside the box to come up with a solution. And thinking outside the box often leads to excellent work. 
 
-I hope this article has helped you realize that you need to be at the table. It’s likely going to take time and focused effort. But if you stick with it and follow the steps above, you’ll find yourself in a position with more autonomy and influence at your organization. That will ultimately lead to more success in your role and a more fulfilling career.  
+I hope this article has helped you realize that you need to be at the table. It’s likely going to take time and focused effort. But if you stick with it and follow the steps above, you’ll find yourself in a position with more autonomy and influence at your organization. That will ultimately lead to more success in your role and a more fulfilling career.
