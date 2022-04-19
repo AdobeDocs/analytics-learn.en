@@ -45,7 +45,7 @@ Send a list of questions for your stakeholder to review before the discovery mee
 
 The questions will vary by technical or analytical prowess, company structure, or complexity of the data collection topic. It is often helpful to start at a high level, with questions about the entire organization, then discuss your stakeholder’s role in support of those organizational goals, and so on into increasing levels of detail. You can then ensure that the granular data points discussed will effectively support the overall objectives of the organization. It also empowers you to think creatively and suggest new ideas for data that support their goals.
 
-[Explore this template](assets/stakeholder-questionnaire.pdf) containing several sample questions for stakeholder interviews. Reuse them or tweak them to prepare relevant questions for your discussions.
+[Explore this template](assets/stakeholder-questionnaire.pdf){target="_blank"} containing several sample questions for stakeholder interviews. Reuse them or tweak them to prepare relevant questions for your discussions.
 
 ### 2. Request sample reports
 
