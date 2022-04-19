@@ -354,7 +354,7 @@ solution: Analytics
     + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
     + [Edit Metrics across Requests](exporting/report-builder/edit-metrics-across-requests.md)
     + [Using Report Builder to learn the Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-    + [Get started with Repport Builder](exporting/report-builder/get-started-with-report-builder.md)
+    + [Get started with Report Builder](exporting/report-builder/get-started-with-report-builder.md)
     + [Schedule a Report Builder request](exporting/report-builder/schedule-a-report-builder-request.md)
     + [Use Report Builder advanced delivery options for Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integrations {#integrations}
