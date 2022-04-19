@@ -7,9 +7,8 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-
+exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
 ---
-
 # Are you asking the right questions?
 
 >[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
@@ -71,4 +70,3 @@ Adobe offers some tools and templates to help with this step. Use these and adju
 ## Ask the right questions!
 
 Analytics administrators often have a great sense of what data is useful and what is not. If you frame your stakeholder discussions as recommended here, you will help to bridge the gap between a colleague’s goals and the data needed to measure and prove related success. An admin who is also a skilled detective will confirm the requested data points that matter and uncover hidden opportunities or requirements, making them a powerful asset to the broader organization.
- 
