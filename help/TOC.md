@@ -349,12 +349,14 @@ solution: Analytics
     + [Download the Data feed authentication key](exporting/data-feeds/download-the-data-feed-authentication-key.md)
     + [Find your Data Feed ID](exporting/data-feeds/find-your-data-feed-id.md)
     + [Rerun a Data Feed job](exporting/data-feeds/rerun-a-data-feed-job.md)
-
   + Report Builder {#report-builder}
     + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
     + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
     + [Edit Metrics across Requests](exporting/report-builder/edit-metrics-across-requests.md)
     + [Using Report Builder to learn the Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+    + [Get started with Repport Builder](exporting/report-builder/get-started-with-report-builder.md)
+    + [Schedule a Report Builder request](exporting/report-builder/schedule-a-report-builder-request.md)
+    + [Use Report Builder advanced delivery options for Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integrations {#integrations}
   + Experience Cloud {#experience-cloud}
     + [Improved Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
