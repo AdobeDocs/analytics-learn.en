@@ -220,6 +220,7 @@ solution: Analytics
     + [Telling impactful stories with data](administration/key-admin-skills/telling-impactful-stories-with-data.md)
     + [Translating Adobe Analytics technical language in a non-technical way](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
     + [Working cross-functionally](administration/key-admin-skills/working-cross-functionally.md)
+    + [Are you asking the right questions?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
   + Company Settings {#company-settings}
     + [Enforce Email Domain Restrictions](administration/company-settings/enforce-email-domain-restrictions.md)
     + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
