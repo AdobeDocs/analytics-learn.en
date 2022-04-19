@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 342376.jpg
 kt: 9873
-
+exl-id: 087565b7-6f73-4667-ae29-446e9a0a6fab
 ---
-
 # Schedule a [!DNL Report Builder] request
 
 In this video, learn how to set up a basic schedule for a [!DNL Report Builder] workbook.

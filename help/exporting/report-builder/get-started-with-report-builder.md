@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 342373.jpg
 kt: 9872
-
+exl-id: d7b81d6d-1b8a-4796-ae13-3359d5949457
 ---
-
 # Get started with [!DNL Report Builder]
 
 Learn the basics of using [!DNL Report Builder], including installation, sign-in and data requests.
