@@ -2,7 +2,6 @@
 title: Get started with Report Builder
 description: Learn the basics of using Report Builder, including installation, sign-in and data requests.
 feature: Report Builder
-topic: 
 role: User
 level: Beginner
 doc-type: feature video
