@@ -50,6 +50,8 @@ solution: Analytics
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
     + [Analysis Workspace Overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+    + [Navigating the New Landing Page](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+    + [Analysis Workspace Landing Page Updates](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
     + [Creating New Analysis Workspace Projects](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
     + [Building a Workspace project from scratch](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
     + [Create and Manage Custom Templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -89,6 +91,7 @@ solution: Analytics
     + [Using Panels to Organize your Analysis Workspace Projects](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
     + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
     + [Multiple Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+    + [Next/Previous and Page Summary Workspace Panels & Reports](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Understand your data--Freeform Tables](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
     + [Using the Left Rail to Build Freeform Tables in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
