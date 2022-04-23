@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10295
 thumbnail: 334278.jpeg
+exl-id: bb141630-a441-4049-afe0-5f9de2a33089
 ---
-
 # Navigating the New Landing Page
 
 Learn how to make the most of the new Analytics landing page and its features.
