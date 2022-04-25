@@ -5,7 +5,7 @@ feature: Report Builder
 role: User
 level: Intermediate
 doc-type: feature video
-thumbnail:
+thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 ---
