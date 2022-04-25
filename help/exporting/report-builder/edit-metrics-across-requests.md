@@ -1,17 +1,15 @@
 ---
-title: Edit Metrics across Requests in Report Builder
+title: Edit metrics across requests in Report Builder
 description: You can now edit metrics across multiple Report Builder data requests at once, with add, replace and remove options.
 feature: Report Builder
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1769
 role: User
 level: Intermediate
+doc-type: feature video
+thumbnail: 23547.jpg
+kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 ---
-# Edit [!UICONTROL Metrics] across Requests in [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
+# Edit [!UICONTROL metrics] across requests in [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
 
 You can now edit [!UICONTROL metrics] across multiple [!UICONTROL Report Builder] data requests at once, with add, replace and remove options.
 
