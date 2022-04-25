@@ -5,7 +5,7 @@ feature: Data Warehouse
 role: User
 level: Beginner
 doc-type: feature video
-thumbnail:
+thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
 ---
