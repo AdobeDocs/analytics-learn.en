@@ -28,7 +28,7 @@ Create simple, easy to read visuals that align with the type of data you’re sh
 
 * Use bar charts for categorical and binary data 
 * Use line charts (or bubble outside of Adobe) for numerical data
-* USe scatter plots to demonstrate statistical relationships
+* Use scatter plots to demonstrate statistical relationships
 
 ## Offer a solution
 
