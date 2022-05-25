@@ -13,11 +13,11 @@ exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-“Gaining a seat at the table.” This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an Adobe Analytics Administrator.
+“Gaining a seat at the table.” This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an Adobe Analytics power user, whether your official role is that of an admin, a data analyst, or whatever else your business card says.
 
 ## Why you need to be at the table
 
-First, let’s get something out of the way. The role of data analysts has evolved. Analysts can no longer sit behind their computer screens focusing only on eVars, events, and sProps. You, as the admin have the responsibility to make sure your company is making the right data-driven decisions. But to do this, you need to be where those decisions are being made, not crunching numbers at your desk.
+First, let’s get something out of the way. The role of data professionals has evolved. They can no longer sit behind their computer screens focusing only on eVars, events, and sProps. You, as the admin have the responsibility to make sure your company is making the right data-driven decisions. But to do this, you need to be where those decisions are being made, not crunching numbers at your desk.
 
 Here are three reasons why you need to be there.
 
