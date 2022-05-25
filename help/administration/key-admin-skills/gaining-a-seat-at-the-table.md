@@ -17,7 +17,7 @@ exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
 
 ## Why you need to be at the table
 
-First, let’s get something out of the way. The role of Analytics administrator has evolved. Admins can no longer sit behind their computer screens focusing only on eVars, events, and sProps. You, as the admin have the responsibility to make sure your company is making the right data-driven decisions. But to do this, you need to be where those decisions are being made, not crunching numbers at your desk.
+First, let’s get something out of the way. The role of data analysts has evolved. Analysts can no longer sit behind their computer screens focusing only on eVars, events, and sProps. You, as the admin have the responsibility to make sure your company is making the right data-driven decisions. But to do this, you need to be where those decisions are being made, not crunching numbers at your desk.
 
 Here are three reasons why you need to be there.
 
