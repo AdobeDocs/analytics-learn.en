@@ -1,6 +1,6 @@
 ---
 title: Analytics videos and tutorials
-description: What is Analytics? Learn about Analytis and get the most out of Adobe Analytics technology by accessing our curated list of videos about capabilities and how to use key features.
+description: Get the most out of [!DNL Adobe Analytics].  Use these tutorials to master the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects. 
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -13,7 +13,7 @@ exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 
 # Analytics tutorials
 
-Get the most out of [!DNL Adobe Analytics].  Use these tutorials to master the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers and architects. 
+Get the most out of [!DNL Adobe Analytics].  Use these tutorials to master the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects. 
   
 To get started, 
 * See the **"What's New"** section below for the latest updates and features
@@ -21,7 +21,7 @@ To get started,
 * Explore the content by topic and subtopic in the **left navigation**
 * Use the **search** field at the top of the page if you know what you want to learn
 
-Curated learning experiences by role and skill level are also offered in our courses. Simply sign-in with your Adobe ID and navigate to **Learn > Recommended courses** in the top navigation.
+Curated learning experiences by role and skill level are also offered in the courses section. Simply sign-in with your Adobe ID and navigate to **Learn > Recommended courses** in the top navigation.
 
 ## What's New
 
@@ -32,7 +32,7 @@ Curated learning experiences by role and skill level are also offered in our cou
     *Learn how to download the mobile scorecard application and view mobile scorecards created in [!DNL Analysis Workspace].*
 
 * **[Annotations in workspace (Video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-    *Annotations in [!DNL Analysis Workspace] enable you to effectively communicate contextual data nuances and insights to your users across your organization. You can annotate a date or date range with known data issues, public holidays, campaign launches, etc. to better inform users why they are seeing what they see in line charts, tables and more.*
+    *Annotations in [!DNL Analysis Workspace] enable you to effectively communicate contextual data nuances and insights to your users across your organization. Annotate a date or date range with known data issues, public holidays, campaign launches, and so on, to better inform users why they are seeing what they see in line charts, tables and more.*
 
 ## Staff Picks
 
