@@ -80,6 +80,6 @@ Curated learning experiences by role and skill level are also offered in the cou
 </tr>
 </table>
 
-# Additional resources
+## Additional resources
 
 [Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
