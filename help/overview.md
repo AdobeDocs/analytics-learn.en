@@ -1,6 +1,6 @@
 ---
 title: Analytics videos and tutorials
-description: Get the most out of [!DNL Adobe Analytics].  Use these tutorials to master the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects. 
+description: Get the most out of Adobe Analytics.  Use these tutorials to master the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects. 
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
