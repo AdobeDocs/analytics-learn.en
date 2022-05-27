@@ -1,36 +1,38 @@
 ---
 title: Analytics videos and tutorials
-description: A collection of videos and tutorials for Adobe Analytics.
+description: Get the most out of Adobe Analytics.  Use these tutorials to master the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects. 
 feature: Analytics Basics
-topics: 
-activity: use
-doc-type: overview
-team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
+doc-type: overview
+thumbnail: 
+kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 ---
-# Overview
 
-Welcome to the [!DNL Analytics] Tutorials Site.  Using these tutorials along with the [documentation](https://experienceleague.adobe.com/docs/analytics.html) will give you a better understanding how to use Adobe Analytics to gain customer insights faster than ever.  To get started, 
-* See the **"What's New"** section below for the latest goodies
+
+# Analytics tutorials
+
+Get the most out of [!DNL Adobe Analytics].  Use these tutorials to master the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects. 
+  
+To get started, 
+* See the **"What's New"** section below for the latest updates and features
 * **Staff Picks** highlights some of our favorite content 
 * Explore the content by topic and subtopic in the **left navigation**
-* Use the **search** field at the top of the page if you know what you are looking for
+* Use the **search** field at the top of the page if you know what you want to learn
+
+Curated learning experiences by role and skill level are also offered in the courses section. Simply sign-in with your Adobe ID and navigate to **Learn > Recommended courses** in the top navigation.
 
 ## What's New
 
-* **[Right-click for Workspace Efficiency (Video)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
-    <br>
-    *Learn about all of our favorite Analysis Workspace right-clicks and how to use them. From [!UICONTROL Freeform Tables] to [!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in [!DNL Workspace].*
+* **[Adobe Analytics mobile scorecard builder (Video)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
+    *Learn about how to create and share mobile scorecards created in [!DNL Analysis Workspace] for your Executive users.*
 
-* **[Quick Insights Panel in Analysis Workspace (Video)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
-    <br>
-    *Quick Insights provides guidance for non-analysts and new users of Analysis Workspace to learn how to answer business questions quickly and easily.*
+* **[Adobe Analytics mobile scorecard app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+    *Learn how to download the mobile scorecard application and view mobile scorecards created in [!DNL Analysis Workspace].*
 
-* **[Project Sharing in Analysis Workspace (Video)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
-    <br>
-    *Project sharing is one way to democratize data and insights from Analysis Workspace to users in your organization. You can place recipients in one of three project roles, depending on the project experience you want them to have - Edit, Duplicate and View.*
+* **[Annotations in workspace (Video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
+    *Annotations in [!DNL Analysis Workspace] enable you to effectively communicate contextual data nuances and insights to your users across your organization. Annotate a date or date range with known data issues, public holidays, campaign launches, and so on, to better inform users why they are seeing what they see in line charts, tables and more.*
 
 ## Staff Picks
 
@@ -77,3 +79,7 @@ Welcome to the [!DNL Analytics] Tutorials Site.  Using these tutorials along wit
   </td>
 </tr>
 </table>
+
+## Additional resources
+
+[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
