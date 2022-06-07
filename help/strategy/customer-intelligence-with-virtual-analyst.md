@@ -1,27 +1,27 @@
 ---
 title: Mastering customer intelligence with Virtual Analyst and Segment IQ
-description: Learn the importance of leveraging artificial intelligence and machine learning (AI/ML). See the benefits and learn of real-world success stories from global customers using Virtual Analyst and Segment IQ to detect anomalies, avoid outliers, and maximize ROI. 
+description: Learn the importance of using artificial intelligence and machine learning (AI/ML). See the benefits and learn of real-world success stories from global customers using Virtual Analyst and Segment IQ to detect anomalies, avoid outliers, and maximize ROI. 
 solution: Analytics
 ---
 # Mastering customer intelligence with Virtual Analyst and Segment IQ in Adobe Analytics
 
-In this article, you learn the importance of leveraging artificial intelligence and machine learning (AI/ML). Next, review the benefits and real-world success stories from global customers using Virtual Analyst and Segment IQ to detect anomalies, avoid outliers, and maximize ROI.
+In this article, you learn the importance of using artificial intelligence and machine learning (AI/ML). Next, review the benefits and real-world success stories from global customers using Virtual Analyst and Segment IQ to detect anomalies, avoid outliers, and maximize ROI.
 
 ## The value of artificial intelligence
 
-Perhaps you recall the time chess champion Garry Kasparov was defeated by IBM's Deep Blue. Experts were convinced a machine could not possibly beat human decision making and judgment in a game as complex as chess. Yet, it was done and this was key to a fundamental shift in business strategy and technological innovation as the power of artificial intelligence was unearthed.
+Perhaps you recall the time chess champion Garry Kasparov was defeated by IBM®'s [!DNL Deep Blue]. Experts were convinced a machine could not possibly beat human decision making and judgment in a game as complex as chess. Yet, it was done and this was key to a fundamental shift in business strategy and technological innovation as the power of artificial intelligence was unearthed.
 
-Adobe Analytics is the core system of intelligence for the experience business, enabling anyone in the enterprise to understand and optimize customer interactions with their brand across all touch-points in real-time and at massive scale.
+Adobe Analytics is the core system of intelligence for the experience business, enabling anyone in the enterprise to understand and optimize customer interactions with their brand across all touch points in real time and at massive scale.
 
 Adobe's AI tools are not here to replace you, but rather to enable you to achieve maximum ROI on your efforts.
 
 ## Transform your analytics
 
-To evolve your analytics, we need to focus on three key considerations:
+To evolve your analytics, we must focus on three key considerations:
 
 1. Organization - How to create holistic views of customers, prioritize insight-driven decisions and democratize data.
 
-1. Technology - How to make sure data and technology deliver personalization at scale.
+1. Technology - How to make sure that data and technology deliver personalization at scale.
 
 1. Customer - How to build trust and adapt to change.
 
@@ -39,7 +39,7 @@ Analytics is challenging and time-consuming, yet there is a constant need to acc
 
 When it comes to a successful customer intelligence strategy, we need to move through three levels (see Figure 1 above) from: (a) data collection, to (b) data processing, to (c) analytics and machine learning, before we can finally take action and optimize our content and ads.
 
-1. Data collection depends on your organization and may include a variety of channels and mediums, such as OTT devices, video, enterprise, call centers, in-store, social email, web, ads, mobile apps, wearables, IoT, voice assistants, connected cards, and geo / spatial.
+1. Data collection depends on your organization and may include various channels and mediums. These include OTT devices, video, enterprise, call centers, in-store, social email, web, ads, mobile apps, wearables, IoT, voice assistants, connected cards, and geo / spatial.
 
 1. Data processing includes real-time data collection, processing rules, audience syndication, context-aware sessionization, real-time triggers and views, and platform.
 
@@ -49,7 +49,7 @@ When it comes to a successful customer intelligence strategy, we need to move th
 
 ### Leverage your Virtual Analyst
 
-Think of the [Virtual Analyst](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=en) as the rockstar analyst who:
+Think of the [Virtual Analyst](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=en) as the rock star analyst who:
 
 * Never leaves the office and doesn't need to
 * Tells the Who, What, When, Where, Why and So What of your business
@@ -76,7 +76,7 @@ The virtual analyst uncovered the following scenarios for real Adobe customers:
 
 [Anomaly Detection](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en):
 
-* Leverage built-in predictive algorithms to help identify spikes and dips in your data that you didn't know existed.
+* Use built-in predictive algorithms to help identify spikes and dips in your data that you didn't know existed.
 * Make use of 28 unique algorithms are used to identify anomalies, including seasonality, growth, and cyclical models, as well as holiday alignment.
 * Reduce reliance on data scientist and unlock citizen data scientists' capabilities.
 
@@ -114,4 +114,4 @@ Stay informed of anomalies within your data at all times - whether you're in the
 
 **Product stock-out:** "People buying Fitbits were 6x more likely to get an 'out of stock' than everyone else, so we quickly ordered more Fitbits." → Stock-outs prevented and more holiday orders completed
 
-For more information watch our [webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
+For more information, watch our [webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
