@@ -436,3 +436,6 @@ solution: Analytics
 + [Analytics University Curriculum](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [Analytics Fundamentals for Business Users has been retired](retired-courses/retire-fundamentals-for-business-users-course.md)
++ Strategy & thought leadership{#strategy}
+  + [Part 1 - Simple hacks for greater efficiency](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+  + [Part 2 - Simple hacks for greater efficiency](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
