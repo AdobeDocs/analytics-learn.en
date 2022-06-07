@@ -19,6 +19,10 @@ solution: Analytics
     + [Summit 2019 Super Session - Travel and Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
     + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
     + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+  + Strategy & thought leadership{#strategy}
+    + [Part 1 - Simple hacks for greater efficiency](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+    + [Part 2 - Simple hacks for greater efficiency](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+    + [Mastering customer intelligence with Virtual Analyst and Segment IQ in Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
   + Transitioning from other platforms {#transitioning-from-other-platforms}
     + [Transitioning from Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
   + Analytics Basics {#analytics-basics}
@@ -436,6 +440,4 @@ solution: Analytics
 + [Analytics University Curriculum](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [Analytics Fundamentals for Business Users has been retired](retired-courses/retire-fundamentals-for-business-users-course.md)
-+ Strategy & thought leadership{#strategy}
-  + [Part 1 - Simple hacks for greater efficiency](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
-  + [Part 2 - Simple hacks for greater efficiency](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+
