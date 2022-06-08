@@ -228,6 +228,14 @@ solution: Analytics
     + [Translating Adobe Analytics technical language in a non-technical way](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
     + [Working cross-functionally](administration/key-admin-skills/working-cross-functionally.md)
     + [Are you asking the right questions?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+  + Admin Tips and Best Practices {#admin-tips}
+    + [Download the implementation playbook](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+    + [Create standardized naming conventions](administration/admin-tips/create-standardized-naming-conventions.md)
+    + [Create standardized code templates](administration/admin-tips/create-standardized-code-templates.md)
+    + [Create basic videos and training](administration/admin-tips/create-basic-videos-and-training.md)
+    + [Create an internal Adobe Analytics site](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+    + [Use a global report suite](administration/admin-tips/use-a-global-report-suite.md)
+    + [Create a news & announcements project](administration/admin-tips/create-a-news-and-announcements-project.md)
   + Company Settings {#company-settings}
     + [Enforce Email Domain Restrictions](administration/company-settings/enforce-email-domain-restrictions.md)
     + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
