@@ -23,7 +23,7 @@ kt: 10532
 
 | AA Variable | Description | When/Where to Set | How to Set |
 |--- |--- |--- |--- |
-| eVar8	| Internal Search Keywords	| On landing of internal search results page | data layer |
+| eVar8 | Internal Search Keywords | On landing of internal search results page | data layer |
 | event8 | Count of Internal Searches | On landing of internal search results page | Launch rule |
 
 * Detail around how to set. This is where you would specify any data layer objects needed and their syntax as well as any TMS rules that need to be configured and the details of the rule setup.
