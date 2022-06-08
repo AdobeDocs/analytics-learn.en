@@ -1,7 +1,8 @@
 ---
 title: Mastering customer intelligence with Virtual Analyst and Segment IQ
-description: Learn the importance of using artificial intelligence and machine learning (AI/ML). See the benefits and learn of real-world success stories from global customers using Virtual Analyst and Segment IQ to detect anomalies, avoid outliers, and maximize ROI. 
+description: Learn the importance of using artificial intelligence and machine learning (AI/ML). See the benefits and learn of real-world success stories from global customers using Virtual Analyst and Segment IQ to detect anomalies, avoid outliers, and maximize ROI.
 solution: Analytics
+exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 ---
 # Mastering customer intelligence with Virtual Analyst and Segment IQ in Adobe Analytics
 
