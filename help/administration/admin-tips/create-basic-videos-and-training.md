@@ -8,9 +8,8 @@ level: Beginner
 doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
-
+exl-id: 60307702-9348-48b5-8364-49e90946d793
 ---
-
 # Create basic recorded training sessions & short videos
 
 **WHAT:** Create some simple and short training videos that cover a range of basic and advanced topics, so as new users are ramping up with the tool, you aren't delivering the same content via a meeting every time.

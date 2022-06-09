@@ -8,9 +8,8 @@ level: Beginner
 doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
-
+exl-id: 0fe3b981-0d9b-4f12-a6ca-63a4140f4baf
 ---
-
 # Create standardized naming conventions
 
 **WHAT:** Standardized naming conventions apply to both the variable name itself when enabled in the Adobe Analytics (AA) admin UI and the values passed into the dimension. (i.e. page names would be "page name (v1)" as a variable name and the page name values passed in should be uniform and follow a specific structure/hierarchy like "sitename|homepage" or "sitename|search|searchresults").

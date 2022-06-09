@@ -1,6 +1,6 @@
 ---
 title: Create standardized code templates
-description: For a baseline implementation (i.e. what your company considers the must-have KPIs for all Adobe Analytics sites), your org should have a single implementation method where possible. 
+description: For a baseline implementation (i.e. what your company considers the must-have KPIs for all Adobe Analytics sites), your org should have a single implementation method where possible.
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -8,9 +8,8 @@ level: Beginner
 doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
-
+exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
 ---
-
 # Create standardized code templates
 
 **WHAT:** For a "baseline" implementation (i.e. what your company considers the must-have KPIs for all Adobe Analytics sites), your org should have a single implementation method where possible. For instance, use the same data layer structure across sites and leveraging the same tag manager rule/custom code to capture things like internal searches or visitor profile information.

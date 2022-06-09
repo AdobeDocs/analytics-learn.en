@@ -8,9 +8,8 @@ level: Beginner
 doc-type: article
 thumbnail: 10536.jpg
 kt: 10536
-
+exl-id: 490addfd-b810-4f15-b065-e0e58048c882
 ---
-
 # Use a global report suite
 
 **WHAT:** It's tempting to create report suites for each of your sites, but this can quickly become your worst nightmare - both in terms of complicating your reporting as well as your implementation. Having a single global report suite can help in many ways, and really simplify your implementation. 

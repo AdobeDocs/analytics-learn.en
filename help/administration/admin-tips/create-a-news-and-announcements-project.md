@@ -8,9 +8,8 @@ level: Beginner
 doc-type: article
 thumbnail: 10535.jpg
 kt: 10535
-
+exl-id: 1474e117-8668-4f21-ba86-e3fb88d98468
 ---
-
 # Create a news & announcements project
 
 **WHAT:** Create a 'News & Announcements' project within Workspace, which will be mainly text, and share it with the whole company. You don't need to force this as a landing page to your users (although you can) since it will float up to the top of their list each time it is updated.

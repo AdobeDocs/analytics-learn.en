@@ -8,9 +8,8 @@ level: Beginner
 doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
-
+exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
 ---
-
 # Create an internal Adobe Analytics site (Confluence or other)
 
 **WHAT:** If you have heeded the recommendation in [this tip](create-basic-videos-and-training.md){target="_blank"} to create training docs, you obviously can't keep them on your hard drive. Create a central location where these can be shared and consulted by all your users - an internal Adobe Analytics site (Confluence or other) where you can post all these documents and maintain different versions.

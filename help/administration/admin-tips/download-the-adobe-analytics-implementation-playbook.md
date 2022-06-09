@@ -8,9 +8,8 @@ level: Beginner
 doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
-
+exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 ---
-
 # Download the Adobe Analytics implementation playbook
 
 Before getting started, [download the playbook](assets/aa-implementation-playbook.xlsx).
