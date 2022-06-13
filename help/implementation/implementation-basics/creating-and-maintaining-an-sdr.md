@@ -1,6 +1,6 @@
 ---
 title: Creating and Maintaining an SDR
-description: The Solution Design Reference (SDR) document is basically the blueprint for your site. This video shows how to create one, in conjunction with the Business Requirements Document, so that you can always have a source of truth that you can go back to as you implement Adobe Analytics, and as you refer back to it in the future.
+description: The Solution Design Reference (SDR) document is the blueprint for business requirements and data collection design for Analytics on your digital properties. Learn how to create and maintain this document as the source of truth for your Analysis solution.
 feature: Implementation Basics
 team: Technical Marketing
 kt: 3581
@@ -11,10 +11,10 @@ exl-id: c942e819-0763-4907-adcc-747ec753c407
 ---
 # Creating and Maintaining a Solution Design Reference (SDR) Document
 
-The Solution Design Reference (SDR) document is basically the blueprint for your site. This video shows how to create one in conjunction with the Business Requirements Document, so that you can always have a source of truth that you can go back to as you implement Adobe Analytics, and as you refer back to it in the future.
+The Solution Design Reference (SDR) document is the blueprint for business requirements and data collection design for Analytics on your digital properties. Learn how to create and maintain this document as the source of truth for your Analysis solution.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
 
-[Download](assets/aa-implementation-playbook.xlsx) a sample BRD/SDR that you can use to define your site.
+[Download](assets/aa-implementation-playbook.xlsx) a sample Excel template to document requirements and data collection design for your digital properties.
 
-[Download](assets/geometrixx-clothiers-brd-sdr.xlsx) the BRD/SDR from this video (and the [BRD video](creating-a-business-requirements-document.md)).
+[Download](assets/geometrixx-clothiers-brd-sdr.xlsx) the Excel document presented in this video and/or watch the related [business requirements document video](creating-a-business-requirements-document.md)).
