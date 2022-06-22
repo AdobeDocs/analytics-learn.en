@@ -116,3 +116,5 @@ Stay informed of anomalies within your data at all times - whether you're in the
 **Product stock-out:** "People buying Fitbits were 6x more likely to get an 'out of stock' than everyone else, so we quickly ordered more Fitbits." → Stock-outs prevented and more holiday orders completed
 
 For more information, watch our [webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
+
+Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
