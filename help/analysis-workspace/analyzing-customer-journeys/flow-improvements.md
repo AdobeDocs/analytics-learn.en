@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10622
 thumbnail: 344222.jpeg
+exl-id: ab340ade-3804-4b00-a691-39bd5a9c5773
 ---
-
 # 2022 Flow improvements
 
 Learn about some of the great improvements to the flow visualization. Improvements include letting you configure the start or end of the path you are interested in, filtering a column to include or exclude a specific item, and pre-configurable advanced settings.
