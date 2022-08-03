@@ -1,21 +1,18 @@
 ---
-title: Fallout Visualization in Analysis Workspace
-description: This video walks you through the Fallout visualization available in Analysis Workspace in Adobe Analytics. Use Fallout to create funnels or show user flow-through on key app/site workflows.
+title: Create a fallout visualization report
+description: Learn about fallout report use cases and how to configure this report in Analysis Workspace. Understand how to add several types of touchpoints and how to create and use segments in this component.
 feature: Visualizations
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 24042.jpg
-kt: 2275
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 345883.jpg
+kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
 ---
-# [!DNL Fallout Visualization] in Analysis Workspace {#fallout-visualization-in-analysis-workspace}
+# Create a fallout visualization report
 
-This video walks you through the [!DNL Fallout visualization] available in Analysis Workspace in Adobe Analytics. Use [!DNL Fallout] to create funnels or show user flow-through on key app/site workflows.
+Learn about fallout report use cases and how to configure this report in [!DNL Analysis Workspace]. Understand how to add several types of touchpoints and how to create and use segments in this component.
 
->[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
