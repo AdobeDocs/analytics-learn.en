@@ -1,6 +1,6 @@
 ---
 title: Create a fallout visualization report
-description: Learn about fallout report use cases and how to configure this report in Analysis Workspace.  You'll understand how to add several types of touchpoints and how to create and use segments in this component.
+description: Learn about fallout report use cases and how to configure this report in Analysis Workspace. Understand how to add several types of touchpoints and how to create and use segments in this component.
 feature: Visualizations
 role: User
 level: Beginner
