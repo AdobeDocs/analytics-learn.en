@@ -90,4 +90,4 @@ Leverage the reporting API to move standard reports from [!UICONTROL Workspace] 
 
 We hope you have found this article on in-tool strategies valuable. For more information on effective solutions to greater efficiency outside the Adobe Analytics platform click [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
