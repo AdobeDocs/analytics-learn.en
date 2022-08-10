@@ -80,4 +80,4 @@ Other key challenges analysts face:
    * Build their presence by helping socialize releases and wins
    * Use regular office hours to help train the trainers and cut down on ad-hoc asks
 
-Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
