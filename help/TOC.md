@@ -145,13 +145,10 @@ solution: Analytics
     + [Table and Visualization Data Source Settings](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
     + [Build a Time-Parting Heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
   + Analyzing Customer Journeys {#analyzing-customer-journeys}
-    + [Understand your data--fallout & flow](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+    + [Create a fallout visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+    + [Create a flow visualization](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+    + [Use fallout & flow together](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
     + [Journey IQ - Cross-device analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-    + [Fallout visualization](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-    + [Flow visualization](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-    + [Expanding on flow visualization](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-    + [2022 flow improvements](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-    + [Text-wrapping and multi-dimensional flow](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
   + Applying Segments {#applying-segments}
     + [Applying Segments to your Analysis Workspace project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
     + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
