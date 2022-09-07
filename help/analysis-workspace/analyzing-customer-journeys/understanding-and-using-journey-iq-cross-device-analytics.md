@@ -50,7 +50,7 @@ Keep reading to learn about:
 
 ## How [!DNL Cross-Device Analytics] Works
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] integrates with the [!DNL Adobe Experience Platform Identity Service], utilizing either the [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html) or [!DNL Private Graph] to identify how devices map to people. It then leverages this intelligence to create a cross-device view of user behavior. CDA includes unrivaled capabilities and tools to help your enterprise understand multi-device usage and the customer experience across those devices in their interactions with your brand. It sits as a layer below Analysis Workspace to provide deep insight into person-based audience analysis and cross-device attribution, segmentation and journey analysis using powerful tools such as [!UICONTROL Fallout], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] and [!DNL Attribution IQ].
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] integrates with the [!DNL Adobe Experience Platform Identity Service], utilizing the [!DNL Device Graph] to identify how devices map to people. It then leverages this intelligence to create a cross-device view of user behavior. CDA includes unrivaled capabilities and tools to help your enterprise understand multi-device usage and the customer experience across those devices in their interactions with your brand. It sits as a layer below Analysis Workspace to provide deep insight into person-based audience analysis and cross-device attribution, segmentation and journey analysis using powerful tools such as [!UICONTROL Fallout], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] and [!DNL Attribution IQ].
 
 ### The [!DNL Cross-Device Virtual Report Suite]
 
@@ -77,13 +77,13 @@ Finish the VRS setup and save it. The CDA VRS will show up in Analysis Workspace
 
 ### Restating History
 
-Sometimes it takes a while for your users to log in and for the [!DNL Co-op Graph] or [!DNL Private Graph] to identify them and map together their devices. CDA utilizes a 30-day look-back window, allowing it to restate a previously unidentified visitor as a person up to 30 days in the past.
+Sometimes it takes a while for your users to log in and for the [!DNL Device Graph] to identify them and map together their devices. CDA utilizes a 30-day look-back window, allowing it to restate a previously unidentified visitor as a person up to 30 days in the past.
 
 How does this help? Recall Isabelle's user journey from the discussion above:
 
 ![[!DNL Cross-Device Analytics] Journey](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-It is possible that Isabelle did not log in until just prior to making the purchase, and that the [!DNL Co-op Graph] or [!DNL Private Graph] did not map together Isabelle's devices until sometime after her purchase. But CDA's 30-day look-back allows CDA to restate Isabelle's past behavior at a person level, providing you with the cross-device view of her journey that you need.
+It is possible that Isabelle did not log in until just prior to making the purchase, and that the [!DNL Device Graph] did not map together Isabelle's devices until sometime after her purchase. But CDA's 30-day look-back allows CDA to restate Isabelle's past behavior at a person level, providing you with the cross-device view of her journey that you need.
 
 >[!NOTE]
 >
@@ -93,12 +93,11 @@ It is possible that Isabelle did not log in until just prior to making the purch
 
 CDA is included with [[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descriptions/adobe-analytics.html). Beginning in September 2019, [!DNL Analytics Ultimate] customers who meet the prerequisites listed below are eligible to use CDA. The prerequisites for CDA are as follows:
 
-* Your company must be a member of the [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html), or use an [!DNL Adobe Experience Platform Identity Service Private Graph].
-* You must implement everything required for [!DNL Co-op Graph] or [!DNL Private Graph] including [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html) and ID syncing with the graph. Note that in addition to technical requirements, the [!DNL Co-op Graph] has other legal and contractual requirements.
-* It is not currently possible to use two IMS orgs with a single [!DNL Private Graph], so you must standardize on a single IMS org. In some cases it is possible for a customer with multiple IMS orgs to use the [!DNL Co-op Graph] in conjunction with CDA.
-* The [!DNL Co-op graph] and [!DNL Private Graph], as well as certain components of CDA are hosted in [!DNL Microsoft Azure]. This means [!DNL Analytics] data is copied back and forth between Adobe's data processing center and Adobe's presence in [!DNL Microsoft Azure]. Some [!DNL Analytics] data will be stored in [!DNL Azure]. Your company must agree to this arrangement.
+* Your company must use the [!DNL Adobe Experience Platform Identity Service Device Graph].
+* You must implement everything required for the [!DNL Device Graph] including [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html) and ID syncing with the graph.
+* It is not currently possible to use two IMS orgs with a single [!DNL Device Graph], so you must standardize on a single IMS org.
+* The [!DNL Device Graph], as well as certain components of CDA are hosted in [!DNL Microsoft Azure]. This means [!DNL Analytics] data is copied back and forth between Adobe's data processing center and Adobe's presence in [!DNL Microsoft Azure]. Some [!DNL Analytics] data will be stored in [!DNL Azure]. Your company must agree to this arrangement.
 * CDA requires a "cross-device" [!UICONTROL report suite]. That is, the [!UICONTROL report suite] you use for CDA must include data from multiple different device types or "surfaces" such as desktop web, mobile web, and mobile app. As of September 2019, the server call volume for this [!UICONTROL report suite] must be 100MM server calls/day or less. (Server call volume limits will increase over the coming months.)
-* As of September 2019, the [!DNL Co-op Graph] and [!DNL Private Graph] are available in North America only. The schedule for graph presence in EMEA and APAC will be announced at a future time. If you are in those regions we encourage you to start looking at these prerequisites now so that you are ready to go when the graph becomes available.
 
 ## Interpreting Cross-Device Data
 
