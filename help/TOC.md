@@ -125,6 +125,7 @@ solution: Analytics
     + [Donut Visualization](analysis-workspace/visualizations/using-the-donut-visualization.md)
     + [Histogram Visualization](analysis-workspace/visualizations/histogram-visualization.md)
     + [Line Visualization](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+    + [Combo Charts](analysis-workspace/visualizations/combo-charts.md)
     + [Adding Trend Lines to Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
     + [Map Visualization](analysis-workspace/visualizations/map-visualization.md)
     + [Summary Number and Summary Change Visualizations](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
