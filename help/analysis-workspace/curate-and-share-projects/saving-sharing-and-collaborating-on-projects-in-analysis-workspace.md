@@ -4,7 +4,6 @@ description: In this video, learn how to save and export projects for yourself, 
 feature: Curate and Share
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 33634.jpg
 kt: 4108
 
@@ -19,3 +18,7 @@ In this video, learn how to save and export projects for yourself, send projects
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
+
+>[!INFO]
+>
+> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!

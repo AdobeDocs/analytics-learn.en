@@ -2,10 +2,7 @@
 title: Applying Segments to your Analysis Workspace project
 description: In this video, learn how to limit the data in your tables and visualizations by applying segments to your data.
 feature: Segmentation
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
+
 thumbnail: 30994.jpg
 kt: 4107
 
@@ -20,3 +17,7 @@ In this video, learn how to limit the data in your tables and visualizations by 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html).
+
+>[!INFO]
+>
+> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!
