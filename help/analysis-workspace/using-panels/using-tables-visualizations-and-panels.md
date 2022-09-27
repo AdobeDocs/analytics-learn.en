@@ -18,3 +18,7 @@ In this video you will learn how to use the building blocks of your Analysis Wor
 >[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12)
 
 For more information, visit the documentation for [panels](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html) and [visualizations](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html).
+
+>[!INFO]
+>
+> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!

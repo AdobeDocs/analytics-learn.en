@@ -18,3 +18,7 @@ In this video you will learn how to create a project in Analysis Workspace using
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html).
+
+>[!INFO]
+>
+> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!
