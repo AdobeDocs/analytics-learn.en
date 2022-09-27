@@ -17,3 +17,7 @@ In this video, you will learn how to use dates, [!UICONTROL date ranges], and da
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
+
+>[!INFO]
+>
+> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!

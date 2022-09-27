@@ -2,7 +2,6 @@
 title: Understanding How Data Gets into Your Analysis Workspace Project
 description: This video shows you how to see the flow of data from your page to the tables and visualizations in Analysis Workspace, using the Adobe Experience Platform Debugger extension in Chrome.
 feature: Workspace Basics
-doc-type: feature video
 role: User
 level: Beginner
 kt: 4109
@@ -16,3 +15,7 @@ This video shows you how to see the flow of data from your page to the tables an
 >[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12)
 
 For more information about the Adobe Experience Platform Debugger, please visit the [documentation](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html).
+
+>[!INFO]
+>
+> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!

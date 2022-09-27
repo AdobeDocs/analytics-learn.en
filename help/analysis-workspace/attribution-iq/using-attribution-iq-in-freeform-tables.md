@@ -2,10 +2,6 @@
 title: Using Attribution IQ in Freeform Tables
 description: Attribution IQ allows you to change the attribution model to any of ten rules-based models on a Freeform column on the fly.
 feature: Attribution
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
 role: User
@@ -26,3 +22,7 @@ Each attribution [!UICONTROL model] fully supports segmentation and breakdowns, 
 * [!DNL Adobe Analytics Select]
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
+
+>[!INFO]
+>
+> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!
