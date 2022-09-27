@@ -2,10 +2,6 @@
 title: Working with Dimensions in a Freeform Table
 description: Learn all about working with dimensions in freeform tables, including adding them, sorting, filtering, breaking them down by other dimensions, etc.
 feature: Dimensions
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
 role: User
@@ -30,3 +26,7 @@ Topics covered in the video, including times:
 * Dimensions as Filters (8:30)
 * Breakdowns (9:48)
 * Ranked, Over Time, and Trended Reports (13:11)
+
+>[!INFO]
+>
+> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!
