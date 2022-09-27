@@ -4,7 +4,6 @@ description: This video walks through how to add and configure the Summary numbe
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 335564.jpg
 kt: 2136
 exl-id: 3d60ecdc-4161-4b2d-9615-de410d89358e
@@ -16,3 +15,7 @@ This video walks through how to add and configure the Summary number and Summary
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html).
+
+>[!INFO]
+>
+> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!

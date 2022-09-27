@@ -2,8 +2,6 @@
 title: Bullet Graph Visualization in Analysis Workspace
 description: Bullet graphs are a useful way to show progress toward (or in excess of) a goal in your analysis. They provide you with another way to visualize your organization's success.
 feature: Visualizations
-activity: use
-doc-type: feature video
 kt: 2116
 role: User
 level: Beginner
@@ -17,3 +15,7 @@ thumbnail: 23989.jpg
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!
