@@ -16,3 +16,7 @@ When you need to put more than one value into an eVar (a conversion variable) at
 >[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html).
+
+>[!INFO]
+>
+> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

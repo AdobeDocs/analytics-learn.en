@@ -17,3 +17,7 @@ In this video, learn how to configure the settings which control how search engi
 >[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html).
+
+>[!INFO]
+>
+> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

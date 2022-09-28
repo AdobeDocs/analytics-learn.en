@@ -17,3 +17,7 @@ exl-id: a357b5a9-b1f3-449c-9f6e-31613211c009
 It is considered a best practice to use a data layer on your site as you are working with the Experience Cloud, including when you are working with Analytics. This video introduces the data layer and shows and example.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28775/?quality=12)
+
+>[!INFO]
+>
+> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

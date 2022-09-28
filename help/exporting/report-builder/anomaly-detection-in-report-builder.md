@@ -20,3 +20,7 @@ Learn how to add [!UICONTROL anomaly detection] [!UICONTROL metrics] to your dat
 In [!UICONTROL Report Builder], you can return [!UICONTROL metric] actuals, along with expected values and upper & lower boundaries, to add more depth to the data you are analyzing & sharing.
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

@@ -15,3 +15,7 @@ This video will walk you through Data Governance and how data labeling fits into
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

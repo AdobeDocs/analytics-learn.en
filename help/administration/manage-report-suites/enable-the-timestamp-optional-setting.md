@@ -14,5 +14,8 @@ exl-id: 7cc87784-cbbe-4dc8-b9bd-549850dfe22e
 
 Timestamps Optional allows us to mix timestamped and non-timestamped data in the same global report suite, send timestamped data from a mobile app to a global report suite and upgrade apps to use offline tracking without having to create a new report suite.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)
+
+>[!INFO]
+>
+> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

@@ -14,5 +14,8 @@ exl-id: 7cf7ea59-4516-486d-99f5-79cb55b23a3c
 
 Data feed UI in Adobe Analytics makes data feed management much easier. If you have the access to manage data feed, you can rerun a data feed job on your own using the data feed UI, without having the customer support team to resend the recent data feed files.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335748/?quality=12&learn=on)
+
+>[!INFO]
+>
+> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

@@ -16,3 +16,7 @@ The Adobe Analytics [!UICONTROL Data feed] allows you to export raw clickstream 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
 For more information on this feature, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).
+
+>[!INFO]
+>
+> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

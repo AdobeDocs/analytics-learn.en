@@ -16,3 +16,7 @@ exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
 >[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

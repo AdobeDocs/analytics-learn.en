@@ -20,3 +20,7 @@ Learn how to map analytics variables from the Web SDK through to Adobe Analytics
 For a list of the automatically mapped variables from the Web SDK to Adobe Analytics, please see this [documentation](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html)
 
 **NOTE:** When setting up Processing Rules, you may find that the "a.x.[your schema]" variable is not automatically in the drop-down window. If it is not there, don't panic. Just type it in according to the format, and add it as a contextData variable. After adding one or two, you may find that others are lazy-loaded.
+
+>[!INFO]
+>
+> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

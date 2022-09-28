@@ -20,3 +20,7 @@ The Download items as CSV option allows you download up to 50,000 items for a di
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
 Learn more in the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+
+>[!INFO]
+>
+> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!
