@@ -4,7 +4,6 @@ description: In this video, see how to add Area and Area Stacked visualizations 
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334261.jpg
 kt: 8113
 exl-id: d2d1ff79-0fcc-4de5-872d-8547ed48cf98
@@ -16,3 +15,7 @@ In this video, see how to add Area and Area Stacked visualizations to your proje
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=en#)
+
+>[!INFO]
+>
+> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!

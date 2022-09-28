@@ -4,7 +4,6 @@ description: Want to know which products are selling best? Learn some of the pri
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334096.jpg
 kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
@@ -16,3 +15,7 @@ Want to know which products are selling best? Learn some of the primary use case
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!

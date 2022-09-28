@@ -2,7 +2,6 @@
 title: Histogram Visualization in Analysis Workspace
 description: Histograms allow you to visualize the distribution of a metric across your visitors, visits, and now hits, to find high- and low-value segments.
 feature: Visualizations
-doc-type: feature video
 thumbnail: 23725.jpg
 kt: 1909
 role: User
@@ -16,3 +15,7 @@ exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
 
 For more information on this feature, visit [the documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!

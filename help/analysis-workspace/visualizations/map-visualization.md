@@ -2,7 +2,6 @@
 title: Map Visualization in Analysis Workspace
 description: This video shows you how to use the new Map visualization in Analysis Workspace. The Map viz will allow you to view either mobile (lat/long) or web (IP address) data against a dynamic map, allowing you to get an idea of customer usage in the context of their location.
 feature: Visualizations
-doc-type: feature video
 thumbnail: 23559.jpg
 kt: 1771
 role: User
@@ -26,3 +25,7 @@ Sections in this video:
 7:00 - Heatmap View
 
 For more information on this [!UICONTROL visualization], visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!

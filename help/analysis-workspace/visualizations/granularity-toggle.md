@@ -2,7 +2,6 @@
 title: Granularity Toggle in Analysis Workspace
 description: A granularity selector has been added to trended visualization settings to allow you to very easily adjust your data granularity from minute all the way up to year. The setting will adjust both the graph and the source table, saving you the steps of unhiding and manipulating the table.
 feature: Visualizations
-doc-type: feature video
 thumbnail: 23548.jpg
 kt: 1770
 role: User
@@ -14,3 +13,7 @@ exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
 A [!UICONTROL granularity] selector has been added to trended [!UICONTROL visualization] settings to allow you to very easily adjust your data [!UICONTROL granularity] from minute all the way up to year. The setting will adjust both the graph & the source table, saving you the steps of unhiding & manipulating the table.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
+
+>[!INFO]
+>
+> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!
