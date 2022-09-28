@@ -20,4 +20,9 @@ For more information on this feature, please see the [documentation](https://exp
 
 >[!INFO]
 >
-> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!
+> This video is part of two courses:
+>
+> * [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+> * [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
+>
+> Both are available for free on Experience League!

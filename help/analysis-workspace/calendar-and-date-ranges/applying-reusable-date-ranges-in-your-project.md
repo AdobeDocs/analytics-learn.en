@@ -16,3 +16,7 @@ Using custom dates and date ranges in your product can help you hone in on just 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!

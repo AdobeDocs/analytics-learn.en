@@ -2,10 +2,6 @@
 title: Using Drop-Down Filters in Analysis Workspace
 description: In this video you will learn how to use drop-down filters in Analysis Workspace to dynamically change the contents of a panel.
 feature: Panels
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23877.jpg
 kt: 1944
 role: User
@@ -23,3 +19,7 @@ The panel drop zone now has drop-down filtering capabilities. Drop-down filters 
 Drop-downs are a helpful way for consolidating projects & panels as well. For example, if you have several versions of a project that provides country-specific reporting, you can now collapse those projects into a single project, and add in a country drop-down that users can toggle between.
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!
