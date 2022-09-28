@@ -21,3 +21,7 @@ This video explains how to [!UICONTROL segment] in Adobe Analytics so that you g
 ## Additional Information
 
 For more information about this topic, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!

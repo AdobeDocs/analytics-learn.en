@@ -2,7 +2,6 @@
 title: Churn Analysis with Cohort Tables
 description: Cohort Tables offer two analysis types - Retention and Churn. While Retention shows how many users are retained over time, the Churn option will depict how many users were lost (1 - Retention).
 feature: Visualizations
-topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -19,3 +18,7 @@ exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!

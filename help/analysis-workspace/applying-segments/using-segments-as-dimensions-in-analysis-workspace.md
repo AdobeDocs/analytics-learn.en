@@ -18,3 +18,7 @@ exl-id: 36b564bd-30ae-4474-8b05-9607397e02b8,69901e9c-42e6-423e-bb89-8b8b0763bac
 This video shows how you can compare and visualize segments by using them as a dimension in Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12)
+
+>[!INFO]
+>
+> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!

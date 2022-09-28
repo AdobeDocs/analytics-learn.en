@@ -2,13 +2,11 @@
 title: Using Cross-tab Analysis to Explore Basic Marketing Attribution in Analysis Workspace
 description: There are many ways you can take your attribution methodology to the next level with Adobe Analytics. In this video, we highlight how you can derive deeper insights from the Marketing Channels report using cross-tab analysis in Workspace.
 feature: Marketing Channels
-topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
@@ -32,6 +30,9 @@ There are many ways you can take your attribution methodology to the next level 
 
 * 3:20 - Cross-tab dimensions are automatically dynamic when dropped, meaning their values can change over time. For this analysis, it's best to bring over static columns instead. Learn more about Dynamic Columns at 6:33 of the video: [Row and Column Settings in Freeform Tables](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 - Column settings can be updated in bulk now, instead of 1-by-1. Learn more at 8:45 of the video: [Row and Column Settings in Freeform Tables](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
- 
 
 For more information on this topic, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
+
+>[!INFO]
+>
+> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!

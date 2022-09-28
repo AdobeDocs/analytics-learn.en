@@ -17,3 +17,7 @@ exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
 In this video, learn how to quickly compare [!DNL Attribution IQ models], including an auto-created column that shows the percent difference between the two models' numbers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12)
+
+>[!INFO]
+>
+> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!

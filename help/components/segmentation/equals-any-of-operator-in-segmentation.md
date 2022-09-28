@@ -17,3 +17,7 @@ exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html)
+
+>[!INFO]
+>
+> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!

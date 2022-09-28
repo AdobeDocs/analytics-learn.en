@@ -14,3 +14,7 @@ exl-id: c14474e8-658b-4607-8bf7-39a685ecbf4d
 Join the analytics insiders for an Analytics Thursday focused on customer segmentation basics, strategies, and best practices. Carolyn Sebasky at athenahealth walks through a case study of how her organization integrated Demandbase and CRM datasets into Adobe Analytics for analysis, then Adobe Target for personalization. Note: Visualizations have been adjusted so as not to disclose sensitive data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338829/?quality=12&learn=on)
+
+>[!INFO]
+>
+> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!

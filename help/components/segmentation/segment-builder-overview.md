@@ -16,3 +16,6 @@ Slice and dice your data with segmentation in Adobe Analytics. This video walks 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12)
 
+>[!INFO]
+>
+> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!

@@ -20,3 +20,7 @@ The Algorithmic Attribution model in Analysis Workspace uses statistical techniq
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
 For more information, see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html)
+
+>[!INFO]
+>
+> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!
