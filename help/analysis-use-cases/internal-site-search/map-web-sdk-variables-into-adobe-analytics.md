@@ -23,4 +23,4 @@ For a list of the automatically mapped variables from the Web SDK to Adobe Analy
 
 >[!INFO]
 >
-> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!
+> This video is part of multiple courses, [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) and [Implementing and Measuring Internal Site Search](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), available for free on Experience League!
