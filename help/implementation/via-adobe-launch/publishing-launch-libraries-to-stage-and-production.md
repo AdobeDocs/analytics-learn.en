@@ -17,3 +17,7 @@ exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
 After you finish your implementation on your development server, you will want to move it along to a staging environment, test it there, and then move it to your production environment. This video shows that process step by step.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12)
+
+>[!INFO]
+>
+> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

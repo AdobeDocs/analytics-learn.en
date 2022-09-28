@@ -19,3 +19,6 @@ The [!DNL Experience Cloud debugger] is a tool that allows users to inspect and 
 
 You will learn how to see what is firing on different pages, load friendly names of variables, and export results for advanced use cases.
 
+>[!INFO]
+>
+> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

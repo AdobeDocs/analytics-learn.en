@@ -19,3 +19,7 @@ This video shows how to compare key workflows across various segments in Analysi
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!

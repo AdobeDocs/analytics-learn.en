@@ -16,3 +16,7 @@ In this video, learn how to set up a basic schedule for a [!DNL Report Builder] 
 >[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

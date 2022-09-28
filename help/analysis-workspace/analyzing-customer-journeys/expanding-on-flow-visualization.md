@@ -19,3 +19,7 @@ This video shows the various right-click options available in the [!DNL Flow vis
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace).
+
+>[!INFO]
+>
+> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!

@@ -17,3 +17,4 @@ This video shows how you can limit users of a project in Analysis Workspace to a
 >[!INFO]
 >
 > This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!
+

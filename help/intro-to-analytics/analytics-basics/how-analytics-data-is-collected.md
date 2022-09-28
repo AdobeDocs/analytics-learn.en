@@ -17,3 +17,7 @@ exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
 How does data get from your page into the reports in Adobe Analytics? This video shows you how.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12)
+
+>[!INFO]
+>
+> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

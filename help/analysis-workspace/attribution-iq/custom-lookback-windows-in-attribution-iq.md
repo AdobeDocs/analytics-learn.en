@@ -20,3 +20,7 @@ Custom look-back windows let you to expand the attribution window beyond the rep
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
 For more information, see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows)
+
+>[!INFO]
+>
+> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!

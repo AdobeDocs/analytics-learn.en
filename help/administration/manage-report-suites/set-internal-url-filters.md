@@ -17,3 +17,7 @@ In this video, learn about the settings regarding referrers, setting them as eit
 >[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html).
+
+>[!INFO]
+>
+> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

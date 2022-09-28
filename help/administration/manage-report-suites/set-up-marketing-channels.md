@@ -21,3 +21,7 @@ In this video, we demonstrate how to configure marketing channels reports in you
 >To maximize effectiveness of Marketing Channels for Attribution IQ and Customer Journey Analytics, we published some [revised best practices](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=en).
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=en).
+
+>[!INFO]
+>
+> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

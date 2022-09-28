@@ -18,3 +18,7 @@ Learn about the all-important step of defining the behavioral data you want to c
 [Download](assets/aa-implementation-playbook.xlsx) a sample Excel template to document requirements and data collection design for your digital properties.
 
 [Download](assets/geometrixx-clothiers-brd-sdr.xlsx) the Excel document presented in this video and/or watch the related [solution design reference video](creating-and-maintaining-an-sdr.md).
+
+>[!INFO]
+>
+> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

@@ -21,3 +21,7 @@ Calculated Metrics now support any of ten rules-based attribution models. Calcul
 ## Additional Resources {#additional-resources}
 
 For more information about [!DNL Attribution IQ], please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html).
+
+>[!INFO]
+>
+> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!
