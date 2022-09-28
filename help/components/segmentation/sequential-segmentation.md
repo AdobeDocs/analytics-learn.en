@@ -14,12 +14,6 @@ This video shows you how to build a segment in Analysis Workspace from sequences
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
 
-## Related Videos
-
-[Before and After Sequences in Sequential Segmentation](before-after-sequences-in-sequential-segmentation.md)
-
-## Additional Information
-
 For more information about this topic, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
 
 >[!INFO]

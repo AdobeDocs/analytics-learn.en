@@ -2,11 +2,6 @@
 title: Using different Attribution IQ models with segments in Analysis Workspace
 description: In this video you will learn how to use Attribution IQ models in conjunction with Adobe Analytics segments on your site.
 feature: Attribution
-topics: 
-activity: use
-doc-type: feature video
-author: Doug Moore
-team: Technical Marketing
 thumbnail: 23743.jpg
 kt: 1707
 role: User
@@ -23,4 +18,5 @@ When you are doing analysis on your site, you will often use segments to focus o
 
 >[!INFO]
 >
-> This video is part of multiple courses [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) and [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!
+> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!
+

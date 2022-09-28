@@ -4,7 +4,6 @@ description: Learn how to create and find segments throughout your analysis acro
 feature: Segmentation
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334092.jpg
 kt: 8058
 exl-id: ea359d50-b24b-406d-bf0e-0277351a0be9

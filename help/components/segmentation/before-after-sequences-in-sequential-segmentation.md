@@ -14,12 +14,6 @@ This video explains how to [!UICONTROL segment] in Adobe Analytics so that you g
 
 >[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12)
 
-## Related Videos
-
-[Sequential Segmentation in Adobe Analytics](sequential-segmentation.md)
-
-## Additional Information
-
 For more information about this topic, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
 
 >[!INFO]

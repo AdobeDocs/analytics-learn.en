@@ -2,8 +2,6 @@
 title: Segment Builder Overview
 description: Slice and dice your data with segmentation in Adobe Analytics. This video walks you through the segment builder and gives a basic overview.
 feature: Segmentation
-activity: use
-doc-type: feature video
 thumbnail: 25404.jpg
 kt: 2300
 role: User

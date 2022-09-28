@@ -2,11 +2,6 @@
 title: Using Segments as Dimensions in Analysis Workspace
 description: This video shows how you can compare and visualize segments by using them as a dimension in Analysis Workspace.
 feature: Segmentation
-topics: 
-activity: use
-doc-type: feature video
-author: Doug Moore
-team: Technical Marketing
 thumbnail: 23974.jpg
 kt: 2009
 role: User

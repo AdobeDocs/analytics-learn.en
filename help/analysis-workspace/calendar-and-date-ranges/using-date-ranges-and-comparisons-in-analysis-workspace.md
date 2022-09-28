@@ -20,8 +20,8 @@ For more information, visit the [documentation](https://experienceleague.adobe.c
 
 >[!INFO]
 >
-> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!
-
->[!INFO]
+> This video is part of two courses: 
+> * [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+> * [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
 >
-> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!
+> Both are available for free on Experience League!

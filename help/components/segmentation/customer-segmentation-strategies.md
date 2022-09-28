@@ -1,6 +1,6 @@
 ---
 title: Customer Segmentation Strategies & Best Practices In Adobe Analytics
-description: Join the analytics insiders for an Analytics Thursday focused on customer segmentation basics, strategies, and best practices. Carolyn Sebasky at athenahealth walks through a case study of how her organization integrated Demandbase and CRM datasets into Adobe Analytics for analysis, then Adobe Target for personalization. Note - Visualizations have been adjusted so as not to disclose sensitive data.
+description: Join the analytics insiders for an Analytics Thursday focused on customer segmentation basics, strategies, and best practices. Carolyn Sebasky at Athenahealth walks through a case study of how her organization integrated Demandbase and CRM datasets into Adobe Analytics for analysis, then Adobe Target for personalization. Note - Visualizations have been adjusted so as not to disclose sensitive data.
 feature: Segmentation
 role: User
 level: Beginner

@@ -16,4 +16,4 @@ The longer the time period that a [!UICONTROL metric] is trended, the more diffi
 
 >[!INFO]
 >
-> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!
+> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!
