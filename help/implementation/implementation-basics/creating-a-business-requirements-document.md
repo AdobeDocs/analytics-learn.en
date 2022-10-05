@@ -1,17 +1,16 @@
 ---
-title: Creating a Business Requirements Document
-description: Learn about the all-important step of defining the behavioral data you want to capture and analyze in Adobe Analytics. What does your business need to understand about how visitors use your digital properties? Write these requirements down first, and then decide how they'll be captured using Analytics events, dimensions and metrics. 
+title: Create a business requirements document
+description: Learn about the important step of defining the behavioral data that you want to capture and analyze in Adobe Analytics. 
 feature: Implementation Basics
-team: Technical Marketing
-kt: 3580
-thumbnail: 28758.jpg
 role: Developer, Data Engineer
 level: Beginner
+kt: 3580
+thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 ---
-# Creating a Business Requirements Document
+# Create a Business Requirements Document{create-a-business-requirements-document}
 
-Learn about the all-important step of defining the behavioral data you want to capture and analyze in Adobe Analytics. What does your business need to understand about how visitors use your digital properties? Write these requirements down first, and then decide how they'll be captured using Analytics events, dimensions and metrics.
+Learn about the important step of defining the behavioral data that you want to capture and analyze in Adobe Analytics. What does your business need to understand about how visitors use your digital properties? Write down these requirements first, and then decide how to capture them using Analytics events, dimensions, and metrics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
