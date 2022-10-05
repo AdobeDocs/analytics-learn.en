@@ -1,6 +1,6 @@
 ---
-title: Using Best Practices when Tracking Single Page Applications (SPA) in Adobe Analytics 
-description: In this document, we will describe several best practices that you should follow and be aware of as you are using Adobe Analytics to track Single Page Applications (SPA). This doc will focus on using Experience Platform Launch, which is the recommended implementation method.
+title: Implementation best practices for Single Page Applications (SPAs) 
+description: Learn some best practices for implementing Adobe Analytics on Single Page Applications (SPAs). This includes using Experience Platform Tags, the recommended implementation method.
 feature: Implementation Basics
 topics: spa
 activity: implement
@@ -12,26 +12,26 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 ---
-# Using Best Practices when Tracking Single Page Applications (SPA) in Adobe Analytics {#using-best-practices-when-tracking-spa-in-adobe-analytics}
+# Implementation best practices for Single Page Applications (SPAs) {#implementation-best-practices-for-single-page-appliations}
 
-In this document, we will describe several best practices that you should follow and be aware of as you are using Adobe Analytics to track Single Page Applications (SPA). This doc will focus on using Adobe [!DNL Experience Platform Launch], which is the recommended implementation method.
+Learn some best practices for implementing [!DNL Adobe Analytics] on Single Page Applications (SPAs). This includes using [!DNL Experience Platform Tags], the recommended implementation method.
 
 INITIAL NOTES:
 
-* The items below are going to assume that you are using [!DNL Experience Platform Launch] to implement on your site. The considerations would still exist if you are not using [!DNL Experience Platform Launch], but you would need to adapt them to your implementation method.
-* All SPAs are different, so you may need to tweak some of the following items to best meet your need, but we wanted to share some best practices with you; things that you need to think about as you are implementing Adobe Analytics on SPA pages.
+* The content below references the use of [!DNL Experience Platform Tags] to implement Adobe Analytics on your site. These considerations apply if [!DNL Experience Platform Tags] is not used, therefore, you must adapt them to your implementation method.
+* There are differences in SPAs, therefore, you should adjust your approach accordingly to best meet your needs.
 
-## Simple diagram of working with SPAs in [!DNL Experience Platform Launch] {#simple-diagram-of-working-with-spas-in-launch}
+## Simple diagram of working with SPAs in [!DNL Experience Platform Tags] {#simple-diagram-of-working-with-spas-in-tags}
 
-![spa for analytics in launch](assets/spa_for_analyticsinlaunch.png)
+![SPA for analytics in tags](assets/spa_for_analyticsinlaunch.png)
 
-**NOTE:** As stated, this is a simplified diagram of how SPA pages are handled in an Adobe Analytics implementation using [!DNL Experience Platform Launch]. In the following sections of this page, we will discuss the steps and any issues that you should carefully consider or act on.
+**NOTE:** This is a simplified diagram of how SPA pages are handled in an Adobe Analytics implementation using [!DNL Experience Platform Tags]. The following sections identify steps and issues to consider.
 
-## Setting the data layer {#setting-the-data-layer}
+## Set the data layer {#set-the-data-layer}
 
-When new content is loaded on a SPA page, or when an action takes place on a SPA page, one of the first things you should do is to update the data layer. This needs to happen BEFORE the custom event fires and triggers rules in [!DNL Experience Platform Launch], so that [!DNL Experience Platform Launch] can pick up the new values from the data layer and push them into Adobe Analytics.
+When new content is loaded or when an action occurs on a SPA page, *update the data layer first*. This must happen **before** a custom event that triggers a rule executes in [!DNL Experience Platform Tags]. This ensures that the correct values from the data layer are pushed into Tags and then Adobe Analytics.
 
-Following is a sample data layer, the elements of which could be changed on view change or action on your SPA. For example, on a full/majority screen change, it would be common to change a "[!DNL pageName]" element, so that the new one could be captured in [!DNL Experience Platform Launch] and sent into Adobe Analytics.
+The following is a sample data layer. Any of these elements may change based on the initial view or subsequent change of the view given an  action taken on your SPA page. For example, on a full or majority view change, it is a common requirement to pass in a unique "[!DNL pageName]" value to differentiate between the views in Adobe Analytics reporting.
 
 ```JavaScript
 <script>
@@ -68,72 +68,72 @@ Following is a sample data layer, the elements of which could be changed on view
 
 ```
 
-## Setting Custom Events and Listening in [!DNL Experience Platform Launch] {#setting-custom-events-and-listening-in-launch}
+## Set custom events and listen for these events in [!DNL Experience Platform Tags] {#setting-custom-events-and-listening-in-tags}
 
-When new content loads on the page, or when an action happens on the site, you will want to inform [!DNL Experience Platform Launch] so that it can run a rule and send data to [!DNL Analytics]. There are a couple different ways to do this: [!UICONTROL Direct Call] [!UICONTROL rules] or Custom Events.
+When new content loads or when an action occurs on the SPA page, Experience Platform Tags needs to be informed to run a rule that sends data to [!DNL Analytics]. There are a couple approaches for this: [!UICONTROL Direct Call rules] or Custom Events.
 
-* [!UICONTROL Direct Call] [!UICONTROL Rules]: in [!DNL Experience Platform Launch], you can set up a [!UICONTROL direct call] [!UICONTROL rule] that executes when it is called directly from the page. If your page load or your action on your site is very simple, or if it is unique and can execute a specific set of instructions every time (set [!DNL eVar4] to X and trigger [!DNL event2] every time), then you can use a [!UICONTROL direct call] [!UICONTROL rule]. See [!DNL Experience Platform Launch] documentation regarding creating [!UICONTROL direct call] [!UICONTROL rules].
-* Custom Events: For more functionality, and for the ability to dynamically attach a payload with different values, you should set custom JavaScript events and listen for them in [!DNL Experience Platform Launch], where you can use the payload to set variables and send the data into Adobe Analytics. It is more likely that you will need this functionality, and so this option is considered the best practice. However, each function on your site can determine which method will be most appropriate. We will move forward in this document assuming that you will need to use this custom events method.
+* [!UICONTROL Direct Call rules]: Set up a [!UICONTROL direct call rule] that executes when it is called directly from the page. If the page load or action is simple or unique and can execute a specific set of instructions every time (for example, set [!DNL eVar4] to X and trigger [!DNL event2] every time), then this approach is suitable. Refer to [!DNL Experience Platform Tags] documentation for more details about creating [!UICONTROL direct call rules].
+* Custom Events: If you need to dynamically attach a payload with unique values for events that occur on SPA pages, use custom JavaScript events, and listen for them in [!DNL Experience Platform Tags]. Use the payload to set data elements and Analytics variables in Tags. This method is considered the best practice, as this need is typically prevalent for SPAs. Our examples below use the custom events method.
 
-**Examples:** In [THIS](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html) help document, there are links to sample SPA sites that have implemented [!DNL Analytics] (and other Experience Cloud solutions), as well as documents describing what has been implemented. In these SPA examples, the following custom events have been used:
+**Examples:** [In this](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html) help document, there are links to sample SPA sites that implement [!DNL Analytics] and other Experience Cloud solutions. In these  examples, the following custom events are used:
 
-* [!DNL event-view-start]: This event should fire on the view start of the view/state that is loading.
-* [!DNL event-view-end]: This event should be fired even when a view/state change has occurred and all SPA components on the page have finished loading. This is the event that typically triggers a call into Adobe Analytics.
-* [!DNL event-action-trigger]: This event should fire when any event occurs on the page except view/state load. This could be a click event or a smaller content change without a view change.
+* **[!DNL Event-view-start]**: Execute on the view start of the view/state that loads.
+* **[!DNL Event-view-end]**: Execute when a view/state change occurs and all SPA components on the page finish loading. This is the event that typically sends data to Adobe Analytics.
+* **[!DNL Event-action-trigger]**: Execute when any event occurs on the page except view/state load. Examples of this include a click event or a smaller content change without a view change.
 
-Please see the above-referenced pages/docs for more information about how/when they are fired. You don’t have to use these same event names, but the functionality listed here is recommended best practices. The following video will show a sample site and where in [!DNL Experience Platform Launch] to listen for the custom events.
+Refer to the pages and docs referenced above for more information about how and when these events fire. You do not need to use the same event names in your implementation. The functional use case for the method used is essential to understand as the recommended best practice for each. The following video demonstrates a sample SPA page and sample code in [!DNL Experience Platform Tags] that listens for the custom events.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
 
-## Running s.t() or s.tl() in the [!DNL Experience Platform Launch] [!UICONTROL Rule] {#running-s-t-or-s-tl-in-the-launch-rule}
+## Execute s.t() or s.tl() in the [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
-One of the most important things to understand for [!DNL Analytics] when working with a SPA is the difference between `s.t()` and `s.tl()`. You will be triggering one of these methods in [!DNL Experience Platform Launch] to send data into [!DNL Analytics], but you need to know when to send each one.
+An important concept to understand for [!DNL Analytics] when working with a SPA is the difference between `s.t()` and `s.tl()`. Your code triggers one or the other of these methods in [!DNL Experience Platform Tags] to send data into [!DNL Analytics].
 
-* **s.t()** - The “t” stands for “track” and is a normal page view. Even though the URL may not change, does the view change enough that you would *consider* it a new “page”? If so, set the s.[!DNL pageName] variable and use `s.t()` to send the call into [!DNL Analytics]
+* **s.t()** - The "t" stands for "track", and this represents a page view. If the view changes enough that you  *consider* it a new "page", use this call. Set a unique value to the [!DNL s.pageName] variable and use `s.t()` to send the data into [!DNL Analytics].
 
-* **s.tl()** - The “tl” stands for “track link” and is normally used for tracking clicks or small content changes on the page, as opposed to a full screen change. If the change on your page is small, so that you wouldn’t consider it a full new “page”, use `s.tl()` and do not worry about setting the s.pageName variable, as [!DNL Analytics] will ignore it.
+* **s.tl()** - The "tl" stands for "track link", and this represents a link click or small content change. If the view change is minimal, use `s.tl()` to pass in a unique value about the interaction to [!DNL Analytics]. This variable passed in is not [!DNL s.pageName], as this is ignored in Analytics when `s.tl()` calls are received. 
 
-**TIP:** Some people use a general guideline that if the screen changes more than 50%, it should be considered a page view and use `s.t()`. If it is less than 50% change to the screen, use `s.tl()`. However, it is totally up to you and what you consider a new “page” and how you would like to track your site in Adobe Analytics.
+**TIP:** As a general guideline, if the screen changes by more than 50%, use the `s.t()` page view call. Otherwise, use `s.tl()`. However, use your judgment when considering actions that constitute a new "page" and how that should be presented in Adobe Analytics reports.
 
-The following video shows where/how to trigger `s.t()` or `s.tl()` in Launch by Adobe.
+The following video shows where and how to trigger `s.t()` or `s.tl()` in Tags.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
 
-## Clearing Variables {#clearing-variables}
+## Clear Variables {#clear-variables}
 
-When tracking your site with Adobe Analytics, you of course only want to send the right data into [!DNL Analytics] at the right time. In a SPA environment, a value tracked in an [!DNL Analytics] variable can persist and be re-sent into [!DNL Analytics], potentially when we no longer want it to. For this reason, there is a function in the [!DNL Analytics] [!DNL Launch] extension to clear the variables, so that you have a fresh slate when you run the next image request and send data into [!DNL Analytics].
+Send the right data into [!DNL Analytics] at the right time. In a SPA environment, a value stored in an [!DNL Analytics] variable persists and resends into [!DNL Analytics], potentially when you no longer want it. A function exists in the [!DNL Analytics] [!DNL Tags] extension to clear the variables to ensure that the next call doesn't errantly send data into [!DNL Analytics].
 
-In the diagram above, we have it listed at the end of the process, clearing the variables *after* you send in the hit. In reality, it can be done either before OR after the hit gets sent in, but should be consistent in your [!DNL Experience Platform Launch] rules, so that you always clear either before or after setting variables and sending them in. Remember, if you are going to clear the variables *before* you run `s.t()`, make sure that you clear the variables first, then set the new variables, and then finally send the new data into [!DNL Analytics].
+The diagram above shows variables cleared *after* you send in data. In reality, this can happen before OR after the call, however, be consistent in your [!DNL Experience Platform Tags] rules for a cleaner implementation. If you clear variables *before* you execute `s.t()`, set the new variables immediately after the call and then proceed to send the new data into [!DNL Analytics].
 
-**NOTE:** Clearing variables is not always needed when running `s.tl()`, because `s.tl()` requires the usage of the [!DNL linkTrackVars] variable alongside it each time to tell [!DNL Analytics] which variables are going to be set (automatically added behind the scenes in [!DNL Experience Platform Launch]). This means that errant variables don’t usually come in when using `s.tl()`, but it is very much recommended when using `s.t()` in a SPA environment. All that being said, I would like to recommend it as a best practice to use the Clear Variables function for both `s.t()` and `s.tl()` in a SPA environment, just to ensure quality data collection.
+**NOTE:** Clearing variables is not always needed when running `s.tl()`. This call requires the use of the [!DNL linkTrackVars] variable to instruct [!DNL Analytics] which variables to set. This happens automatically [!DNL Experience Platform Tags] through configuration. It prevents errant variables from setting in contrast to the behavior with `s.t()` calls in a SPA environment. To ensure the cleanest and most reliable implementation, it is likely easier to use the clear variables function for both calls in a SPA environment.
 
-The following video shows where/how to clear the variables in [!DNL Launch].
+The following video shows where and how to clear variables in [!DNL Tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
 
-## Additional Considerations {#additional-considerations}
+## Additional considerations {#additional-considerations}
 
-### Custom Code Windows in [!DNL Experience Platform Launch] {#custom-code-windows-in-launch}
+### Custom Code windows in [!DNL Experience Platform Tags] {#custom-code-windows-in-tags}
 
-In the [!DNL Launch] [!DNL Analytics] extension, there are two places where you can insert custom code: The [!UICONTROL library management] section and the extra “[!UICONTROL Configure Tracker Using Custom Code]” section.
+In the [!DNL Tags] [!DNL Analytics] extension, there are two places where custom code may be inserted: The "[!UICONTROL library management]" and "[!UICONTROL Configure tracker using custom code]" sections.
 
-![Launch Analytics custom code windows](assets/launch_analyticscustomcodewindows.png)
+![Tags Analytics custom code windows](assets/launch_analyticscustomcodewindows.png)
 
-It is important to know that either one of these locations are really only going to run the code in them once, when the initial page load happens on your SPA page. If you need the code to run on a view change or on an action on your site, you should add an additional Action to the appropriate **[!UICONTROL rule]** (E.g. in the “page load: event-view-end” [!UICONTROL rule]), so that the code executes every time that [!UICONTROL rule] runs. When creating that Action in the [!UICONTROL rule], set *Extension = Core* and *Action Type = Custom Code*.
+Either one of these locations runs the code contained therein once for the initial page load your SPA page. If the code should run on a view or action change, implement that code in the appropriate **[!UICONTROL rule]** (for example, the "page load: event-view-end" rule), to ensure that the code executes every time the [!UICONTROL rule] runs. When creating thet action in the [!UICONTROL rule], set *Extension = Core* and *Action Type = Custom Code*.
 
-### “Hybrid” SPA/Regular Sites {#hybrid-spa-regular-sites}
+### "Hybrid" SPA and traditional sites {#hybrid-spa-and-traditional-sites}
 
-Some sites are a combination of “regular” pages and SPA pages. In this instance, you will need to use a strategy that works for both page types. When configuring your custom events on the site, and triggering the rules in [!DNL Experience Platform Launch], be careful that there aren’t double hits going into [!DNL Analytics] from the page, based on hash changes, etc. (if that is how you have chosen to trigger the [!DNL Experience Platform Launch] rule). In this case, you will need to suppress one of the page views so that it doesn’t give you faulty data in Adobe Analytics.
+Some sites are comprised of a combination of traditional and SPA pages. In this instance, use a strategy that works for both page types. When configuring your custom events on the site and triggering rules in [!DNL Experience Platform Tags], ensure that double hits aren't sent into [!DNL Analytics] based on hash changes, and so on. In this case, suppress one of the page views to prevent duplicate data passed into Adobe Analytics.
 
-If you decide to break the functionality out into separate [!UICONTROL rules] so that you have more control over it, be sure to remember/document that you have done this, so that any changes to one [!UICONTROL rule] can be made to the other [!UICONTROL rule] as well, protecting your [!DNL Analytics] data integrity.
+If you decide to separate the functionality into unique [!UICONTROL rules] for more control, remember to document that you have done this. If you change one [!UICONTROL rule], make the same change to the other [!UICONTROL rule].
 
-### Integration with [!DNL Target] via A4T {#integration-with-target-via-a4t}
+### Integration with [!DNL Target] using A4T {#integration-with-target-using-a4t}
 
-Just a quick callout here. If you are integrating with [!DNL Target] using A4T, make sure that the [!DNL Target] request and the [!DNL Analytics] request on the same view change have the same SDID. This will ensure that your data properly synchronizes on the solutions.
+When integrating with [!DNL Target] using A4T, confirm that the [!DNL Target] and [!DNL Analytics] requests sent in on the same view or action pass the same SDID parameter value. This ensures that your data properly synchronizes in the backend.
 
-To see the hits, use a debugger or packet sniffer program. You can also use the Experience Cloud Debugger, a Chrome extension that can be downloaded [HERE](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj). [!DNL Target] should be firing first on the page, so you can also check that in the JavaScript console or debugger.
+To view these hits, use a debugger or packet monitoring tool. Adobe provides an Experience Platform Debugger for this purpose. It's a Chrome extension that can be [downloaded here](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob?hl=en). [!DNL Target] should execute first on the page. This can be verified in the debugger, as well. 
 
-## Additional Resources {#additional-resources}
+## Additional resources {#additional-resources}
 
-* [SPA discussion on the Adobe forums](https://forums.adobe.com/thread/2451022)
-* [Reference Architecture sites to show how to implement SPA in Experience Platform Launch](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [SPA discussion on the Adobe forums](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-platform-launch/best-practices-for-single-page-apps/m-p/267940)
+* [Reference Architecture sites to show how to implement SPA in Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html)
