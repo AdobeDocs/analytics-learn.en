@@ -16,6 +16,7 @@ exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 Get the most out of [!DNL Adobe Analytics]. Use these tutorials to learn the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects. 
   
 To get started, 
+
 * See the **"What's New"** section below for the latest updates and features
 * **Staff Picks** highlights some of our favorite content 
 * Explore the content by topic and subtopic in the **left navigation**
@@ -25,12 +26,12 @@ Curated learning experiences by role and skill level are also offered in the cou
 
 ## What's New
 
-* **[Adobe Analytics mobile scorecard builder (Video) Learns about how to create and share mobile scorecards created in [!DNL Analysis Workspace] for your Executive users.*
+*   **[Adobe Analytics mobile scorecard builder (Video) Learns about how to create and share mobile scorecards created in [!DNL Analysis Workspace] for your Executive users.*
 
-* **[Adobe Analytics mobile scorecard app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+*   **[Adobe Analytics mobile scorecard app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
     *Learn how to download the mobile scorecard application and view mobile scorecards created in [!DNL Analysis Workspace].*
 
-* **[Annotations in workspace (Video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
+*   **[Annotations in workspace (Video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
     *Annotations in [!DNL Analysis Workspace] enable you to effectively communicate contextual data nuances and insights to your users across your organization. Annotate a date or date range with known data issues, public holidays, campaign launches, and so on. This  informs users why they see irregularities in line charts, tables and more.*
 
 ## Staff Picks
