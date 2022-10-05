@@ -26,8 +26,6 @@ Curated learning experiences by role and skill level are also offered in the cou
 
 ## What's New
 
-*   **[Adobe Analytics mobile scorecard builder (Video) Learns about how to create and share mobile scorecards created in [!DNL Analysis Workspace] for your Executive users.*
-
 *   **[Adobe Analytics mobile scorecard app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
     *Learn how to download the mobile scorecard application and view mobile scorecards created in [!DNL Analysis Workspace].*
 
