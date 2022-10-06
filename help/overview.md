@@ -24,6 +24,8 @@ To get started,
 
 Curated learning experiences by role and skill level are also offered in the courses section. Simply sign-in with your Adobe ID and navigate to **Learn > Recommended courses** in the top navigation.
 
+<div id="whats-new-section">
+
 ## What's New
 
 *   **[Adobe Analytics mobile scorecard app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
@@ -31,6 +33,10 @@ Curated learning experiences by role and skill level are also offered in the cou
 
 *   **[Annotations in workspace (Video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
     *Annotations in [!DNL Analysis Workspace] enable you to effectively communicate contextual data nuances and insights to your users across your organization. Annotate a date or date range with known data issues, public holidays, campaign launches, and so on. This  informs users why they see irregularities in line charts, tables and more.*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## Staff Picks
 
@@ -78,6 +84,8 @@ Curated learning experiences by role and skill level are also offered in the cou
 </tr>
 </table>
 
+</div>
+  
 ## Additional resources
 
 [Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
