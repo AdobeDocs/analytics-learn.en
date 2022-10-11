@@ -13,4 +13,4 @@ thumbnail: 3410002.jpg
 
 In this video, you will learn how to customize detail views, including text for Adobe Analytics dashboards. This let's you further refine the data you show and the story you want to tell to your stakeholders through mobile scorecard projects.
 
->[!VIDEO](https://video.tv.adobe.com/v/Cannot find MPC Link/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
