@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Analytics Tutorials
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
+user-guide-description: Watch video tutorials for Adobe Analytics and learn how to get the most out of your data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
 ---
