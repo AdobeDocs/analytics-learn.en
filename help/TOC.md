@@ -129,6 +129,7 @@ solution: Analytics
     + [Adding Trend Lines to Line Visualizations](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
     + [Map Visualization](analysis-workspace/visualizations/map-visualization.md)
     + [Summary Number and Summary Change Visualizations](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+    + [Key metric summary Visualization](analysis-workspace/visualizations/key-metric-summary.md)
     + [Text Visualization](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
     + [Scatterplot Visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
     + [Treemap Visualization](analysis-workspace/visualizations/treemap-visualization.md)
@@ -348,6 +349,7 @@ solution: Analytics
     + [Visualizations for Mobile Scorecards](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
     + [Apply Custom Date Ranges](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
     + [Analytics dashboards In-App Experience](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
+    + [Create custom detail views](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + Exporting {#exporting}
   + From the UI {#from-the-ui}
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
