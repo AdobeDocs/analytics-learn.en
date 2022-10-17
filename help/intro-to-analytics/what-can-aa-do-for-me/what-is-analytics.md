@@ -5,7 +5,8 @@ feature: Implementation Basics
 role: Developer, Architect, Data Architect, Data Engineer, Developer, Leader, User
 level: Beginner
 kt: 10454
-thumbnail: 
+thumbnail:
+last-substantial-update: 2022-10-14
 
 ---
 # What is analytics?{#what-is-analytics}

@@ -7,6 +7,7 @@ role: User
 level: Beginner
 kt: 11271
 thumbnail: 3410002.jpg
+last-substantial-update: 2022-10-11
 ---
 
 # Create custom detail views for dashboards
