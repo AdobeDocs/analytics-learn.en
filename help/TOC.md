@@ -9,7 +9,8 @@ solution: Analytics
 
 + [Analytics tutorials](overview.md)
 + Introduction to Analytics {#intro-to-analytics}
-  + What Can Adobe Analytics Do For Me? {#what-can-aa-do-for-me}
+    + What Can Adobe Analytics Do For Me? {#what-can-aa-do-for-me}
+    + [What is analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
     + [How Adobe Analysis Workspace Can Change Your Business](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
     + [It's More Than Data. It's Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
     + [Adobe Sensei and Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)

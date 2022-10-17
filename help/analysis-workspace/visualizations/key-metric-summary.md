@@ -6,6 +6,7 @@ role: User
 level: Beginner
 kt: 11270
 thumbnail: 3410003.jpeg
+last-substantial-update: 2022-10-11
 ---
 
 # Key metric summary visualization
