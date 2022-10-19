@@ -26,7 +26,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 
 <div id="whats-new-section">
 
-## What's New
+## What's new
 
 *   **[Adobe Analytics mobile scorecard app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
     *Learn how to download the mobile scorecard application and view mobile scorecards created in [!DNL Analysis Workspace].*
@@ -35,15 +35,17 @@ Curated learning experiences by role and skill level are also offered in the cou
     *Annotations in [!DNL Analysis Workspace] enable you to effectively communicate contextual data nuances and insights to your users across your organization. Annotate a date or date range with known data issues, public holidays, campaign launches, and so on. This  informs users why they see irregularities in line charts, tables and more.*
 
 </div>
+
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
+
 <div id="staff-picks-section">
 
-## Staff Picks
+## Staff picks
 
 <table>
 <tr>
