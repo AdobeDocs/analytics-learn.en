@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Analytics Tutorials
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
+user-guide-description: Watch video tutorials for Adobe Analytics and learn how to get the most out of your data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
 ---
@@ -9,17 +9,17 @@ solution: Analytics
 
 + [Analytics tutorials](overview.md)
 + Introduction to Analytics {#intro-to-analytics}
-    + What Can Adobe Analytics Do For Me? {#what-can-aa-do-for-me}
     + [What is analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-    + [How Adobe Analysis Workspace Can Change Your Business](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-    + [It's More Than Data. It's Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
-    + [Adobe Sensei and Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
-    + [Customer Use Case - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
-    + [Customer Use Case - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
-    + [Customer Use Case - The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-    + [Summit 2019 Super Session - Travel and Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-    + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-    + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+    + What Can Adobe Analytics Do For Me? {#what-can-aa-do-for-me}
+      + [How Adobe Analysis Workspace Can Change Your Business](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+      + [It's More Than Data. It's Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [Adobe Sensei and Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+      + [Customer Use Case - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+      + [Customer Use Case - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+      + [Customer Use Case - The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+      + [Summit 2019 Super Session - Travel and Hospitality](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
   + Strategy & thought leadership{#strategy}
     + [Part 1 - Simple hacks for greater efficiency](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
     + [Part 2 - Simple hacks for greater efficiency](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
@@ -38,15 +38,11 @@ solution: Analytics
     + [Introduction to Conversion Variables (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
     + [Introduction to Conversion Events](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
   + Customizing the UI {#customizing-the-ui}
-    + [User Preferences in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
-    + [Adding Dimension and Metric Descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-    + [Using Custom Color Palettes in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-    + [Color Eyedropper Extension for Defining Custom Palettes](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
-    + [Customizing the Menu in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-    + [Enhancing Security in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-    + [Set Analysis Workspace as your landing page](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
-    + [Setting an Analysis Workspace Project as your Landing Page](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-    + [Dark Mode Extension for Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
+    + [Customize Analysis Workspace user preferences](intro-to-analytics/customizing-the-ui/user-preferences.md)
+    + [Add dimension and metric descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+    + [Customizing the menu in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+    + [Enhancing security in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+    + [Setting an Analysis Workspace Project as your landing page](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
   + Getting Help {#getting-help}
     + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
     + [In-product Support Ticket Submission](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -88,7 +84,7 @@ solution: Analytics
     + [Using the Attribution IQ Panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
     + [Media Concurrent Viewers Panel in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
     + [Media Playback Time Spent Panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
-    + [Using Drop-Down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
+    + [Using Drop-down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
     + [Using Panels to Organize your Analysis Workspace Projects](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
     + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
     + [Multiple Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)

@@ -1,6 +1,6 @@
 ---
-title: Introduction To Analysis Workspace 
-description: Learn how Analysis Workspace supports data novices and experts
+title: Introduction to Analysis Workspace 
+description: Learn how Analysis Workspace supports data novices and experts.
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -8,7 +8,7 @@ kt: 3268
 thumbnail: 23961.jpg
 exl-id: df3f1215-0458-4a9f-b408-e62e07a0b919
 ---
-# Introduction To Analysis Workspace {#introduction-to-analysis-workspace}
+# Introduction to Analysis Workspace {#introduction-to-analysis-workspace}
 
 Learn how Analysis Workspace supports data novices and experts.
 
