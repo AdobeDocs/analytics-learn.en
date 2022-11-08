@@ -1,13 +1,13 @@
 ---
 title: What is analytics
-description: Understand the fundamentals of analytics before you learn Adobe Analytics  
+description: Understand the fundamentals of analytics before you learn Adobe Analytics
 feature: Implementation Basics
 role: Developer, Architect, Data Architect, Data Engineer, Developer, Leader, User
 level: Beginner
 kt: 10454
-thumbnail:
+thumbnail: null
 last-substantial-update: 2022-10-14
-
+exl-id: ba2959f0-b667-40f9-bc59-9364a9d83f19
 ---
 # What is analytics?{#what-is-analytics}
 

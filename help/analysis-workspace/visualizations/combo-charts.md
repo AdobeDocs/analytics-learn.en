@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11111
 thumbnail: 3409159.jpg
+exl-id: c52f7186-0817-4a5d-85ee-7f9a48964e49
 ---
-
 # Combo Charts in Analysis Workspace
 
 Learn about the Combo chart visualization in Analysis Workspace. The Combo chart visualization makes it easy to quickly build a comparison visualization without having to build a table first. You can easily view trends in your data in a line/bar combination.
