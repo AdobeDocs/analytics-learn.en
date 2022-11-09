@@ -6,9 +6,6 @@ role: User
 level: Beginner
 thumbnail: 33634.jpg
 kt: 4108
-
-role: User
-level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
 ---
 # Saving, sharing, and collaborating on projects in Analysis Workspace
