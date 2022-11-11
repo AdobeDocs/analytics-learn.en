@@ -1,6 +1,6 @@
 ---
 title: Add dimension and metric descriptions in Adobe Analytics
-description: Learn how to add context to dimensions and metrics in Adobe Analytics.
+description: Learn how to add context to dimensions and metrics in Adobe Analytics
 feature: Workspace Basics
 role: User
 level: Beginner
