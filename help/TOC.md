@@ -41,7 +41,7 @@ solution: Analytics
     + [Customize Analysis Workspace user preferences](intro-to-analytics/customizing-the-ui/user-preferences.md)
     + [Add dimension and metric descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Customizing the menu in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-    + [Enhancing security in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+    + [Enhance security](intro-to-analytics/customizing-the-ui/enhancing-security.md)
     + [Setting an Analysis Workspace Project as your landing page](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
   + Getting Help {#getting-help}
     + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
