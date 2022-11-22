@@ -41,7 +41,7 @@ solution: Analytics
     + [Customize Analysis Workspace user preferences](intro-to-analytics/customizing-the-ui/user-preferences.md)
     + [Add dimension and metric descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
     + [Customizing the menu in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-    + [Enhancing security in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+    + [Enhance security](intro-to-analytics/customizing-the-ui/enhancing-security.md)
     + [Setting an Analysis Workspace Project as your landing page](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
   + Getting Help {#getting-help}
     + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
@@ -65,7 +65,7 @@ solution: Analytics
     + [Tips to Increase Productivity in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
     + [Customer Tips for Continuing your Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
-    + [Starting Your First Project in Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+    + [Create projects using templates](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
     + [Training Tutorial Template in Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
     + [Copy and Insert in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
     + [Create a Table of Contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
