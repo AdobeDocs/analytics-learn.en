@@ -149,7 +149,7 @@ solution: Analytics
     + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Using different Attribution IQ models with segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
-    + [Choose segments for a panel](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
+    + [Choose segments for a panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
     + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
     + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
     + [Quick segments in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
