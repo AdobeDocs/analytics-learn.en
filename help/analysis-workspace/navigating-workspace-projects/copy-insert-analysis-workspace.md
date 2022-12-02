@@ -1,20 +1,15 @@
 ---
-title: Copy and Insert in Analysis Workspace
-description: Copy + Insert lets you copy visualizations from one panel or project to another, and copy full panels across projects as well.
+title: Copy and insert panels and visualizations
+description: Learn how to copy and insert panels and visualizations in Analysis Workspace
 feature: Panels
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1698
 role: User
 level: Beginner
+kt: 1698
+thumbnail: 23230.jpg
 exl-id: 972d49a3-af5e-4f57-bb50-90b6b16bc7d8
 ---
-# Copy and Insert in Analysis Workspace {#copy-and-insert-in-analysis-workspace}
+# Copy and insert panels and visualizations {#copy-and-insert-panels-and-visualizations}
 
-Copy + Insert lets you copy visualizations from one panel or project to another, and copy full panels across projects as well.
+Learn how to copy and insert panels and visualizations in Analysis Workspace. These are time-saving techniques for refining a current project or getting a head start on a new one.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
-
-Use this functionality to organize your analyses into logical data stories & projects, or get a head start by copying from templates!
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
