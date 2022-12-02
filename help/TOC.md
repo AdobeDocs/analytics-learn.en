@@ -86,7 +86,7 @@ solution: Analytics
     + [Media Playback Time Spent Panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
     + [Using Drop-down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
     + [Using Panels to Organize your Analysis Workspace Projects](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-    + [Segment Drop Zone Improvements](analysis-workspace/using-panels/segment-dropzone-improvements.md)
+    + [Choose segments for a panel](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
     + [Multiple Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
     + [Next/Previous and Page Summary Workspace Panels & Reports](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
   + Building Freeform Tables {#building-freeform-tables}
@@ -149,7 +149,7 @@ solution: Analytics
     + [Using Segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
     + [Ad Hoc (Temporary) Segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Using different Attribution IQ models with segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
-    + [Panel Level Segments](analysis-workspace/using-panels/panel-level-segments.md)
+    + [Choose segments for a panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
     + [Using Segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
     + [Using segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
     + [Quick segments in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
