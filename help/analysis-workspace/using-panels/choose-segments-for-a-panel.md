@@ -12,4 +12,4 @@ thumbnail: 3412023.jpg
 
 Learn some tips and strategies for applying segments to a panel in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24032/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)
