@@ -6,7 +6,7 @@ kt: 11550
 role: User
 level: Beginner
 thumbnail: 3412023.jpg
-
+exl-id: 087ee2f8-4eb6-4b3a-a7aa-96e65f1c1fa3
 ---
 # Choose segments for a panel {#choose-segments-for-a-panel}
 
