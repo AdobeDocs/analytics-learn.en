@@ -15,4 +15,4 @@ Have you ever wanted to quickly create a simple segment to answer a specific que
 
 Ad hoc segments work within the project where they are created, but they don't get saved permanently unless you choose to save them.
 
-For more information on this feature, go to the [feature documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
+For more information on this feature, go to the [feature documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/ad-hoc-segments.html?lang=en).
