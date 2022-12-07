@@ -146,7 +146,6 @@ solution: Analytics
     + [Journey IQ - Cross-device analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
   + Applying Segments {#applying-segments}
     + [Apply segments to your Analysis Workspace project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-    + [Use segments in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
     + [Apply ad hoc segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
     + [Use different Attribution IQ models with segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
     + [Choose segments for a panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
