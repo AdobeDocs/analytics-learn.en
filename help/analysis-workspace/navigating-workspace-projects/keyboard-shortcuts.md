@@ -1,20 +1,15 @@
 ---
-title: Keyboard Shortcuts in Analysis Workspace
-description: This video goes through keyboard shortcut options in Analysis Workspace, to show you how to move more quickly and efficiently. 
+title: Use keyboard shortcuts
+description: Learn how to use keyboard shortcuts in Analysis Workspace
 feature: Workspace Basics
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2031
 role: User
 level: Beginner
+kt: 2031
+thumbnail: 23984.jpg
 exl-id: f344469b-b925-4978-918f-5204f6f10094
 ---
-# Keyboard Shortcuts in Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}
+# Use keyboard shortcuts {#use-keyboard-shortcuts}
 
-This video goes through keyboard shortcut options in Analysis Workspace, to show you how to move more quickly and efficiently.
+Learn how to use keyboard shortcuts in Analysis Workspace. These are time-saving techniques to help you perform various tasks in a project.
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12)
-
-For more information on this feature, go to the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html?lang=en).
+>[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)
