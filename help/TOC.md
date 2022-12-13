@@ -72,11 +72,7 @@ solution: Analytics
     + [Right-click for Workspace efficiency](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
     + [Keyboard shortcuts](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
     + [Annotations](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-    + [Menu bar](analysis-workspace/navigating-workspace-projects/menu-bar.md)
-    + [Project management](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-    + [Undoing actions](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
     + [View density](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-    + [Zero state improvements](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
     + [Use filters](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
   + Using Panels {#using-panels}
     + [Using Tables, Visualizations, and Panels in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
