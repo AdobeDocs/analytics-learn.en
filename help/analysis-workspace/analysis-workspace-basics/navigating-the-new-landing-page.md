@@ -1,14 +1,14 @@
 ---
-title: Navigating the New Landing Page
+title: Navigating the new Analysis Workspace landing page
 description: Learn how to make the most of the new Analytics landing page and its features.
 feature: Analysis Workspace
 role: User
 level: Beginner
 kt: 10295
-thumbnail: 334278.jpeg
+thumbnail: 334278.jpg
 exl-id: bb141630-a441-4049-afe0-5f9de2a33089
 ---
-# Navigating the New Landing Page
+# Navigating the new Analysis Workspace landing page
 
 Learn how to make the most of the new Analytics landing page and its features.
 
