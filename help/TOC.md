@@ -51,8 +51,7 @@ solution: Analytics
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace quick intro](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
     + [Analysis Workspace overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-    + [Navigating the new landing page](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-    + [Analysis Workspace landing page updates](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
+    + [Navigate the new landing page](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
     + [Building a Workspace project from scratch](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
     + [Create and manage custom templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
     + [Understanding how data gets into your Analysis Workspace project](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -67,6 +66,7 @@ solution: Analytics
   + Navigating Workspace Projects {#navigating-workspace-projects}
     + [Create projects using templates](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
     + [Training tutorial template](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+    + [Use folders in Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
     + [Copy and insert panels and visualizations](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
     + [Create a table of contents](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
     + [Right-click for Workspace efficiency](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
