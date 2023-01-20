@@ -1,7 +1,7 @@
 ---
 title: Configuring Advertising Analytics in Adobe Analytics
 description: This video will walk you through a high-level review of how to configure your report suite(s) to utilize Advertising Analytics, how to setup a paid search account and reporting details for Advertising Analytics. 
-feature: Advertising Cloud Integration
+feature: Advertising Integration
 topics: 
 activity: setup
 doc-type: feature video

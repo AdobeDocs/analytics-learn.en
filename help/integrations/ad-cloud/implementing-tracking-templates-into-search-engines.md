@@ -1,7 +1,7 @@
 ---
 title: Implementing Tracking Templates from Advertising Analytics into Search Engines
 description: This video will walk you through the steps of implementing your tracking templates from Advertising Analytics into the supported Search Engines. Implementing the tracking template is the critical step to collect and pass your data to Adobe Analytics.
-feature: Advertising Cloud Integration
+feature: Advertising Integration
 topics: 
 activity: implement
 doc-type: feature video
