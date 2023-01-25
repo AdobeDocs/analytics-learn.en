@@ -92,6 +92,7 @@ solution: Analytics
     + [Work with dimensions in a freeform table](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
     + [Work with metrics in a freeform table](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
     + [Row and column settings in freeform tables](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+    + [Freeform table totals](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
     + [Use the freeform table builder](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
     + [Right-click for workspace efficiency](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
     + [Reorder static rows](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -99,7 +100,6 @@ solution: Analytics
     + [Cross-sell analysis](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
     + [Freeform table filters](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
     + [Time-parting dimensions](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-    + [Freeform table totals](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
   + Visualizations {#visualizations}
     + [Data Visualization in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
     + [Visualization Types](analysis-workspace/visualizations/visualization-types.md)
