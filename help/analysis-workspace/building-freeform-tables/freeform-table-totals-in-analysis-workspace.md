@@ -1,6 +1,6 @@
 ---
-title: Freeform Table Totals in Analysis Workspace
-description: In this video you will see some updates to Freeform Table totals, including the ability to remove totals.
+title: Freeform table totals in Analysis Workspace
+description: Learn what affects the totals in freeform tables, as well as how to enable and disable them.
 feature: Freeform Tables
 thumbnail: 29273.jpg
 kt: 3857
@@ -8,11 +8,11 @@ role: User
 level: Beginner
 exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
 ---
-# Freeform Table Totals in Analysis Workspace
+# Freeform table totals in Analysis Workspace
 
-In this video you will see some updates to [!UICONTROL Freeform Table] totals, including the ability to remove totals. It will also show you how to remove the "unspecified" or "none" rows as well.
+Learn what affects the totals in freeform tables, as well as how to enable and disable them.
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
 
 >[!INFO]
 >
