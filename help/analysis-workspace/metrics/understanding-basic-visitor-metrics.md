@@ -13,7 +13,7 @@ exl-id: efc12fc6-c031-4c50-832a-786c84e76151
 
 [!UICONTROL Page Views], [!UICONTROL Visits], and [!UICONTROL Visitors] (oh my?). This brief video will give you some basic info on understanding these staples to understanding Web site traffic.
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
 
 >[!INFO]
 >

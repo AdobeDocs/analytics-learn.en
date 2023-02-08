@@ -16,7 +16,7 @@ exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
 
 This video shows how to create [!UICONTROL data elements] for your [!DNL Analytics] implementation in [!DNL Experience Platform Launch], based on the variables and events decided upon and documented in a [!DNL Solution Design Reference] (SDR) document.
 
->[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
 
 >[!INFO]
 >

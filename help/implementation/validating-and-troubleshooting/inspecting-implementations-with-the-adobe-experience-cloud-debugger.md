@@ -15,7 +15,7 @@ exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
 
 The [!DNL Experience Cloud debugger] is a tool that allows users to inspect and debug Experience Cloud Tags. This video covers how to use the [!DNL Experience Cloud Debugger] to inspect [!DNL Analytics] implementations.
 
->[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12&learn=on)
 
 You will learn how to see what is firing on different pages, load friendly names of variables, and export results for advanced use cases.
 

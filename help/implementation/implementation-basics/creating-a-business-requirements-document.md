@@ -12,7 +12,7 @@ exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 
 Learn about the important step of defining the behavioral data that you want to capture and analyze in Adobe Analytics. What does your business need to understand about how visitors use your digital properties? Write down these requirements first, and then decide how to capture them using Analytics events, dimensions, and metrics.
 
->[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [Download](assets/aa-implementation-playbook.xlsx) a sample Excel template to document requirements and data collection design for your digital properties.
 
