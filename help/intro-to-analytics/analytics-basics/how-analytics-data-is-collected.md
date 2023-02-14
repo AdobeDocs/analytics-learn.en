@@ -8,7 +8,7 @@ role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
 ---
-# How [!DNL analytics] data is dollected
+# How analytics data is collected
 
 How does data get from your page into the reports in Adobe Analytics? This video shows you how.
 
