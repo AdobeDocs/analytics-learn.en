@@ -336,6 +336,7 @@ solution: Analytics
     + [Apply Custom Date Ranges](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
     + [Analytics dashboards In-App Experience](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
     + [Create custom detail views](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+    + [Data stories for analytics dashboards](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + Exporting {#exporting}
   + From the UI {#from-the-ui}
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
