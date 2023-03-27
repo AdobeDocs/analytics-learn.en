@@ -16,7 +16,7 @@ exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
 
 There are several ¨ settings that allow you to customize your view of [!UICONTROL retention] or [!UICONTROL churn]. See them highlighted in this video.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 Customizations for the [!UICONTROL Cohort Table] include the ability to
 

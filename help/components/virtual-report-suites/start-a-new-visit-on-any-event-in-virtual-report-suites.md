@@ -15,6 +15,6 @@ exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
 
 This video shows how to use events to trigger the beginning of a new visit in Adobe Analytics by using a [!UICONTROL Virtual Report Suite]'s visit settings.
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
 
 You can redefine the context of a visit in Adobe Analytics through custom timeout settings, ignoring background hits, or triggering a new visit on app launch. With this feature, we are extending this functionality to allow you to trigger a new visit on any combination of events, instead of only via an app launch.

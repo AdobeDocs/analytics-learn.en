@@ -15,4 +15,4 @@ exl-id: b2315794-8910-4b7f-920f-7f1c3da29ace
 
 Learn how to construct a table of contents Workspace project, and set it as your users' landing page so that they can quickly find the data & insights they need in Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

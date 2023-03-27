@@ -14,7 +14,7 @@ exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
 
 In this video, you will learn how to use dates, [!UICONTROL date ranges], and date comparisons to customize your tables and visualizations to the right time frame.
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
 

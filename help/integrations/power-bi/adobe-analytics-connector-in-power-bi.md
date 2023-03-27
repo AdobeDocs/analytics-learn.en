@@ -15,7 +15,7 @@ exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
 
 In this video we’ll walk through the Adobe Analytics Connector by creating and loading a request, changing the format of the data, building a [!UICONTROL visualization], and publishing to the online service.
 
->[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
 
 ## Additional Resources {#additional-resources}
 

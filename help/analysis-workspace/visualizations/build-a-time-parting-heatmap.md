@@ -12,7 +12,7 @@ exl-id: 1bf591a4-fdce-4053-80d4-a9cd87e04ec6
 
 Learn how to take your time-parting analysis to the next level by creating a heatmap [!UICONTROL visualization] of behaviors.
 
->[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)
 
 >[!INFO]
 >

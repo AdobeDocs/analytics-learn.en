@@ -16,7 +16,7 @@ exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
 
 This video shows how to compare key workflows across various segments in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en).
 

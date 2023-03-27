@@ -12,7 +12,7 @@ exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 
 Filters provide more control over what rows of data are shared in a [!DNL freeform table].
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
 
 In Analysis Workspace, we now offer more filtering control, with 11 filter criteria & AND/OR operators.
 

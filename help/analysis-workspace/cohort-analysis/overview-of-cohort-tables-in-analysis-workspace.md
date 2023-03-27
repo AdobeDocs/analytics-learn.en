@@ -16,7 +16,7 @@ exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
 
 The [!UICONTROL Rolling Calculation] setting within [!UICONTROL Cohort Tables] can be used to analyze [!UICONTROL cohorts] period-over-period, to understand how the same users are retained (or [!UICONTROL churn]) over time.
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
 

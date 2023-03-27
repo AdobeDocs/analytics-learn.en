@@ -12,7 +12,7 @@ exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
 
 In this video you will learn how to use [!DNL Attribution IQ] [!UICONTROL models] in conjunction with Adobe Analytics segments on your site.
 
->[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 
 When you are doing analysis on your site, you will often use segments to focus on a specific group of visitors, visits, or hits. As you do this, you should now add a step of considering which attribution model works best in conjunction with the segment, metrics, and overall report.
 

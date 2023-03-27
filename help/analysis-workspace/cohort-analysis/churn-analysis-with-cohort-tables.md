@@ -15,7 +15,7 @@ exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
 
 [!UICONTROL Cohort Tables] offer two analysis types - [!UICONTROL Retention] and [!UICONTROL Churn]. While [!UICONTROL Retention] shows how many users are retained over time, the [!UICONTROL Churn] option will depict how many users were lost (1 - Retention).
 
->[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
 

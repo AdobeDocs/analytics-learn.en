@@ -15,4 +15,4 @@ exl-id: 2c6b5d24-9a7f-47ea-a239-d0f8784029df
 
 Learn to use Adobe [!DNL Experience Platform Launch] in order to have more control over your Adobe Analytics hits by leveraging the `doPlugins` capability.
 
->[!VIDEO](https://video.tv.adobe.com/v/25171?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25171?quality=12&learn=on)

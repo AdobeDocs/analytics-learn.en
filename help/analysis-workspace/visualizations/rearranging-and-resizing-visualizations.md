@@ -15,4 +15,4 @@ exl-id: bdda9534-cae8-457a-a9c2-8167b8d0d09d
 
 This video shows how to create a customized layout by resizing, rearranging, and reorganizing [!UICONTROL visualizations] and tables in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24707/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24707/?quality=12&learn=on)

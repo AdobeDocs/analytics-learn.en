@@ -16,4 +16,4 @@ exl-id: 80d3545c-3c3c-4003-a92a-39a410c76996
 
  Learn how to get started with Adobe Analytics for mobile apps using templates. Pre-built [!UICONTROL standard templates] help you understand user engagement and app performance [!UICONTROL metrics] in Analysis Workspace. Also, learn how to customize your project with our easy-to-use drag and drop interface.
 
->[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)

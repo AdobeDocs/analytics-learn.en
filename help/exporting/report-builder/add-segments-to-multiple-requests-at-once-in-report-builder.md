@@ -13,7 +13,7 @@ exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
 
 This video shows you how you can use [!UICONTROL Report Builder] to add segments to all of your requests at once, saving you time and hassle.
 
->[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=en).
 

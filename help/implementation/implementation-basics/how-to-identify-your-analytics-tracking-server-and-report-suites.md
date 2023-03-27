@@ -31,4 +31,4 @@ To see the beacon, as well as all other information coming to [!DNL Analytics] a
 
 See the video below for more information.
 
->[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)

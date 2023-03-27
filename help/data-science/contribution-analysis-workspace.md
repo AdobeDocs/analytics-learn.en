@@ -15,7 +15,7 @@ exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
 
 This video walks through [!UICONTROL Contribution Analysis] and its ability to use machine learning to quickly and easily explain the factors that contributed to a trend in your data.
 
->[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
 
 [!UICONTROL Contribution Analysis] is available in Analysis Workspace for customers of Adobe Analytics Premium.
 

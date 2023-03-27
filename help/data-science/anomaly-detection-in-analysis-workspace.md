@@ -15,6 +15,6 @@ exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
 
 Analysis Workspace automatically detects anomalies in your data for any time-series [!UICONTROL visualization] or data table. Catch the "unknown unknowns" without any additional effort on your part!
 
->[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
 For more information on this feature, visit [the documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

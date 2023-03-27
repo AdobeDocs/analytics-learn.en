@@ -12,7 +12,7 @@ exl-id: 655034a6-42b9-4437-961b-02ad3da57d83
 
 You can visually show overlap and intersection of segments in Analysis Workspace using the Venn diagram visualization. It's easy to create stunning, insightful Venn diagrams in a matter of seconds. This video will show you how.
 
->[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
 
 For more information on this feature, go to the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en).
 

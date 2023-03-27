@@ -15,6 +15,6 @@ exl-id: 08131913-cb39-4c58-a322-da1e83442e84
 
 This video outlines the [!UICONTROL Audio Consumption] template in Analysis Workspace, which is available out-of-the-box for [!DNL Audio Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12&learn=on)
 
 [!DNL Audio Analytics] connects listeners' streaming audio engagement with their full digital behavior, to understand who’s listening where, when and how often to evaluate user behavior in a commonly fragmented audio marketplace. It enables businesses to measure the reach of their listeners, popularity of their content, and how to keep them engaged based on their behaviors and look-alike modeling.

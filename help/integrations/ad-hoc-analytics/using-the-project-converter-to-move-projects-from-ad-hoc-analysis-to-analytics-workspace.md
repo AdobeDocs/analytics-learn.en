@@ -16,5 +16,5 @@ exl-id: 04dfc59e-d7a8-4477-bc98-2bd63debf81f
 
 The [!UICONTROL Ad Hoc Analysis] Project Converter seamlessly converts [!UICONTROL Ad Hoc Analysis] (AHA) projects to [!UICONTROL Analysis Workspace] projects with the click of a button.
 
->[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12&learn=on)
 

@@ -15,6 +15,6 @@ exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
 
 An [!UICONTROL Approximate Count Distinct] [!UICONTROL function] has been added to the [!UICONTROL Calculated Metric Builder]. It is a long awaited [!UICONTROL function] that will return the [!UICONTROL approximate distinct count] of [!UICONTROL dimension] items for a selected [!UICONTROL dimension].
 
->[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
 You can use the [!UICONTROL metric] in any report to understand the count of one [!UICONTROL dimension] against values of other. For example, the count of unique customers by Marketing Channel.

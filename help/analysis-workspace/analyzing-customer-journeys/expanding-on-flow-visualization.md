@@ -16,7 +16,7 @@ exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
 
 This video shows the various right-click options available in the [!DNL Flow visualization] in Analysis Workspace. Options include creating a segment from a path, collapsing columns, and more.
 
->[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace).
 

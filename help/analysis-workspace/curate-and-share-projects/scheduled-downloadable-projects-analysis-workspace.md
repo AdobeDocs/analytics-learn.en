@@ -15,4 +15,4 @@ exl-id: 742d81be-9fa1-47bc-8afe-a4ce0b4763e9
 
 Analysis Workspace allows you to schedule and download projects to PDFs and CSVs. This video shows how you can schedule projects for future delivery to yourself or colleagues, as well as how you can download PDFs of projects you're working on.
 
->[!VIDEO](https://video.tv.adobe.com/v/24709/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24709/?quality=12&learn=on)

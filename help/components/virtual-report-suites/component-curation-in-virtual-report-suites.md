@@ -15,7 +15,7 @@ exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
 
 [!UICONTROL Virtual Report Suites] can be curated to include and exclude [!UICONTROL dimensions], [!UICONTROL metrics], and [!UICONTROL segments] in Analysis Workspace, which greatly helps if you're sharing it with other teams who only need a specific slice of the data or use a different data nomenclature.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 If component customization is enabled, the [!UICONTROL Virtual Report Suite] will only be accessible exclusively in Analysis Workspace.
 

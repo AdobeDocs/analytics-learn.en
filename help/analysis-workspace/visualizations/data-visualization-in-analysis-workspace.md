@@ -15,4 +15,4 @@ exl-id: f6881db0-68c8-4b17-aaf3-232a6886c925
 
 This session is all about [!UICONTROL visualizations] within Analysis Workspace. You will learn skills and actions that will help you provide powerful insights to your organization in the most consumable format.
 
->[!VIDEO](https://video.tv.adobe.com/v/25036/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25036/?quality=12&learn=on)

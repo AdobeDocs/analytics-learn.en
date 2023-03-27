@@ -12,7 +12,7 @@ exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
 
 This video shows you how to use the map visualization in Analysis Workspace. The map visualization will allow you to view either [!UICONTROL mobile lat/long] or web (IP address) data against a dynamic map, allowing you to get an idea of customer usage in the context of their location.
 
->[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 For more information on this visualization, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).
 

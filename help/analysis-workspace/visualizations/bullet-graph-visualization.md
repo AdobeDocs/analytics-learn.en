@@ -12,7 +12,7 @@ thumbnail: 23989.jpg
 
 [!UICONTROL Bullet] graphs are a useful way to show progress toward (or in excess of) a goal in your analysis. They provide you with another way to visualize your organization's success.
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en).
 

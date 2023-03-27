@@ -13,4 +13,4 @@ exl-id: e48dc465-8f52-4663-8753-d9cd8d9c0f1a
 
 Learn how to export [!UICONTROL Freeform] projects to CSV for Analysis in Excel and other BI tools.
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)

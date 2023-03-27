@@ -15,7 +15,7 @@ exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
 
 [!UICONTROL Report Builder] is something we all know & love. So what if I told you that you could use what you know about [!UICONTROL Report Builder] to advance your Adobe Analytics skillset even further? In this video, we will walk through how to take debug [!UICONTROL Report Builder] requests and use them to learn how to craft your own [!DNL Analytics] API queries.
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **UPDATE**: [!UICONTROL Report Builder] updated how it requests the data slightly. You can still use the approach from this video, but the information will be slightly different in a debugger.
 

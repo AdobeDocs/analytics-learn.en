@@ -12,7 +12,7 @@ exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
 
 [!UICONTROL Histograms] allow you to visualize the distribution of a [!UICONTROL metric] across your visitors, visits, and now hits, to find high- and low-value [!UICONTROL segments].
 
->[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 
 For more information on this feature, visit [the documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=en).
 

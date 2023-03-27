@@ -15,4 +15,4 @@ exl-id: b0053a5b-cb95-4bad-a032-c6e810c38c56
 
 Learn how to create new [!UICONTROL metrics] in Adobe Analytics without changing your implementation.
 
->[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12&learn=on)

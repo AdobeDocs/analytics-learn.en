@@ -16,7 +16,7 @@ exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 
 Actions are events that occur in your mobile app. In this video, learn how to use the trackAction API to track and measure an action.
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 This is the API that you should use to track all non-screen-load actions on your site. If the screen is coming up, then use trackState, which triggers a page view hit. Otherwise, use trackAction to send in variables associated with the action that is taking place.
 

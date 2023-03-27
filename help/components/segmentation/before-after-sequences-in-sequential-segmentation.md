@@ -12,7 +12,7 @@ exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
 
 This video explains how to [!UICONTROL segment] in Adobe Analytics so that you get only the data from before or after a specific user path.
 
->[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12&learn=on)
 
 For more information about this topic, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
 

@@ -17,7 +17,7 @@ exl-id: da173124-ce09-4be3-9418-8791acd16240
 
 This video shows how to turn on and off label truncation in your [!DNL flow visualization]. Also, learn to drag and drop dimensions on to your [!DNL flow] for multi-dimensional [!DNL flow] analysis.
 
->[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
 

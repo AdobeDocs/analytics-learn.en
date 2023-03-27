@@ -16,4 +16,4 @@ exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
 
  Identify engaged audiences through their behavior using [!UICONTROL Cohorts] and know the underlying causes driving stickiness in your mobile apps. Use data science algorithms in [!UICONTROL Segment IQ] to know the differences and similarities between segments.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
