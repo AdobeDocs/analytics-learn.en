@@ -15,4 +15,4 @@ exl-id: 1bcff127-b076-49f9-bdae-60407a4ff6f8
 
 Learn how to understand the customer journey on voice app by looking at [!UICONTROL flow] path and [!UICONTROL fallout] to identify what the most common actions are, the sequence of those actions and when and where users fall out from the journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)

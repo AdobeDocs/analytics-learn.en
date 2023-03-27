@@ -16,7 +16,7 @@ exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
 
 [!DNL Fallout] in Analysis Workspace allows you to mix and match dimensions and metrics as touchpoints in funnels and workflows.
 
->[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
 
 This powerful capability allows you more flexibility in defining the user steps you want to investigate.
 

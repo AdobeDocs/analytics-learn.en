@@ -16,6 +16,6 @@ exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
 
 To become an experience business, data-driven marketing is key. Take your analytics maturity to a new level - from data to insights to action.
 
->[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
 
 Learn how Adobe can help you know your customer from every angle: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

@@ -15,4 +15,4 @@ exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
 
 Learn how to create segmented metrics in Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)

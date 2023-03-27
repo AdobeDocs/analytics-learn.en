@@ -15,4 +15,4 @@ exl-id: c76d8252-d6b7-48d7-b75e-3f8bedc50815
 
 This video shows how you can easily change the scale (or axis limits) for the Y-axis on a [!UICONTROL line] graph in the Analysis Workspace to make data harder for you and others to misinterpret.
 
->[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)

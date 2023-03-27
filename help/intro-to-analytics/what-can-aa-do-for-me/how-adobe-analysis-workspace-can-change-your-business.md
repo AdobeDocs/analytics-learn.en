@@ -12,6 +12,6 @@ exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 
 Learn about the types of analyses available in [!DNL Analysis Workspace], such as [!DNL Ad Hoc],[!DNL Cohort], and [!DNL Fallout]. Use the drag and drop features to analyze data easily and quickly.
 
->[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
 
 [Learn more about Adobe Analysis Workspace](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)

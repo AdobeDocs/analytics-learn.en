@@ -13,7 +13,7 @@ exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
 
 Get a high-level review of how to configure your [!UICONTROL report suites] to utilize [!DNL Advertising Analytics], how to setup a paid search account, and reporting details for [!DNL Advertising Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
 
 ## Additional Resources {#additional-resources}
 

@@ -17,7 +17,7 @@ kt: 1597
 
 This video shows how to use the [!UICONTROL Usage Log Tracking] on [!DNL Workspace] projects, which can help you better understand your users’ usage of Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 [!DNL Workspace] tracking options include:
 

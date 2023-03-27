@@ -15,7 +15,7 @@ exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
 
 This video shows you how to update your appMeasurement code when you are not using Adobe [!DNL Experience Platform Launch]. This includes where to get the code and where to update it.
 
->[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12&learn=on)
 
 >[!NOTE]
 >

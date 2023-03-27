@@ -15,4 +15,4 @@ exl-id: 2bd83c8d-c2a8-4279-8402-aeb052e8d18f
 
 Overview of the Metric Selector in Reports & Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/25410/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25410/?quality=12&learn=on)

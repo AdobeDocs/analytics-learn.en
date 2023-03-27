@@ -14,4 +14,4 @@ exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
 
 Learn about an effective way to easily get novice users into workspace analysis project data.
 
->[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)

@@ -15,4 +15,4 @@ exl-id: 32f5ad95-1995-494f-9857-165bb81ae04f
 
 Learn how Adobe Sensei machine learning and AI technologies in Adobe Analytics can help business users keep up with their data, and make use of it practically, when and where it really matters.
 
->[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)

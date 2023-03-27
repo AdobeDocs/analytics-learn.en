@@ -16,6 +16,6 @@ exl-id: 52f800b6-f184-4a82-8729-e6edd478331c
 
 The Analysis Workspace Training Tutorial walks users through common terminology and steps for building their first analysis in Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12&learn=on)
 
 This template is available as a standard template in the New Project modal. From this template, you can create your own tutorials, tailoring them to your organization's unique use cases and data structure (eVars, custom events).

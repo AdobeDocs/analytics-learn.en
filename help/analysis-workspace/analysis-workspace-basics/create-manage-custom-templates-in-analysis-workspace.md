@@ -13,7 +13,7 @@ exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
 
 Learn how to use out-of-the-box templates and create custom templates in Analysis Workspace, so that you and your team can start from a predefined set of reports.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 Analysis Workspace comes with several predefined templates that can help jumpstart your analysis. That being said, sometimes you also just want your own template. Learn how to create any project into your own custom template. You can help new users get up to speed, find your favorite dashboards / projects, or share your dashboard across teams.
 

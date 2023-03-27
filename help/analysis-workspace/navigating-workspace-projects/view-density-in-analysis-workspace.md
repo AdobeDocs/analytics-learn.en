@@ -15,4 +15,4 @@ exl-id: 378426ce-fc29-4912-9289-e763b941877a
 
 The [!UICONTROL View Density] setting under [!UICONTROL Project] > [!UICONTROL Project Info & Settings] allows you to control the vertical padding applied to the left rail and tables ([!UICONTROL Freeform] & [!UICONTROL Cohort]). You can choose between Expanded (default), Comfortable, or Compact.
 
->[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)

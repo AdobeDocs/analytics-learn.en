@@ -15,4 +15,4 @@ exl-id: fcfffd68-4394-48db-b38e-3a4ea7d0f854
 
 Overview of the Metric Builder in Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)

@@ -15,4 +15,4 @@ exl-id: 44e8cded-3ef8-4c55-811d-28f4e9415032
 
 [!UICONTROL Freeform] Analysis includes the ability to change location, width, and height of graphs and tables so that you can build a richer project. This video shows how you can change your layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)

@@ -15,7 +15,7 @@ exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
 
 [!UICONTROL Dimensions] are now available in the [!UICONTROL Calculated Metric Builder]. They can be added to any [!UICONTROL calculated metric] [!UICONTROL formula] to create an internal segment on the fly.
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
 This feature streamlines the workflow for creating & using [!UICONTROL segments] within [!UICONTROL calculated metrics].
 

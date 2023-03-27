@@ -15,4 +15,4 @@ exl-id: 6778e714-3fe9-479f-aacd-d1e702e2c584
 
 Learn how to share and manage components (for example, dimensions, metrics, segments, and so on) in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12&learn=on)

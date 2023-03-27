@@ -14,7 +14,7 @@ exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
 
 Learn how to create Analysis Workspace projects by using templates. This is a time-saving technique compared to building projects manually and can help new users get up to speed quickly.
 
->[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
 
 >[!INFO]
 >

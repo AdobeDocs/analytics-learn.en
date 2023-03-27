@@ -12,7 +12,7 @@ exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
 
 When using [!DNL contextData] variables in your Adobe Analytics implementation, in order to have your data show up in actual reports, you need to map the [!DNL contextData] variables to [!DNL props/eVars] in the [!UICONTROL Processing Rules] interface. This video shows you how to do this.
 
->[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en).
 

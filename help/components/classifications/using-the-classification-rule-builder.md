@@ -15,4 +15,4 @@ exl-id: 066d0ebf-1921-48be-8531-bdd766330825
 
 Learn to use the [!UICONTROL Classification Rule Builder] to automatically apply rule-based [!UICONTROL classifications] in Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)

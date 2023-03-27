@@ -15,7 +15,7 @@ exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
 
 The Custom [!UICONTROL Cohort] [!UICONTROL Dimension] option allows you to analyze [!UICONTROL cohorts] using [!UICONTROL dimensions] other than time. Compare [!UICONTROL cohorts] by Marketing Channel, campaign region, product page, etc. to better understand how [!UICONTROL retention] (or [!UICONTROL churn]) changes by [!UICONTROL dimension] item.
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
 

@@ -15,7 +15,7 @@ exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
 
 This video explains three different ways to work with dates in [!DNL Freeform] Analysis: the calendar, the [!UICONTROL date range] elements, and the granularity elements. Not shown, somewhat embarrassingly: how to use dates to enable line charts.
 
->[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)
 
 >[!INFO]
 >

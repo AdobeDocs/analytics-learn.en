@@ -16,7 +16,7 @@ exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
 
 This video shows updates to the [!DNL Fallout Visualization] that have been highly requested by customers, including direct vs eventual steps, renaming touch points, comparing unlimited segments, and trending touchpoint conversion percentages over time.
 
->[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
 >[!INFO]
 >

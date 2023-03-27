@@ -15,4 +15,4 @@ exl-id: 6e434bce-b7da-4ced-94bd-0ad30711fa2c
 
 This video shows a handful of updates that Adobe has made to the [!UICONTROL Real-Time Report] in [!UICONTROL Reports & Analytics] in Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)

@@ -12,7 +12,7 @@ exl-id: 01d83596-7de8-4b12-96e7-1770804b99dc,77a96a0a-f4a4-402e-b245-bfb83622a7e
 
 This video shows how you can limit users of a project in Analysis Workspace to a specific segment (or segments) as they are working with the tool.
 
->[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12&learn=on)
 
 >[!INFO]
 >

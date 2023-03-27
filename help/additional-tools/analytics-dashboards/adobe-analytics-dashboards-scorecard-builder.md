@@ -13,7 +13,7 @@ exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
 
  In this video, learn how to create and share “Scorecards” in Analysis Workspace to be viewed on Adobe Analytics dashboards (mobile app).
 
->[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).
 

@@ -31,7 +31,7 @@ Review additional information about data layers in the [Experience Cloud documen
 
 The following video walks you through the process.
 
->[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
 >[!NOTE]
 >

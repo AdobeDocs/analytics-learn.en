@@ -15,4 +15,4 @@ exl-id: 8b59b6d3-3754-464d-ac87-7b57ce442676
 
 Customer intelligence has never been more promising. But bringing data together that can be useful for business users across the organization — and catching the important trends in time to act on them — is not something even an advanced data science team can handle alone. Using the data you’re already collecting to your advantage is where these Adobe Sensei AI and machine learning capabilities in Adobe Analytics shine.
 
->[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)

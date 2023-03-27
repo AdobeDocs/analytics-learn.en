@@ -13,7 +13,7 @@ exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
 
 You can manually reorder static rows within freeform table builder. This allows you to arrange table static rows in the exact order you need them - for example, visits, then orders, then conversion rate.
 
->[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12&learn=on)
 
 >[!INFO]
 >

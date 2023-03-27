@@ -13,7 +13,7 @@ exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 
 You can now edit [!UICONTROL metrics] across multiple [!UICONTROL Report Builder] data requests at once, with add, replace and remove options.
 
->[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
 This functionality is in addition to existing capabilities for editing [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity], and [!UICONTROL segments] across requests. Editing requests in bulk can be done from the right-click menu or “[!UICONTROL Edit Multiple]” in the Manage window.
 

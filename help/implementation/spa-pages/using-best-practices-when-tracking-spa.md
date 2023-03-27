@@ -83,7 +83,7 @@ When new content loads or when an action occurs on the SPA page, Experience Plat
 
 Refer to the pages and docs referenced above for more information about how and when these events fire. You do not need to use the same event names in your implementation. The functional use case for the method used is essential to understand as the recommended best practice for each. The following video demonstrates a sample SPA page and sample code in [!DNL Experience Platform Tags] that listens for the custom events.
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## Execute s.t() or s.tl() in the [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -97,7 +97,7 @@ An important concept to understand for [!DNL Analytics] when working with a SPA 
 
 The following video shows where and how to trigger `s.t()` or `s.tl()` in Tags.
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## Clear Variables {#clear-variables}
 
@@ -109,7 +109,7 @@ The diagram above shows variables cleared *after* you send in data. In reality, 
 
 The following video shows where and how to clear variables in [!DNL Tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## Additional considerations {#additional-considerations}
 

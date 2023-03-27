@@ -12,7 +12,7 @@ exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad
 
 [!DNL Attribution IQ] allows you to change the attribution [!UICONTROL model] to any of ten rules-based models on a [!UICONTROL Freeform] column on the fly.
 
->[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
 
 Each attribution [!UICONTROL model] fully supports segmentation and breakdowns, and allows you to make unlimited comparisons on any dimension (even [!DNL props]!).
 

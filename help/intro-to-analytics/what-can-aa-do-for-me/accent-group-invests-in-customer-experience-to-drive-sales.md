@@ -16,4 +16,4 @@ exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
 
 [!DNL Accent Group], the largest footwear retailer in Australia, grows their sales and conversions by delivering great customer experiences across physical and digital touch-points. Watch how the [!DNL Accent Group] uses the Adobe Experience Cloud to create seamless digital experiences.
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)

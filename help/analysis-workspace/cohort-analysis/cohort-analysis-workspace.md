@@ -15,6 +15,6 @@ exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
 
 How to build a [!UICONTROL cohort] analysis table in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12&learn=on)
 
 For more information on this feature, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

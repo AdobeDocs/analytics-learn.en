@@ -23,7 +23,7 @@ Analysis Workspace is a powerful tool within Adobe Analytics that can help you c
 
 Simply drag and drop a [!UICONTROL segment] or any other component to the [!UICONTROL segment] drop zone at the top of any panel, and you can quickly segment that panel down to certain data points. For example, you can segment your panel to show only hits where orders exist by dropping the [!UICONTROL metric] “orders” into the [!UICONTROL segment] drop zone. You can even segment by data that does not exist within a component (to see hits with no orders, for example) by dropping the dimension item “unspecified” or “none” in the zone.
 
->[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -33,7 +33,7 @@ Simply drag and drop a [!UICONTROL segment] or any other component to the [!UICO
 
 With Quick [!UICONTROL Calculated Metrics], you can create new [!UICONTROL metrics] right in Analysis Workspace instead of navigating away to the [!UICONTROL Calculated Metric] Builder. Just select the [!UICONTROL metric] columns you want to calculate, and then, from the right-click menu, select “[!UICONTROL Create Metric From Selection].” Now, you can add, subtract, divide, multiply, and more, without leaving your project and breaking your train of thought.
 
->[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -45,7 +45,7 @@ With Quick [!UICONTROL Calculated Metrics], you can create new [!UICONTROL metri
 
 Easily copy visualizations and panels from one place, and add them to another, even into a different project. That means you can easily move data around as your project grows, and share your findings with new users so they don’t have to start an analysis from scratch. Simply right-click on the panel or visualization you want to copy, select “[!UICONTROL Copy Visualization],” and right-click on a blank panel to insert it.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -55,7 +55,7 @@ Easily copy visualizations and panels from one place, and add them to another, e
 
 Easily change the time view when working with trended visualizations. In previous Analysis Workspace iterations, changing time meant unhiding a source table, dragging in a new [!UICONTROL dimension], and then re-hiding the table. Now, it’s as easy as selecting the time granularity you want to demonstrate right from the “[!UICONTROL Visualizations Settings]” (top right gear) dropdown menu.
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 ## Share: Making it easy for others to use and understand findings
 
@@ -63,7 +63,7 @@ Easily change the time view when working with trended visualizations. In previou
 
 Adobe Analytics collects vast amounts of data. Component curation in [!DNL Virtual Report Suites] allows admins to craft a data set for every business unit in an organization. That means analysts working in Analysis Workspace don’t have to wade through data to find what matters most to them. Simply check the box titled “[!UICONTROL Enable Customization of Virtual Report Suite Components]” in the [!UICONTROL Virtual Report Suites] builder under [!UICONTROL “Components],” and then select the [!UICONTROL components] that match what a specific team measures.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -73,7 +73,7 @@ Adobe Analytics collects vast amounts of data. Component curation in [!DNL Virtu
 
 Create links that take audiences anywhere within Analysis Workspace. Just right-click on the panel you want to link to, select “[!UICONTROL Get Panel Link],” and copy. Then highlight the text you want to link from, select the link icon in the text editor of a text box or description, and paste. To link to an entire project, simply click on the “[!UICONTROL Share]” tab, select “[!UICONTROL Get Project Link]", and follow the same steps as above.
 
->[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -83,7 +83,7 @@ Create links that take audiences anywhere within Analysis Workspace. Just right-
 
 You can now easily turn any project into a custom template. Simply select “[!UICONTROL Save As Template]” from the "[!UICONTROL Project]" dropdown menu, add tags that make the template easy to find, and click "[!UICONTROL Save Project As Template]." Now, the template will be available to all Analysis Workspace users under the “[!UICONTROL Custom Templates]” tab. This allows analysts to start their projects with meaningful data points, instead of starting from square one.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 >[!TIP]
 >

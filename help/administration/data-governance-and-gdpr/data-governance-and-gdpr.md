@@ -12,7 +12,7 @@ exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
 
 This video will walk you through Data Governance and how data labeling fits into GDPR readiness. It provides a hands-on example of data labeling using Data Governance.
 
->[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=en).
 

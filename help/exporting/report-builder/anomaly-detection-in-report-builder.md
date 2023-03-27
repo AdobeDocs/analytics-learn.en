@@ -13,7 +13,7 @@ exl-id: 80d85955-022f-4d79-aee8-c440592645f3
 
 Learn how to add [!UICONTROL anomaly detection] [!UICONTROL metrics] to your data requests, as well as creatively graph the data.
 
->[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
 
 [!UICONTROL Anomaly detection] uses statistical modeling to automatically find unexpected trends in your data.
 

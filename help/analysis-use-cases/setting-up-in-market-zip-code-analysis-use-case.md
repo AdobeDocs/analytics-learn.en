@@ -18,7 +18,7 @@ exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
 
 In this use case, we will configure the system to bring in zip codes, classify them as in-market or out-of-market, and then use this data in Analysis Workspace so that we can see the effectiveness of our geo-targeted marketing campaigns.
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 For additional information related to the aspects of this use case, see the following documentation topics:
 

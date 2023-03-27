@@ -15,4 +15,4 @@ exl-id: 26daa836-a43b-43e7-bcd9-ebffff3aaa9b
 
 Walk-through of some new features that allow analysts and marketers to adjust the labels in charts to suit your [!UICONTROL visualization] needs.
 
->[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)

@@ -16,6 +16,6 @@ exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
 
 [!DNL Adobe Sensei] makes Adobe Analytics more intelligent, and helps marketers discover meaningful insights about their customers. This video includes additional explanation of key features in Adobe Analytics powered by [!DNL Adobe Sensei], including [!UICONTROL Anomaly Detection], [!UICONTROL Contribution Analysis], [!UICONTROL Intelligent Alerts], Clustering, [!UICONTROL Segment IQ], and Propensity Modeling.
 
->[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
 
 Learn More about [!DNL Adobe Sensei] [HERE](https://www.adobe.com/sensei.html).

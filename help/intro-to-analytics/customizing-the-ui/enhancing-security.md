@@ -14,4 +14,4 @@ exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
 
 Learn about the Security Manager settings in Company Settings to control access to Adobe Analytics. This includes strong passwords, password expiration and recovery features, and email domain restrictions.
 
->[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12&learn=on)

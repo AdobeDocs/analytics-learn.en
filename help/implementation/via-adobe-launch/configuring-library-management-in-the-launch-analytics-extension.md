@@ -15,7 +15,7 @@ exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
 
 If you are just getting started with Experience Platform Launch, and the Adobe Analytics [!UICONTROL Extension], this video can help you with [!UICONTROL Library Management], including selecting [!UICONTROL report suites] in which to send data.
 
->[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
 
 For additional information related to the aspects of this use case, see the following documentation topics:
 

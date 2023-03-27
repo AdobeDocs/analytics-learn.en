@@ -16,4 +16,4 @@ exl-id: ea65bc06-c725-4115-bb62-f8e646bc1164
 
 Learn how to apply custom date ranges to create monthly and yearly trend Comparisons for any metric in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)

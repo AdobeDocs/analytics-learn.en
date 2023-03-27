@@ -16,4 +16,4 @@ exl-id: b5721a9b-ecdc-4498-8bb9-222ace0dc6dc
 
 Learn how to precisely control what gets visualized when in Freeform Analysis
 
->[!VIDEO](https://video.tv.adobe.com/v/23993/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23993/?quality=12&learn=on)
