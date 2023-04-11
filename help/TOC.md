@@ -64,6 +64,7 @@ solution: Analytics
     + [Tips to Increase Productivity in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
     + [Customer Tips for Continuing your Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
+    + [Data Dictionary in Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
     + [Create projects using templates](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
     + [Training tutorial template](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
     + [Use folders in Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
