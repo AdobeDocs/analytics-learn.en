@@ -61,6 +61,7 @@ solution: Analytics
     + [View Analysis Workspace performance metrics](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
   + Tips and Tricks {#tips-and-tricks}
     + [7 Tips and Tricks for Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
+    + [Right-click tips & tricks for more efficient workflows](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
     + [Tips to Increase Productivity in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
     + [Customer Tips for Continuing your Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
