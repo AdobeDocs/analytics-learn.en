@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-01-12
 kt: 11723
 thumbnail: 3413167.jpg
+exl-id: c300ba03-cd40-42ba-be46-325380914771
 ---
-
 # Use folders in Analysis Workspace
 
 Learn how to organize your projects in folders and subfolders in Analysis Workspace.

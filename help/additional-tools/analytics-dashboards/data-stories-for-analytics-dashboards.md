@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-03
 jira: KT-12430
 thumbnail: 3416392.jpeg
+exl-id: 48fb4ea3-3dc1-4aa4-846c-917da8739af6
 ---
-
 # Data stories for analytics dashboards
 
 Learn how to create data stories in mobile scorecard projects using the Analytics Dashboards app. Data stories allow you tell the whole story by include supporting data points, business context and related metrics, all while keeping your most important key metrics front and center.
