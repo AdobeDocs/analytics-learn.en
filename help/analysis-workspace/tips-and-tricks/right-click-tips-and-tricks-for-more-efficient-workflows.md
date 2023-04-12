@@ -60,7 +60,7 @@ The 'Download items as CSV (Segments)' option will allow you to download up to 5
 
 The 'Download data as CSV' option will only allow you to download up to 400 rows of data but will include breakdowns. 
 
- ## Tip #7: Hide Errors - Display only selected rows in a table 
+## Tip #7: Hide Errors - Display only selected rows in a table 
 
 It can make sense to hide certain rows in a Freeform Table. Select only the pertinent rows, right-click and select 'Display only selected rows'. Doing this will adjust your totals and % accordingly.  
 
@@ -68,7 +68,7 @@ This shouldn't be used to completely change your data, and you need to be carefu
 
 I hope you make great use of these tips, and that they help you to save time and deliver more pertinent reports using Adobe's Analysis Workspace! 
 
- ## Author
+## Author
 
 This document was written by:
 
