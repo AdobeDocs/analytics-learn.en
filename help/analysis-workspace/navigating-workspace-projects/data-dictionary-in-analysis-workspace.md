@@ -9,8 +9,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-11
 jira: KT-13074
 thumbnail: 3418028.jpeg
+exl-id: 8ef91be9-1dab-49ce-b78e-433dfe3c0717
 ---
-
 # Data Dictionary in Analysis Workspace
 
 Learn about the Data Dictionary in Analysis Workspace, which helps both users and administrators keep track of and better understand the components in their Analytics environment. Users can view component descriptions, other associated components, or components that are approved.
