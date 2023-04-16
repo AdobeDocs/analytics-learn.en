@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: Workspace Basics.jpeg
 kt: KT-13087
-
+exl-id: 2ef470bd-b218-4286-8501-39729511c217
 ---
-
 # 7 Right-click tips & tricks for more efficient workflows
 
 Here are 7 right-click tips you can use in Analysis Workspace to make your workflows more efficient. You can read them in the text below or watch the video to see them demonstrated.
