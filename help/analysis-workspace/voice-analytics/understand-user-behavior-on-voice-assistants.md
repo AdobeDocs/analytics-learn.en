@@ -15,4 +15,4 @@ exl-id: 7a69541c-8cea-4454-847c-4f0b10aa2788
 
 Learn how to understand user behavior and gain insights by looking at key [!UICONTROL metrics] such as top intents, parameters and user authentication.
 
->[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)

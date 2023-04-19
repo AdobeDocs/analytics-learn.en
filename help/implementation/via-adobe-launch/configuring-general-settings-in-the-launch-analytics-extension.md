@@ -15,7 +15,7 @@ exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
 
 If you are just getting started with Experience Platform Launch, and the Adobe Analytics [!UICONTROL Extension], this video can help you with the [!UICONTROL General] settings portion of the configuration, including setting the tracking server.
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
 
 For additional information related to the aspects of this use case, see the following documentation topics:
 
