@@ -12,7 +12,7 @@ exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
 
 The longer the time period that a [!UICONTROL metric] is trended, the more difficult it is to tell directional trends for the [!UICONTROL metric]. To solve this, the [!UICONTROL Cumulative Average] [!UICONTROL function] in [!UICONTROL Calculated Metrics] can be used to apply smoothing to [!UICONTROL metrics] in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
 
 >[!INFO]
 >

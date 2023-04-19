@@ -15,4 +15,4 @@ exl-id: 3fd55eac-e485-41b9-9178-c7add90fa292
 
 Learn how to build a customized dashboard to manage and track performance of your voice assistant app in an easy, flexible, intuitive and visual way.
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)

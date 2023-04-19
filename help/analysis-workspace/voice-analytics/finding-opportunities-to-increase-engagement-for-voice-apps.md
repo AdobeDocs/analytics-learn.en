@@ -15,4 +15,4 @@ exl-id: bcd89ea1-fa1b-41d1-816e-cdd9d49ae172
 
 Learn how to have a deep understanding of the quality of engagement on your voice app by leveraging features such as frequency of uses, [!UICONTROL cohort], visit/user and session lengths.
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)

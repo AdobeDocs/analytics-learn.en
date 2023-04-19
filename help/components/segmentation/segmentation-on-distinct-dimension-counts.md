@@ -12,7 +12,7 @@ exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
 
 The new [!UICONTROL Distinct Count] operators in the [!UICONTROL Segment builder] allow you to segment based on the number of unique items within any [!UICONTROL dimension]. Filter for visits where more than 5 pages were viewed, or hits where more than 5 products were purchased, i.e. within a single order.
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 Could this feature be any cooler? :)
 

@@ -15,4 +15,4 @@ exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
 
 If you are just getting started with Adobe Experience Platform Launch, and the Adobe Analytics [!UICONTROL Extension], this video can help you understand custom code window options, timing of code execution, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)

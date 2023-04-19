@@ -15,4 +15,4 @@ exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
 
 Learn how to understand the different performance and functionalities across various voice-assisted devices to help prioritize product roadmap.
 
->[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)
