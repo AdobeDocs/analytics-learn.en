@@ -303,6 +303,7 @@ solution: Analytics
     + [Using Segments in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
     + [Using Segments as Dimensions in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
     + [Using segments to limit data in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
+    + [Differences between the segment builder and quick segments](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
     + [Sequential Segmentation](components/segmentation/sequential-segmentation.md)
     + [Before/After Sequences in Sequential Segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
     + [Segmentation on Distinct Dimension Counts](components/segmentation/segmentation-on-distinct-dimension-counts.md)
