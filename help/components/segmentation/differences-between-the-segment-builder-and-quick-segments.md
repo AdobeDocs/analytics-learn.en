@@ -6,9 +6,8 @@ role: User
 level: Beginner
 doc-type: article
 kt: KT-13118
-
+exl-id: fefadd3c-820b-4e53-bd76-e51cb52c33e1
 ---
-
 # Differences between the segment builder and quick segments in Analysis Workspace
 
 Segments can be one of the most powerful tools in your data analysis toolkit. Learn the differences between using the segment builder and quick segments in Analysis Workspace for efficiency.
