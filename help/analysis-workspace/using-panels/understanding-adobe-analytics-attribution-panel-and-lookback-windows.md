@@ -119,7 +119,7 @@ Now, we can travel "back in time" with confidence and use the power of our trust
 
 This document was written by:
 
-![Jeff Bloomer](assets/Jeff%20headshot%20Small.png)
+![Jeff Bloomer](assets/jeff-headshot.png)
 
 **Jeff Bloomer**, Manager, Digital Analytics at Kroger Personal Finance
 

@@ -70,7 +70,7 @@ I hope this has shown you some of the possibilities of using basic mathematical 
 
 This document was written by:
 
-![Gittai headshot](assets/Gittai_headshot.png)
+![Gittai headshot](assets/gittai_headshot.png)
 
 **Gitai Ben-Ammi**, Principal Consultant at Concentrix Catalyst
 

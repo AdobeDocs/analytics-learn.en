@@ -96,7 +96,7 @@ Building customer journey segments using Adobe Analytics is a challenging but re
 
 This document was written by:
 
-![Aaron Fossum](assets/Aaron%20headshot%20small.png)
+![Aaron Fossum](assets/aaron-headshot.png)
 
 **Aaron Fossum**, Director, Digital Analytics
 
