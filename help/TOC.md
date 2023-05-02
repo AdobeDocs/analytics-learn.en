@@ -80,6 +80,7 @@ solution: Analytics
     + [Using Tables, Visualizations, and Panels in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
     + [Quick Insights Panel in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
     + [Using the Attribution IQ Panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
+    + [Understanding Adobe Analytics Attribution Panel & Lookback Windows](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
     + [Media Concurrent Viewers Panel in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
     + [Media Playback Time Spent Panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
     + [Using Drop-down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -148,12 +149,14 @@ solution: Analytics
     + [Use segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
     + [Use segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
     + [Quick segments in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
+    + [Building Customer Journey Segments](analysis-workspace/applying-segments/building-customer-journey-segments.md)
   + Metrics {#metrics}
     + [Understanding Basic Visitor Metrics](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
     + [Adding Dimensions and Metrics to your Project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
     + [Introduction to Conversion Events](analysis-workspace/metrics/introduction-to-conversion-events.md)
     + [Working with Metrics in a Freeform Table](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
     + [Using Participation Metrics in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+    + [Goodbye Excel, hello calculated metrics](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
   + Dimensions {#dimensions}
     + [Adding Dimensions and Metrics to your Project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
     + [Introduction to Traffic Variables (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -176,6 +179,7 @@ solution: Analytics
     + [Schedule and Downloadable Projects](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
     + [Project Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
     + [View-only Projects in Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+    + [Unlocking the Power of View-Only Sharing](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
   + Attribution IQ {#attribution-iq}
     + [Using Cross-tab Analysis to Explore Basic Marketing Attribution](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
     + [Adding side-by-side comparisons of Attribution IQ Models](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
