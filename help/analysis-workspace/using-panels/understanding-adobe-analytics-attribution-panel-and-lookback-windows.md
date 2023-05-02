@@ -58,6 +58,7 @@ From the point when he fled the Twin Pines Mall parking lot to when he literally
 Yet, through the power of movie magic, we get to follow Marty's path through time and understand all of his touchpoints, his stalls, double-backs, and dropouts.
 
 ## Attribution Models
+
 In real life, we get to use the **Attribution Panel** to see several different things.  For instance, the **Attribution Models** show us how our **conversions** are distributed across **hits** in any particular group.
 
 Simply put, if 10 people press a button to step through a door, our Attribution Models are going to tell us which of those 10 people we want to give the credit for pressing that button.  With that in mind, here are some examples of how the attribution models might affect those 10 people:
