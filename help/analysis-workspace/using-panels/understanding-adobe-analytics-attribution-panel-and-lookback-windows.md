@@ -86,7 +86,7 @@ If you've seen ALL of the Back to the Future movies, then you know Marty McFly w
 
 1.    A little before **1:30am** on **October 26, 1985**, Marty McFly goes back in time to **November 5, 1955**, where he first runs over a pine tree in a time-traveling DeLorean.  Over the next week and a half, he interacts with multiple people, including his parents, ultimately affecting the future by influencing his dad to stand up to a bully named Biff, so his dad can realize his own potential to become a successful science-fiction author.
 1.    Later the same morning on **October 26, 1985**, Doctor Emmett Brown arrives on Marty McFly's driveway to inform him and his girlfriend that something has gone horribly wrong with their kids and they must rush to the future to fix their problems.  As they leave, their departure is witnessed by Biff, who finds it odd to see a flying DeLorean.  Later, in the future, as Biff again witnesses a flying DeLorean and even later catches sight of "two versions" of Marty, he starts to put things together.   When he overhears Doc Brown and Marty arguing how the "time machine" should never be used for personal gain and only for research (because Marty had been mulling over taking a sports almanac back to the past to make some personal bets), Biff steals the time machine while the two are distracted to deliver the sports almanac to his younger self in the past.
-1.    After their trip to the future, Doc Brown and Marty return to an **October 26, 1985** they don't recognize, and they deduce the timelines has been altered by an evil Biff.  Realizing they must fix what happened, Doc and Marty resolve to return to **November 12, 1955**, the fateful night when everything was changed by Marty when he first visited **1955**.  Doc and Marty ultimately save the day by stealing back the sports almanac that Old Biff from the future had delivered to Young Biff in **1955**, but not without another twist you really need to watch the full trilogy of movies to truly enjoy and understand.
+1.    After their trip to the future, Doc Brown and Marty return to an **October 26, 1985** they don't recognize, and they deduce the timeline has been altered by an evil Biff.  Realizing they must fix what happened, Doc and Marty resolve to return to **November 12, 1955**, the fateful night when everything was changed by Marty when he first visited **1955**.  Doc and Marty ultimately save the day by stealing back the sports almanac that Old Biff from the future had delivered to Young Biff in **1955**, but not without another twist you really need to watch the full trilogy of movies to truly enjoy and understand.
 
 Depending on our **Attribution Model** and **Lookback Window**, we can end up with some interesting scenarios:
 
@@ -103,7 +103,7 @@ So, what does all this mean for us as analysts?
 
 The **Attribution Panel** and **Lookback Window** give us the power to look beyond the simple, surface-level data and dive deeper into the customer journey. By understanding which touchpoints had the greatest impact on conversions, we can make informed decisions about our marketing strategies and allocate resources more effectively.
 
-Remember, after you have your **Attribution Models** and **Lookback Windows** selected, you still have the ability to further manipulate your data by filtering it with a segment or any other component you wish.  Furthermore, after the Panel is rendered, you have all the functionality of a traditional **Workspace**, which means your officially licensed to drive 88 mph!
+Remember, after you have your **Attribution Models** and **Lookback Windows** selected, you still have the ability to further manipulate your data by filtering it with a segment or any other component you wish.  Furthermore, after the Panel is rendered, you have all the functionality of a traditional **Workspace**, which means you're officially licensed to drive 88 mph!
 
 ## Finally Putting it Into Practice
 
@@ -111,7 +111,7 @@ Now that you've got the concepts down, imagine you're running a marketing campai
 
 Now that you've seen what it can do, don't be intimidated by the seemingly complex features of the **Attribution Panel**.  **Face** it.  **Embrace** it.  **Understand** it.  Most of all, use it to your advantage. The **Attribution Panel** and **Lookback Window** are the keys to unlocking a deeper understanding of your customers and their journey with your brand.
 
-Now, we can travel "back in time" with confidence and use the power of our trusty time machine (aka,  **Adobe Analytics**) to make data-driven decisions; and, most importantly, remember, "Where we're going, we don't need roads!" (Just a flux capacitor, and a keen eye for attribution!).
+Now, we can travel "back in time" with confidence and use the power of our trusty time machine (aka,  **Adobe Analytics**) to make data-driven decisions; and, most importantly, remember, "Where we're going, we don't need roads!" (Just a flux capacitor, and a keen eye for attribution!)
  
 ![Back to the future](assets/back-to-the-future3.png)
 
