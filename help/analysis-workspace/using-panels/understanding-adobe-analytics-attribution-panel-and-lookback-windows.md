@@ -66,7 +66,7 @@ Simply put, if 10 people press a button to step through a door, our Attribution 
 *    **Last Touch**: Also exactly like it sounds.   This model gives 100% credit to the last person who walked in the door.  This model is often used to analyze things like Search and short-term marketing cycle campaigns.
 *    **Linear**: This gives equal credit to every single person who walked through the door.  That's right – You get a DeLorean, and you get a DeLorean, and you get a DeLorean.  EVERYBODY GETS A DELOREAN!!!
 *    **U-Shaped**: This one gives 40% of the credit to the first one in the door, spreads 20% of the credit to everyone in between and then gives 40% to the last one through.  Think about a situation where you want to recognize the majority conversions on both the front and back end, but also want to sprinkle a small amount of the credit across some of the contributing interactions in between.
-*    **Time Decay**: I would be remiss if I didn't share this one with you before I send you out to out to the official documentation to review the remaining models.  Like Doc Brown's plutonium, this model literally has a half-life that exponentially decays!  In this case, the default parameter for this model's half-life is 7 days.  The way it works is to then apply weight to each Marketing Channel, based on the amount of time that passes after the initial touchpoint and when the customer converts.
+*    **Time Decay**: I would be remiss if I didn't share this one with you before I send you out to the official documentation to review the remaining models.  Like Doc Brown's plutonium, this model literally has a half-life that exponentially decays!  In this case, the default parameter for this model's half-life is 7 days.  The way it works is to then apply weight to each Marketing Channel, based on the amount of time that passes after the initial touchpoint and when the customer converts.
 
 For additional information about this and the remaining **Attribution Models**, [click here](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
 
@@ -76,7 +76,7 @@ Yup, here we go - take us BACK IN TIME!!  Because here's where the fun begins!
 
 Adobe defines **Lookback Windows** as "the amount of time a conversion should look back to include touch points. Attribution models that give more credit to first interactions see larger differences when viewing different lookback windows."
 
-*    **Visit lookback window**: Looks back up to the beginning of a visit when a conversion happened
+*    **Visit lookback window**: Looks back up to the beginning of a visit when a conversion happened.
 *    **Visitor lookback window**: Looks at all visits back up to the 1st of the month of the current date range.
 *    **Custom lookback window**: Allows you to expand the Attribution Window beyond the reporting date range up to a maximum of **90 days**.
 
