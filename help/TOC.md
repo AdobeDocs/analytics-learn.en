@@ -122,6 +122,7 @@ solution: Analytics
     + [Summary number and summary change visualizations](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
     + [Key metric summary visualization](analysis-workspace/visualizations/key-metric-summary.md)
     + [Text visualization](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+    + [More than words - Using text visualizations and descriptions](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
     + [Scatterplot visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
     + [Treemap visualization](analysis-workspace/visualizations/treemap-visualization.md)
     + [Venn diagram visualization](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -316,6 +317,7 @@ solution: Analytics
     + [Dimension Models in Segmentation](components/segmentation/dimension-models-in-segmentation.md)
     + [Equals Any Of Operator in Segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
     + [Analytics Insider Webinar - Customer Segmentation Strategies](components/segmentation/customer-segmentation-strategies.md)
+    + [Now just wait a segment… Using segmentation to discover new insights](components/segmentation/segmentation-to-discover-new-insights.md)
   + Calculated Metrics {#calculated-metrics}
     + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
     + [Attribution IQ in Calculated Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
@@ -326,6 +328,7 @@ solution: Analytics
     + [Calculated Metrics - Metric Selector](components/calculated-metrics/calculated-metrics-metric-selector.md)
     + [Quick Calculated Metrics in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
     + [Using Dimensions in Calculated Metrics](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+    + [Take your data analysis to the next level with Calculated Metrics](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
   + Classifications {#classifications}
     + [Overview of Classifications](components/classifications/overview-of-classifications.md)
     + [Using the Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)
