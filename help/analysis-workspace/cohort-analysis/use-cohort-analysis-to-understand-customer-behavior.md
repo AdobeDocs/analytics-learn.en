@@ -28,7 +28,7 @@ Current Digital Performance
 1. First-time visits convert at a slightly higher rate than return visits for both, 11.6% vs. 11.4%.
 1. Compared to 2021, conversion rates declined across both segments.
 
-![Visits table](assets/visits-table.png)
+![Visits table](assets/cohort1.png)
 
 ## Part 2: Cohort Analysis - Visits Edible Arrangements Global Prod
 
@@ -65,14 +65,14 @@ How to set up the Cohort Table
 1) Months with the most volume include February and May
 1) There are ~1,000 visitors that return to the site every month
 
-![2022 retention table](assets/2022-retention-table.png)
+![2022 retention table](assets/cohort2.png)
 
 **In 2021:**
 
 1) Months with the highest retention rates +1 month include April, January and March
 1) Months with the most volume include February and May
 
-![2021 Retention table](assets/2021-retention-table.png)
+![2021 Retention table](assets/cohort3.png)
 
 **Action items:**
 
@@ -124,7 +124,7 @@ What would be the impact if we could get more users to login? Is that a stickier
 
 Investigate site user experience for getting users to create an account during Checkout
 
-![Cohort Table 4](assets/cohort-table-4.png)
+![Cohort Table 4](assets/cohort4.png)
 
 ## Part 4: Custom Dimension Cohort
 
@@ -152,7 +152,7 @@ Custom Dimension Cohort table highlights products that are driving higher retent
 1) Product 2
 1) Product 3 -- frequently outperforms with a higher retention rate compared to average retention.
 
-![Cohort table 5](assets/cohort-table-5.png)
+![Cohort table 5](assets/cohort5.png)
 
 ## Conclusion
 
