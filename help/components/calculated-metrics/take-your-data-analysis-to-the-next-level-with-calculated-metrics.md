@@ -133,6 +133,7 @@ Combining segments and calculated metrics in Adobe Analytics can absolutely lead
 
 
 ## Author
+
 This document was written by:
 
 ![Debbie Kern](assets/calc13.jpeg)

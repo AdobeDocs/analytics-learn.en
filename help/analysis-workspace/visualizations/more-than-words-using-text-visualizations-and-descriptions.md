@@ -52,6 +52,7 @@ You can also use GIFs in your projects to include moving imagery like a site wal
 ![text 08](assets/t08.png)
 
 ## Author
+
 This document was written by:
 
 ![Dan Cummings](assets/text09.png)
