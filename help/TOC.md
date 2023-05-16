@@ -198,6 +198,7 @@ solution: Analytics
     + [Cohort Analysis Using Any Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
     + [Latency Analysis with Cohort Tables](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
     + [Calculate Rolling Retention in Cohort Tables](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+    + [Use Cohort Analysis to Understand Customer Behavior](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
   + Voice Analytics {#voice-analytics}
     + [How to Manage and Track Your Voice Assistant App Data](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
     + [Understand Differences Across Voice-Enabled Devices](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
