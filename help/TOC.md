@@ -227,7 +227,6 @@ solution: Analytics
     + [Create an internal Adobe Analytics site](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
     + [Use a global report suite](administration/admin-tips/use-a-global-report-suite.md)
     + [Create a news & announcements project](administration/admin-tips/create-a-news-and-announcements-project.md)
-    + [Driving success with executive summary dashboards](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
   + Company Settings {#company-settings}
     + [Enforce Email Domain Restrictions](administration/company-settings/enforce-email-domain-restrictions.md)
     + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
