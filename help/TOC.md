@@ -52,6 +52,7 @@ solution: Analytics
     + [Analysis Workspace quick intro](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
     + [Analysis Workspace overview](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
     + [Navigate the new landing page](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+    + [Start your analysis with a pre-built report](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
     + [Building a Workspace project from scratch](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
     + [Create and manage custom templates in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
     + [Understanding how data gets into your Analysis Workspace project](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -227,7 +228,6 @@ solution: Analytics
     + [Create an internal Adobe Analytics site](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
     + [Use a global report suite](administration/admin-tips/use-a-global-report-suite.md)
     + [Create a news & announcements project](administration/admin-tips/create-a-news-and-announcements-project.md)
-    + [Driving success with executive summary dashboards](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
   + Company Settings {#company-settings}
     + [Enforce Email Domain Restrictions](administration/company-settings/enforce-email-domain-restrictions.md)
     + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
