@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-05-16
 jira: KT-13268
 thumbnail: KT-13268.jpeg
+exl-id: b6c4e6d4-cfd6-4553-9924-195665e4e5ea
 ---
-
 # Now just wait a segment… Using segments to discover new insights in Analysis Workspace
 
 Whether you are a new Adobe Analytics user or a seasoned pro, you will leverage segments quite a bit in your Analysis Workspace projects. As [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en) describes, "segments allow you to identify subsets of visitors based on characteristics or website interactions." While the basic outcome of this feature means isolating groups of users, visits, or hits to your site, a sharp-minded analyst such as yourself can get creative with this tool and find new ways to gain insights about your site activity. The list of possible options is vast, so don't hesitate to try creating your own and share it with others at your organization or online in communities like the [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) on Experience League or the [#Measure Slack](https://www.measure.chat/) community.
@@ -85,4 +85,3 @@ This document was written by:
 **Dan Cummings**, Sr. Product Engineering Analytics Manager at McDonald's Corporation
 
 Adobe Analytics Champion
-

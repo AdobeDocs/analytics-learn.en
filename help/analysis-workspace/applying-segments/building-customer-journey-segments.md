@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-05-02
 jira: KT-13180
 thumbnail: KT-13180.jpeg
+exl-id: dc232e9a-0bf0-4ce9-aee4-bc312c7fdf3f
 ---
-
 # Building Customer Journey Segments
 
 Learn how to create behavioral-based customer journey segments in Adobe Analytics and improve your customers' experience with Adobe Experience Cloud by following this step-by-step guide.
@@ -101,5 +101,3 @@ This document was written by:
 **Aaron Fossum**, Director, Digital Analytics
 
 Adobe Analytics Champion
-
-

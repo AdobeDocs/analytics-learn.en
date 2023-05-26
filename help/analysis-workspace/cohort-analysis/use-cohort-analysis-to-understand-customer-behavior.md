@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-05-16
 jira: KT-13213
 thumbnail: KT-13213.jpeg
+exl-id: d12a407f-c777-4072-b25a-30fea640a357
 ---
-
 # Use Cohort Analysis to Understand Customer Behavior
 
 To improve customer experience and revenue, businesses must understand customer behavior. Cohort analysis can help comprehend engagement and retention, leading to actions like improving account creation and creating campaigns for high-volume months.

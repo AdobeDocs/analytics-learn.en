@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-05-16
 jira: KT-13266
 thumbnail: KT-13266.jpeg
+exl-id: 2a402bba-3791-4aca-b13a-160244d1cbdb
 ---
-
 # Take your data analysis to the next level with Calculated Metrics
 
 Most new users of Adobe Analytics are familiar with Segments as a way to slice and dice their data. Today, I want to introduce you to calculated metrics, the next best tool in your analyst toolbox.

@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-05-02
 jira: KT-13179
 thumbnail: KT-13179.jpeg
+exl-id: e0920e34-5f22-4820-b3e1-edea124ad219
 ---
-
 # Unlocking the power of read-only sharing in Analysis Workspace
 
 Learn how sharing Adobe Analysis Workspace projects as "read only" can create executive-ready dashboard reports with a clean user interface and predefined filtering options, as well as how the "mobile scorecard" can simplify sharing digital experience KPIs with executives on the go.

@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-05-02
 jira: KT-13178
 thumbnail: KT-13178.jpeg
+exl-id: 1ced644c-db66-4084-a5da-10b028f7e8ac
 ---
-
 # Goodbye Excel, hello calculated metrics
 
 Learn the benefits of using calculated metrics in Adobe Analytics and how they can provide you with a continuous, dynamic view of your data in this article.

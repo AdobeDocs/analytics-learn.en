@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-05-16
 jira: KT-13267
 thumbnail: KT-13267.jpeg
+exl-id: 09a4cbd3-3380-49f1-8d11-311fe3bc3ab7
 ---
-
 # More than words - Using text visualizations and descriptions in Analysis Workspace
 
 As an Adobe Analytics Analysis Workspace user, it's natural that your focus will often go to your data and data visualizations - anyone can type a summary, right? However, overlooking features in Analysis Workspace like the Text visualization or the visualization descriptions may mean missing a valuable opportunity to combine your insights with valuable text, images, gifs, and links. By giving references and more context to inform your users about what your data means, it can make it more effective and impactful.
@@ -60,11 +60,3 @@ This document was written by:
 **Dan Cummings**, Sr. Product Engineering Analytics Manager at McDonald's Corporation
 
 Adobe Analytics Champion
-
-
-
-
-
-
-
-

@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-05-02
 jira: KT-13181
 thumbnail: KT-13181.jpeg
+exl-id: e1ba8b5d-1a5f-4ac0-aec7-f20eb94710ad
 ---
-
 # Understanding Adobe Analytics Attribution Panel & Lookback Windows
 
 Learn how to use the Attribution Panel and Lookback Window to understand customer behavior and customize how dimension items get credit for success events.
