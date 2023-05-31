@@ -15,7 +15,3 @@ Use this simple trick to get any participation metric in Analysis Workspace anyt
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html).
-
->[!INFO]
->
-> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!

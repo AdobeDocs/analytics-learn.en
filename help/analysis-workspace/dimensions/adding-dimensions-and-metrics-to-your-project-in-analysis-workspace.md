@@ -15,7 +15,3 @@ In this video, learn about [!UICONTROL dimensions] and [!UICONTROL metrics], the
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).
-
->[!INFO]
->
-> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!

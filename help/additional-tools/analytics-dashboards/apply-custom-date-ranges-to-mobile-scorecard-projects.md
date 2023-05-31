@@ -17,7 +17,3 @@ This video shows how to manage your different options for date ranges when you a
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html).
-
->[!INFO]
->
-> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

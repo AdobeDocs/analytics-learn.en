@@ -15,8 +15,3 @@ In this video, learn how to save and export projects for yourself, send projects
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
-
->[!INFO]
->
-> This video is part of multiple courses [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) and [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) available for free on Experience League!
-

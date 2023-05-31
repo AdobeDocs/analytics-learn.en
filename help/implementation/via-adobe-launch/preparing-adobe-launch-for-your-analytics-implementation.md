@@ -13,7 +13,3 @@ exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
 Before you use Experience Platform Launch to implement [!DNL Analytics], you will need to have some documents standing by, and you will want to have already set up a few things in the system, both in [!DNL Analytics] and in [!DNL Launch]. This video goes over those things.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

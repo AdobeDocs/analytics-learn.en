@@ -15,7 +15,3 @@ exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
 At times, you may need to contact Adobe in case of a failed data feed delivery or with a request to resend a data feed file. It becomes convenient for customer support team to handle such requests if the Data feed ID is provided by the customer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

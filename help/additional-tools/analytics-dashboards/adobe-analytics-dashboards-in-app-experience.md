@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics dashboards in-app experience
-description:  In this video, learn how to use Adobe Analytics dashboards (mobile app) to access and view “scorecards” created by or shared with you.
+description:  In this video, learn how to use Adobe Analytics dashboards (mobile app) to access and view "scorecards" created by or shared with you.
 feature: Analytics Dashboards
 role: User
 level: Beginner
@@ -11,12 +11,8 @@ exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
 ---
 # Adobe Analytics dashboards in-app Experience
 
-In this video, learn how to use Adobe Analytics dashboards (mobile app) to access and view “scorecards” created by or shared with you.
+In this video, learn how to use Adobe Analytics dashboards (mobile app) to access and view "scorecards" created by or shared with you.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
 
 For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).
-
->[!INFO]
->
-> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

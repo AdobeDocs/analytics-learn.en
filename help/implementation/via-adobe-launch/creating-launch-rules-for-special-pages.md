@@ -13,7 +13,3 @@ exl-id: 7cc9ea3e-1c31-4dac-9f7e-89f7a6ef315b
 In addition to the data that goes in on every page, you will have some data that just needs to go in on one page. This video shows you how to merge that data with the every-page data and send it into Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

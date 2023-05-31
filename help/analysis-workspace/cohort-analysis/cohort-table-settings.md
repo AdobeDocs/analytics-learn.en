@@ -27,7 +27,3 @@ Customizations for the [!UICONTROL Cohort Table] include the ability to
 The average row is especially helpful in viewing [!UICONTROL retention] or [!UICONTROL churn] overall, rather than by individual [!UICONTROL cohort] rows.
 
 For more information regarding [!UICONTROL cohort] analysis, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
-
->[!INFO]
->
-> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!

@@ -18,7 +18,3 @@ The Solution Design Reference (SDR) document is the blueprint for business requi
 [Download](assets/aa-implementation-playbook.xlsx) a sample Excel template to document requirements and data collection design for your digital properties.
 
 [Download](assets/geometrixx-clothiers-brd-sdr.xlsx) the Excel document presented in this video and/or watch the related [business requirements document video](creating-a-business-requirements-document.md)).
-
->[!INFO]
->
-> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

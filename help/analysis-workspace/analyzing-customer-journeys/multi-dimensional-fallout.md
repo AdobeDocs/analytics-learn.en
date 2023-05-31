@@ -20,8 +20,4 @@ exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
 
 This powerful capability allows you more flexibility in defining the user steps you want to investigate.
 
->[!INFO]
->
-> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!
-
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=en).

@@ -1,6 +1,6 @@
 ---
 title: View-only Projects in Analysis Workspace
-description: Workspace projects can be shared to users as “Can view” only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions.
+description: Workspace projects can be shared to users as "Can view" only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions.
 feature: Curate and Share
 topics: 
 activity: use
@@ -15,12 +15,8 @@ exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
 ---
 # View-only Projects in Analysis Workspace
 
-Workspace projects can be shared to users as “Can view” only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions.
+Workspace projects can be shared to users as "Can view" only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
 For more information, see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)
-
->[!INFO]
->
-> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

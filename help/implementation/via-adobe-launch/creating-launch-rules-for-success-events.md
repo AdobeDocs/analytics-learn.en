@@ -13,7 +13,3 @@ exl-id: ae600143-87cc-435d-bba2-0bce929070ac
 This video shows you how to use [!DNL Experience Platform Launch] to track conversion events (AKA success events) on your site. It shows this in the use case of tracking an application process on a sample site.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

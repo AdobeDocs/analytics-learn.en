@@ -15,7 +15,3 @@ The Line visualization depicts metrics over a trended time period. Visualization
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
 Learn more in the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html).
-
->[!INFO]
->
-> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!

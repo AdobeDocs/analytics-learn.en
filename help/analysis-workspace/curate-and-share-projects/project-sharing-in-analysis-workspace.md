@@ -20,7 +20,3 @@ Project sharing is one way to democratize data and insights from Analysis Worksp
 >[!VIDEO](https://video.tv.adobe.com/v/36207/?quality=12&learn=on)
 
 For more information, see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
-
->[!INFO]
->
-> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

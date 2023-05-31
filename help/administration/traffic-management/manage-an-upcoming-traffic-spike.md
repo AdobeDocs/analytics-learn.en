@@ -15,7 +15,3 @@ exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
 Adobe attempts to partner with clients to ensure that a high-traffic event is successful. Scheduling traffic spikes is the starting point in that partnering process. The Schedule Spike section lets you alert Adobe of temporary traffic spikes so that appropriate resources can be allocated to handle them.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

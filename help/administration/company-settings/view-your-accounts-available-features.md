@@ -14,7 +14,3 @@ exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
 View Feature Access Levels' settings under Admin section on Analytics allows you to view the level of access to Adobe Analytics packages and features that your company is entitled to. This includes: Activity Map, Advertising Analytics, Anomaly detection in alerts, etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

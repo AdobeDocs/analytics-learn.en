@@ -17,7 +17,3 @@ Learn how to walk through the configuration of the Paid Search Detection section
 >[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=en#section_0C2CFA0AF77B47098BE37CB024665D0D).
-
->[!INFO]
->
-> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

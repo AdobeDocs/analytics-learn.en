@@ -28,7 +28,3 @@ Tips from Veteran Adobe Analytics Users
 |Customer:<br>Sam Liss    |      Analytics Engineer at Equinox     |
 |------------|------------|
 | ![Sam Liss](assets/samliss.jpg) | **Tips for transitioning to Adobe Analytics from another analytics product** <br> "If you're coming from another analytics platform, then you are about to embark into a world of more customizable governance, higher security, and a plethora of marketing and data platform integrations….I'll walk you through how the [!UICONTROL Freeform Table] and [!UICONTROL Flow] Visualization are different from what you've experienced on other analytics platforms."<br><br>[Read Sam's Tips](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312)|
-
->[!INFO]
->
-> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!

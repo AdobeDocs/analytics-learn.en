@@ -21,7 +21,3 @@ Learn how to add a user as an Administrator in the Adobe Admin Console.
 >[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
 
 Learn more by going to the [documentation](https://helpx.adobe.com/enterprise/using/admin-console.html).
-
->[!INFO]
->
-> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

@@ -19,7 +19,3 @@ exl-id: 71050e4f-a6e3-4fe2-88dd-866d207f6c7c
 Adobe Analytics users need access to just the right data. Learn how to use the [!UICONTROL Admin Console] to ensure users can only access the report suite(s) that are necessary to their role. Follow these quick steps in the [Adobe Admin Console](https://adminconsole.adobe.com/) to create a report suite-specific product profile in your organization.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!
