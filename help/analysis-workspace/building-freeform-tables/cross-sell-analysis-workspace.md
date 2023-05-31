@@ -13,7 +13,3 @@ exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
 In this video you will learn how to create a cross-sell report in Analysis Workspace, and extend it even further to any multi-valued dimension or classification.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!

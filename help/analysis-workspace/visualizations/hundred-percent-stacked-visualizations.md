@@ -15,7 +15,3 @@ Learn how to set your stacked visualizations as percentages instead of only raw 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
 Stacked graphs are helpful for representing parts of a whole in a trend. The 100% stacked visualization setting further helps to quickly see how each part contributes to the whole, in terms of a % value instead of a raw value. This setting is available from the visualization settings gear in the top right of area stacked, bar stacked, and horizontal bar stacked visualizations.
-
->[!INFO]
->
-> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!

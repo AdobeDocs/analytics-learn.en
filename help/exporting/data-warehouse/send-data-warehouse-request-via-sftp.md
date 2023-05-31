@@ -15,7 +15,3 @@ exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
 Data warehouse refers to the copy of analytics data for storage and custom reports, which you can run by filtering the data. You can request reports to display advanced data relationships from raw data based on your unique questions. Data warehouse reports are emailed or sent via FTP, and may take up to 72 hours to process. Processing time depends on the complexity of the query and the amount of data requested.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

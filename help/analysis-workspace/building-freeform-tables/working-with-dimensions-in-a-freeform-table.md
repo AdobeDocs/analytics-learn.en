@@ -26,7 +26,3 @@ Topics covered in the video, including times:
 * Dimensions as Filters (8:30)
 * Breakdowns (9:48)
 * Ranked, Over Time, and Trended Reports (13:11)
-
->[!INFO]
->
-> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!

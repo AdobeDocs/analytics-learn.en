@@ -14,7 +14,3 @@ exl-id: efc12fc6-c031-4c50-832a-786c84e76151
 [!UICONTROL Page Views], [!UICONTROL Visits], and [!UICONTROL Visitors] (oh my?). This brief video will give you some basic info on understanding these staples to understanding Web site traffic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of multiple courses: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) and [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

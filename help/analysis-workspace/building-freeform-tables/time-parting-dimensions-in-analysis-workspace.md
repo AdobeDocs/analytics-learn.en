@@ -15,7 +15,3 @@ exl-id: 4d754c86-92cd-49cd-91b4-6711fbb61bf7
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
 
 For more information on this feature, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=en).
-
->[!INFO]
->
-> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!

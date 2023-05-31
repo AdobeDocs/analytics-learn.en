@@ -15,8 +15,3 @@ In this video you will learn how to use [!DNL Attribution IQ] [!UICONTROL models
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 
 When you are doing analysis on your site, you will often use segments to focus on a specific group of visitors, visits, or hits. As you do this, you should now add a step of considering which attribution model works best in conjunction with the segment, metrics, and overall report.
-
->[!INFO]
->
-> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!
-

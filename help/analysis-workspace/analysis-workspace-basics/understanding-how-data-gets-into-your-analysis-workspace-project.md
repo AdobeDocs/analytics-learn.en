@@ -16,6 +16,3 @@ This video shows you how to see the flow of data from your page to the tables an
 
 For more information about the Adobe Experience Platform Debugger, please visit the [documentation](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html).
 
->[!INFO]
->
-> This video is part of a course: [Getting Started with Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), available for free on Experience League!

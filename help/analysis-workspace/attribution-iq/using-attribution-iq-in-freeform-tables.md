@@ -23,10 +23,3 @@ Each attribution [!UICONTROL model] fully supports segmentation and breakdowns, 
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
 
->[!INFO]
->
-> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!
-
->[!INFO]
->
-> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!

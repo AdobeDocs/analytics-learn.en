@@ -17,7 +17,3 @@ The new [!UICONTROL Distinct Count] operators in the [!UICONTROL Segment builder
 Could this feature be any cooler? :)
 
 For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en).
-
->[!INFO]
->
-> This video is part of a course [Filtering your data with custom segmentation and dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), available for free on Experience League!

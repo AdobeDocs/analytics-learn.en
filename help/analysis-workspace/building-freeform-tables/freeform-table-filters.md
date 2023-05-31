@@ -19,7 +19,3 @@ In Analysis Workspace, we now offer more filtering control, with 11 filter crite
 For more information on the filters available, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en).
 
 **Note:** Advanced special characters are not available in Analysis Workspace.
-
->[!INFO]
->
-> This video is part of a course: [Freeform Tables, the Foundation of Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), available for free on Experience League!

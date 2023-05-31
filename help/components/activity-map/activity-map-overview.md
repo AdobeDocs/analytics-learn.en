@@ -15,7 +15,3 @@ exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=en).
-
->[!INFO]
->
-> This video is part of a course [Configuration and Administration of Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), available for free on Experience League!

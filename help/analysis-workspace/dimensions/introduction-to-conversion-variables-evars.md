@@ -13,7 +13,3 @@ exl-id: 4f7bedec-efca-46e8-981a-18118982012f
 In this video, get an introduction to conversion variables, also known as "[!DNL eVars]". Also learn the difference between traffic and conversion variables and how they relate to conversion [!DNL events].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

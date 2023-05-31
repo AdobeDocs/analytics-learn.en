@@ -19,6 +19,3 @@ Analysis Workspace comes with several predefined templates that can help jumpsta
 
 For more information on standard and custom templates, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html).
 
->[!INFO]
->
-> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

@@ -15,7 +15,3 @@ exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 
 For more information on this feature, visit [the documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=en).
-
->[!INFO]
->
-> This video is part of a course: [Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), available for free on Experience League!

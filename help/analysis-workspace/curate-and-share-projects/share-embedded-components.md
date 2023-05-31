@@ -17,7 +17,3 @@ Sometimes you want to share an Analysis Workspace project, but you forget to als
 >[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
 
 For more information on this feature, please see the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).
-
->[!INFO]
->
-> This video is part of a course [Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), available for free on Experience League!

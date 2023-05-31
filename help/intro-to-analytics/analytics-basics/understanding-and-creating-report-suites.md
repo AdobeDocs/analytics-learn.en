@@ -13,7 +13,3 @@ exl-id: 7c7fc1f3-63b3-42cd-a9b8-bd300d8d1921
 This video helps you understand what [!UICONTROL report suites] are, and shows you how to create them in the interface, so that you can track and optimize the traffic coming to your site.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)
-
->[!INFO]
->
-> This video is part of a course [Guided Analytics Implementation](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), available for free on Experience League!

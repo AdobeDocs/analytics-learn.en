@@ -18,8 +18,4 @@ This video shows updates to the [!DNL Fallout Visualization] that have been high
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
->[!INFO]
->
-> This video is part of a course [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), available for free on Experience League!
-
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
