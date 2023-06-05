@@ -81,7 +81,6 @@ solution: Analytics
     + [Using Tables, Visualizations, and Panels in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
     + [Quick Insights Panel in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
     + [Using the Attribution IQ Panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
-    + [Understanding Adobe Analytics Attribution Panel & Lookback Windows](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
     + [Media Concurrent Viewers Panel in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
     + [Media Playback Time Spent Panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
     + [Using Drop-down Filters](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -230,6 +229,7 @@ solution: Analytics
     + [Create an internal Adobe Analytics site](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
     + [Use a global report suite](administration/admin-tips/use-a-global-report-suite.md)
     + [Create a news & announcements project](administration/admin-tips/create-a-news-and-announcements-project.md)
+    + [Drive success with executive summary dashboards](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
   + Company Settings {#company-settings}
     + [Enforce Email Domain Restrictions](administration/company-settings/enforce-email-domain-restrictions.md)
     + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
