@@ -10,8 +10,6 @@ exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 
 This article describes the key challenges that analytics teams face today, and our recommendations to overcome them using in-tool strategies. Go [here](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) for part one.
 
-For more information on effective solutions outside the Adobe Analytics platform click [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
-
 ## Keys to efficiency: In-tool strategies
 
 Effective self-service is often an exercise in removing perceived barriers and boosting confidence. Here are some recommendations:
@@ -87,7 +85,5 @@ Use annotations to create in-product solution documentation references. Having i
 ## Adobe 2.0 reporting API
 
 Leverage the reporting API to move standard reports from [!UICONTROL Workspace] to scheduled reports and dashboards. Additionally, take advantage of [!UICONTROL Analysis Workspace] to build API requests.
-
-We hope you have found this article on in-tool strategies valuable. For more information on effective solutions to greater efficiency outside the Adobe Analytics platform click [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
 Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
