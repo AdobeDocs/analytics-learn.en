@@ -22,4 +22,4 @@ This is the API that you should use to track all non-screen-load actions on your
 
 This data comes in as `contextData`, which also means that you will then need to use [!UICONTROL Processing Rules] to take the mobile data from those `contextData` variables and map it into [!DNL eVars], [!DNL Props], Events, etc. in Adobe Analytics.
 
-For more information about trackAction, please see the [documentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).
+For more information about trackAction, please see the [documentation](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics).

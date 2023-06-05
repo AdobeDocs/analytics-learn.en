@@ -18,4 +18,4 @@ exl-id: 8bcc2f31-fac6-45eb-84d8-0ad65779a369
 
 >[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 
-For more information about [!UICONTROL Lifecycle] [!UICONTROL metrics], please see the [documentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle).
+For more information about [!UICONTROL Lifecycle] [!UICONTROL metrics], please see the [documentation](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/).

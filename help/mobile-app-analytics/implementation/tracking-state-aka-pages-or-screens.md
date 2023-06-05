@@ -18,4 +18,4 @@ States represent screens or views in your app. Each time a new state is displaye
 
 >[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
-For more information about trackState, please see the [documentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).
+For more information about trackState, please see the [documentation](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-app-states-and-screens-for-adobe-analytics).
