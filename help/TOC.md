@@ -60,13 +60,13 @@ solution: Analytics
     + [Component management in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
     + [Selecting a report suite in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
     + [View Analysis Workspace performance metrics](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
-    + [Bot Reporting](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
+    + [Create bot reports](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
   + Tips and Tricks {#tips-and-tricks}
     + [7 Tips and Tricks for Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
     + [Right-click tips & tricks for more efficient workflows](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
     + [Tips to Increase Productivity in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
     + [Customer Tips for Continuing your Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
-    + [Dynamic Drop-downs](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+    + [Create dynamic drop-down filters](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
     + [Data Dictionary in Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
     + [Create projects using templates](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)

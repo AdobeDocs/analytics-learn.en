@@ -1,6 +1,6 @@
 ---
-title: Bot Reporting in Analysis Workspace
-description: Learn how to report on bot data directly in Analysis Workspace. Bot data is now available as a summary data source within Analysis Workspace. Bot data can be analyzed in bot-enabled report suite using our new pre-built bots report or alongside your other data in any Workspace project.
+title: Create bot reports in Analysis Workspace
+description: Learn how to report on bot data in Analysis Workspace. Bot data is available as summary data and can be analyzed in bot-enabled report suites.
 feature: Bot Removal
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ jira: KT-13458
 thumbnail: 3420314.jpeg
 ---
 
-# Bot Reporting in Analysis Workspace
+# Create bot reports in Analysis Workspace
 
-Learn how to report on bot data directly in Analysis Workspace. Bot data is now available as a summary data source within Analysis Workspace. Bot data can be analyzed in bot-enabled report suite using our new pre-built bots report or alongside your other data in any Workspace project.
+Learn how to report on bot data in Analysis Workspace. Bot data is available as summary data and can be analyzed in bot-enabled report suites.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
