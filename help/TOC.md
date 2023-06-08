@@ -31,7 +31,6 @@ solution: Analytics
     + [Understanding the Analytics Cycle](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
     + [How Analytics Data is Collected](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
     + [Logging in to Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-    + [Intro to the Analytics UI](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
     + [Understanding and Creating Report Suites](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
     + [Understanding Basic Visitor Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
     + [Introduction to Traffic Variables (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
