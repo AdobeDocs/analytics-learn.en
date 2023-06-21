@@ -89,6 +89,7 @@ solution: Analytics
     + [Choose segments for a panel](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
     + [Multiple Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
     + [Next/Previous and Page Summary Workspace Panels & Reports](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+    + [Understanding attribution panel and lookback windows](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
   + Building Freeform Tables {#building-freeform-tables}
     + [Understand your data--freeform tables](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
     + [Use the left rail to build freeform tables](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
