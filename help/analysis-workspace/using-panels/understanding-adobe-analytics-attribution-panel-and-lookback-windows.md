@@ -48,6 +48,7 @@ In fact, rarely is any given customer journey truly linear and even less often p
 That's right.  Leave your "domino" analogies at the doorway and open your minds to concepts more along the lines of the butterfly effect and string theory - but like everything else, we need to start with some of the basics.
 
 ## **Attribution models**
+
 When we use the **attribution panel**, we may begin to observe several different things.  For instance, the **attribution models** demonstrate to us how our *conversions* (i.e., ***success metrics***) may be distributed across *hits* in any given group.
 
 Simply put, if **10 people** press a **BIG RED BUTTON** to step through a door, our **attribution models** are going to tell us which of those **10 people** we want to assign "credit" - or even better said, how *much* "credit" we want to assign them - for pressing said button.
@@ -79,6 +80,7 @@ For additional information about these and other attribution models, [click here
 To make this even more interesting, let's talk about turning back the clock!
 
 ## **Lookback windows**
+
 Now it's time to start taking your mind to the next level.  This is where we literally add the time travel element to our analysis - and again, we are beginning with the basics.
 
 ***Adobe*** defines **lookback windows** as "the amount of time a conversion should look back to include touch points. Attribution models that give more credit to first interactions see larger differences when viewing different lookback windows."
@@ -95,6 +97,7 @@ In other words, **lookback windows** determine the time period during which *con
 By adjusting a given **lookback window**, analysts may then examine the impact of one or more touchpoints within specific time frames and gain greater insights into how different durations affect attribution results.
 
 ## **Bringing it all together**
+
 So, what does all this mean to us as analysts?
 
 The **attribution panel** and **lookback window** give us the power to look beyond the mundane, surface-level data, and dive deeper into the customer journey. By understanding which touchpoints had the greatest impact on *conversions*, we can make informed decisions about our marketing strategies and allocate resources more effectively.
@@ -102,6 +105,7 @@ The **attribution panel** and **lookback window** give us the power to look beyo
 Remember, after you have your **attribution models** and **lookback windows** selected, you may still further manipulate your data by filtering it with a  **segment,** or any other component you wish at this point.  Furthermore, after the panel is rendered, you have all the functionality of a traditional Workspace at your disposal.
 
 ## **Finally putting it into practice**
+
 Now that you've got the concepts down, imagine you're running a marketing campaign and trying to determine which channel is the *most effective* for driving conversions. With the help of the **attribution panel**, not only can you see the **last touch**, but also the **first touch**, **same touch**, and any other **model** you choose to determine which **channels** are the *most effective* in driving your *conversions*. Then, this information can be used to *optimize* your campaigns and improve overall performance simply by turning back the clock with the **lookback window** of your choice!
 
 Now that you've seen what it can do, don't be fooled or intimidated by the seemingly complex features of the attribution panel.  **Face it**.  *Embrace* it.  Understand it*.*
