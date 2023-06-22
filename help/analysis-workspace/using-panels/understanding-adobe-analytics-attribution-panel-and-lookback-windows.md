@@ -40,7 +40,9 @@ In **attribution**, simply consider how events/actions might be caused by an ind
 According to [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribution* gives analysts the ability to customize how *Dimension* items receive credit for *success events*.
 
 
-**⛔** DETOUR: Just a quick note to call out that **attribution models** are so frequently associated with **marketing channels** that I purposely *crossed out* CHANNEL in the image above to illustrate it is possible to perform **attribution** analysis against most any other ***dimension***.
+>[!WARNING]
+>
+>**⛔** DETOUR: Just a quick note to call out that **attribution models** are so frequently associated with **marketing channels** that I purposely *crossed out* ❷CHANNEL in the image above to illustrate it is possible to perform **attribution** analysis against most any other ***dimension***.
 
 
 In fact, rarely is any given customer journey truly linear and even less often predictable.  More so, each customer will proceed at their own pace; often, they might double back, stall, drop out, or engage in other non-linear behavior. These organic actions make it difficult or practically impossible to know the impact of marketing efforts across the customer journey. It also hampers efforts to tie multiple channels of data together.
@@ -49,25 +51,27 @@ That's right.  Leave your "domino" analogies at the doorway and open your minds 
 
 ## **Attribution models**
 
-When we use the **attribution panel**, we may begin to observe several different things.  For instance, the **attribution models** demonstrate to us how our *conversions* (i.e., ***success metrics***) may be distributed across *hits* in any given group.
+When we use the **attribution panel**, we may begin to observe several different things.  For instance, the **attribution models** demonstrate to us how our *conversions* (i.e., ❶ **success metrics**) may be distributed across *hits* in any given group.
 
 Simply put, if **10 people** press a **BIG RED BUTTON** to step through a door, our **attribution models** are going to tell us which of those **10 people** we want to assign "credit" - or even better said, how *much* "credit" we want to assign them - for pressing said button.
 
 ![Button](assets/button.png)
 
-Keeping this in mind, here are a few examples of how the **attribution models** might affect those **10 people**:
+Keeping this in mind, here are a few examples of how the ❷ **attribution models** might affect those **10 people**:
 
 - **First touch**: This model works exactly like it sounds by giving **100% credit** to the *first* person who walked through the door.  Marketers are more likely to use this approach for tactics like ***social media*** or ***display***; however, it is also a great tactic to often use for on-site product recommendation effectiveness.
 - **Last touch**: This tactic also works exactly like it sounds, but instead gives **100% credit** to the LAST person who walked through the door.  This model is typically used to analyze things like ***natural (organic) search*** and other *short-term* marketing cycle campaigns.
 - **Linear**: This model distributes equal credit across EVERY SINGLE PERSON who walked through the door.
 
-Caution is recommended here, though, because you have the potential to spread your results very thin very quickly when applying this tactic, considering the longer it runs and the larger the audience it hits.
+    >[!CAUTION]
+    >
+    >Caution is recommended here, though, because you have the potential to spread your results very thin very quickly when applying this tactic, considering the longer it runs and the larger the audience it hits.
 
 - **U-Shaped**: This approach assigns **40%** of the credit to the *first person* in the door, spreads **20%** of the credit across *everyone in between*, and then gives **40%** to the **last one** through. This model will most often be used in situations when you have a **long conversion/sales cycle** containing *several touchpoints* along the way.  In this case, your goal is to primarily highlight the ***first*** and ***last*** marketing tactics that contributed to the customer converting.
 - **J**-**Shaped** and **Inverse J**:
   - Think about **U-Shaped**, but instead this model assigns **60%** credit to the *last person* walking through the door, **20%** to the *first*, and then *divides* the remaining **20%** across *everyone else* in the middle.  **Inverse J** does the exact opposite.
 
-The goal here is to put most of your emphasis, either at the *beginning* or the *end* of your campaign; however, you still want to assign a certain amount of credit to the contributing item on the opposite end while acknowledging the "little guys" along the way. 
+    The goal here is to put most of your emphasis, either at the *beginning* or the *end* of your campaign; however, you still want to assign a certain amount of credit to the contributing item on the opposite end while acknowledging the "little guys" along the way. 
 
 - **Time decay**: Now, I would be remiss if I didn't share this one. This model literally has a half-life that exponentially decays - over time!  In this case, the *default* parameter for this model's half-life is **7 days**.  The way it works is to then apply *weight* to each **marketing channel**, *based on the amount of time* that passes after the *initial touchpoint* and when the customer converts.
 
@@ -102,13 +106,23 @@ So, what does all this mean to us as analysts?
 
 The **attribution panel** and **lookback window** give us the power to look beyond the mundane, surface-level data, and dive deeper into the customer journey. By understanding which touchpoints had the greatest impact on *conversions*, we can make informed decisions about our marketing strategies and allocate resources more effectively.
 
-Remember, after you have your **attribution models** and **lookback windows** selected, you may still further manipulate your data by filtering it with a  **segment,** or any other component you wish at this point.  Furthermore, after the panel is rendered, you have all the functionality of a traditional Workspace at your disposal.
+Remember, after you have your **attribution models** and **lookback windows** selected, you may still further manipulate your data by filtering it with a  ❺ **segment,** or any other component you wish at this point.  Furthermore, after the panel is rendered, you have all the functionality of a traditional Workspace at your disposal.
 
 ## **Finally putting it into practice**
 
 Now that you've got the concepts down, imagine you're running a marketing campaign and trying to determine which channel is the *most effective* for driving conversions. With the help of the **attribution panel**, not only can you see the **last touch**, but also the **first touch**, **same touch**, and any other **model** you choose to determine which **channels** are the *most effective* in driving your *conversions*. Then, this information can be used to *optimize* your campaigns and improve overall performance simply by turning back the clock with the **lookback window** of your choice!
 
-Now that you've seen what it can do, don't be fooled or intimidated by the seemingly complex features of the attribution panel.  **Face it**.  *Embrace* it.  Understand it*.*
+Now that you've seen what it can do, don't be fooled or intimidated by the seemingly complex features of the attribution panel.  **Face it**.  *Embrace* it.  **Understand** it.
 BUT MOST OF ALL - *Use it to your advantage.* The **attribution panel** and **lookback window** are the keys to unlocking a deeper understanding of your customers and their journey with your brand.
 
-Now, we can travel "[back in time](https://youtu.be/gVryJmZNFdU)" with confidence and use the power of our trusty time machine (a.k.a., ***Adobe Analytics***) to make data-driven decisions.
+Now, we can travel "[back in time](https://youtu.be/gVryJmZNFdU)" with confidence and use the power of our trusty time machine (a.k.a. ***Adobe Analytics***) to make data-driven decisions.
+
+## Author
+
+This document was written by:
+
+![Jeff Bloomer](assets/jeff-headshot.png)
+
+**Jeff Bloomer**, Manager, Digital Analytics at Kroger Personal Finance
+
+Adobe Analytics Champion
