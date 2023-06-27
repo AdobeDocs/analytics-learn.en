@@ -78,6 +78,8 @@ solution: Analytics
     + [Annotations](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
     + [View density](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
     + [Use filters](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+  + Real-time reports {#real-time-reports}
+    + [Real-time Reporting](analysis-workspace/real-time-reports/realtime-reporting.md)
   + Using Panels {#using-panels}
     + [Using Tables, Visualizations, and Panels in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
     + [Quick Insights Panel in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -211,8 +213,6 @@ solution: Analytics
     + [Reducing Error Rates and Improving Success Rates in Your Voice App](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
     + [Understand User Behavior on Voice Assistants](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
     + [Understanding the User's Voice Journey](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-  + [Real-time Reporting in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
   + Key Admin Skills {#key-admin-skills}
     + [Creating an empowered community](administration/key-admin-skills/empowered-community.md)
