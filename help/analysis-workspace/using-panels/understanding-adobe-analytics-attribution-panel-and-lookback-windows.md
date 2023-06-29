@@ -33,7 +33,7 @@ Now that we're all excited about time travel, let's take a deep breath, step bac
 
 ![Attribution](assets/attribution.png)
 
-*Figure 1 - Numbers displayed inline with text further below*
+*Figure 1 - Numbers displayed are inline with text further below*
 
 In **attribution**, simply consider how events/actions might be caused by an individual, several individuals, or one of any number of different events over time.
 
@@ -42,7 +42,7 @@ According to [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/
 
 >[!WARNING]
 >
->**⛔** DETOUR: Just a quick note to call out that **attribution models** are so frequently associated with **marketing channels** that I purposely *crossed out* ❷CHANNEL in the image above to illustrate it is possible to perform **attribution** analysis against most any other ***dimension***.
+>**Attribution models** are so frequently associated with **marketing channels** that I purposely *crossed out* ❷ CHANNEL in the image above to illustrate it is possible to perform **attribution** analysis against most any other ***dimension***.
 
 
 In fact, rarely is any given customer journey truly linear and even less often predictable.  More so, each customer will proceed at their own pace; often, they might double back, stall, drop out, or engage in other non-linear behavior. These organic actions make it difficult or practically impossible to know the impact of marketing efforts across the customer journey. It also hampers efforts to tie multiple channels of data together.
@@ -57,7 +57,7 @@ Simply put, if **10 people** press a **BIG RED BUTTON** to step through a door, 
 
 ![Button](assets/button.png)
 
-Keeping this in mind, here are a few examples of how the ❷ **attribution models** might affect those **10 people**:
+Keeping this in mind, here are a few examples of how the ❸ **attribution models** might affect those **10 people**:
 
 - **First touch**: This model works exactly like it sounds by giving **100% credit** to the *first* person who walked through the door.  Marketers are more likely to use this approach for tactics like ***social media*** or ***display***; however, it is also a great tactic to often use for on-site product recommendation effectiveness.
 - **Last touch**: This tactic also works exactly like it sounds, but instead gives **100% credit** to the LAST person who walked through the door.  This model is typically used to analyze things like ***natural (organic) search*** and other *short-term* marketing cycle campaigns.
@@ -87,7 +87,7 @@ To make this even more interesting, let's talk about turning back the clock!
 
 Now it's time to start taking your mind to the next level.  This is where we literally add the time travel element to our analysis - and again, we are beginning with the basics.
 
-***Adobe*** defines **lookback windows** as "the amount of time a conversion should look back to include touch points. Attribution models that give more credit to first interactions see larger differences when viewing different lookback windows."
+***Adobe*** defines ❹ **lookback windows** as "the amount of time a conversion should look back to include touch points. Attribution models that give more credit to first interactions see larger differences when viewing different lookback windows."
 
 
 In other words, **lookback windows** determine the time period during which *conversions* are considered and provide *context* to the attribution analysis. ***Adobe Analytics*** offers three types of **lookback windows**:
