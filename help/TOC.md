@@ -323,14 +323,14 @@ solution: Analytics
     + [Analytics Insider Webinar - Customer Segmentation Strategies](components/segmentation/customer-segmentation-strategies.md)
     + [Now just wait a segment… Using segmentation to discover new insights](components/segmentation/segmentation-to-discover-new-insights.md)
   + Calculated Metrics {#calculated-metrics}
-    + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-    + [Attribution IQ in Calculated Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
-    + [Calculated Metrics - Metric Builder](components/calculated-metrics/calculated-metrics-metric-builder.md)
+    + [Calculated metric builder overview](components/calculated-metrics/calculated-metrics-metric-builder.md)
     + [Calculated Metrics - Functions](components/calculated-metrics/calculated-metrics-functions.md)
     + [Calculated Metrics - Implementation-less Metrics](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
     + [Calculated Metrics - Segmented Metrics](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
     + [Calculated Metrics - Metric Selector](components/calculated-metrics/calculated-metrics-metric-selector.md)
     + [Quick Calculated Metrics in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+    + [Approximate Count Distinct Function in Calculated Metrics](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+    + [Attribution IQ in Calculated Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
     + [Using Dimensions in Calculated Metrics](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
     + [Take your data analysis to the next level with Calculated Metrics](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
   + Classifications {#classifications}
