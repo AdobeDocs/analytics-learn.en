@@ -17,7 +17,7 @@ In part two, learn how to build purchase and retention visit intent segments to 
 
 In our last post, we described the process of creating visit intent segments, and built our first visit intent segment, One Hit Wonders. Today we'll build our Purchase and Retention segments. We had segmented about 23% of our visits, and we built our placeholders for the remaining Visit Intent segments.
 
-![Image 1](assets/image-1.png)
+![Image 1](assets/Image-1.png)
 
 The visit intent segments we are building now are the foundation of building visitor-based customer journey segments. We will build those visitor-based journey segments after we've built our visit intent segments.
 
@@ -57,11 +57,11 @@ I suggest using pages visited or other explicit purchase intent signals and avoi
 
 The Fallout report is very useful for identifying a good signal that indicates purchase intent. Look for a place that logically indicates intent. You can confirm that the step indicates intent when you see a notable fallout going to that step, often followed by a smaller fallout for the step immediately after.
 
-![Image 2](assets/image-2.png)
+![Image 2](assets/Image-2.png)
 
 It's also useful to look at conversion rates associated with the various pages on your site. This is especially helpful for identifying pages that indicate purchase intent but may not be required to make a purchase (such as financing pages, purchase configuration pages, etc.).
 
-![Image 3](assets/image-3.png)
+![Image 3](assets/Image-3.png)
 
 Finally, it's important to include all of the pages between purchase start and purchase confirmation in your segment. Visitors can bounce around and re-enter your purchase flow at different points.
 
@@ -81,13 +81,13 @@ Using the visit container, include those pages or other actions that explicitly 
 
 Add an Exclude container to the segment joined by the "And" condition. Add your One Hit Wonders segment definition (Page Views equals 1) to the Exclude container.
 
-![Image 4](assets/image-4.png)
+![Image 4](assets/Image-4.png)
 
 As best practice, be sure that you label your containers. You'll be glad you did, especially as our segment definitions become more complex.
 
 Now that we've built the Purchase Intent segment, we can use the Visit Intent Data Quality Workspace to see that our Purchase Intent segment is mutually exclusive with our One and Done segment.
 
-![Image 5](assets/image-5.png)
+![Image 5](assets/Image-5.png)
 
 ## Building the Retention Visit Intent Segment
 
@@ -103,7 +103,7 @@ I should note that "Retention" is a bit of an awkward name for this visit intent
 
 Again, Analytics Workspace helps us identify Retention Intent. You can use the pages, site section, or custom segment dimensions to categorize your pages. Look for pages with low purchase conversion rates. In our case, we find that Online Check-In and Shore Excursion (Shorex) pages have relatively lower conversion rates than other pages that are more logically associated with shopping and purchase.
 
-![Image 6](assets/image-6.png)
+![Image 6](assets/Image-6.png)
 
 It's also a good idea to look in Workspace for high traffic pages. Scan the list of high traffic pages and decide if they indicate a retention intent.
 
@@ -123,11 +123,11 @@ Our segment definitions are becoming a bit more gnarly. Include Visits in your s
 
 Then add exclude containers for your One Hit Wonders and Purchase Intent visits. Make sure your containers are joined with the "And" condition.
 
-![Image 7](assets/image-7.png)
+![Image 7](assets/Image-7.png)
 
 Once again, look at your Visit Intent Data Quality Workspace to ensure your segments are mutually exclusive. Our Visit Intent segments are taking shape nicely!
 
-![Image 8](assets/image-8.png)
+![Image 8](assets/Image-8.png)
 
 At this point, we've configured three of our five Visit Intent segments. We see these segments are mutually exclusive. In our next post, we'll create the final Visit Intent segments, Consideration and Awareness, and our segments will all be completely exhaustive. Once our Visit Intent segments are set up, we'll bring them together into visitor-based segments that you'll find very useful for analysis and personalization.
 
