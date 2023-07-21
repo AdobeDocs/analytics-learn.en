@@ -135,7 +135,7 @@ At this point, we've configured three of our five Visit Intent segments. We see 
 
 This document was written by:
 
-![Aaron Fossum](assets/aaron-headshot-small.png)
+![Aaron Fossum](assets/aaron-headshot.png)
 
 **Aaron Fossum**, Director, Digital Analytics
 
