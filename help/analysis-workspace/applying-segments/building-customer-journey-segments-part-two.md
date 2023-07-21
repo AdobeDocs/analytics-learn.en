@@ -7,7 +7,6 @@ level: Experienced
 last-substantial-update: 2023-07-21
 jira: KT-13476
 thumbnail: KT-13476.jpeg
-exl-id: dc232e9a-0bf0-4ce9-aee4-bc312c7fdf3f
 ---
 
 # Building customer journey segments - part two
