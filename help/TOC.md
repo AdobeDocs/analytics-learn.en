@@ -156,6 +156,7 @@ solution: Analytics
     + [Use segments to limit data in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
     + [Quick segments in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
     + [Building Customer Journey Segments](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+    + [Building Customer Journey Segments - Part 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
   + Metrics {#metrics}
     + [Understanding Basic Visitor Metrics](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
     + [Adding Dimensions and Metrics to your Project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
