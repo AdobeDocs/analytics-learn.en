@@ -1,6 +1,9 @@
 ---
 title: Simple hacks for greater efficiency and self-service - part two
 description: Learn the key challenges Analytics teams face today, and our recommendations to overcome them using in-tool strategies.
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 ---

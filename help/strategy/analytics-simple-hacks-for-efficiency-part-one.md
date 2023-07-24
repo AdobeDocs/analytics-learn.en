@@ -1,6 +1,9 @@
 ---
 title: Simple hacks for greater efficiency and self-service - part 1
 description: Learn the key challenges analytics teams face today, and our recommendations to overcome them using strategies outside the Adobe Analytics UI.
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 ---
