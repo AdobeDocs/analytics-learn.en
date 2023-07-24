@@ -1,6 +1,9 @@
 ---
 title: Mastering customer intelligence with Virtual Analyst and Segment IQ
 description: Learn the importance of using artificial intelligence and machine learning (AI/ML). See the benefits and learn of real-world success stories from global customers using Virtual Analyst and Segment IQ to detect anomalies, avoid outliers, and maximize ROI.
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 ---
@@ -10,7 +13,7 @@ In this article, you learn the importance of using artificial intelligence and m
 
 ## The value of artificial intelligence
 
-Perhaps you recall the time chess champion Garry Kasparov was defeated by IBM®'s [!DNL Deep Blue]. Experts were convinced a machine could not possibly beat human decision making and judgment in a game as complex as chess. Yet, it was done and this was key to a fundamental shift in business strategy and technological innovation as the power of artificial intelligence was unearthed.
+Perhaps you recall the time chess champion Garry Kasparov was defeated by IBM&reg;'s [!DNL Deep Blue]. Experts were convinced a machine could not possibly beat human decision making and judgment in a game as complex as chess. Yet, it was done and this was key to a fundamental shift in business strategy and technological innovation as the power of artificial intelligence was unearthed.
 
 Adobe Analytics is the core system of intelligence for the experience business, enabling anyone in the enterprise to understand and optimize customer interactions with their brand across all touch points in real time and at massive scale.
 
