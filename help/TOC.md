@@ -158,11 +158,11 @@ solution: Analytics
     + [Building Customer Journey Segments](analysis-workspace/applying-segments/building-customer-journey-segments.md)
     + [Building Customer Journey Segments - Part 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
   + Metrics {#metrics}
-    + [Understanding Basic Visitor Metrics](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-    + [Adding Dimensions and Metrics to your Project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
-    + [Introduction to Conversion Events](analysis-workspace/metrics/introduction-to-conversion-events.md)
-    + [Working with Metrics in a Freeform Table](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
-    + [Using Participation Metrics in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+    + [Understanding basic visitor metrics](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+    + [Adding dimensions and metrics to your project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
+    + [Introduction to conversion events](analysis-workspace/metrics/introduction-to-conversion-events.md)
+    + [Working with metrics in a freeform table](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
+    + [Using participation metrics in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
     + [Goodbye Excel, hello calculated metrics](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
   + Dimensions {#dimensions}
     + [Adding Dimensions and Metrics to your Project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
