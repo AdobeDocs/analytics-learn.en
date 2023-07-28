@@ -1,7 +1,7 @@
 ---
 title: Integrate Adobe Analytics with Adobe Audience Manager using server-side forwarding
 description: Learn how to send Adobe Analytics data to Adobe Audience Manager using server-side forwarding. 
-feature: Integrations
+feature: Experience Cloud Integration
 topic: Integrations
 team: Technical Marketing
 thumbnail: 25172.jpg
