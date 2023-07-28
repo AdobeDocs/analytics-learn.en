@@ -1,20 +1,22 @@
 ---
-title: Enable Server Side Forwarding in Experience Platform Launch
-description: Learn how to use Experience Platform Launch to have your Adobe Analytics hits automatically sent to Adobe Audience Manager via server-side forwarding. 
+title: Integrate Adobe Analytics with Adobe Audience Manager using server-side forwarding
+description: Learn how to send Adobe Analytics data to Adobe Audience Manager using server-side forwarding. 
 feature: Experience Cloud Integration
-topics: 
-activity: use
-doc-type: feature video
+topic: Integrations
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-topic: Integrations
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: Leader, Architect, Admin, Developer
 level: Intermediate
+badgeIntegration: label="Integration" type="positive"
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
 ---
-# Enable Server Side Forwarding in [!DNL Launch] {#enable-server-side-forwarding-in-adobe-launch}
+# Integrate [!DNL Adobe Analytics] with [!DNL Adobe Audience Manager] using server-side forwarding
 
-Learn how to use Adobe [!DNL Experience Platform Launch] to have your Adobe Analytics hits automatically sent to Adobe Audience Manager via server-side forwarding.
+Learn how to send [!DNL Adobe Analytics] data to [!DNL Adobe Audience Manager] using server-side forwarding.
+
+>[!NOTE]
+>
+>"[!UICONTROL Launch]" has been renamed to "[!UICONTROL tags]" in the Experience Cloud interface. Select [!UICONTROL Data Collection] from the [!UICONTROL application switcher] to open tags and perform the steps featured in this video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
