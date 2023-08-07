@@ -1,22 +1,18 @@
 ---
-title: Using Dimensions in Calculated Metrics
-description: Dimensions are now available in the Calculated Metric Builder. They can be added to any calculated metric formula to create an internal segment on the fly.
+title: Use dimensions in calculated metrics
+description: Dimensions are available in the calculated metric builder, and can be added to any calculated metric formula to limit the new metric to a dimension or dimension value.
 feature: Calculated Metrics
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1904
 role: User
 level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
 ---
-# Using [!UICONTROL Dimensions] in [!UICONTROL Calculated Metrics] {#using-dimensions-in-calculated-metrics}
+# Use dimensions in calculated metrics {#using-dimensions-in-calculated-metrics}
 
-[!UICONTROL Dimensions] are now available in the [!UICONTROL Calculated Metric Builder]. They can be added to any [!UICONTROL calculated metric] [!UICONTROL formula] to create an internal segment on the fly.
+Dimensions are available in the calculated metric builder, and can be added to any calculated metric formula to limit the new metric to a dimension or dimension value.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-This feature streamlines the workflow for creating & using [!UICONTROL segments] within [!UICONTROL calculated metrics].
+This feature streamlines the workflow for creating & using segments within calculated metrics.
 
 For more information on this feature, visit the [documentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=en).
