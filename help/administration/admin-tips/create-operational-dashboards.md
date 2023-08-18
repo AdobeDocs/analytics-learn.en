@@ -37,7 +37,7 @@ Let me walk you through the three operational dashboards I created for my compan
 1. Bugs, Features and Major Releases Log
 
 
-## 1 - FAQ dashboard*
+## 1 - FAQ dashboard
 
 Tired of the endless loop of repeating answers? Stop! Save time by crafting an FAQ dashboard. Users can consult it before asking, or you can quickly link to it in your responses.
 
