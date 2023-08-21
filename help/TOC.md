@@ -138,6 +138,7 @@ solution: Analytics
     + [Dimension-graph live linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
     + [Set the granularity for visualizations](analysis-workspace/visualizations/granularity-toggle.md)
     + [Intra-linking in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
+    + [Link inside or outside of your project](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
     + [Rearranging and resizing visualizations](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
     + [Customize visualization legends](analysis-workspace/visualizations/customize-visualization-legends.md)
     + [100% stacked visualizations](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
