@@ -51,7 +51,7 @@ Once your FAQs feel comprehensive, share them with the company for collective ac
 
 Here are some screenshots of what an FAQ dashboard can look like:
 
-![Screenshot 1](assets/screenshot-1.png)
+![Screenshot 1](assets/screenshot-1_v2.png)
 
 ![Low Traffic FAQ1](assets/low-traffic-faq.png) 
 
