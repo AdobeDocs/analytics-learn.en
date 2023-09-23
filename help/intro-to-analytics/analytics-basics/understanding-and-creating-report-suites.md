@@ -1,6 +1,7 @@
 ---
 title: Understanding and creating report suites
 description: This video will help you understand what report suites are, and will show you how to create them in the interface, so that you can track and optimize the people coming to your site.
+short-description: This video helps you understand what report suites are and how to create them.
 feature: Analytics Basics
 kt: 3574
 
