@@ -3,6 +3,7 @@ user-guide-title: Adobe Analytics Tutorials
 user-guide-description: Watch video tutorials for Adobe Analytics and learn how to get the most out of your data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
+auto-video-transcripts: true
 ---
 
 # Analytics Tutorials {#tutorials}
