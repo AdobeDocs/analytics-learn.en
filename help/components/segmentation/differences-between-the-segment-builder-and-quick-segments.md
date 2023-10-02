@@ -6,7 +6,7 @@ role: User
 level: Beginner
 doc-type: article
 kt: KT-13118
-exl-id: fefadd3c-820b-4e53-bd76-e51cb52c33e1
+exl-id: 144e71fd-8d42-4d20-b55e-3d81ad992a79
 ---
 # Differences between the segment builder and quick segments in Analysis Workspace
 

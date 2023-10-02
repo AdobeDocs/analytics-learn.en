@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16
 jira: KT-13267
 thumbnail: KT-13267.jpeg
-exl-id: 09a4cbd3-3380-49f1-8d11-311fe3bc3ab7
+exl-id: e7792731-11eb-4186-a12f-0e5b2d0b7663
 ---
 # More than words - Using text visualizations and descriptions in Analysis Workspace
 

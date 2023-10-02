@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-08
 jira: KT-13458
 thumbnail: 3420314.jpeg
+exl-id: 630fee46-2a78-4347-a884-c892dc174170
 ---
-
 # Create bot reports in Analysis Workspace
 
 Learn how to report on bot data in Analysis Workspace. Bot data is available as summary data and can be analyzed in bot-enabled report suites.

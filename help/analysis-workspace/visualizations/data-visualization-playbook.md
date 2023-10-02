@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-06-01
 jira: KT-13368
 thumbnail: KT-13368.jpeg
+exl-id: c8cf36c0-b40f-4159-ba86-9392984783e9
 ---
-
 # Adobe Analytics Data Visualization Playbook
 
 Data visualization is both an art and a science, requiring careful consideration of various factors. To help navigate some of these decisions, we have put together the Data Visualization Playbook. 

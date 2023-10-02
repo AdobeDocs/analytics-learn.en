@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-02
 jira: KT-13180
 thumbnail: KT-13180.jpeg
-exl-id: dc232e9a-0bf0-4ce9-aee4-bc312c7fdf3f
+exl-id: c06afc7b-e997-404d-82a4-e7ec5d5ba44d
 ---
 # Building Customer Journey Segments
 

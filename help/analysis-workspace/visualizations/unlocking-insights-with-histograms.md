@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-08-18
 jira: KT-13833
 thumbnail: KT-13833.jpeg
+exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
 ---
-
 # Unlocking insights with histograms: beyond averages in Analytics
 
 _Discover the impact of histograms in analytics for insights beyond averages. Histograms reveal data patterns in customer behavior, visitor engagement, technical performance, and form errors, enabling deeper insights and informed decisions in Adobe Workspace._

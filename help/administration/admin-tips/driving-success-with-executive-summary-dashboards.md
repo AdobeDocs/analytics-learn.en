@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-05-15
 jira: KT-13216
 thumbnail: KT-13216.jpeg
+exl-id: 393a0cf0-d793-4185-87ed-81955ad10b0e
 ---
-
 # Drive success with executive summary dashboards
 
 _Executives often lack timely and relevant information for their sites and apps, relying on monthly Excel charts or drowning in granular data. The solution: executive summary dashboard._

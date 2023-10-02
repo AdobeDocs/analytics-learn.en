@@ -9,8 +9,8 @@ doc-type: Article
 last-substantial-update: 2023-08-18
 jira: KT-13829
 thumbnail: KT-13829.jpeg
+exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
 ---
-
 # Creating Operational Dashboards within Analysis Workspace
 
 _Explore how operational dashboards in Adobe Analytics Workspace revolutionize communication and efficiency. Discover how to create FAQs, News & Announcements, and Bugs & Features dashboards for streamlined information, improved user experience, and enhanced engagement._

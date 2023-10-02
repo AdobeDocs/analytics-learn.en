@@ -1,5 +1,5 @@
 ---
-title: Building customer journey segments - part two 
+title: Building customer journey segments - part two
 description: In part two, learn how to build purchase and retention visit intent segments to understand customers' buying journey and personalize content. Using signals like "Book Now" clicks or logins, we identify purchase and retention intent for effective analysis and targeted marketing.
 feature: Segmentation
 role: User
@@ -7,8 +7,8 @@ level: Experienced
 last-substantial-update: 2023-07-21
 jira: KT-13476
 thumbnail: KT-13476.jpeg
+exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
 ---
-
 # Building customer journey segments - part two
 
 In part two, learn how to build purchase and retention visit intent segments to understand customers' buying journey and personalize content. Using signals like "Book Now" clicks or logins, we identify purchase and retention intent for effective analysis and targeted marketing.

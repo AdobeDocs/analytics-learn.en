@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-02
 jira: KT-13179
 thumbnail: KT-13179.jpeg
-exl-id: e0920e34-5f22-4820-b3e1-edea124ad219
+exl-id: 5396817e-582f-4389-be81-40b8ff8188b2
 ---
 # Unlocking the power of read-only sharing in Analysis Workspace
 

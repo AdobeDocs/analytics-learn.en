@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23
 jira: KT-8121
 thumbnail: 334279.jpeg
-exl-id: 2450b57f-af5c-4c55-8426-748a5c59735e
+exl-id: 55d46da7-bd67-4d8c-bc25-dcc5b69e013e
 ---
 # Start your analysis with a pre-built report
 

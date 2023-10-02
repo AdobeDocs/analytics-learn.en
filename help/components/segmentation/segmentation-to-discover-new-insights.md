@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16
 jira: KT-13268
 thumbnail: KT-13268.jpeg
-exl-id: b6c4e6d4-cfd6-4553-9924-195665e4e5ea
+exl-id: 7743debd-57d8-4c79-a332-187180fc9701
 ---
 # Now just wait a segment… Using segments to discover new insights in Analysis Workspace
 

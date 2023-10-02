@@ -8,8 +8,8 @@ doc-type: Article
 last-substantial-update: 2023-06-20
 jira: KT-13181
 thumbnail: KT-13181.jpeg
+exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
 ---
-
 # Understanding Adobe Analytics attribution panel and lookback windows
 
 When I first thought about the [attribution panel](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) and **lookback window**, I was immediately reminded of the concept of '*time travel'*; then, of course, I was also reminded our typical response to many new tools like these is to simply put off trying to use it, because they look so complicated.

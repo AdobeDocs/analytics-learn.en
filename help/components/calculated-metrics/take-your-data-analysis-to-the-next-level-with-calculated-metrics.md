@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16
 jira: KT-13266
 thumbnail: KT-13266.jpeg
-exl-id: 2a402bba-3791-4aca-b13a-160244d1cbdb
+exl-id: 74793149-9967-4765-832c-c65e578ee34b
 ---
 # Take your data analysis to the next level with Calculated Metrics
 
