@@ -1,19 +1,14 @@
 ---
-title: Rolling Date Ranges in Segments
-description:  Adobe Analytics allows you to answer questions like - What was my 60-day rolling average for Revenue? or - How many visitors viewed content in my app more than 5 times in the past week? by including rolling date ranges in segments. This video shows you how to do it.
+title: Rolling date ranges in segments
+description:  In this video, learn how to use rolling date ranges in segments, allowing you to create segments like "people who purchased within the last week" or "people who visited my site within the last 60 days."
 feature: Segmentation
-topics: 
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2304
 role: User
 level: Beginner
 exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
 ---
-# Rolling [!UICONTROL Date Ranges] in [!UICONTROL Segments] {#rolling-date-ranges-in-segments}
+# Rolling date ranges in segments {#rolling-date-ranges-in-segments}
 
-Adobe Analytics allows you to answer questions like "What was my 60-day rolling average for Revenue?" or "How many visitors viewed content in my app more than 5 times in the past week?" by including rolling [!UICONTROL date ranges] in [!UICONTROL segments]. This video shows you how to do it.
+In this video, learn how to use rolling date ranges in segments, allowing you to create segments like "people who purchased within the last week" or "people who visited my site within the last 60 days." For detailed documentation showing how to create rolling date ranges that you can use in your segments, visit [Create custom date ranges](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)
-
