@@ -318,7 +318,7 @@ auto-video-transcripts: true
     + [Before/After sequences in sequential segmentation](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
     + [Segmentation on distinct dimension counts](components/segmentation/segmentation-on-distinct-dimension-counts.md)
     + [Dimension models in segmentation](components/segmentation/dimension-models-in-segmentation.md)
-    + ['Equals Any Of' operator in segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
+    + [Use 'equals any of' in segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
     + [Analytics Insider Webinar - Customer Segmentation Strategies](components/segmentation/customer-segmentation-strategies.md)
     + [Now just wait a segment… Using segmentation to discover new insights](components/segmentation/segmentation-to-discover-new-insights.md)
   + Calculated Metrics {#calculated-metrics}
