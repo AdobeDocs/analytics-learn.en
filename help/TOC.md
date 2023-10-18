@@ -336,10 +336,10 @@ auto-video-transcripts: true
     + [Overview of Classifications](components/classifications/overview-of-classifications.md)
     + [Using the Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)
   + Virtual Report Suites {#virtual-report-suites}
-    + [Virtual Report Suites](components/virtual-report-suites/virtual-report-suites.md)
-    + [Component Curation in Virtual Report Suites](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-    + [Context-Aware Sessions in Virtual Report Suites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-    + [Start A New Visit On Any Event in Virtual Report Suites](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+    + [Virtual report suites overview](components/virtual-report-suites/virtual-report-suites.md)
+    + [Component curation](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+    + [Customizing visits in virtual report suites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+    + [Start a new visit on any event](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
   + Activity Map {#activity-map}
     + [Activity Map Overview](components/activity-map/activity-map-overview.md)
     + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
