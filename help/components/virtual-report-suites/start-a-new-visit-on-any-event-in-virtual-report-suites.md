@@ -5,6 +5,7 @@ feature: VRS
 kt: 1663
 role: User
 level: Intermediate
+last-substantial-update: 2023-10-18
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
 ---
 # Start a new visit on any event in virtual report suites
