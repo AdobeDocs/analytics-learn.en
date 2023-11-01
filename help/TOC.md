@@ -356,9 +356,9 @@ auto-video-transcripts: true
   + From the UI {#from-the-ui}
     + [Export to CSV from Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
   + Data Warehouse {#data-warehouse}
-    + [Introduction to Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-    + [Send Data Warehouse request via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-    + [Send Data Warehouse reports in Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+    + [Data warehouse export](exporting/data-warehouse/introduction-to-data-warehouse.md)
+    + [Send data warehouse request via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+    + [Send data warehouse reports in Tableau data extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
   + Data Feeds {#data-feeds}
     + [Data Feeds Management UI](exporting/data-feeds/data-feeds-management-ui.md)
     + [Download the Data feed authentication key](exporting/data-feeds/download-the-data-feed-authentication-key.md)
