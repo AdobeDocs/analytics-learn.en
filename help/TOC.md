@@ -164,10 +164,10 @@ auto-video-transcripts: true
     + [Using participation metrics in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
     + [Goodbye Excel, hello calculated metrics](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
   + Dimensions {#dimensions}
-    + [Adding Dimensions and Metrics to your Project in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
-    + [Introduction to Traffic Variables (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
-    + [Introduction to Conversion Variables (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-    + [Working with Dimensions in a Freeform Table](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
+    + [Adding dimensions and metrics to your project](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+    + [Introduction to traffic variables (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+    + [Introduction to conversion variables (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+    + [Working with dimensions in a Freeform Table](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
   + Calendar and Date Ranges {#calendar-and-date-ranges}
     + [Using Dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
     + [Applying reusable date ranges in your project](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
