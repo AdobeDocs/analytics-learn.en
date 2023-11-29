@@ -275,10 +275,10 @@ auto-video-transcripts: true
     + [How to identify Your analytics tracking server and report suite ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
     + [Creating a Business Requirements Document](implementation/implementation-basics/creating-a-business-requirements-document.md)
     + [Creating and maintaining an SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-  + Via Experience Platform Launch {#via-adobe-launch}
+  + Via Experience Platform Tags {#via-adobe-launch}
     + [Implementing the Experience Cloud in Websites with Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
     + [Basic Configuration of the Analytics Launch extension](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-    + [Configuring Library Management for Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+    + [Configuring library management in Tags for Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
     + [Configuring General Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
     + [Configuring Global Variables in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
     + [Configuring Cookie Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
