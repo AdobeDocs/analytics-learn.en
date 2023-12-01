@@ -277,9 +277,9 @@ auto-video-transcripts: true
     + [Creating and maintaining an SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
   + Using Experience Platform Tags {#via-adobe-launch}
     + [Implementing the Experience Cloud in Websites with Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
-    + [Basic Configuration of the Analytics Launch extension](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
+    + [Basic configuration of the Analytics extension](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
     + [Configure library management for the Analytics extension](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-    + [Configuring General Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+    + [Configure general settings for the Analytics extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
     + [Configuring Global Variables in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
     + [Configuring Cookie Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
     + [Using Custom Code while Configuring the Launch Analytics Extension](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
