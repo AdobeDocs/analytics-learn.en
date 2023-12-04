@@ -1,19 +1,14 @@
 ---
-title: Basic Configuration of the Analytics Launch extension
-description: This video shows a quick way to configure the Analytics extension in Launch for a basic site.
+title: Basic configuration of the Analytics extension in Experience Platform Tags
+description: This video shows a quick configuration the Analytics extension in Experience Platform Tags for a basic site.
 feature: Launch Implementation
-topics: 
-activity: implement
-doc-type: feature video
-team: Technical Marketing
 kt: 3586
-
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
 ---
-# Basic Configuration of the [!DNL Experience Platform Launch] extension for Analytics
+# Basic configuration of the Analytics extension in Experience Platform Tags
 
-This video shows a quick way to configure the [!DNL Analytics] extension in [!DNL Experience Platform Launch] for a basic site.
+This video shows a quick configuration the Analytics extension in Experience Platform Tags for a basic site. For detailed documentation, see [Adobe Analytics extension overview](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)
