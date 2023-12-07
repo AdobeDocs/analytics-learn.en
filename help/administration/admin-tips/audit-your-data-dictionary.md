@@ -10,8 +10,8 @@ duration: 36000
 last-substantial-update: 2023-12-06
 jira: KT-14613
 thumbnail: KT-14613.jpeg
+exl-id: 24c1420d-72f5-4aad-ab8c-3fd1dcd67b47
 ---
-
 # A helpful checklist for auditing your Data Dictionary
 
 Enhance data efficiency and reliability with our Adobe Analytics and Customer Journey Analytics Data Dictionary audit checklist.
