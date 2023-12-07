@@ -225,6 +225,7 @@ auto-video-transcripts: true
     + [Are you asking the right questions?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
   + Admin Tips and Best Practices {#admin-tips}
     + [Download the implementation playbook](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+    + [Audit your data dictionary](administration/admin-tips/audit-your-data-dictionary.md)
     + [Create standardized naming conventions](administration/admin-tips/create-standardized-naming-conventions.md)
     + [Create standardized code templates](administration/admin-tips/create-standardized-code-templates.md)
     + [Create basic videos and training](administration/admin-tips/create-basic-videos-and-training.md)
