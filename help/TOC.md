@@ -281,7 +281,7 @@ auto-video-transcripts: true
     + [Basic configuration of the Analytics extension](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
     + [Configure library management for the Analytics extension](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
     + [Configure general settings for the Analytics extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-    + [Configuring Global Variables in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+    + [Configure global variable settings for the Analytics extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
     + [Configuring Cookie Settings in the Launch Analytics Extension](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
     + [Using Custom Code while Configuring the Launch Analytics Extension](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
     + [Using a Data Layer to set Page Name and Other Variables via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
