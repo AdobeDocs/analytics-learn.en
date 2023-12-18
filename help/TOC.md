@@ -28,19 +28,17 @@ auto-video-transcripts: true
   + Transitioning from other platforms {#transitioning-from-other-platforms}
     + [Transitioning from Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
   + Analytics Basics {#analytics-basics}
-    + [Try in Workspace Button in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-    + [Understanding the Analytics Cycle](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
-    + [How Analytics Data is Collected](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
-    + [Logging in to Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-    + [Understanding and Creating Report Suites](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-    + [Understanding Basic Visitor Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
-    + [Introduction to Traffic Variables (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
-    + [Introduction to Conversion Variables (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
-    + [Introduction to Conversion Events](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
+    + [Understanding the Analytics cycle](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+    + [How Analytics data is collected](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
+    + [Log in to Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
+    + [Understand and create report suites](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+    + [Understand basic visitor metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+    + [Introduction to traffic variables (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+    + [Introduction to conversion variables (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+    + [Introduction to conversion events](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
   + Customizing the UI {#customizing-the-ui}
     + [Customize Analysis Workspace user preferences](intro-to-analytics/customizing-the-ui/user-preferences.md)
     + [Add dimension and metric descriptions](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-    + [Customizing the menu in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
     + [Enhance security](intro-to-analytics/customizing-the-ui/enhancing-security.md)
     + [Setting an Analysis Workspace Project as your landing page](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
   + Getting Help {#getting-help}
