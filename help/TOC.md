@@ -181,7 +181,7 @@ auto-video-transcripts: true
     + [Download 50,000 Items as CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
     + [Export to CSV and PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
     + [Share embedded components](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-    + [Create view-only projects](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+    + [Share read-only projects](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
     + [Unlock the power of view-only sharing](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
   + Attribution IQ {#attribution-iq}
     + [Using Cross-tab Analysis to Explore Basic Marketing Attribution](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
