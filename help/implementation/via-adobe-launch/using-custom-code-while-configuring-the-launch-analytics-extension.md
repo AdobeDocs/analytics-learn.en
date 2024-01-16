@@ -1,9 +1,8 @@
 ---
-title: Using Custom Code while Configuring the Analytics Launch Extension
-description: If you are just getting started with Launch, by Adobe, and the Adobe Analytics extension, this video can help you understand custom code window options, timing of code execution, etc.
-feature: Launch Implementation
-topics: 
-activity: implement
+title: Use custom code in the Adobe Analytics extension in [!DNL Tags]
+description: Learn about  use cases and technical considerations for using the custom code editor when configuring the Adobe Analytics extension in [!DNL Tags]. 
+feature: Tags
+topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
@@ -11,8 +10,10 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
 ---
-# Using Custom Code while Configuring the [!DNL Analytics] [!DNL Launch] Extension {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# Use custom code in the Adobe Analytics extension in [!DNL Tags] 
 
-If you are just getting started with Adobe Experience Platform Launch, and the Adobe Analytics [!UICONTROL Extension], this video can help you understand custom code window options, timing of code execution, etc.
+Learn about  use cases and technical considerations for using the custom code editor when configuring the Adobe Analytics extension in [!DNL Tags]. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+
+Review the [documentation](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) for more information about the <i>doPlugins function</i> referenced in this video.
