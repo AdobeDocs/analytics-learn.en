@@ -3,7 +3,6 @@ title: Configure cookie settings in the [!DNL tags] Analytics Extension
 description: If you are just getting started with [!DNL tags] and the Adobe Analytics extension, this video can help you understand when and how to set the cookie settings in the Analytics extension.
 feature: Tags
 topics: Development
-topics: 
 activity: implement
 doc-type: technical video
 team: Technical Marketing
