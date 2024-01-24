@@ -1,6 +1,6 @@
 ---
-title: Configure easy download link tracking in Experience Platform [!DNL tags]
-description: You can start tracking download links on your site (links that download non-browser files to your machine) in just a few clicks in the Adobe Analytics extension in Experience Platform [!DNL tags].
+title: Configure easy download link tracking in Experience Platform tags
+description: You can start tracking download links on your site (links that download non-browser files to your machine) in just a few clicks in the Adobe Analytics extension in Experience Platform tags.
 feature: Tags
 topics: Development
 activity: implement
@@ -14,10 +14,6 @@ exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
 # Configure easy download link tracking in Experience Platform [!DNL tags]
 
 You can start tracking download links on your site (links that download non-browser files to your machine) in just a few clicks in the Adobe Analytics extension in Experience Platform [!DNL tags].
-
->[!NOTE]
->
-> Launch is now **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 

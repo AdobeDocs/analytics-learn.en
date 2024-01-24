@@ -284,7 +284,7 @@ auto-video-transcripts: true
     + [Add implementation plug-ins](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
     + [Use doPlugins in the Adobe Analytics extension](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
     + [Configure easy download link tracking](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-    + [Configuring easy exit link tracking](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+    + [Configure easy exit link tracking](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
     + [Prepare Tags for your Analytics implementation](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
     + [Create data elements for the Analytics implementation](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
     + [Create a global page load rule](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
