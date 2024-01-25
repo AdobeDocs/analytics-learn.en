@@ -1,6 +1,6 @@
 ---
-title: Configure easy exit link tracking in Experience Platform [!DNL tags]
-description: You can start tracking exit links on your site (links that go to another site) in just a few clicks in the Adobe Analytics extension in Experience Platform [!DNL tags]. This video shows you how to set it up.
+title: Configure easy exit link tracking in Experience Platform tags
+description: You can start tracking exit links on your site (links that go to another site) in just a few clicks in the Adobe Analytics extension in Experience Platform tags. This video shows you how to set it up.
 feature: Tags
 topics: Development
 activity: implement
@@ -14,10 +14,6 @@ exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 # Configure easy exit link tracking in Experience Platform [!DNL tags]
 
 You can start tracking exit links on your site (links that go to another site) in just a few clicks in the Adobe Analytics extension in Experience Platform [!DNL tags]. This video shows you how to set it up.
-
->[!NOTE]
->
-> Launch is now **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 
