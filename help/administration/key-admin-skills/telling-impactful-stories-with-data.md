@@ -21,14 +21,14 @@ Start by defining the current situation and establishing the problem or opportun
 
 ## Explain through data
 
-After you’ve framed the situation, use data to reveal the source of the problem/opportunity. Focus on the results and the variables that best explain the current situation as opposed to the full analysis and exploration to get there.  Provide compelling visuals that help to show the relationship of your independent and dependent variables but keep it simple so that it is easily consumable for your audience. 
+After you've framed the situation, use data to reveal the source of the problem/opportunity. Focus on the results and the variables that best explain the current situation as opposed to the full analysis and exploration to get there.  Provide compelling visuals that help to show the relationship of your independent and dependent variables but keep it simple so that it is easily consumable for your audience. 
 
 **Adobe Workspace Tip:** 
-Create simple, easy to read visuals that align with the type of data you’re sharing:
+Create simple, easy to read visuals that align with the type of data you're sharing:
 
 * Use bar charts for categorical and binary data 
 * Use line charts (or bubble outside of Adobe) for numerical data
-* USe scatter plots to demonstrate statistical relationships
+* Use scatter plots to demonstrate statistical relationships
 
 ## Offer a solution
 
