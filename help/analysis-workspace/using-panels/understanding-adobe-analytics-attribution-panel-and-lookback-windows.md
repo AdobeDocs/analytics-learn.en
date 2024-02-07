@@ -33,7 +33,7 @@ Now that we're all excited about time travel, let's take a deep breath, step bac
 
 ![Attribution](assets/attribution.png)
 
-*Figure 1 - Numbers displayed inline with text further below*
+*Figure 1 - Numbers displayed are inline with text further below*
 
 In **attribution**, simply consider how events/actions might be caused by an individual, several individuals, or one of any number of different events over time.
 
@@ -42,7 +42,7 @@ According to [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/
 
 >[!WARNING]
 >
->Just a quick note to call out that **attribution models** are so frequently associated with **marketing channels** that I purposely *crossed out* ❷ CHANNEL in the image above to illustrate it is possible to perform **attribution** analysis against most any other ***dimension***.
+>**Attribution models** are so frequently associated with **marketing channels** that I purposely *crossed out* ❷ CHANNEL in the image above to illustrate it is possible to perform **attribution** analysis against most any other ***dimension***.
 
 
 In fact, rarely is any given customer journey truly linear and even less often predictable.  More so, each customer will proceed at their own pace; often, they might double back, stall, drop out, or engage in other non-linear behavior. These organic actions make it difficult or practically impossible to know the impact of marketing efforts across the customer journey. It also hampers efforts to tie multiple channels of data together.
