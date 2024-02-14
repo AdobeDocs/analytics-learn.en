@@ -12,8 +12,4 @@ exl-id: ae600143-87cc-435d-bba2-0bce929070ac
 
 This video shows you how to use rules in [!DNL tags] to track conversion events (success events) on your site.  
 
->[!NOTE]
->
-> Launch is now **[!DNL tags]**
-
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
