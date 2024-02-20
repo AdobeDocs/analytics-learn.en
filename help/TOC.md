@@ -278,7 +278,6 @@ auto-video-transcripts: true
     + [Configure library management in the Analytics extension](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
     + [Configure general settings in the Analytics extension](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
     + [Configure global variable settings in the Analytics extension](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
-    + [Configure cookie Settings in the Analytics extension](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
     + [Use custom code in the Analytics extension](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
     + [Use a data layer to set variables](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
     + [Use doPlugins and implementation plug-ins](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
