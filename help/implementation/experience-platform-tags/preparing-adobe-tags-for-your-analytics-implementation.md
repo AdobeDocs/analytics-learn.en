@@ -12,8 +12,4 @@ exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
 
 Before you implement Analytics in [!DNL tags], you need some supporting documents, and you need to set up a few things in both Analytics and [!DNL tags]. This video covers these things.
 
->[!NOTE]
->
-> Launch is now **[!DNL tags]**
-
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)
