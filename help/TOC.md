@@ -42,8 +42,8 @@ auto-video-transcripts: true
     + [Enhance security](intro-to-analytics/customizing-the-ui/enhancing-security.md)
     + [Setting an Analysis Workspace Project as your landing page](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
   + Getting Help {#getting-help}
-    + [In-product support ticket submission](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
     + [Getting Help in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
+    + [In-product support ticket submission](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
   + Analysis Workspace Basics {#analysis-workspace-basics}
     + [Analysis Workspace quick intro](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
