@@ -66,7 +66,7 @@ auto-video-transcripts: true
     + [Create dynamic drop-down filters](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
   + Navigating Workspace Projects {#navigating-workspace-projects}
     + [Data Dictionary in Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
-    + [Create projects using templates](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+    + [Starting your first project](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
     + [Training tutorial template](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
     + [Use folders in Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
     + [Copy and insert panels and visualizations](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
