@@ -9,6 +9,7 @@ topic: Administration
 role: Admin
 level: Beginner
 last-substantial-update: 2024-05-07
+exl-id: fa3603fa-ca8a-41d0-bb4a-428bfff5d9f5
 ---
 # Create product profiles in the Experience Cloud Admin Console
 
