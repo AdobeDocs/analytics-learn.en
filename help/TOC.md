@@ -234,6 +234,7 @@ auto-video-transcripts: true
     + [View your account's available features](administration/company-settings/view-your-accounts-available-features.md)
   + User Management {#user-management}
     + [Adding an Administrator to Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+    + [Create product profiles](administration/user-management/create-product-profiles.md)
     + [Limit Report Suite Access in the Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
     + [Transfer user assets to a different user](administration/user-management/transfer-user-assets-to-a-different-user.md)
     + [Check Linked IMS ID to prevent login issues](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
