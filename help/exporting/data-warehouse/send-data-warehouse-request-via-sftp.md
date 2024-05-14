@@ -1,6 +1,6 @@
 ---
-title: Send data warehouse request via SFTP
-description: Data warehouse refers to the copy of Analytics data for storage and custom reports, which you can run by filtering the data. You can request reports to display advanced data relationships from raw data based on your unique questions. Data warehouse reports are emailed or sent via FTP, and may take up to 72 hours to process. Processing time depends on the complexity of the query and the amount of data requested.
+title: Send Data Warehouse reports via SFTP
+description: Learn how to create a Data Warehouse request in Adobe Analytics and set it up for SFTP delivery.
 feature: Data Warehouse
 topic: Administration
 role: User, Architect
@@ -8,10 +8,11 @@ level: Beginner
 doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
+last-substantial-update: 2024-05-13
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
 ---
-# Send Data Warehouse request via SFTP
+# Send [!DNL Data Warehouse] reports via SFTP
 
-Data warehouse refers to the copy of analytics data for storage and custom reports, which you can run by filtering the data. You can request reports to display advanced data relationships from raw data based on your unique questions. Data warehouse reports are emailed or sent via FTP, and may take up to 72 hours to process. Processing time depends on the complexity of the query and the amount of data requested.
+Learn how to create a [!DNL Data Warehouse] request in Adobe Analytics and set it up for SFTP delivery. For more information, visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw). 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)
