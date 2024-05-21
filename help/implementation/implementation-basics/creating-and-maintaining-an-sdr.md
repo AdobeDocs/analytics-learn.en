@@ -1,6 +1,6 @@
 ---
 title: Create and maintain a Solution Design Reference (SDR) document
-description: The Solution Design Reference (SDR) document is the blueprint for business requirements and data collection design for Analytics on your digital properties. Learn how to create and maintain this document as the source of truth for your Analysis solution.
+description: The Solution Design Reference (SDR) document is the blueprint for business requirements, variable assignments, segment definitions, and data collection design for Analytics on your digital properties. 
 feature: Implementation Basics
 role: Developer, Data Engineer
 level: Beginner
@@ -15,6 +15,6 @@ The Solution Design Reference (SDR) document is the blueprint for business requi
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
-[Download](assets/aa-implementation-playbook.xlsx) a sample Excel template to document requirements and data collection design for your digital properties.
+[Download](assets/aa_en_BRD_SDR_template.xlsx) a sample Excel template to document requirements, variables usage and assignment, segments, and data collection design for your digital properties.
 
-[Download](assets/geometrixx-clothiers-brd-sdr.xlsx) the Excel document presented in this video and/or watch the related [business requirements document video](creating-a-business-requirements-document.md)).
+Watch the related video to learn how to create a [business requirements document video](creating-a-business-requirements-document.md).
