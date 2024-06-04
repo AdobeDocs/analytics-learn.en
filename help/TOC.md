@@ -293,10 +293,6 @@ auto-video-transcripts: true
   + Using JavaScript {#using-javascript}
     + [Custom Link Tracking without a Tag Manager](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
     + [Updating AppMeasurement When Not Using Experience Platform Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-  + Validating and Troubleshooting {#validating-and-troubleshooting}
-    + [Inspecting Implementations with the Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-  + SPA Pages {#spa-pages}
-    + [Using best practices when tracking SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Components {#components}
   + Segmentation {#segmentation}
     + [Segment builder overview](components/segmentation/segment-builder-overview.md)
