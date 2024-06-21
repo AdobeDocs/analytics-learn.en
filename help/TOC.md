@@ -333,7 +333,7 @@ auto-video-transcripts: true
     + [Start a new visit on any event](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
   + Activity Map {#activity-map}
     + [Activity Map Overview](components/activity-map/activity-map-overview.md)
-    + [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+    + [Enable, debug, and customize Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Additional Tools {#additional-tools}
   + [Adobe Labs (Technology Previews)](additional-tools/adobe-labs-technology-previews.md)
   + Analytics dashboards {#analytics-dashboards}
