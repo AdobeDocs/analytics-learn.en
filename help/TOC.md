@@ -59,6 +59,7 @@ auto-video-transcripts: true
     + [View Analysis Workspace performance metrics](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
     + [Create bot reports](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
   + Tips and Tricks {#tips-and-tricks}
+    + [Create hyperlinks in freeform tables](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
     + [7 Tips and Tricks for Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
     + [Right-click tips & tricks for more efficient workflows](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
     + [Tips to Increase Productivity in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -76,6 +77,7 @@ auto-video-transcripts: true
     + [Annotations](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
     + [View density](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
     + [Use filters](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+    + [Use multi-select drop-down filters](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
   + Real-time reports {#real-time-reports}
     + [Real-time Reporting](analysis-workspace/real-time-reports/realtime-reporting.md)
   + Using Panels {#using-panels}
