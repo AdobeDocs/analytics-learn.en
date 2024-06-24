@@ -17,4 +17,4 @@ In this video, we show you how to leverage Analysis Workspace to build API 2.0 r
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
-For more information, visit the [documentation](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md).
+For more information, visit the [documentation](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).

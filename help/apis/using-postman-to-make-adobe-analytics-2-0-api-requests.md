@@ -17,4 +17,4 @@ This video walks through how to setup [!DNL Postman], an API client, to send Ado
 
 >[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12&learn=on)
 
-For more information, visit the [documentation](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/oauth-postman.md).
+For more information, visit the [documentation](https://developer.adobe.com/analytics-apis/docs/2.0/guides/use-cases/postman/).
