@@ -246,7 +246,6 @@ auto-video-transcripts: true
     + [Configure Paid Search Detection](administration/manage-report-suites/configure-paid-search-detection.md)
     + [Set up marketing channels](administration/manage-report-suites/set-up-marketing-channels.md)
     + [Create marketing channel processing rules](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-    + [Customize Menus in Reports & Analytics](administration/manage-report-suites/customize-menus.md)
     + [Manipulating incoming data with Processing Rules](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
     + [Configuring Traffic Variables (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
     + [Configure traffic classifications](administration/manage-report-suites/configure-traffic-classifications.md)
