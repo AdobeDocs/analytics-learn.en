@@ -357,6 +357,7 @@ auto-video-transcripts: true
     + [Find your Data Feed ID](exporting/data-feeds/find-your-data-feed-id.md)
     + [Rerun a Data Feed job](exporting/data-feeds/rerun-a-data-feed-job.md)
   + Report Builder {#report-builder}
+    + [Upgrade and reschedule workbooks](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
     + [Add Segments to Multiple Requests at Once in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
     + [Anomaly Detection in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
     + [Edit Metrics across Requests](exporting/report-builder/edit-metrics-across-requests.md)
