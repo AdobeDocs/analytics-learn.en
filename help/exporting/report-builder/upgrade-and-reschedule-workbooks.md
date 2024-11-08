@@ -6,6 +6,7 @@ role: User
 level: Beginner
 doc-type: feature video
 kt: 16311
+exl-id: 043eea67-77e4-4d99-9dd9-cf66216dbbf1
 ---
 # Upgrade and reschedule [!DNL Report Builder] workbooks
 
