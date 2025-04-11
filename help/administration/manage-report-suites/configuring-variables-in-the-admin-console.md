@@ -1,5 +1,6 @@
 ---
-title: Configure Variables in the Admin Console
+
+title: Configure Variables in the Report Suite Manager
 description: Learn to configure variables and events in Report Suite Manager, ensuring that reports, dimensions, and metrics have the right names and behavior.
 feature: Report Suite Settings
 thumbnail: 28755.jpg
@@ -10,9 +11,9 @@ role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
 ---
-# Configure Variables in the [!DNL Admin Console]
+# Configure Variables in the [!DNL Report Suite Manager]
 
-After you define the variables and events that you are going to use in your [!DNL Analytics] implementation, you will need to go in and configure them in the [!DNL Admin Console], so that the reports/dimensions/metrics all have the right names and behavior. This video shows you where and how to do just that.
+Learn to configure variables and events in Report Suite Manager, ensuring that reports, dimensions, and metrics have the right names and behavior.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
 
