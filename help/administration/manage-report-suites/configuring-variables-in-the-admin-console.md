@@ -1,4 +1,5 @@
 ---
+
 title: Configure Variables in the Report Suite Manager
 description: Learn to configure variables and events in Report Suite Manager, ensuring that reports, dimensions, and metrics have the right names and behavior.
 feature: Report Suite Settings
