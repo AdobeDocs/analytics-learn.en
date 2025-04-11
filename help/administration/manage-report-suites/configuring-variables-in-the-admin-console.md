@@ -1,6 +1,6 @@
 ---
 title: Configure Variables in the Admin Console
-description: After you define the variables and events that you are going to use in your Analytics implementation, you will need to go in and configure them in the Admin Console, so that the reports/dimensions/metrics all have the right names and behavior. This video shows you where and how to do just that.
+description: Learn to configure variables and events in Report Suite Manager, ensuring that reports, dimensions, and metrics have the right names and behavior.
 feature: Report Suite Settings
 thumbnail: 28755.jpg
 kt: 3582
