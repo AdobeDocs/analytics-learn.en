@@ -1,7 +1,7 @@
 ---
 title: Applying reusable date ranges in your project
 description: Using custom dates and date ranges in your product can help you hone in on just information that tells your data story. In this video we explore a few places where you can use date ranges in your Analysis Workspace project.
-feature: Calendar
+feature: Date Ranges
 role: User
 level: Beginner
 doc-type: feature video

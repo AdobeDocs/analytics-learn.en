@@ -1,7 +1,7 @@
 ---
 title: Introduction to the Adobe Advertising DSP integration
 description: The Adobe Advertising DSP integration is a native bi-directional integration between Adobe Analytics and Adobe Advertising DSP. 
-feature: Advertising Integration
+feature: Advertising Analytics
 topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate

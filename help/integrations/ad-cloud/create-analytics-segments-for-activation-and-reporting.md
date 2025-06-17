@@ -2,7 +2,7 @@
 
 title: Create analytics segments for activation and reporting
 description: Use Advertising Cloud dimensions to create segments for reports and analysis.
-feature: Advertising Integration
+feature: Advertising Analytics
 topic: Integrations
 role: User
 level: Intermediate

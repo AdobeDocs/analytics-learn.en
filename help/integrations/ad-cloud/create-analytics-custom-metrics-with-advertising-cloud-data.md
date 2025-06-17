@@ -1,7 +1,7 @@
 ---
 title: Create Analytics custom metrics with Advertising Cloud data
 description: Learn about useful custom metrics to create when using Advertising Cloud data in Adobe Analytics.
-feature: Advertising Integration
+feature: Advertising Analytics
 topic: Integrations
 role: User
 level: Intermediate

@@ -1,7 +1,7 @@
 ---
 title: Creating Custom Date Ranges in Analysis Workspace
 description: When configuring and customizing your project in Analysis Workspace, you may need to use a date range beyond what comes pre-built in the product. This video shows you how to create three examples of custom date ranges.
-feature: Calendar
+feature: Date Ranges
 kt: 2113
 thumbnail: 23975.jpg
 role: User

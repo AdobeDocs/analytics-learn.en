@@ -1,7 +1,7 @@
 ---
 title: Create Analytics site journey profiles
 description: Learn how to use Adobe Analytics to create robust site retargeting pools for Advertising Cloud remarketing.
-feature: Advertising Integration
+feature: Advertising Analytics
 topic: Integrations
 role: User
 level: Intermediate

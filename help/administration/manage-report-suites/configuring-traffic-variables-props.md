@@ -1,7 +1,7 @@
 ---
 title: Configuring Traffic Variables (props)
 description: This video walks through the configuration of traffic variables, often called "props," in the Analytics Admin Console.
-feature: Variables
+feature: Appmeasurement Implementation
 role: Admin
 level: Beginner
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: Configure Advertising Analytics in Adobe Analytics
 description: Configure your report suite(s) to utilize Advertising Analytics.
-feature: Advertising Integration
+feature: Advertising Analytics
 topic: Integrations
 role: Admin
 level: Intermediate

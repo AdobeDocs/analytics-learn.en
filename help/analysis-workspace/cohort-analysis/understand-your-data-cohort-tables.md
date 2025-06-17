@@ -1,7 +1,7 @@
 ---
 title: Understand your data--Cohort Tables
 description: Learn how to analyze a cohort table to better understand user retention over time.
-feature: Cohort Analysis
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
