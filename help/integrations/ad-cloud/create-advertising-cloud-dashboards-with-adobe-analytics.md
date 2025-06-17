@@ -1,7 +1,7 @@
 ---
 title: Create Advertising Cloud dashboards with Adobe Analytics
 description: Learn these techniques for creating an Advertising Cloud dashboard for live campaign monitoring.
-feature: Advertising Integration
+feature: Advertising Analytics
 topic: Integrations
 role: User
 level: Intermediate

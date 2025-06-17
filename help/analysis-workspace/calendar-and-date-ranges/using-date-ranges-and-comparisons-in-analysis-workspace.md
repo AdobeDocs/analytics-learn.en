@@ -1,7 +1,7 @@
 ---
 title: Using Date Ranges and Comparisons in Analysis Workspace
 description: In this video, you will learn how to use dates, date ranges, and date comparisons to customize your tables and visualizations to the right time frame.
-feature: Calendar
+feature: Date Ranges
 thumbnail: 30753.jpg
 team: Technical Marketing
 kt: 4105

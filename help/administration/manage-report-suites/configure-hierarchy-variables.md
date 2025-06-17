@@ -1,7 +1,7 @@
 ---
 title: Configure hierarchy variables
 description: Learn when and how to set up and configure hierarchy variables for your site, a feature that can be used to show a hierarchical view of the pages on your site and how much traffic is coming to each node.
-feature: Variables
+feature: Appmeasurement Implementation
 topic: Administration
 role: Admin
 level: Beginner

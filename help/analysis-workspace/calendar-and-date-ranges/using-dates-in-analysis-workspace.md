@@ -1,7 +1,7 @@
 ---
 title: Using calendars and dates in Analysis Workspace
 description: Get an overview of using calendars and dates for your visualizations in Analysis Workspace
-feature: Calendar
+feature: Date Ranges
 kt: 2014
 role: User
 level: Beginner

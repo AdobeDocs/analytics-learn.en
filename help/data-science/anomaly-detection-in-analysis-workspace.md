@@ -1,7 +1,7 @@
 ---
 title: Anomaly Detection in Analysis Workspace
 description: Analysis Workspace automatically detects anomalies in your data for any time-series visualization or data table. Catch the "unknown unknowns" without any additional effort on your part!
-feature: Data Science
+feature: Anomaly Detection
 topics: 
 activity: use
 doc-type: feature video

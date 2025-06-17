@@ -1,7 +1,7 @@
 ---
 title: Create Advertising Cloud site entry reports
 description: Create an Advertising Cloud site entry report to monitor day of week, time of day, browser, and geographical influence.
-feature: Advertising Integration
+feature: Advertising Analytics
 topic: Integrations
 role: User
 level: Intermediate

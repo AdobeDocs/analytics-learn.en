@@ -1,7 +1,7 @@
 ---
 title: Implement tracking templates from Advertising Analytics into Search Engines
 description: Learn the steps to implement your tracking templates from Advertising Analytics into supported search engines. 
-feature: Advertising Integration
+feature: Advertising Analytics
 topic: Integrations
 role: Admin
 level: Intermediate

@@ -1,7 +1,7 @@
 ---
 title: Reports with Advertising Cloud Marketing Channels
 description: Learn how the Advertising Cloud view-through and click-through entry data works with Adobe Analytics Marketing Channels.
-feature: Advertising Integration
+feature: Advertising Analytics
 topic: Integrations
 role: User
 level: Intermediate
