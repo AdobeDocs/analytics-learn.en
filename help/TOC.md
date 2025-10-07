@@ -327,6 +327,8 @@ auto-video-transcripts: true
   + Classifications {#classifications}
     + [Overview of Classifications](components/classifications/overview-of-classifications.md)
     + [Using the Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)
+    + [Introduction to Classification Sets](components/classifications/introduction-to-classification-sets.md)
+    + [Use Classification Sets](components/classifications/use-classification-sets.md)
   + Virtual Report Suites {#virtual-report-suites}
     + [Virtual report suites overview](components/virtual-report-suites/virtual-report-suites.md)
     + [Component curation](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
