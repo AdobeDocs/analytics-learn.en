@@ -12,6 +12,6 @@ jira: KT-19344
 
 # Introduction to classification sets
 
-Learn how classification sets give you additional reports and insights into your data
+Learn how classification sets give you additional reports and insights into your data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475579/?learn=on&enablevpops)

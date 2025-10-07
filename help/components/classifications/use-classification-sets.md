@@ -12,6 +12,6 @@ jira: KT-19345
 
 # Use classification sets in Adobe Analytics
 
-Learn the steps of using classification sets in Adobe Analytics
+Learn the steps of using classification sets in Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475580/?learn=on&enablevpops)
