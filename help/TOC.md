@@ -330,6 +330,7 @@ auto-video-transcripts: true
     + [Introduction to Classification Sets](components/classifications/introduction-to-classification-sets.md)
     + [Use Classification Sets](components/classifications/use-classification-sets.md)
     + [Classification sets data import methods](components/classifications/classification-sets-data-import-methods.md)
+    + [Classification sets job history](components/classifications/classification-sets-job-history.md)
   + Virtual Report Suites {#virtual-report-suites}
     + [Virtual report suites overview](components/virtual-report-suites/virtual-report-suites.md)
     + [Component curation](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
