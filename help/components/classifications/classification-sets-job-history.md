@@ -9,7 +9,6 @@ duration: 121
 last-substantial-update: 2025-10-17
 jira: KT-19441
 ---
-
 # Classification sets job history
 
 See your job history of uploading and downloading classification set data.
