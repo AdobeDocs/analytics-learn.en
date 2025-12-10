@@ -2,7 +2,7 @@
 title: Experience League LIVE Events
 description: A collection of links to previous Experience League LIVE events
 type: Event
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 hide: yes
 hidefromtoc: yes

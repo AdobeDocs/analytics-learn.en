@@ -2,7 +2,7 @@
 title: Create and maintain a Solution Design Reference (SDR) document
 description: The Solution Design Reference (SDR) document is the blueprint for business requirements, variable assignments, segment definitions, and data collection design for Analytics on your digital properties. 
 feature: Implementation Basics
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 kt: 3581
 thumbnail: 28754.jpg

@@ -4,7 +4,7 @@ description: Before you implement Analytics in [!DNL tags], you need some suppor
 feature: Tags
 topics: Development
 kt: 3584
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
 ---

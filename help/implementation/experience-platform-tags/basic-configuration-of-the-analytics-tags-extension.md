@@ -4,7 +4,7 @@ description: This video shows a quick configuration the Analytics extension in E
 feature: Tags
 topics: Development
 kt: 3586
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
 ---

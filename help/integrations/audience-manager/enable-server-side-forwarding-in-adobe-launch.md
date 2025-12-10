@@ -6,7 +6,7 @@ topic: Integrations
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Intermediate
 badgeIntegration: label="Integration" type="positive"
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712

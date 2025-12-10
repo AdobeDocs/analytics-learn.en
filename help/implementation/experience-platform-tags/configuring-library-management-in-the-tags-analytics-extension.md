@@ -5,7 +5,7 @@ description: Learn about the library management configuration options for the An
 feature: Tags
 topics: Development
 kt: 2836
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
 

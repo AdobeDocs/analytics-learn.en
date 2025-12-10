@@ -4,7 +4,7 @@ description: This video shows how to use the product string extension in [!DNL t
 feature: Tags
 topics: Development
 kt: 3593
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
 ---

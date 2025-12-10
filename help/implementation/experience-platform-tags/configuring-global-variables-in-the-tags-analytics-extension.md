@@ -4,7 +4,7 @@ description: Learn how to configure the global variable settings in the Analytic
 feature: Tags
 topics: Development
 kt: 2855
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 73ea8c36-66e3-4800-b0b0-f27e94cb4aaa
 ---

@@ -4,7 +4,7 @@ description: This video will walk you through Data Governance and how data label
 feature: Data Governance
 thumbnail: 25455.jpg
 kt: 2361
-role: Admin, Architect
+role: Admin, Developer
 level: Intermediate
 exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
 ---

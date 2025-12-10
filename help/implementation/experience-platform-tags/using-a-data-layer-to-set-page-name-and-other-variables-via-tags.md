@@ -3,7 +3,7 @@ title: Use a data layer to set Analytics variables in Experience Platform [!DNL 
 description: Learn how to use a data layer for sourcing Analytics data and other Experience Cloud solutions. 
 feature: Tags
 topics: Development
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
