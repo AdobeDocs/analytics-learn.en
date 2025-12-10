@@ -2,7 +2,7 @@
 title: Create a business requirements document
 description: Learn about the important step of defining the behavioral data that you want to capture and analyze in Adobe Analytics. 
 feature: Implementation Basics
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 kt: 3580
 thumbnail: 28758.jpg

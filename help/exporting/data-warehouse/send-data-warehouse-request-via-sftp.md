@@ -3,7 +3,7 @@ title: Send Data Warehouse reports via SFTP
 description: Learn how to create a Data Warehouse request in Adobe Analytics and set it up for SFTP delivery.
 feature: Data Warehouse
 topic: Administration
-role: User, Architect
+role: User, Developer
 level: Beginner
 doc-type: feature video
 thumbnail: 335751.jpg

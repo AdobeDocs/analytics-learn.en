@@ -2,7 +2,7 @@
 title: What is analytics
 description: Understand the fundamentals of analytics before you learn Adobe Analytics
 feature: Implementation Basics
-role: Developer, Architect, Data Architect, Data Engineer, Developer, Leader, User
+role: Developer, Developer, Leader, User
 level: Beginner
 kt: 10454
 thumbnail: null

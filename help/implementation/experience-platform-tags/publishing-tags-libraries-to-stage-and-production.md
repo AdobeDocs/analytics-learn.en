@@ -4,7 +4,7 @@ description: Learn how to publish your site's analytics code from development to
 feature: Tags
 topics: Development
 kt: 3595
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
 ---

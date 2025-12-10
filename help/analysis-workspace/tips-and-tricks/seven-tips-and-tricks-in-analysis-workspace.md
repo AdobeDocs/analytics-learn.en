@@ -8,7 +8,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: 3945
 
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
 ---

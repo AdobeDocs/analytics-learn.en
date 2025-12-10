@@ -6,7 +6,7 @@ topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
 ---

@@ -7,7 +7,7 @@ thumbnail: 28755.jpg
 kt: 3582
 
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
 ---

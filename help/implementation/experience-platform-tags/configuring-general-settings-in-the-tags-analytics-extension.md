@@ -4,7 +4,7 @@ description: Learn about the general configuration options for the Analytics ext
 feature: Tags
 topics: Development
 kt: 2837
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
 ---

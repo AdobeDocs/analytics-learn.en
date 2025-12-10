@@ -4,7 +4,7 @@ description: This video demonstrates how to use a special product string extensi
 feature: Tags
 topics: Development
 kt: 3592
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
 ---

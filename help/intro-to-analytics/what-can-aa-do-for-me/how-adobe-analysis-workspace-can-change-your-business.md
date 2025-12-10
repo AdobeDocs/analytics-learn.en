@@ -2,7 +2,7 @@
 title: Change your business with Adobe Analysis Workspace
 description: Learn about the types of analyses available in Analysis Workspace, such as Ad Hoc, Cohort, and Fallout. Use the drag and drop features to analyze data easily and quickly.
 feature: Workspace Basics
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 kt: 4382
 thumbnail: 31501.jpg

@@ -4,7 +4,7 @@ description: Learn how to set up a global page rule for data points you want to 
 feature: Tags
 topics: Development
 kt: 3588
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 7c72ec72-3de8-4472-a1de-c47f54d61d61
 ---

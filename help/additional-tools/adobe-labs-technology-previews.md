@@ -4,7 +4,7 @@ description: Adobe Labs (Technology Previews) allows you to engage with emerging
 feature: Analytics Basics
 doc-type: feature video
 kt: 4818
-role: Architect
+role: Developer
 level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
 ---

@@ -4,7 +4,7 @@ description: This video shows you how to use rules in [!DNL tags] to track conve
 feature: Tags
 topics: Development
 kt: 3591
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
 ---
