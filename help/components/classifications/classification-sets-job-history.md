@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 121
 last-substantial-update: 2025-10-17
 jira: KT-19441
+exl-id: 73496dc5-adb4-4efe-8105-0e0c99dfc31b
 ---
 # Classification sets job history
 

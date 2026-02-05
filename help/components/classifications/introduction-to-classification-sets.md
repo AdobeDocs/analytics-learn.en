@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 341
 last-substantial-update: 2025-10-07
 jira: KT-19344
+exl-id: e8574c28-4e75-4760-bfd6-1af62c3ed39d
 ---
-
 # Introduction to classification sets
 
 Learn how classification sets give you additional reports and insights into your data.

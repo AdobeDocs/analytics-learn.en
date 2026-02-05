@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 359
 last-substantial-update: 2025-10-15
 jira: KT-19411
+exl-id: 7cd1e443-3a0b-4765-8c3a-0250e9844652
 ---
-
 # Classification sets data import methods
 
 Learn different methods of importing classification data with classification sets, as well as some associated use cases.
