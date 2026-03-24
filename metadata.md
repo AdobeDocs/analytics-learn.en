@@ -2,6 +2,8 @@
 cloud: Experience Cloud
 product: analytics
 feature-set: Analytics
+landing-page-name: analytics
+landing-page-breadcrumb-title: Analytics
 solution-title: Analytics
 solution-hub-url: https://helpx.adobe.com/support/analytics.html
 getting-started-title: Getting Started
@@ -10,7 +12,7 @@ tutorials-title: Tutorials
 tutorials-url: https://guided.adobe.com/#recommended/solutions/analytics
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/analytics-learn.en
-index: yes
+index: true
 type: Tutorial
 ---
 
