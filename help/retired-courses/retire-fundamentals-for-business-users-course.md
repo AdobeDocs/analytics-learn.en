@@ -7,7 +7,6 @@ level: Beginner
 doc-type: article
 kt: 9167
 hide: yes
-hidefromtoc: yes
 exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
 ---
 # Analytics Fundamentals for Business Users has been retired 
