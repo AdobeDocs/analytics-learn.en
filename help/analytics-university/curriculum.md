@@ -4,8 +4,7 @@ description: Adobe is proud to present this Analytics foundational content to yo
 feature: Analytics Basics
 role: Leader
 level: Intermediate
-hide: yes
-hidefromtoc: yes
+hide: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 ---
 # Adobe Analytics curriculum for education

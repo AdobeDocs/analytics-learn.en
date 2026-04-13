@@ -4,8 +4,7 @@ description: A collection of links to previous Experience League LIVE events
 type: Event
 role: User, Developer, Admin, Leader
 level: Beginner
-hide: yes
-hidefromtoc: yes
+hide: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
 ---
 # Experience League LIVE
