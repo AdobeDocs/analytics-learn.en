@@ -9,6 +9,41 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
+TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: c8add8f2-4250-4fd9-9cde-9707036c567d
+    internal-label: Methods
+  - id: cc449013-c052-42d5-9ca4-0d2bceb6f06a
+    internal-label: Implementation playbook
+  - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+    internal-label: Variables
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Download the Adobe Analytics implementation playbook
 

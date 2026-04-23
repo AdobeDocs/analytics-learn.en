@@ -2,7 +2,7 @@
 title: How to identify your analytics tracking server and report suite ID
 description: When setting up Adobe Analytics, or when referencing it in other Experience Cloud solutions, it is often helpful or even necessary to know the Analytics "Tracking Server" that you are using, or also the "Report Suite" that you are sending data into. This video shows you how to locate both values, whether or not you have already implemented Adobe Analytics.
 feature: Implementation Basics
-topics: 
+topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,6 +10,24 @@ kt: 2358
 role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
+TQID: https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
 ---
 # How to identify your analytics [!DNL tracking server] and [!UICONTROL report suite ID] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 

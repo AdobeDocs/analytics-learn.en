@@ -7,6 +7,16 @@ thumbnail: 25400.jpg
 role: User
 level: Beginner
 exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
+TQID: https://experienceleague.adobe.com/WK9xeMhvWZMQqMXerDtMeKG4yBHSSokGlYbomftgoWE
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Before/After Sequences in Sequential Segmentation {#before-after-sequences-in-sequential-segmentation}
 

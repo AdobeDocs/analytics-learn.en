@@ -1,8 +1,8 @@
 ---
 title: Tracking Actions (AKA Custom Links) in a Mobile App with the Experience Platform SDK
-description: Actions are events that occur in your mobile app. In this video, learn how to use the trackAction API to track and measure an action. 
+description: Actions are events that occur in your mobile app. In this video, learn how to use the trackAction API to track and measure an action.
 feature: Mobile SDK
-topics: 
+topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -11,6 +11,24 @@ topic: Mobile
 role: Developer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
+TQID: https://experienceleague.adobe.com/msvft7mQiNGjLqGEezPIbwruvSbsunPGUIFF1q7vlT0
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+    internal-label: API
+subfeature_v2:
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
 ---
 # Tracking Actions (AKA Custom Links) in a Mobile App with the Experience Platform SDK {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
 

@@ -5,10 +5,26 @@ feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-16
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
+TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+subfeature_v2:
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Use Cohort Analysis to Understand Customer Behavior
 

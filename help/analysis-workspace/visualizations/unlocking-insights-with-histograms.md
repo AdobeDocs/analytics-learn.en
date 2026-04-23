@@ -5,10 +5,20 @@ feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
 exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
+TQID: https://experienceleague.adobe.com/YsHPJO-w7ZhVlI-xuZfF5fYj0q3HQGoypJsUQfoc5oc
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Unlocking insights with histograms: beyond averages in Analytics
 
