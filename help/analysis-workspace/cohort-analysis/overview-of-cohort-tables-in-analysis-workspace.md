@@ -2,7 +2,7 @@
 title: Overview of Cohort Tables in Analysis Workspace
 description: The Rolling Calculation setting within Cohort Tables can be used to analyze cohorts period-over-period, to understand how the same users are retained (or churn) over time.
 feature: Visualizations
-topics: 
+topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,6 +11,31 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
+TQID: https://experienceleague.adobe.com/lXCH7jiCOmtsiEjOxUsc-kqulIEOkAsCggFa3bVjznk
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
 ---
 # Overview of [!UICONTROL Cohort Tables] in Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
 

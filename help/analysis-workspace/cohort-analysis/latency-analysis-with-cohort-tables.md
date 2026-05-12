@@ -10,6 +10,16 @@ kt: 2480
 role: User
 level: Intermediate
 exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
+TQID: https://experienceleague.adobe.com/O-Q1BOca9v9npn0HyBBeV8KrHuGbUrkMktz-C-eq1Ug
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Latency Analysis with [!UICONTROL Cohort Tables] {#latency-analysis-with-cohort-tables}
 

@@ -6,8 +6,18 @@ thumbnail: 32960.jpg
 kt: 4844
 role: User
 level: Beginner
-last-substantial-update: 2023-10-06
+last-substantial-update: 2023-10-06T00:00:00.000Z
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
+TQID: https://experienceleague.adobe.com/qPpN8qzToMOjVKeXKOhXbG4SLZqpvY7tOcw0gYjcQz0
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Using the 'equals any of' operator in segmentation
 

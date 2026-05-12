@@ -8,6 +8,21 @@ doc-type: event
 thumbnail: 338829.jpg
 kt: 9404
 exl-id: c14474e8-658b-4607-8bf7-39a685ecbf4d
+TQID: https://experienceleague.adobe.com/OMNhFNz55oLl5FebDWmjhW9CrsZLnXFm5MrtZxh1lU8
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Customer Segmentation Strategies & Best Practices In Adobe Analytics
 

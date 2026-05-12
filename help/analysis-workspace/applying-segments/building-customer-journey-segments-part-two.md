@@ -4,10 +4,25 @@ description: In part two, learn how to build purchase and retention visit intent
 feature: Segmentation
 role: User
 level: Experienced
-last-substantial-update: 2023-07-21
+last-substantial-update: 2023-07-21T00:00:00.000Z
 jira: KT-13476
 thumbnail: KT-13476.jpeg
 exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
+TQID: https://experienceleague.adobe.com/YrOglocGHw94rFe3i5EejfNtsy3NDqqeHM7ZS-6t18s
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+    internal-label: Data quality
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Building customer journey segments - part two
 

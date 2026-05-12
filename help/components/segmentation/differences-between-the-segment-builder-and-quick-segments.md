@@ -7,6 +7,31 @@ level: Beginner
 doc-type: article
 kt: KT-13118
 exl-id: 144e71fd-8d42-4d20-b55e-3d81ad992a79
+TQID: https://experienceleague.adobe.com/TCsZTXENXuRAtUM1dzgf2JNAzIYWWy2Z1D-S28D6Mgo
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+    internal-label: Segment Builder
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Differences between the segment builder and quick segments in Analysis Workspace
 

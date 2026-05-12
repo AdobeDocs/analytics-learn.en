@@ -1,16 +1,38 @@
 ---
 title: Analytics videos and tutorials
-description: Get the most out of Adobe Analytics. Use these tutorials to learn the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects. 
+description: Get the most out of Adobe Analytics. Use these tutorials to learn the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects.
 feature: Analytics Basics
 role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
-thumbnail: 
+thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
+TQID: https://experienceleague.adobe.com/PVoMtD-YUX-UEfx-O3xvK5XYHpcX6TNkOMto4Kah3LE
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
-
-
 # Analytics tutorials
 
 Get the most out of [!DNL Adobe Analytics]. Use these tutorials to learn the features of Analytics and reap the benefits for your business. This content is suitable for administrators, data analysts, marketers, developers, and architects. 
