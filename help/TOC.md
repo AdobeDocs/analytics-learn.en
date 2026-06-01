@@ -5,7 +5,8 @@ breadcrumb-title: Analytics Tutorials
 solution: Analytics
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-    label: "Analytics"
+    internal-label: "Analytics"
+usetq: true
 auto-video-transcripts: true
 ---
 
