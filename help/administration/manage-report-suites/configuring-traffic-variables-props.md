@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 339441.jpg
 kt: 9528
 exl-id: 39ac3d0e-7f5c-44c3-946d-57e2a395a9f6
-TQID: https://experienceleague.adobe.com/XWr56Ji7-tGgVNq-UT---itDFNSpv-SfvYEbpmdHwAg
+TQID: https://experienceleague.adobe.com/XWr56Ji7-tGgVNq-UT%2D%2D%2DitDFNSpv-SfvYEbpmdHwAg
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
