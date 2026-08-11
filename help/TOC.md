@@ -152,6 +152,7 @@ auto-video-transcripts: true
   + Applying Segments {#applying-segments}
     + [Apply segments to your Analysis Workspace project](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
     + [Apply ad hoc segments](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+    + [Product-level segmentation with sub-hit analysis](analysis-workspace/applying-segments/product-level-segmentation-with-sub-hit-analysis.md)
     + [Use different Attribution IQ models with segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
     + [Choose segments for a panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
     + [Use segments as Dimensions in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
