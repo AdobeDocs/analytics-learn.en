@@ -9,7 +9,7 @@ last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13178
 thumbnail: KT-13178.jpeg
 exl-id: d4f69244-6614-41f3-ac48-70adabb8a8e7
-TQID: https://experienceleague.adobe.com/TqBSmUzTHOHqVfKdn3711CKiVMyQgjsRSP5ddUnEpdQ
+TQID: 'https://experienceleague.adobe.com/TqBSmUzTHOHqVfKdn3711CKiVMyQgjsRSP5ddUnEpdQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -26,6 +26,9 @@ subfeature_v2:
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

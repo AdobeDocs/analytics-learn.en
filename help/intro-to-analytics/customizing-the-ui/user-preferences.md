@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332600.jpg
 kt: 7478
 exl-id: 2fcb0e92-1287-4d05-88e1-aaf2ddff1ac9
-TQID: https://experienceleague.adobe.com/thUQTb3QNaOwX91nn0gx0hlLltkU06Z3l0c9iYXOKAY
+TQID: 'https://experienceleague.adobe.com/thUQTb3QNaOwX91nn0gx0hlLltkU06Z3l0c9iYXOKAY'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -20,6 +20,8 @@ feature_v2:
     internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: a544b409-2610-410d-a842-474ac1d0d54e
     internal-label: Segment Builder
@@ -29,6 +31,8 @@ subfeature_v2:
     internal-label: Visualizations
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
     internal-label: Report suites
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

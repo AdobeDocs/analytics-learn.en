@@ -2,7 +2,7 @@
 title: View Density in Analysis Workspace
 description: The View Density setting under Project > Info & Settings allows you to control the vertical padding applied to the left rail and tables (Freeform & Cohort). You can choose between Expanded (default), Comfortable, or Compact.
 feature: Projects
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -10,7 +10,7 @@ kt: 2492
 role: User
 level: Beginner
 exl-id: 378426ce-fc29-4912-9289-e763b941877a
-TQID: https://experienceleague.adobe.com/jkLmQFwwKZZhtHJGNkIj8Xk2vSb3q0nRMXAjQXUqJfg
+TQID: 'https://experienceleague.adobe.com/jkLmQFwwKZZhtHJGNkIj8Xk2vSb3q0nRMXAjQXUqJfg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -22,6 +22,8 @@ feature_v2:
 subfeature_v2:
   - id: e2fb09f1-7c48-4d50-a88a-5a03a06eb468
     internal-label: View density
+  - id: c18b4ecd-07aa-5eeb-9156-2a6c30b73e84
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

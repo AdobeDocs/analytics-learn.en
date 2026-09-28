@@ -2,7 +2,7 @@
 title: Customer Use Case - Accent Group Invests in Customer Experience to Drive Sales
 description: Accent Group, the largest footwear retailer in Australia, grows their sales and conversions by delivering great customer experiences across physical and digital touch-points. Watch how the Accent Group uses the Adobe Experience Cloud to create seamless digital experiences.
 feature: Use Cases
-topics: null
+topics: 
 activity: understand
 doc-type: value video
 team: Technical Marketing
@@ -10,10 +10,16 @@ kt: 4386
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
-TQID: https://experienceleague.adobe.com/qsfNuAf7hWzz-1bJHWb9j0cSW-6MtAMZpx711t0ejd0
+TQID: 'https://experienceleague.adobe.com/qsfNuAf7hWzz-1bJHWb9j0cSW-6MtAMZpx711t0ejd0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: e4f5f438-eabb-4c54-9133-b817e3d125f5
+    internal-label: Use cases
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

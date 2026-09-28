@@ -7,7 +7,7 @@ level: Beginner
 kt: 4845
 thumbnail: 32959.jpg
 exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
-TQID: https://experienceleague.adobe.com/sVjGDYFZtGYrPTIV1gvVyPuA1ObhpIbbebPEIbUtqDk
+TQID: 'https://experienceleague.adobe.com/sVjGDYFZtGYrPTIV1gvVyPuA1ObhpIbbebPEIbUtqDk'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -20,6 +20,8 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
     internal-label: Integrations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: a5b0e28e-686f-409c-8733-7a2b13fe13c2
     internal-label: Folders
@@ -31,6 +33,8 @@ subfeature_v2:
     internal-label: View density
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
     internal-label: Calculated Metrics
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

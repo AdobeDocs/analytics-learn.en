@@ -4,7 +4,7 @@ seo-title: Setting Up In-Market Zip Code Analysis - a Use Case
 description: In this use case, we will configure the system to bring in zip codes, classify them as in-market or out-of-market, and then use this data in Analysis Workspace so that we can see the effectiveness of our geo-targeted marketing campaigns.
 seo-description: In this use case, we will configure the system to bring in zip codes, classify them as in-market or out-of-market, and then use this data in Analysis Workspace so that we can see the effectiveness of our geo-targeted marketing campaigns.
 feature: Use Cases
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 author: Doug Moore
@@ -13,7 +13,7 @@ kt: 2846
 role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
-TQID: https://experienceleague.adobe.com/he18ji-ykj6IXCMTnTJN-OifTrt7VnQRUPfEgdpmVNg
+TQID: 'https://experienceleague.adobe.com/he18ji-ykj6IXCMTnTJN-OifTrt7VnQRUPfEgdpmVNg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -24,11 +24,15 @@ feature_v2:
     internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
     internal-label: Components
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
     internal-label: Report suites
+  - id: e4f5f438-eabb-4c54-9133-b817e3d125f5
+    internal-label: Use cases
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

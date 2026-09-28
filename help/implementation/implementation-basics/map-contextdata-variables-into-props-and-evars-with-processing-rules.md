@@ -7,7 +7,7 @@ role: User
 level: Intermediate
 thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-TQID: https://experienceleague.adobe.com/FfazYK7oCVTKjTkshVChipNfUJ-KAQ1gDNazuueUOKE
+TQID: 'https://experienceleague.adobe.com/FfazYK7oCVTKjTkshVChipNfUJ-KAQ1gDNazuueUOKE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -16,6 +16,8 @@ feature_v2:
     internal-label: Reports
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
     internal-label: Implementations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c77ba355-6681-41fe-b719-563d3f507fdb
     internal-label: Mobile SDK
@@ -25,6 +27,8 @@ subfeature_v2:
     internal-label: Use cases
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
     internal-label: Variables
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

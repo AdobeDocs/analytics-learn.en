@@ -9,7 +9,7 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
-TQID: https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE
+TQID: 'https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -18,9 +18,13 @@ feature_v2:
     internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
     internal-label: Metrics
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
     internal-label: Calculated Metrics
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

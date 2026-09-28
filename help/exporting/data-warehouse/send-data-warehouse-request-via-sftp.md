@@ -10,7 +10,7 @@ thumbnail: 335751.jpg
 kt: KT-8467
 last-substantial-update: 2024-05-13T00:00:00.000Z
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
-TQID: https://experienceleague.adobe.com/MtON1a89VPIn4ABlIyr-6nSSYByuIU-jYm8OGQGZjyM
+TQID: 'https://experienceleague.adobe.com/MtON1a89VPIn4ABlIyr-6nSSYByuIU-jYm8OGQGZjyM'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,6 +19,11 @@ feature_v2:
     internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
     internal-label: Metrics
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
+subfeature_v2:
+  - id: f47edbe0-f963-46ff-a667-71011396f5f3
+    internal-label: Data Warehouse
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

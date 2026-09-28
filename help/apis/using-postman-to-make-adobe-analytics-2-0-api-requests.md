@@ -2,7 +2,7 @@
 title: Using Postman to Make Adobe Analytics 2.0 API Requests
 description: This video walks through how to setup Postman, an API client, to send Adobe Analytics 2.0 API requests. It includes setting up an Adobe I/O integration (NOTE - you need to be a system admin in Experience Cloud to set this up), where to find your global company ID, and more.
 feature: API
-topics: null
+topics: 
 activity: use
 doc-type: technical video
 team: Technical Marketing
@@ -10,7 +10,7 @@ kt: 2387
 role: Developer
 level: Experienced
 exl-id: 0b0e73f8-921d-40ad-b93d-98a1cbc020c8
-TQID: https://experienceleague.adobe.com/3V0L0R6QsdOV8RQZzMg37IUruE5pYSK8bHe9WS6AOCM
+TQID: 'https://experienceleague.adobe.com/3V0L0R6QsdOV8RQZzMg37IUruE5pYSK8bHe9WS6AOCM'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -24,6 +24,9 @@ feature_v2:
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Using [!DNL Postman] to Make Adobe Analytics 2.0 API Requests {#using-postman-to-make-adobe-analytics-api-requests}
 

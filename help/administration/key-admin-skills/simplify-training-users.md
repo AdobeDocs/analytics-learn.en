@@ -9,7 +9,7 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
-TQID: https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg
+TQID: 'https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -30,6 +30,9 @@ subfeature_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

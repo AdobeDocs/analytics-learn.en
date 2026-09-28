@@ -8,7 +8,7 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-TQID: https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io
+TQID: 'https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -23,6 +23,9 @@ subfeature_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

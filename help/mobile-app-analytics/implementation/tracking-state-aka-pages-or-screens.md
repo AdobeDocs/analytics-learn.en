@@ -2,7 +2,7 @@
 title: Tracking State (AKA Pages or Screens) in a Mobile app with the Experience Platform SDK
 description: States represent screens or views in your app. Each time a new state is displayed in your application, for example, when a user navigates from the home page to the news feed, "trackState" can be called to send in the State Name (Page Name in Analytics), as well as addiitonal data. This video walks you through how to do it.
 feature: Mobile SDK
-topics: null
+topics: 
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -11,13 +11,22 @@ topic: Mobile
 role: Developer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-TQID: https://experienceleague.adobe.com/DjaqAKtHZ0s8C-cq4n3a6ObumLdqNxyy3Muu1MxaafE
+TQID: 'https://experienceleague.adobe.com/DjaqAKtHZ0s8C-cq4n3a6ObumLdqNxyy3Muu1MxaafE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: c77ba355-6681-41fe-b719-563d3f507fdb
+    internal-label: Mobile SDK
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

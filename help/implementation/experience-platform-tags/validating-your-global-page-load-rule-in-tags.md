@@ -6,10 +6,16 @@ kt: 3589
 role: Developer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
-TQID: https://experienceleague.adobe.com/VQm8v260Vicl6LFkcPLeUZr-ou28CxFPOdrtHvf24FY
+TQID: 'https://experienceleague.adobe.com/VQm8v260Vicl6LFkcPLeUZr-ou28CxFPOdrtHvf24FY'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: df312454-73c4-43f6-a90e-18f5043f074c
+    internal-label: Tags
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

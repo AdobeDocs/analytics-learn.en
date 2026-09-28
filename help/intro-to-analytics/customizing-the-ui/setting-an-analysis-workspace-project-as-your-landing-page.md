@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 25459.jpg
 kt: 2364
 exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
-TQID: https://experienceleague.adobe.com/OJ4aGkgusBy7ISO9ns3-sd5WAAv3IJbXI1AyAMGXXhQ
+TQID: 'https://experienceleague.adobe.com/OJ4aGkgusBy7ISO9ns3-sd5WAAv3IJbXI1AyAMGXXhQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -18,6 +18,11 @@ feature_v2:
     internal-label: Reports
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

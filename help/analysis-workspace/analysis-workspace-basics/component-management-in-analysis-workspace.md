@@ -2,7 +2,7 @@
 title: Component Management in Analysis Workspace
 description: Learn how to share and manage components (for example, dimensions, metrics, segments, and so on) in Analysis Workspace.
 feature: Workspace Basics
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -10,7 +10,7 @@ kt: 1988
 role: User
 level: Beginner
 exl-id: 6778e714-3fe9-479f-aacd-d1e702e2c584
-TQID: https://experienceleague.adobe.com/-vDKJuzTRewrD2I9t2ZzYW8gYF6F3YKw3rlKtKZgpF4
+TQID: 'https://experienceleague.adobe.com/-vDKJuzTRewrD2I9t2ZzYW8gYF6F3YKw3rlKtKZgpF4'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,6 +19,8 @@ feature_v2:
     internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
     internal-label: Components
@@ -30,6 +32,8 @@ subfeature_v2:
     internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
     internal-label: Calculated Metrics
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

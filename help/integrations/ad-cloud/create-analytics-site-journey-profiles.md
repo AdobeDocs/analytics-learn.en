@@ -8,7 +8,7 @@ level: Intermediate
 thumbnail: 35116.jpg
 kt: 5473
 exl-id: c0c7c77e-ba24-48b3-a793-a519fbd45e12
-TQID: https://experienceleague.adobe.com/Zc94gMIzq4Fc72YnAi68X59M3rJstP-0UfAuJxggpgA
+TQID: 'https://experienceleague.adobe.com/Zc94gMIzq4Fc72YnAi68X59M3rJstP-0UfAuJxggpgA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -26,6 +26,8 @@ subfeature_v2:
     internal-label: Attribution
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
     internal-label: Events
+  - id: a9364d69-0c51-44bf-8b5f-6d99c04493b8
+    internal-label: Advertising Analytics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

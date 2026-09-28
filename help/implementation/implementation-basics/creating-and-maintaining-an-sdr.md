@@ -7,7 +7,7 @@ level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-TQID: https://experienceleague.adobe.com/GujcSKXGp9PCcrI2vtKRals8eWGnEKmxSCahFJSCKOU
+TQID: 'https://experienceleague.adobe.com/GujcSKXGp9PCcrI2vtKRals8eWGnEKmxSCahFJSCKOU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -16,6 +16,11 @@ feature_v2:
     internal-label: Reports
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
     internal-label: API
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

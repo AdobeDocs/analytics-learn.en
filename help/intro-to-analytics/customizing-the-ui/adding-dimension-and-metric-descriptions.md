@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 25453.jpg
 kt: 2352
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
-TQID: https://experienceleague.adobe.com/DKya0Yvxai8qAdjcXOHF8FpBrSh3TlAHyfzunKxuJsQ
+TQID: 'https://experienceleague.adobe.com/DKya0Yvxai8qAdjcXOHF8FpBrSh3TlAHyfzunKxuJsQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,9 +19,13 @@ feature_v2:
     internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
     internal-label: Events
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

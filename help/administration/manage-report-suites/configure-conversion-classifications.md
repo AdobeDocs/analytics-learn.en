@@ -9,10 +9,13 @@ doc-type: feature video
 thumbnail: 340078.jpg
 kt: 9576
 exl-id: ae7760e6-5ec3-4e2a-a717-cf63b760bba0
-TQID: https://experienceleague.adobe.com/5ExDr0b1TLm7H5maSQ9-SH1NVT85gbzRRpGNlF-OTvw
+TQID: 'https://experienceleague.adobe.com/5ExDr0b1TLm7H5maSQ9-SH1NVT85gbzRRpGNlF-OTvw'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
+feature_v2:
+  - id: 00071d55-23eb-5795-a8d9-9d9b784f2791
+    internal-label: Classifications
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

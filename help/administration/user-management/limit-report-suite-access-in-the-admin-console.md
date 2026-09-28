@@ -2,7 +2,7 @@
 title: Limit Report Suite Access in the Admin Console
 description: Adobe Analytics users need access to just the right data. Learn how to use the Admin Console to ensure users can only access the report suite(s) that are necessary to their role. Follow these quick steps in the Adobe Admin Console to create a report suite-specific product profile in your organization.
 feature: User Management
-topics: null
+topics: 
 activity: setup
 doc-type: technical video
 team: Evangelism
@@ -12,7 +12,7 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 71050e4f-a6e3-4fe2-88dd-866d207f6c7c
-TQID: https://experienceleague.adobe.com/4yZheFbSnmms99n1B5DHxJkcWUcrltrIRwtaTAedtmA
+TQID: 'https://experienceleague.adobe.com/4yZheFbSnmms99n1B5DHxJkcWUcrltrIRwtaTAedtmA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -23,9 +23,13 @@ feature_v2:
     internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
     internal-label: Report suites
+  - id: d124af73-4061-4b84-9063-ae2b60f2c1f3
+    internal-label: User management
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

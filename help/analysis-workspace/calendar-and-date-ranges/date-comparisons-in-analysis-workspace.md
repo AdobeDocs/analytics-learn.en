@@ -7,7 +7,7 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-TQID: https://experienceleague.adobe.com/LnDU4BzbyfGgDLfhZa3XhBOsS1jT6NNVIQOtynEMLQY
+TQID: 'https://experienceleague.adobe.com/LnDU4BzbyfGgDLfhZa3XhBOsS1jT6NNVIQOtynEMLQY'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,6 +19,8 @@ subfeature_v2:
     internal-label: Components
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
     internal-label: Freeform tables
+  - id: 48da7efd-b4e7-5fc2-85c1-7983bf649b9e
+    internal-label: Date Ranges
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

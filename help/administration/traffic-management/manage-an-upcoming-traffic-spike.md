@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 335744.jpg
 kt: KT-8462
 exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
-TQID: https://experienceleague.adobe.com/dR9aG-Xxn9szHjRMbO0HFDM-RUIuLi3R6xJazU-tW9c
+TQID: 'https://experienceleague.adobe.com/dR9aG-Xxn9szHjRMbO0HFDM-RUIuLi3R6xJazU-tW9c'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -23,12 +23,16 @@ feature_v2:
 subfeature_v2:
   - id: f52db89b-2666-4cad-9c50-9da4d3ffcfd0
     internal-label: Traffic Management
+  - id: fab61dd8-112a-4e5e-ad5f-fb0240b7a60b
+    internal-label: Report Suite settings
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

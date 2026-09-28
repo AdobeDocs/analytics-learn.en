@@ -8,7 +8,7 @@ level: Intermediate
 thumbnail: 35118.jpg
 kt: 5475
 exl-id: c021f6b9-f242-4576-8f3a-cb2ef31f32fc
-TQID: https://experienceleague.adobe.com/ltNqYckoG11mg6OMNiuflHV1bOxqkCrllT36zRuN1DU
+TQID: 'https://experienceleague.adobe.com/ltNqYckoG11mg6OMNiuflHV1bOxqkCrllT36zRuN1DU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,9 +19,13 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
     internal-label: Integrations
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
 subfeature_v2:
   - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
     internal-label: Alerts
+  - id: a9364d69-0c51-44bf-8b5f-6d99c04493b8
+    internal-label: Advertising Analytics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

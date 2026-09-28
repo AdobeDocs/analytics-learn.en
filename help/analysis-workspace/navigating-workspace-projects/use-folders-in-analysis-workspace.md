@@ -9,7 +9,7 @@ last-substantial-update: 2023-01-12T00:00:00.000Z
 kt: 11723
 thumbnail: 3413167.jpg
 exl-id: c300ba03-cd40-42ba-be46-325380914771
-TQID: https://experienceleague.adobe.com/s7j2LLqDYY-nbf0DVhJ-dwnV-gDI--0g7QEQR2SiNo4
+TQID: 'https://experienceleague.adobe.com/s7j2LLqDYY-nbf0DVhJ-dwnV-gDI--0g7QEQR2SiNo4'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -25,6 +25,8 @@ subfeature_v2:
     internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
     internal-label: Panels
+  - id: c18b4ecd-07aa-5eeb-9156-2a6c30b73e84
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

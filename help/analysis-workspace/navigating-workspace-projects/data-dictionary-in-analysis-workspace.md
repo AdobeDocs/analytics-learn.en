@@ -10,7 +10,7 @@ last-substantial-update: 2023-04-11T00:00:00.000Z
 jira: KT-13074
 thumbnail: 3418028.jpeg
 exl-id: 8ef91be9-1dab-49ce-b78e-433dfe3c0717
-TQID: https://experienceleague.adobe.com/vPo-UnoZx1YeaUWaqZI-w11ppJE2Vt1dEtu7xI20fvU
+TQID: 'https://experienceleague.adobe.com/vPo-UnoZx1YeaUWaqZI-w11ppJE2Vt1dEtu7xI20fvU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,6 +19,8 @@ feature_v2:
     internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
     internal-label: Components
@@ -26,6 +28,8 @@ subfeature_v2:
     internal-label: Data Dictionary
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
     internal-label: Panels
+  - id: f7fb4c71-5c39-4655-ba2d-b3b189287ab7
+    internal-label: Data governance
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

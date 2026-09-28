@@ -2,7 +2,7 @@
 title: Customer Use Case - ServiceNow Gets the Right Insights to Connect with Prospects
 description: Find out how ServiceNow gets actionable data from its marketing channels and boosts ROI on paid search advertising with Adobe Advertising Cloud and Adobe Analytics.
 feature: Use Cases
-topics: null
+topics: 
 activity: understand
 doc-type: value video
 team: Technical Marketing
@@ -10,10 +10,16 @@ kt: 4385
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
-TQID: https://experienceleague.adobe.com/MRZS-LpChp9EXg4xrGbp3QlcKWCkUM81i3zWOvtpBFk
+TQID: 'https://experienceleague.adobe.com/MRZS-LpChp9EXg4xrGbp3QlcKWCkUM81i3zWOvtpBFk'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: e4f5f438-eabb-4c54-9133-b817e3d125f5
+    internal-label: Use cases
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

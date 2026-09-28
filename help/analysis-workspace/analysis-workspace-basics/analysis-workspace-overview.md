@@ -7,7 +7,7 @@ level: Beginner
 kt: 2474
 thumbnail: 26266.jpg
 exl-id: a975a004-d044-47f6-b4ff-d6158a467c2a
-TQID: https://experienceleague.adobe.com/WaaPHRygk3VByCXm6eDgFBeJlr-eWzZIfF267VeLhaU
+TQID: 'https://experienceleague.adobe.com/WaaPHRygk3VByCXm6eDgFBeJlr-eWzZIfF267VeLhaU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -20,6 +20,8 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
     internal-label: Dashboards
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
     internal-label: Components
@@ -33,6 +35,8 @@ subfeature_v2:
     internal-label: Panels
   - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
     internal-label: Alerts
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
