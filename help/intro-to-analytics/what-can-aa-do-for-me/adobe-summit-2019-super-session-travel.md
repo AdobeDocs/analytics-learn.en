@@ -2,7 +2,7 @@
 title: Adobe Summit 2019 Super Session - Travel & Hospitality
 description: See curated clips from the travel & hospitality "super session" at Summit 2019
 feature: Use Cases
-topics: null
+topics: 
 activity: understand
 doc-type: value video
 team: Technical Marketing
@@ -10,13 +10,18 @@ kt: 4388
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: c1b8b9de-d47a-44b6-bc3b-d92716d673bb,be2cdcad-01e5-41c2-b91b-3feec9d17d50
-TQID: https://experienceleague.adobe.com/W7BNWbvJoNuE9nIGXHriT-y2JupUSMcgCQH6aifk5Io
+TQID: 'https://experienceleague.adobe.com/W7BNWbvJoNuE9nIGXHriT-y2JupUSMcgCQH6aifk5Io'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
 feature_v2:
   - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
     internal-label: Integrations
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: e4f5f438-eabb-4c54-9133-b817e3d125f5
+    internal-label: Use cases
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

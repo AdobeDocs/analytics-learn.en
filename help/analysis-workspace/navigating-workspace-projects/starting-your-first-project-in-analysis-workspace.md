@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: 30368.jpg
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-TQID: https://experienceleague.adobe.com/I4ALRhhmc7lnzqsm3vuiMGDKVx3NMt6kQ-rDLRB7N-0
+TQID: 'https://experienceleague.adobe.com/I4ALRhhmc7lnzqsm3vuiMGDKVx3NMt6kQ-rDLRB7N-0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -33,6 +33,8 @@ subfeature_v2:
     internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
     internal-label: Report suites
+  - id: c18b4ecd-07aa-5eeb-9156-2a6c30b73e84
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

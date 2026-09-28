@@ -2,7 +2,7 @@
 title: Anomaly Detection in Analysis Workspace
 description: Analysis Workspace automatically detects anomalies in your data for any time-series visualization or data table. Catch the "unknown unknowns" without any additional effort on your part!
 feature: Anomaly Detection
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -10,13 +10,18 @@ kt: 2336
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
-TQID: https://experienceleague.adobe.com/O2Lk-n0d9NPrVsg5l-jAUKaZLRj6RSPu4lcIVjcFDPE
+TQID: 'https://experienceleague.adobe.com/O2Lk-n0d9NPrVsg5l-jAUKaZLRj6RSPu4lcIVjcFDPE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
 feature_v2:
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+subfeature_v2:
+  - id: c67272a6-888e-425e-9e97-a87304637eed
+    internal-label: Anomaly Detection
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

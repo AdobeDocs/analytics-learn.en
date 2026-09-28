@@ -7,7 +7,7 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-TQID: https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0
+TQID: 'https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -24,6 +24,8 @@ feature_v2:
     internal-label: Dashboards
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
     internal-label: API
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
     internal-label: Report Builder
@@ -45,6 +47,8 @@ subfeature_v2:
     internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
     internal-label: Calculated Metrics
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

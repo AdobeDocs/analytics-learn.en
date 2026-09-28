@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 333607.jpg
 kt: 7999
 exl-id: 6b545589-fb29-4993-b7b3-11bb8eb4775a
-TQID: https://experienceleague.adobe.com/ZGHClKjZPMMjBpj-FxKjyQuWZGqBlxpJ7UYKkNeoyF8
+TQID: 'https://experienceleague.adobe.com/ZGHClKjZPMMjBpj-FxKjyQuWZGqBlxpJ7UYKkNeoyF8'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -17,6 +17,8 @@ feature_v2:
     internal-label: Reports
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
     internal-label: Components
@@ -24,6 +26,8 @@ subfeature_v2:
     internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
     internal-label: Freeform tables
+  - id: e4f5f438-eabb-4c54-9133-b817e3d125f5
+    internal-label: Use cases
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

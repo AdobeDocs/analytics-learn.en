@@ -9,7 +9,7 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+TQID: 'https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -18,6 +18,8 @@ feature_v2:
     internal-label: Reports
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
     internal-label: Implementations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c8add8f2-4250-4fd9-9cde-9707036c567d
     internal-label: Methods
@@ -25,6 +27,8 @@ subfeature_v2:
     internal-label: Implementation playbook
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
     internal-label: Variables
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

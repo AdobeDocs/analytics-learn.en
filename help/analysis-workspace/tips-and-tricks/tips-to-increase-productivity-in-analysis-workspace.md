@@ -6,13 +6,15 @@ kt: 4110
 role: User
 level: Beginner
 exl-id: 8f8f597f-bc43-4baf-8c5c-f1dd869bef82
-TQID: https://experienceleague.adobe.com/Zx2tLAgKPAY-y8xIJX9Oybu2B1r7e2puLremlcsAxlo
+TQID: 'https://experienceleague.adobe.com/Zx2tLAgKPAY-y8xIJX9Oybu2B1r7e2puLremlcsAxlo'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
 feature_v2:
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: a544b409-2610-410d-a842-474ac1d0d54e
     internal-label: Segment Builder
@@ -22,6 +24,8 @@ subfeature_v2:
     internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
     internal-label: Freeform tables
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

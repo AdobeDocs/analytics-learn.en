@@ -8,7 +8,7 @@ level: Intermediate, Experienced
 thumbnail: 335745.jpg
 kt: 8459
 exl-id: 0949cb1f-9ea2-4682-8ca5-62b74434e722
-TQID: https://experienceleague.adobe.com/pIpjShAdW9GFax1H4l50ZrbqtzFFlnvHoWd3M1EzdVA
+TQID: 'https://experienceleague.adobe.com/pIpjShAdW9GFax1H4l50ZrbqtzFFlnvHoWd3M1EzdVA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -32,6 +32,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

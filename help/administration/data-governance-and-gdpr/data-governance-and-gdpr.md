@@ -7,13 +7,18 @@ kt: 2361
 role: Admin, Developer
 level: Intermediate
 exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
-TQID: https://experienceleague.adobe.com/WPBCnzSkeyyoVsJW34-ppZwUEQqtTGXfdHgFbbe6d54
+TQID: 'https://experienceleague.adobe.com/WPBCnzSkeyyoVsJW34-ppZwUEQqtTGXfdHgFbbe6d54'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
 feature_v2:
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
     internal-label: API
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
+subfeature_v2:
+  - id: f7fb4c71-5c39-4655-ba2d-b3b189287ab7
+    internal-label: Data governance
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

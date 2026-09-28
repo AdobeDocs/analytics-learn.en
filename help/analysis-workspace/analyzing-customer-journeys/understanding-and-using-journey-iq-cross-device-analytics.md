@@ -2,7 +2,7 @@
 title: Understanding and Using Journey IQ - Cross-Device Analytics
 description: When users interact with your brand they do so in many ways and on multiple devices. Cross-Device Analytics integrates with the Adobe Experience Platform Identity Service to identify how devices map to people. It then leverages this intelligence to create a cross-device view of user behavior. This results in being able to do analysis on people, not devices.
 feature: CDA
-topics: null
+topics: 
 activity: use
 doc-type: article
 team: Technical Marketing
@@ -10,7 +10,7 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+TQID: 'https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,6 +19,8 @@ feature_v2:
     internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
 subfeature_v2:
   - id: a544b409-2610-410d-a842-474ac1d0d54e
     internal-label: Segment Builder
@@ -32,6 +34,8 @@ subfeature_v2:
     internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
     internal-label: Report suites
+  - id: f99536a1-75c7-4151-a2c8-073630632526
+    internal-label: CDA
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

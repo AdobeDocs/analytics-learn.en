@@ -2,7 +2,7 @@
 title: Adobe Summit 2019 Super Session - High Tech
 description: See curated clips from the high tech "super session" at Summit 2019
 feature: Use Cases
-topics: null
+topics: 
 activity: understand
 doc-type: value video
 team: Technical Marketing
@@ -10,13 +10,16 @@ kt: 4404
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8153f04c-d1a5-4dd8-8ed6-24205467e285,e3a09a0d-81f1-412e-90b2-89161f8dd9e3
-TQID: https://experienceleague.adobe.com/34iBhtesMZt84v-cTfsIbSmBiCFGYs-sepVfWQdwmAw
+TQID: 'https://experienceleague.adobe.com/34iBhtesMZt84v-cTfsIbSmBiCFGYs-sepVfWQdwmAw'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
 feature_v2:
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
     internal-label: Implementations
+subfeature_v2:
+  - id: e4f5f438-eabb-4c54-9133-b817e3d125f5
+    internal-label: Use cases
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

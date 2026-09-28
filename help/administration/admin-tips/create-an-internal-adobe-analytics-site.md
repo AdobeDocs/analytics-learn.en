@@ -9,13 +9,18 @@ doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
-TQID: https://experienceleague.adobe.com/5xgcAdoRhVgZZ3wjDpBrDCEAXWNADptU4yQlbbZUGG0
+TQID: 'https://experienceleague.adobe.com/5xgcAdoRhVgZZ3wjDpBrDCEAXWNADptU4yQlbbZUGG0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
     internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

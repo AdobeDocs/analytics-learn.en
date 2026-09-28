@@ -9,7 +9,7 @@ duration: 485
 last-substantial-update: 2025-10-07T00:00:00.000Z
 jira: KT-19345
 exl-id: c3decb21-012e-400b-88ad-42e9d3c5906c
-TQID: https://experienceleague.adobe.com/36ZKeUYL-RRixtEmUkDuBmzJUf6rkHnIr7k-s4wDol4
+TQID: 'https://experienceleague.adobe.com/36ZKeUYL-RRixtEmUkDuBmzJUf6rkHnIr7k-s4wDol4'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -18,6 +18,8 @@ feature_v2:
     internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
     internal-label: Metrics
+  - id: 00071d55-23eb-5795-a8d9-9d9b784f2791
+    internal-label: Classifications
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -2,7 +2,7 @@
 title: Custom Link Tracking without a Tag Manager
 description: For many actions on the page, tracking should not be treated like a page view. In this video, you will learn how to code a link tracking beacon to Analytics, if you are not using a tag manager (like Experience Platform Launch). See the code, as well as learning an important tip.
 feature: Appmeasurement Implementation
-topics: null
+topics: 
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,10 +10,16 @@ kt: 1845
 role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-TQID: https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA
+TQID: 'https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: d2311670-43bd-4c2e-bc98-1da2aaba9cef
+    internal-label: Appmeasurement implementation
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

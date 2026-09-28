@@ -10,7 +10,7 @@ kt: 3054
 role: User
 level: Beginner
 exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
-TQID: https://experienceleague.adobe.com/WjGhliD0hs8UeWTlHBOA2h3fHMbcmO7bAcNOti9xQn4
+TQID: 'https://experienceleague.adobe.com/WjGhliD0hs8UeWTlHBOA2h3fHMbcmO7bAcNOti9xQn4'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -21,6 +21,11 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
     internal-label: API
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

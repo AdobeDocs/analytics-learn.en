@@ -7,7 +7,7 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-TQID: https://experienceleague.adobe.com/ylzCf1bMQkWjRx0Tr8FAhh9-DXB3u4JRfjrK9FAe1eE
+TQID: 'https://experienceleague.adobe.com/ylzCf1bMQkWjRx0Tr8FAhh9-DXB3u4JRfjrK9FAe1eE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -18,9 +18,13 @@ feature_v2:
     internal-label: Metrics
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
     internal-label: API
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
     internal-label: Events
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

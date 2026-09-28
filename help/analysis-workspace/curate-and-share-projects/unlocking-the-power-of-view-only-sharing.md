@@ -9,7 +9,7 @@ last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
 exl-id: 5396817e-582f-4389-be81-40b8ff8188b2
-TQID: https://experienceleague.adobe.com/lx4u8lAivYa7zTOqG42zeCJsKglxwIYyFENoCUf-hVM
+TQID: 'https://experienceleague.adobe.com/lx4u8lAivYa7zTOqG42zeCJsKglxwIYyFENoCUf-hVM'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -24,6 +24,8 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
     internal-label: Dashboards
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
     internal-label: Components
@@ -31,9 +33,14 @@ subfeature_v2:
     internal-label: Attribution
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
     internal-label: Calculated Metrics
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Unlocking the power of read-only sharing in Analysis Workspace
 

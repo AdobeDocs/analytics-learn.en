@@ -7,7 +7,7 @@ thumbnail: 24095.jpg
 role: User
 level: Beginner
 exl-id: a46c4392-739f-4366-b5ea-504519ce1a0f
-TQID: https://experienceleague.adobe.com/mfA-gK0PwnPU0vkNy4xHtxKgYufRzmnxdStNtQXIG4A
+TQID: 'https://experienceleague.adobe.com/mfA-gK0PwnPU0vkNy4xHtxKgYufRzmnxdStNtQXIG4A'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -18,11 +18,15 @@ feature_v2:
     internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
     internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
     internal-label: Report suites
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

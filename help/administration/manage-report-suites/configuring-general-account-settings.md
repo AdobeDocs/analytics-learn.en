@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399
 exl-id: 83797aa3-afda-40ae-b74a-2cd6d5c39597
-TQID: https://experienceleague.adobe.com/mFTd-AifxgbM7E-tKF0sc8u4nGUt7WtTqwwKz2Uwla4
+TQID: 'https://experienceleague.adobe.com/mFTd-AifxgbM7E-tKF0sc8u4nGUt7WtTqwwKz2Uwla4'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -18,6 +18,9 @@ feature_v2:
     internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
     internal-label: Metrics
+subfeature_v2:
+  - id: fab61dd8-112a-4e5e-ad5f-fb0240b7a60b
+    internal-label: Report Suite settings
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

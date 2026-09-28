@@ -8,7 +8,7 @@ level: Intermediate
 thumbnail: 35114.jpg
 kt: 5471
 exl-id: dc363748-713e-4a68-a686-99a65076f1dc
-TQID: https://experienceleague.adobe.com/vpwIRQkAaoeenOONjVphxevGEe4B3zQaZVIHVl1UmNc
+TQID: 'https://experienceleague.adobe.com/vpwIRQkAaoeenOONjVphxevGEe4B3zQaZVIHVl1UmNc'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -21,6 +21,9 @@ feature_v2:
     internal-label: Integrations
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
     internal-label: Dashboards
+subfeature_v2:
+  - id: a9364d69-0c51-44bf-8b5f-6d99c04493b8
+    internal-label: Advertising Analytics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

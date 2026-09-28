@@ -9,6 +9,9 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 ---
 
 # Using the [!UICONTROL Usage Log Tracking] for Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}

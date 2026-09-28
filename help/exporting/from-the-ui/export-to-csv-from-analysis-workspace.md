@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 24712.jpg
 kt: 14500
 exl-id: e48dc465-8f52-4663-8753-d9cd8d9c0f1a
-TQID: https://experienceleague.adobe.com/8ohM0ThKiakfv6R8RrUQGhpjMIJS6sKwIJql09J8GE8
+TQID: 'https://experienceleague.adobe.com/8ohM0ThKiakfv6R8RrUQGhpjMIJS6sKwIJql09J8GE8'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,11 +19,15 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
     internal-label: Dashboards
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
     internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
     internal-label: Visualizations
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -10,7 +10,7 @@ role: Admin
 level: Beginner
 last-substantial-update: 2024-05-07T00:00:00.000Z
 exl-id: fa3603fa-ca8a-41d0-bb4a-428bfff5d9f5
-TQID: https://experienceleague.adobe.com/hCu74aMmchzxdaQ353lexdug-kK4iRQrj-Ffrc6sq6A
+TQID: 'https://experienceleague.adobe.com/hCu74aMmchzxdaQ353lexdug-kK4iRQrj-Ffrc6sq6A'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -23,6 +23,11 @@ feature_v2:
     internal-label: Integrations
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
     internal-label: API
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+subfeature_v2:
+  - id: d124af73-4061-4b84-9063-ae2b60f2c1f3
+    internal-label: User management
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

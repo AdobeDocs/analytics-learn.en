@@ -2,13 +2,13 @@
 title: Overview of Classifications in Adobe Analytics
 description: Classifications are a powerful way to add metadata – descriptive attributes – to your products, campaigns, pages, customers, and more. These attributes can help you better understand your marketing and experience efforts by allowing you to group similar elements and break down data to dive deeply into what is and isn't working for you.
 feature: Classifications
-topics: null
+topics: 
 kt: 2350
 role: User
 level: Beginner
 last-substantial-update: 2026-03-13T00:00:00.000Z
 exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
-TQID: https://experienceleague.adobe.com/ZXMD-RZrdhVLtE-6uxaRXqejV1q-BEdnCgd8uXXQcvg
+TQID: 'https://experienceleague.adobe.com/ZXMD-RZrdhVLtE-6uxaRXqejV1q-BEdnCgd8uXXQcvg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,6 +19,8 @@ feature_v2:
     internal-label: Metrics
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
     internal-label: API
+  - id: 00071d55-23eb-5795-a8d9-9d9b784f2791
+    internal-label: Classifications
 subfeature_v2:
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
     internal-label: Marketing Channels

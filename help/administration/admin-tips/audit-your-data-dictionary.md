@@ -11,13 +11,22 @@ last-substantial-update: 2023-12-06T00:00:00.000Z
 jira: KT-14613
 thumbnail: KT-14613.jpeg
 exl-id: 24c1420d-72f5-4aad-ab8c-3fd1dcd67b47
-TQID: https://experienceleague.adobe.com/8-2RK1XV91Fv4-wcToqrNz82GwnnvShSaoToZI7b0g0
+TQID: 'https://experienceleague.adobe.com/8-2RK1XV91Fv4-wcToqrNz82GwnnvShSaoToZI7b0g0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79e
+    internal-label: Data Dictionary
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

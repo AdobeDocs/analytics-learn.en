@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-TQID: https://experienceleague.adobe.com/lhhQafMCoTtO2lT8BW9AUgiJrhtmpde2RsDJVFQx8O8
+TQID: 'https://experienceleague.adobe.com/lhhQafMCoTtO2lT8BW9AUgiJrhtmpde2RsDJVFQx8O8'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -30,6 +30,8 @@ subfeature_v2:
     internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
     internal-label: Panels
+  - id: c18b4ecd-07aa-5eeb-9156-2a6c30b73e84
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

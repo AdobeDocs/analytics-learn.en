@@ -2,7 +2,7 @@
 title: Contribution Analysis in Analysis Workspace
 description: This video walks through Contribution Analysis and its ability to use machine learning to quickly and easily explain the factors that contributed to a trend in your data.
 feature: Anomaly Detection
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -10,13 +10,18 @@ kt: 2337
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
-TQID: https://experienceleague.adobe.com/WakiZckHTcOYTRNqRD2GXNj6jNsXdRaABRXEXBAhQlk
+TQID: 'https://experienceleague.adobe.com/WakiZckHTcOYTRNqRD2GXNj6jNsXdRaABRXEXBAhQlk'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
 feature_v2:
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+subfeature_v2:
+  - id: c67272a6-888e-425e-9e97-a87304637eed
+    internal-label: Anomaly Detection
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

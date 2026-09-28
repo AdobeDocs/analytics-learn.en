@@ -2,7 +2,7 @@
 title: Adding Prior Month and Year Comparisons to Trends
 description: Learn how to apply custom date ranges to create monthly and yearly trend Comparisons for any metric in Analysis Workspace.
 feature: Date Ranges
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -10,7 +10,7 @@ kt: 5031
 role: User
 level: Beginner
 exl-id: ea65bc06-c725-4115-bb62-f8e646bc1164
-TQID: https://experienceleague.adobe.com/HEQJJcYtHJ5OovHZ17fhNkbDYtatoSsZ7x20GtiJYQY
+TQID: 'https://experienceleague.adobe.com/HEQJJcYtHJ5OovHZ17fhNkbDYtatoSsZ7x20GtiJYQY'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -22,6 +22,8 @@ feature_v2:
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
     internal-label: Components
+  - id: 48da7efd-b4e7-5fc2-85c1-7983bf649b9e
+    internal-label: Date Ranges
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

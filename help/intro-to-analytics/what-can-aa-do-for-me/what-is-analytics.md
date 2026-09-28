@@ -5,10 +5,10 @@ feature: Implementation Basics
 role: Developer, Developer, Leader, User
 level: Beginner
 kt: 10454
-thumbnail: null
+thumbnail: 
 last-substantial-update: 2022-10-14T00:00:00.000Z
 exl-id: ba2959f0-b667-40f9-bc59-9364a9d83f19
-TQID: https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg
+TQID: 'https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
@@ -19,6 +19,8 @@ feature_v2:
     internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
     internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c67272a6-888e-425e-9e97-a87304637eed
     internal-label: Anomaly Detection
@@ -26,6 +28,8 @@ subfeature_v2:
     internal-label: Marketing Channels
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
     internal-label: Events
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
